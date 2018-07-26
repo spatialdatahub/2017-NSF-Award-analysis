@@ -4,6 +4,7 @@
 echo "make directories"
 mkdir awards_2017_temp
 mkdir awards_2017
+mkdir award_amounts_files
 
 # first I have to download the zip file and extract it to a folder
 echo "download file"
