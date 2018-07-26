@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: MAKER: Mobile Makerspaces for Children's Hospital Patients: Exploring Impact on Patients' Agency, Creative STEM Problem Solving and Physical Well-being</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alphonse T. DeSena</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Maker movement has grown considerably over the past decade, both in the USA and internationally.  Several varieties of Making have been developed, but there are still many important questions to ask and research to conduct about how different programmatic structures may relate to the potential impact Maker programs can have on individuals and communities.  WestEd, in collaboration with the Lucile Packard Children's Hospital, the University of Michigan C. S. Mott Hospital Children's Hospital, and the Children's Hospital of Orange County, is conducting a year-long exploratory research study that will focus on the out-of-school learning by adolescents and young adults in children's hospitals. This research study will focus on mobile and dedicated Makerspaces in hospitals to support patients' learning.  The application of Makerspaces to hospital environments is a unique opportunity to research a critical need of chronically ill individuals, i.e. to explore how Making can enhance patients' agency, creative STEM learning, and physical well-being. The proposed study is building on the prior work of the principal investigator and will: (1) examine the nature and processes of learning in children's hospitals; (2) revise the current design of the mobile Makerspace and the associated implementation model in response to variations in programmatic contexts across multiple hospital settings and disparate patients' conditions; and (3) investigate and test the effectiveness of the Makerspace approach as it relates to both patients' learning and health outcomes. The study would contribute to longer-term efforts to develop a comprehensive, scalable, and sustainable strategy to determine the programmatic viability of the mobile Makerspace approach across a more varied array of hospital settings.  This project has the potential to have a much broader impact by reaching out to other isolated students beyond the hospital environment, including those in residential treatment facilities for behavioral and emotional problems, as well as those attending programs designed to help youth who have been in trouble with the law get back on track.  This project is funded by the Advancing Informal STEM Learning (AISL) program, which seeks to advance new approaches to, and evidence-based understanding of, the design and development of STEM learning in informal environments. This includes providing multiple pathways for broadening access to and engagement in STEM learning experiences, advancing innovative research on and assessment of STEM learning in informal environments, and developing understandings of deeper learning by participants.&lt;br/&gt;&lt;br/&gt;This project's goals are to contribute to the understanding of how to: (1) describe and measure the education and health impact of mobile Makerspaces on chronically ill patients, and (2) design and sustain implementation models in various hospital settings. Since a children's hospital is a challenging context to support a patient's learning, it is not typically conducive to learning. Patients are constantly interrupted by the demands of the illness, by the strict protocols that need to be adhered to, and by the medical staff who manage their exhaustive treatment regimens. The mobile Makerspace is intended to adjust the environment in deliberate ways, allowing researchers to study and observe what kinds of learning intervention models enable youth and young adults to recapture a sense of their own agency and enable them to see themselves as creators, and makers of things that improve their own and others' lives.  The project will have two strands: one on learning and one on adaptation of the model.  In the learning strand, the study will investigate how engaging with the Makerspace can enhance patients' learning by provoking their sense of curiosity, encouraging them to set up and pursue personal goals via invention, and inspiring them to feel more agentive in taking charge of their learning process i.e., development of affinity for and fluency in the ways of knowing, doing and being (the epistemologies and ontologies) of engineers or scientists.  In the adaptation strand, they will identify challenges and opportunities for implementing Makerspaces and develop an implementation plan that provides a process for introducing Makerspaces into hospital settings.</AbstractNarration>
+<MinAmdLetterDate>07/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723380</AwardID>
+<Investigator>
+<FirstName>Gokul</FirstName>
+<LastName>Krishnan</LastName>
+<EmailAddress>gkrishn@wested.org</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Schneider</LastName>
+<EmailAddress>sschnei@wested.org</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>WestEd</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941071242</ZipCode>
+<PhoneNumber>4156153136</PhoneNumber>
+<StreetAddress>730 Harrison Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7259</Code>
+<Text>AISL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>058Z</Code>
+<Text>EAGER: MAKER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8212</Code>
+<Text>Broaden Particip STEM Resrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

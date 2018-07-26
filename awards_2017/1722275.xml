@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PIC Math: Preparation for Industrial Careers in the Mathematical Sciences</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>1068879</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many business, industry, and government leaders have called for qualified STEM (science, technology, engineering, and mathematics) professionals in the U.S. workforce. In the mathematical sciences, many students are unaware of these opportunities, and faculty could use assistance in preparing students for nonacademic careers. This award supports the nationwide program Preparation for Industrial Careers in Mathematical Sciences (PIC Math), which aims to increase awareness among mathematical sciences faculty and undergraduate students about nonacademic career options, provide research experience working on questions from business, industry, and government, and foster excellent communication skills.&lt;br/&gt;&lt;br/&gt;The PIC Math program will provide faculty with tools and training to help them better prepare students for business, industry, and government (BIG) careers. To accomplish this, the principal investigators will conduct summer training workshops for faculty, help faculty organize a semester-long research-focused course for undergraduate students, organize a competition and summer recognition conference for participating undergraduate students, and secure support from BIG entities. The program includes a strong undergraduate research component since student participation in research has been shown to be effective in improving student success in graduating with a STEM degree. The faculty participants will mentor undergraduate students so they develop skills that will help them to succeed in a career in STEM, including knowledge of career opportunities, experience in working on problems from BIG organizations, and development of effective writing and oral presentation skills.  The Mathematical Association of America's focus on supporting underrepresented groups in the mathematical sciences will be reflected in this program as well.  This award is jointly supported by NSF's Division of Mathematical Sciences and Division of Undergraduate Education.</AbstractNarration>
+<MinAmdLetterDate>07/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722275</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Ensley</LastName>
+<EmailAddress>densley@maa.org</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suzanne</FirstName>
+<LastName>Weekes</LastName>
+<EmailAddress>sweekes@wpi.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Darren</FirstName>
+<LastName>Narayan</LastName>
+<EmailAddress>dansma@rit.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Dorff</LastName>
+<EmailAddress>mdorff@mathematics.byu.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mathematical Association of America</Name>
+<CityName>Washington</CityName>
+<ZipCode>200361358</ZipCode>
+<PhoneNumber>2023875200</PhoneNumber>
+<StreetAddress>1529 18th St NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1260</Code>
+<Text>INFRASTRUCTURE PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Cryogenic Wear of Novel High-Entropy Alloys</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>440869</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexis Lewis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Friction and wear are a leading cause of energy loss, inefficiency, and failure in structural alloys, and a scientific understanding of the mechanisms of wear is critical to the design of high performance materials for energy, manufacturing, and infrastructure applications. A new class of alloys known as High Entropy Alloys has recently been found to possess both high strength and the potential for very high wear resistance. This award supports research to determine the fundamental mechanisms of this high wear resistance in two novel High Entropy Alloy compositions. The new knowledge to be gained from this work has the potential to enable the design of high performance materials able to withstand large forces in extreme service environments, including friction and wear at cryogenic temperatures. Students engaged in the research activities will gain valuable educational experience at the undergraduate and graduate level.&lt;br/&gt;&lt;br/&gt;The aim of this research project is to examine the hypotheses that the high entropy alloys CoCrFeMnNi and carbon-doped Fe40.4Ni11.3Mn34.8Al7.5Cr6, because of their superior yield strengths compared to stainless steel, will show better wear resistance than stainless steel at 77 K, that that the contacting surfaces of the two alloys will be resistant to phase transformations during dry sliding wear at either room temperature or 77 K, and that the worn surfaces will not exhibit ferromagnetism, whereas austenitic stainless steel AISI 316 will exhibit both of these problems. Dry sliding pin-on-disk wear tests will be performed at both 77 K and 293 K at different sliding velocities and in different environments on these two alloys, and compared to the behavior of 316 stainless steel. The relationship between the microstructure, deformation processes (including material transfer), phase transformations, friction and wear behavior will be determined.  Microstructural characterization of the pre- and post-wear specimens will include transmission electron microscopy, X-ray dispersive spectroscopy; computed-assisted profilometry; X-ray diffraction; nanoindentation; cross-sectional scanning electron microscopy, atom probe tomography; and X-ray photoelectron spectroscopy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758924</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>Ian.Baker@Dartmouth.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francis</FirstName>
+<LastName>Kennedy</LastName>
+<EmailAddress>Francis.Kennedy@dartmouth.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037551404</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROJECTS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8092</Code>
+<Text>Materials Eng. &amp; Processing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

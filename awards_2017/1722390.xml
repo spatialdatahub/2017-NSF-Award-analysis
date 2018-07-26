@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Perovskite Solar Cells with Tin Oxide Electron Transport Layers for Optimized Performance and Lifetime</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>223823</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be seen in the strengthening of the renewable energy landscape, in the diversification of our energy sources, and ultimately in the reduction of fossil fuel?s impact on human health and the environment as our society moves toward clean electrification of our energy supply and distribution systems. Due to the low cost of its raw materials, intrinsic scalability and rapid evolution of efficiencies, perovskite solar cells are the ideal candidates to validate thin film photovoltaics as a safe, commercially viable and economically sustainable source of energy. This rapidly emerging technology is compatible with existing silicon photovoltaics and can be combined with them to enhance their efficiencies, or can be used as stand-alone devices that can ultimate meet or exceed the performance of silicon while enabling an intrinsically inexpensive and scalable manufacturing process. Initial studies predict an estimated cost of production of modules lower than $0.28/W after amortization of initial capital investment, which translates into a cost of production ~30% lower than that of current photovoltaic technologies.&lt;br/&gt;&lt;br/&gt;The proposed project will provide a solution to a key degradation mechanism that affects the lifetime performance of perovskite photovoltaics. Degradation is caused by trapping of charges at the interface between the light absorbing perovskite layer and the electron transport layer, typically TiO2, which leads to the breakdown of the perovskite structure through a sequence of chemical reactions. In this project TiO2 will be replaced by SnO2 (either intrinsic or doped) which has an electronic band structure that matches very closely with new high efficiency perovskite compositions. Additionally, SnO2 is considerable less expensive than TiO2, easier to deposit with high quality, i.e. low density of electronic defects,  and it is more environmentally robust in the presence of moisture and oxygen than TiO2. SnO2 also does not photocatalyze degradation pathways of the perovskite layer, which is recently thought to be occurring with TiO2. Preliminary laboratory work using SnO2 as an electron transport layer yielded efficiencies comparable to cells manufactured using TiO2 (~18%), but more importantly, tests showed virtually no degradation after 500 hours of operation. Our goal is to further improve the properties of the perovskite cells (efficiency and stability) while developing a robust, inexpensive deposition process for SnO2.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722390</AwardID>
+<Investigator>
+<FirstName>Augusto</FirstName>
+<LastName>Kunrath</LastName>
+<EmailAddress>akunrath@mvsystemsinc.com</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Shaheen</LastName>
+<EmailAddress>sean.shaheen@colorado.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MVSystems LLC</Name>
+<CityName>Arvada</CityName>
+<ZipCode>800023945</ZipCode>
+<PhoneNumber>303513588</PhoneNumber>
+<StreetAddress>6770 West 52nd Avenue, Unit A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

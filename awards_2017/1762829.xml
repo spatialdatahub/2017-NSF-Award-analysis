@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Switched Adaptive Control Methods for Electrical Stimulation Induced Cycling</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>317330</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irina Dolinskaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will create new control methods to maximize the effectiveness of a commonly prescribed rehabilitation therapy for individuals with neurological conditions (NCs), including stroke, spinal cord injury, and traumatic brain injury. Functional Electrical Stimulation (FES) cycling uses an externally applied sequence of voltages to cause the individual's leg muscles to contract to propel a recumbent cycle. The repetitive, coordinated motions of cycling can help restore limb function. An electric motor is available to augment the person's own muscles, if needed. This project will determine how to switch between different muscle groups and the motor to ensure desired behaviors, despite differences in muscle strength and endurance between individuals. For example, the project will examine methods to enable an FES cycle to adapt to the individual attributes of a new participant within a known time interval. The results will be validated in populations of individuals with NCs to demonstrate clinical efficacy. This project will advance the national health by improving the quality of life for individuals with NCs. In addition to these direct benefits, the project will introduce top undergraduate students to advanced research methods in this critical area of biomechanics.&lt;br/&gt;&lt;br/&gt;This project will result in new methods of control design for uncertain nonlinear hybrid systems, including adaptation strategies and timing conditions. Essential aspects of the project include 1) the formulation of Lyapunov-based theorems to facilitate adaptive control for arbitrary switching between stable subsystems with a non-strict Lyapunov function; 2) the formulation of a dwell-time switching condition to ensure stability when switching between an uncontrolled (unstable) and adaptive controlled subsystems, as well as a data-driven method for learning a strict Lyapunov function from a given non-strict Lyapunov function; 3) the formulation of a switching controller that can bound the system response within a particular region of state space. Generalized theoretical outcomes will include new insights for the nonlinear systems and robotics communities. The experimental results will provide an inroad to longitudinal clinical studies in specific patient populations, with the potential to improve clinical outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762829</AwardID>
+<Investigator>
+<FirstName>Warren</FirstName>
+<LastName>Dixon</LastName>
+<EmailAddress>wdixon@ufl.edu</EmailAddress>
+<StartDate>05/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>How the eye focuses: Basic mechanisms &amp; opportunities for advanced displays</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>537554</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Gottlob</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When the eye is out of focus, the lens inside the eye changes shape to bring the image back into sharp focus. Scientists do not know how the eye knows which direction--in or out--to focus, or how the eye knows when the best possible focus has been achieved. The first aim of this research is to use an innovative adaptive-optics apparatus to manipulate three possible cues that are used to guide the eyes when focusing and to measure the corresponding effects on the eye's focusing response. From the results, the researchers can construct a general model of focusing in human eyes. The second aim of this research is to develop a novel graphics-rendering technique that takes into account the optics of the viewer and creates more realistic, natural images on the retina for virtual and augmented reality (VR and AR) displays. A better understanding of the eye's focusing response and the development of appropriate graphics techniques could have significant practical and clinical benefit. For instance, VR and AR devices, which are rapidly entering the marketplace, are known to cause visual discomfort, decreased performance, and distorted depth percepts. A better understanding of how the eye focuses and determines the three-dimensionality of the viewed scene will help scientists and engineers determine how best to design and evaluate this next generation of displays. The research may also aid the design of clinical procedures such as LASIK eye surgery and accommodating intra-ocular lenses (AOLs). These procedures affect the focusing cues under investigation, so a better understanding of how the cues are used may lead to improvements in these procedures.&lt;br/&gt;&lt;br/&gt;The research investigates how the visual system determines the direction and magnitude of accommodative responses needed to assure a sharply focused image on the retina. There are three cues that the eye could use: 1) Chromatic aberration. Some colors, such as blue, are generally focused in front of the retina while other colors, such as red, are usually focused behind the retina. This can help tell whether focus is too near or too far; 2) Higher-order aberrations. When focus is too near, some properties of the retinal image are different compared to when focus is too far; and 3) Micro-fluctuations. The eye's focus state fluctuates at a rate of about 1 to 2 times per second and this could provide information about whether focus is too near, too far, or just right. Previous research has shown convincingly that chromatic aberration is used. Some research suggests that higher-order aberrations are used, but the evidence is not convincing. No research has tested whether micro-fluctuations are used. The present research considers all three cues to construct a cue-combination model of accommodation.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734677</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Banks</LastName>
+<EmailAddress>martybanks@berkeley.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Love</FirstName>
+<LastName>Gordon</LastName>
+<EmailAddress>g.d.love@durham.ac.uk</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7252</Code>
+<Text>PERCEPTION, ACTION &amp; COGNITION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7252</Code>
+<Text>Perception, Action and Cognition</Text>
+</ProgramReference>
+</Award>
+</rootTag>

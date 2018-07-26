@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: A Python Program Analysis Infrastructure to Facilitate Better Data Processing</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>147000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Python is the third most popular programming language, after C and Java,  and the most widely used language in Machine Learning and Data Science. Applications in Python are prone to human errors as much as those in other languages, or maybe more so due to the dynamic nature of Python. Therefore, tools to analyze, test, verify, and optimize Python applications are in a pressing need. Such tools are lagging or non-existent for Python. The root cause is the lack of infrastructure to support building practical and effective tools, which entails addressing the dynamic features of Python, such as dynamic typing, dynamic code loading/execution, and pervasive invocations to external library functions implemented in other languages.&lt;br/&gt; &lt;br/&gt;This project aims to explore the feasibility of building a Python program analysis infrastructure by developing two sample tools that rely upon a common set of infrastructural capabilities including the instrumentation, static analysis and symbolic analysis capabilities. The two sample tools are a data provenance tracking tool for machine learning applications and a bug finding tool to detect data format inconsistencies, which are the most dominant type of bugs in data processing. The provenance tool will demonstrate the importance of static analysis and program instrumentation, and the bug finding tool will demonstrate the importance of symbolic analysis. Both tools will illustrate the great benefits that can be brought to data scientists by advanced tools. In addition, they will illustrate that the aforementioned capabilities cannot be simply ported from existing infrastructures for other languages such as C and Java. The infrastructure will meet the pressing need of comprehensive tool building support for Python. A lot of cutting-edge synergistic research will be enabled across the CISE research community to serve data application programmers, data scientists and even end users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748764</AwardID>
+<Investigator>
+<FirstName>Xiangyu</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>xyzhang@cs.purdue.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6892</Code>
+<Text>CI REUSE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+</Award>
+</rootTag>

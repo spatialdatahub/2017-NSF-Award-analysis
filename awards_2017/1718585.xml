@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Mobile Device Based Tracking: Technology &amp; Applications</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>499998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As the popularity of mobile devices grows exponentially, it is important to explore how to enable new applications on top of these mobile devices. This project aims to develop new applications on top of mobile devices that enable them to serve as universal controllers, imaging devices, and indoor mapping tools. A unique feature of this work is that it will enable these capabilities on resource-constrained smartphones by only using existing hardware and supporting efficient computation in real time.&lt;br/&gt;&lt;br/&gt;The proposed research has four key areas of technical contributions. First, it develops accurate motion tracking on a mobile phone. It advance state of the art in motion tracking by enhancing its accuracy and robustness in the presence of multipath propagation and interference. Second, it applies its tracking to controlling a drone. Based on the estimated distance and velocity obtained from its tracking scheme, it develops an effective control algorithm to derive the control commands so that a drone can accurately follow a user with a smartphone. Next, it applies its tracking to constructing images using a mobile phone by swiping an object across a mobile device, which is continuously transmitting and receiving signals. It proposes several techniques to enhance the image quality in the presence of trajectory errors, self-interference, and strong frequency heterogeneity. Fourth, it develops a smartphone-based indoor space mapping system that lets a user quickly map an indoor space by simply walking around while holding a phone in his/her hand. The algorithms, techniques, and software resulting from this research will deepen our understanding of mobile networks and provide significant practical values by enabling new applications. The research results will be incorporated into networking courses and also introduced to the community through a University of Texas at Austin outreach program.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718585</AwardID>
+<Investigator>
+<FirstName>Lili</FirstName>
+<LastName>Qiu</LastName>
+<EmailAddress>lili@cs.utexas.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

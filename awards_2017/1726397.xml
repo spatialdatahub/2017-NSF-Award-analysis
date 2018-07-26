@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of the First 800 MHz NMR Spectrometer with a Cryogenically Cooled Probe in the State of Oklahoma for Interdisciplinary Research and Training</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>2288600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Major Research Instrumentation (MRI) Program, an award has been made to Oklahoma State University for the acquisition of a 800 MHz NMR instrument with a cryoprobe.  This instrument will be housed in the Oklahoma Statewide Shared NMR Facility to ensure that it is accessible to researchers in Oklahoma and the surrounding region. The new spectrometer will support the training of the next generation of researchers in modern state-of-the-art NMR techniques. Oklahoma State University is aggressively pursing hands-on undergraduate research training through courses, and independent research. In addition, programs in the Chemistry Department such as "Research Experience for Undergraduate Students (REU)" supported by National Science Foundation allows recruitment of undergraduate students across the country. Minority undergraduate students are recruited for research through various undergraduate programs such as the Oklahoma Louis Stokes Alliance for Minority Participation (OK-LSAMP). &lt;br/&gt;&lt;br/&gt;Nuclear Magnetic Resonance (NMR) spectroscopy is one of the most powerful scientific techniques that is available to scientist for the elucidation of the structure of important molecules. Projects supported by this new instrument span the range from Chemical Biology to protein structure and function, protein dynamics, RNA/DNA structure, complex carbohydrate structure, design of novel polymer, and small complex molecules characterization during the process of drug design. The new NMR is an essential resource for researchers in Chemical Biology, Structural Biology, Biochemistry, Molecular Biology, Microbiology, and Polymer Science across Oklahoma and the surrounding region. The results of these research and teaching efforts will be disseminated through active participation of students and faculty at scientific conferences, symposia and workshops, peer-reviewed publications and the deposition of atomic coordinates of biomolecules to the Protein Data Bank (PDB).</AbstractNarration>
+<MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726397</AwardID>
+<Investigator>
+<FirstName>Smita</FirstName>
+<LastName>Mohanty</LastName>
+<EmailAddress>smita.mohanty@okstate.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jimmie</FirstName>
+<LastName>Weaver</LastName>
+<EmailAddress>jimmie.weaver@okstate.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wouter</FirstName>
+<LastName>Hoff</LastName>
+<EmailAddress>wouter.hoff@okstate.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Mort</LastName>
+<EmailAddress>amort@biochem.okstate.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Schroeder</LastName>
+<EmailAddress>susan.schroeder@ou.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oklahoma State University</Name>
+<CityName>Stillwater</CityName>
+<ZipCode>740781011</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress>101 WHITEHURST HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Amplifying Intelligence in Mobile Networked Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>93552</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The mobile Internet revolution is ongoing, as the technology evolves from the fourth generation (4G) to 5G and beyond, with a need to incorporate a substantially higher degree of intelligence than is present in networks today. This need is driven by the observation that current 4G systems do not provide sufficient information on network behaviors. Consequently, it poses challenges to optimize performance, diagnose failures, and dis-incentivizes deployment of new applications such as virtual and augmented realities (AR/VR), autonomous vehicles, massive Internet of things. This project seeks to enhance intelligence to the 4G/5G signaling subsystem, offering critical network control utilities, such as radio resource control and mobility management. These new designs will lead to improvements in performance and reliability to the mobile Internet infrastructure for our society. The investigator will interact closely with mobile network companies for possible technology transfer. The project will also seek to influence the upcoming 5G and beyond 5G-standardization. It will recruit and train a new generation of engineers and students, including those from groups under-represented in this area.&lt;br/&gt;&lt;br/&gt;This project explores a novel approach of Amplifying Intelligence in Mobile networked systems (called AIM). AIM will tackle two challenges: (1) lack of knowledge at the mobile clients: The mobile operating system and application programs lack information on the underlying "black-box" network operations; (2) High complexity and lack of verification in the infrastructure: The infrastructure suffers from complex designs and operations without proper verification. AIM is a multi-disciplinary solution that applies machine learning, data science, distributed systems and computing theory to mobile networking. Through its data-driven and verifiable design, AIM offers a viable, new solution suite in four concrete technical thrusts: (T1) protocol and function analytics for data-driven clients; (T2) provable and simplified control-plane signaling for data access; (T3) enhanced error-handling design with new investigative capability of tracing; and (T4) mobile VR for data-plane signaling intelligence. This project complements the ongoing efforts on wireless access (5G New Radio) and architectural innovations (e.g., network slicing and Network Function Virtualization).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750953</AwardID>
+<Investigator>
+<FirstName>Chunyi</FirstName>
+<LastName>Peng</LastName>
+<EmailAddress>chunyi@purdue.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

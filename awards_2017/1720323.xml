@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Algorithms and Modeling for Chemotactic Deformable Particles in Non-Newtonian, Multiphase, Non-Isothermal, Turbulent Flows</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>49285</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland M. Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project concerns computational fluid dynamics in the field of fluid-structure interactions. The goal of the research is to develop a new multi-scale computationally-efficient and robust numerical model to simulate particles that move in response to chemical stimuli in their environment. The work aims to create new understanding of the hydrodynamic interactions of such particles with the bulk fluid, which differs from particle-fluid hydrodynamics for non-chemotactic particles, whose motility is driven solely by the bulk fluid flow. The project will recruit a diverse group of talented undergraduate students and encourage them to pursue graduate studies, focusing on challenging research problems in a well-established interdisciplinary environment. The project will introduce students to the intellectual excitement of computational and mathematical research in fluid dynamics, thereby encouraging them to think creatively and independently about potential applications and increasing their awareness of pathways to graduate schools and opportunities in research and development in industry employment.&lt;br/&gt;&lt;br/&gt;This project explores a new multi-scale computationally-efficient and robust numerical model to simulate two- and three-dimensional motility of deformable chemotactic particles in complex fluids. This addresses two fundamental issues that arise in the mathematical and computational treatment of particle motility in fluids: (i) self-autonomous motion of deformable chemotactic particles in response to spatially- and temporally-varying chemoattractant gradients, and (ii) particle-fluid hydrodynamics in non-Newtonian fluids and multiphase flows in laminar to turbulent flow regimes. The multi-scale model couples intracellular signaling pathways with particle-fluid interactions using the RapidCell model, the method of Regularized Stokeslets, and the Immersed Boundary method. This is well-suited for sophisticated applications, including, for example, bacterial chemotaxis promoting biofilm formation and swarm robotic odor localization. The project includes development of a novel, multi-scale computational fluid dynamics package suitable for theoretical analyses and diverse multi-disciplinary applications. It will serve as a highly informative teaching tool for graduate and undergraduate level classes.</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720323</AwardID>
+<Investigator>
+<FirstName>Hoa</FirstName>
+<LastName>Nguyen</LastName>
+<EmailAddress>hnguyen5@trinity.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hakan</FirstName>
+<LastName>Basagaoglu</LastName>
+<EmailAddress>hakan.basagaoglu@swri.org</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trinity University</Name>
+<CityName>San Antonio</CityName>
+<ZipCode>782127200</ZipCode>
+<PhoneNumber>2109997246</PhoneNumber>
+<StreetAddress>One Trinity Place</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

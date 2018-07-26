@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Improving Web User Experience Using Eye Gaze</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>495305</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Web page access is one of the most popular applications on the global Internet, and is a key element of the digital engine that drives the economy.   While the technologies that support Web applications are well-developed and ubiquitous, mechanisms for high quality user experience have not been built into their development. (As one example, almost every user has experienced delays in accessing content while ads download.)  Existing techniques for Web optimization focus on ensuring fast downloads, but research has shown that this has poor correlation with good user experience.  Further, download speeds are limited by network conditions; network congestion or low access network bandwidth can make them painfully slow. This project aims to address this problem by developing techniques for Web page optimization that significantly improve user experience by downloading the content of value to the user first.  &lt;br/&gt;&lt;br/&gt;This project's primary goal is to ensure that objects on a Web page are loaded in the order in which the user consumes them, thus significantly improving user experience. The key idea is to use user's eye gaze as a signal for user's consumption of Web objects (or alternately the user interest). The project will develop novel techniques to use gaze signal to prioritize Web page loads, using commercial eye-tracking technology, and leveraging the researchers' experience in eye-tracking in other applications. The fundamental contributions of this project are to (1) Develop a utility-driven optimization framework to dynamically reprioritize Web page loads based on the user eye gaze, object sizes, and network conditions; (2) Remove the human-in-the-loop by building high-level saliency models of eye gaze based on the characteristics of the Web page. The gaze tracking will only be used infrequently, to seed and update the model.  (3) Design a large scale crowdsourced technique to track user gaze to drive the optimization and modeling; and (4) Evaluate the optimization and modeling specifically in terms of user experience by conducting large scale, crowdsourced, user evaluation.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718014</AwardID>
+<Investigator>
+<FirstName>Samir</FirstName>
+<LastName>Das</LastName>
+<EmailAddress>samir@cs.stonybrook.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Zelinsky</LastName>
+<EmailAddress>gregory.zelinsky@stonybrook.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dimitrios</FirstName>
+<LastName>Samaras</LastName>
+<EmailAddress>samaras@cs.sunysb.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aruna</FirstName>
+<LastName>Balasubramanian</LastName>
+<EmailAddress>arunab@cs.stonybrook.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

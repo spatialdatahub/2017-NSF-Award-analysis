@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR-TT: Design and Development of High-performance Miniature Radiation Detectors using Ultrasensitive Graphene and Carbon Nanotube ion Sensors</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project focuses on translating a novel nanotechnology-based charged-particle (ion) detection method for a range of radioactivity and nuclear radiation sensing and monitoring applications. The project will result in prototype detectors of radiation that is commonly associated with nuclear and radioactive materials, such as gamma and X-rays, as well as alpha and beta particles.  The prototype detectors will be ultrasensitive with significantly reduced size, weight, cost and power-consumption compared to current technologies that involve Geiger-based counters, scintillation detectors, and high-purity germanium (HPGe) detectors. These new detectors have the potential to enable disruptive advances in early/rapid nuclear threat detection for homeland security, safety applications such as border security and control, city-scale networkable monitoring, domestic nuclear power plant and medical facilities monitoring, and remote sensing via unmanned vehicles for military operations. &lt;br/&gt;&lt;br/&gt;The prototype detectors will utilize a novel low-power high-amplification sensing mechanism that has been recently discovered to be a property of nanomaterials such as carbon nanotubes and graphene. This will enable high-sensitivity detectors with reduced size, cost and power consumption compared to conventional radiation detectors that utilize high ionization volumes, high-voltage avalanche breakdown, and/or expensive and difficult-to-miniaturize mechanisms to obtain highly sensitive detection. This will be achieved by optimizing the design of a radiation detector that houses these sensors in a miniature chamber that senses any nuclear radiation passing through it. The shape, size and architecture of the housing chamber, along with the type of materials will be optimized for maximum response. Along with this, detectors will be developed for various types of radiation so that they are capable of responding to diverse radioactive or nuclear events. The aim will be to develop detectors that are capable of rapidly detecting ultra-low signals (at a cost and degree of portability currently not achievable by conventional techniques) for early/rapid threat detection.&lt;br/&gt;&lt;br/&gt;The project will engage graduate students to design, fabricate, test, and optimize these detectors, which will train them in advanced nanomanufacturing skills, beneficial for their future career endeavors. In addition, the students will be engaged in activities to understand the market need and scale-up manufacturing constraints. The successful development and demonstration of these detectors will be an important step towards commercialization, possibly through a start-up venture. The long-term aim of this project will be to address low-cost networkable devices capable of serving from building-scale to city-scale monitoring, and to provide real-time data for early action that can significantly reduce the impact of a nuclear or radioactive event.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701043</AwardID>
+<Investigator>
+<FirstName>Yung Joon</FirstName>
+<LastName>Jung</LastName>
+<EmailAddress>jungy@coe.neu.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Swastik</FirstName>
+<LastName>Kar</LastName>
+<EmailAddress>s.kar@northeastern.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Japan-US Seminar on Two-Phase Flow Dynamics; Hokkaido, Japan</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Muller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>CBET - 1705474&lt;br/&gt;PI: Tryggvason, Gretar &lt;br/&gt;&lt;br/&gt;This award will support participation of US scientists and engineers at the Japan-US Seminar on Two-Phase Flow Dynamics, which will be held June 22-24, 2017 at Hokkaido University, Sapporo, Hokkaido, Japan.  This is the 11th seminar in a series that started in 1979.  The goal of the seminar is to enhance progress in understanding two-phase flow dynamics and to accelerate the development of improved measurement techniques and predictive computational models.  Multiphase flows are found in many industrial processes, including boiling heat transfer in conventional boilers and nuclear reactors, atomization of liquid fuels, flow through porous media, filtration and separations, and certain kinds of catalytic reactors.  Multiphase flows are found in naturally-occurring processes, including heat and mass transfer at air-ocean interfaces, cloud formation and precipitation, sandstorms, avalanches, and coastal sediment transport.  &lt;br/&gt;&lt;br/&gt;The goals of the symposium are to disseminate recent research findings, establish new collaborations, and improve the training of students in multiphase flow phenomena. The meeting will consist of a series of keynote lectures and research presentations. Sessions topics will focus on evaporating flows, microscale two-phase flows, bubble swarms, numerical challenges, gas-liquid interfacial dynamics, bubbly shear flows, advances in measurement techniques, flow visualization, high-speed interfacial flows.  The seminar will also include laboratory tours and reports on two-phase flow research activities in the US, Japan and EU. Support will be provided to emerging scientists and junior faculty members with the goal of engaging young researchers in the science of multiphase flows.</AbstractNarration>
+<MinAmdLetterDate>07/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1705474</AwardID>
+<Investigator>
+<FirstName>Gretar</FirstName>
+<LastName>Tryggvason</LastName>
+<EmailAddress>gtryggv1@jhu.edu</EmailAddress>
+<StartDate>07/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

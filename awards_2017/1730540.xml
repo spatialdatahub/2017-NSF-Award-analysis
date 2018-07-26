@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CI-P:   Advanced National Wireless Ecosystem Testbed</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wireless communication has become ubiquitous over the last decade. This project's intent is to help create a new kind of scientific laboratory that will allow researchers to study a wide range of future wireless communications and networking problems. The laboratory is designed to let anyone with a new idea try it out quickly, see how well it works, and share it with others at an early stage, before moving on to much more expensive, complicated, and time-consuming later-stage experiments. Working with others across the wireless research and development communities, the project team aims to develop detailed plans for the laboratory, share those plans with potential users, collect feedback, and refine a larger community infrastructure proposal for building the laboratory. &lt;br/&gt;&lt;br/&gt;This project will take four key steps towards developing a full plan for the laboratory: (a) definition and specification of key hardware and software modules; (b) development of practices and processes to facilitate required FCC licensing; (c) identification and qualification of initial deployment sites; (d) community engagement and outreach activities. For each step, the team will produce relevant outputs, to include reports, design documents, information packets, and similar artifacts.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730540</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Wroclawski</LastName>
+<EmailAddress>jtw@isi.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heidi L.</FirstName>
+<LastName>Morgan</LastName>
+<EmailAddress>hlmorgan@isi.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

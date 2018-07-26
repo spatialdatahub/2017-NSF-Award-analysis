@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Medium: Collaborative Research: Understanding and Editing Visual Sentiment</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>485688</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project develops computer vision and pattern recognition technologies for visual sentiment understanding and visual sentiment editing. The interdisciplinary research team investigates the problem of understanding how images and video convey emotion. The project develops methods to infer, edit, and synthesize visual sentimental content in image/videos, in addition to their semantic contents. The project applies developed technologies to reduce violence from multimedia materials for children, and negative psychological impacts from social media for posttraumatic stress disorder (PTSD) patients. The project integrates research and education by creating new interdisciplinary courses and training graduate students.  The project builds connection with the veteran academic resource center on the campus to help PTSD patients to recover from mental health problems. The research team also shares collected data with research communities.&lt;br/&gt;&lt;br/&gt;This research develops visual sentiment understanding algorithms through joint extraction of sentiments and semantics, in order to advance the understanding of how semantic entities substantiate and carry sentiments at a fine-grained object or pixel level. Computer vision algorithms and psychometric assessment techniques are combined to automatically analyze visual and recognize sentiments and emotions from multimedia materials and social media contents posted and shared by veterans. The research also explores methods of visual sentiment editing to reduce violence from multimedia materials and social media contents. The research can help (1) to protect children from accessing violent multimedia materials, and (2) to provide appropriate social media contents for applications of automatically detecting violent contents from veteran-shared multimedia.</AbstractNarration>
+<MinAmdLetterDate>06/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704309</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>weiglobe@gmail.com</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>GuoJun</FirstName>
+<LastName>Qi</LastName>
+<EmailAddress>guojunq@gmail.com</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

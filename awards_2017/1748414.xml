@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  COLLABORATIVE RESEARCH:  Reversible Solid Electrolyte Interface (SEI) Layers for Advanced Li-ion Batteries and Beyond</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>70000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Although lithium ion batteries have been commercialized for consumer electronics, they still fall far behind the requirements needed for batteries used in long-range electric vehicles and large-scale renewable energy storage. There is a need to improve the energy densities of lithium ion batteries and to research "beyond lithium ion" battery technologies that employ high-capacity but low-cost materials such as silicon, oxygen or sulfur electrodes. Almost all battery chemistries in electrochemical energy storage cells operate beyond the stability limits of the electrolytes, substance that produce an electrically conducting solution when dissolved. These battery cells operate in many cases because electrode material-electrolyte reactions result in the formation of a protective material layer on the electrode material, called a solid-electrolyte interface layer. The mechanical and chemical reactivity properties of this protective layer dictate the energy, power and the long-term cycling stability of the battery system; however, fundamental knowledge on the formation of this protective layer is lacking. This research project is investigating a new solid-electrolyte interface layer formation mechanism that will enable design solutions for many of the performance limitations of batteries. The research outcomes of this project are being integrated into energy-themed educational activities for students to study science, technology, engineering and mathematics (STEM) subjects. &lt;br/&gt;&lt;br/&gt;This collaborative research project between research groups at the University and Arkansas and the University of Michigan seeks a fundamentally new solid-electrolyte interface formation mechanism by using silicon/electrolyte interfaces as a model system. Intensive electrochemical characterizations are being conducted by testing silicon film electrodes in various concentrated electrolytes to understand the coordination environments of lithium cations in the bulk electrolytes and its implications on the solid-electrolyte interface layer compositions. In situ atomic force microscopy is being employed to probe the formation and evolution of solid-electrolyte interface layers on silicon surfaces in a cell. Theoretical simulations are being combined with material characterizations to advance the fundamental understanding of solid-electrolyte interface layers derived from concentrated electrolytes. The research project is designed to test a new theory to control the interfacial properties between electrodes and electrolyte, one that is broadly applicable to battery technologies and many other energy storage and conversion systems.</AbstractNarration>
+<MinAmdLetterDate>07/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748414</AwardID>
+<Investigator>
+<FirstName>Fei</FirstName>
+<LastName>Gao</LastName>
+<EmailAddress>gaofeium@umich.edu</EmailAddress>
+<StartDate>07/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Improving MAGagnetogram (MAG4) Forecasting of Severe Space Weather Drivers by Measuring Magnetic Nonpotentiality of Active Regions Using HMI/SDO Vector Magnetograms</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardAmount>216466</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020203</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ilia I. Roussev</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Improving the forecasts of the drivers of space weather has broad social impact. Given the continuously increasing dependency of humanity on satellites, which can be endangered by severe space weather caused by solar flares and CMEs, this research is of high importance and priority and is urgent. Additional broader impact includes the improved accuracy in the alert for geomagnetic storms causing damages to e.g., power grids and transformers, satellites and humans in space.&lt;br/&gt;&lt;br/&gt;This three year project is focused on identifying the magnetic parameters that drive solar explosive events. Solar flares and coronal mass ejections (CMEs) are the primary drivers of space weather. Forecasts of their probability of occurrence and relative magnitude, are critical for the protection of national assets in the geospace environment. Both flares and CMEs are the results of explosive release of energy stored in the coronal magnetic field. The free magnetic energy released is energy in excess of the potential magnetic field configuration of the source active region (AR). The nonpotentiality of ARs can be inferred from various twist parameters, free-energy proxies and size parameters, most of which require vector magnetograms (all three components of magnetic field) for their measurement. The team will use HMI vector magnetograms to measure various nonpotentiality parameters of source ARs and determine the parameter or combination of them for best forecasting using a method they have previously developed. The integration of SDO/HMI vector magnetograms is an improvement on the forecasting capability of MAG4 which currently uses SOHO/MDI. Additionally, the project will add active region CME histories into the existing solar flare database and try to find out relationship between the CME speed/width and the magnetic parameters.</AbstractNarration>
+<MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748910</AwardID>
+<Investigator>
+<FirstName>Sanjiv</FirstName>
+<LastName>Tiwari</LastName>
+<EmailAddress>tiwari@baeri.org</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bay Area Environmental Research Institute</Name>
+<CityName>Petaluma</CityName>
+<ZipCode>949525159</ZipCode>
+<PhoneNumber>7079389387</PhoneNumber>
+<StreetAddress>625 2nd St Ste 209</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1523</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

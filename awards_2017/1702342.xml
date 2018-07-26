@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Digitization PEN: Digitizing the Fossil Insects of LA: Critical Additions to the Fossil Insect Collaborative</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>157544</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The primary goal of this project is to digitize five fossil insect collections from the United States, Germany, and Canada. These efforts will make nearly 27,000 new specimen records digitally available online. Collectively, these data will complement the previously awarded Fossil Insect Collaborative (FIC) Digitization (FIC) TCN by filling gaps in the existing dataset, and make these otherwise difficult to access collections significantly more visible to the interested public and research community. This information will facilitate current research aimed at better understanding the globally most diverse group of animals in the context of past, present, and future environments. Results of this project will be communicated to the public through museum events and K-12 classroom programming, ongoing partnership with local avocational paleontologists, and other educational resources developed by the FIC-TCN, including iDigPaleo.&lt;br/&gt;&lt;br/&gt;The fossil insect collections to be digitized through this award include compression fossils from the Oligocene Rott Formation ("Statz Collection") of Germany, silicified insects from the Miocene Barstow Formation of California, asphalt-preserved insects from the Pleistocene deposits of Rancho La Brea and McKittrick in California, and lignite-associated insects of Lynn Creek, British Columbia. Notably, these collections are largely historic in nature and include 1,819 type specimens that have been inaccessible for taxonomic re-evaluation by the international research community for decades. Further, the Rott fauna represents an important calibration point in understanding fossil insect diversity trends with respect to global climate transitions (the primary research theme of the FIC-TCN), and the Barstow fauna is taphonomically distinct, as it includes three-dimensionally silicified insect body fossils. Digitization will involve cataloging 10,906 specimens and selectively imaging 6,207 specimens, as well as making available an additional 15,684 specimen records from the La Brea Tar Pits and Museum in this data aggregation, all of which will be made available online via the national resource for Advancing Digitization of Biodiversity Collections (http://www.idigbio.com).</AbstractNarration>
+<MinAmdLetterDate>08/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702342</AwardID>
+<Investigator>
+<FirstName>Lindsay</FirstName>
+<LastName>Walker</LastName>
+<EmailAddress>lwalker@nhm.org</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jann</FirstName>
+<LastName>Vendetti</LastName>
+<EmailAddress>JVendett@nhm.org</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Austin</FirstName>
+<LastName>Hendy</LastName>
+<EmailAddress>ahendy@nhm.org</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Los Angeles County Museum of Natural History Foundation</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900074057</ZipCode>
+<PhoneNumber>2137443301</PhoneNumber>
+<StreetAddress>900 Exposition Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6895</Code>
+<Text>Digitization</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

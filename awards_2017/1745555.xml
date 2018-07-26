@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Probiotic with a Unique Mode of Action and Delivery Method</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project involves a novel probiotic, which potentially treats gut problems including irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), weight gain, and small intestinal bacterial overgrowth (SIBO).  Many key mechanisms of the human body are in part control by the microbes that live in our gut. The way that we currently view, diagnose, and treat many diseases is fundamentally changing with this knowledge. While dozens of diseases are now intrinsically tied with dysbiosis in the gut, of which 1000s of species of microbes reside, we currently have few probiotics as treatment despite the fact that the number of human clinical trials on probiotics in the past 10 years has increased 20-fold. When developed, this technology can potentially be applied to supplements and drugs to help counter noncompliance, and therefore have a significant commercial impact in other fields as well. This is, in addition, to the broad reaching impact on helping individuals with gut problems, which is estimated to be over 50 million. This product also provides an irritant free alternative for those desiring a regular probiotic.&lt;br/&gt;&lt;br/&gt;This I-Corps project surrounds the bacteria, Paenibacillus 79-R4 (Pb 79-R4), which has been isolated and characterized.  In vitro trials show very encouraging results that indicated that this strain drastically reduces enteric methane and hydrogen production, which could be transferred to a commercial product.  Pb 79-R4 eliminates the gases that are positively correlated with gut problems in humans- in animal models the supplemental-Pb strain decreased methane-producing activity by over 50%. This technology will also include a prebiotic and a novel beverage-based interactive mode of delivery, which will work in synergy with the bacteria and lets the user know it is working allowing the effects of the probiotic to work faster and decrease the abandonment period in first-time users. In addition, results from in vitro simulations have resulted in significant reductions in certain pathogens.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745555</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Kubena</LastName>
+<EmailAddress>k-kubena@tamu.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate>05/21/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Hinton</LastName>
+<EmailAddress>chinton@mays.tamu.edu</EmailAddress>
+<StartDate>05/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

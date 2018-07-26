@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: CDS&amp;E:  Mining Physically Predictive Cosmological Simulations</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>289762</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>By running detailed computer simulations, the investigators are working to understand how galaxies form.  Because of the complexity of this problem, large computer simulations are needed to follow all the key physical processes.  These investigators are developing a new approach for efficient modeling.  The new methods have proved extremely successful in reproducing many of the observed properties of galaxies.  The investigators will further improve their simulations to study a much wider range of galaxy types.  They will push the frontiers of galaxy formation modeling on multiple fronts by including more physical processes and improving numerical accuracy.  The new simulations will be used to study different sized galaxies from dwarf galaxies to galaxy halos ten times more massive than our Milky Way galaxy.  The investigators will train students in computer modeling techniques that have a wide range of scientific and industrial applications.  They will also produce film-quality animations produced from the new simulations, which will be the basis for education and outreach initiatives, including several planetariums.  The new modules and optimizations for the simulation code will be publicly released, which will benefit not only astrophysics but also other disciplines, such as engineering.&lt;br/&gt;&lt;br/&gt;The investigators lead the "Feedback In Realistic Environments" (FIRE) project and create sets of cosmological simulations of galaxy formation that explicitly model stellar feedback on the scale of individual star-forming regions.  In these simulations feedback will be directly anchored to stellar evolution models, significantly improving their predictive power by reducing the reliance on adjustable parameters.  The FIRE simulations have proven successful in matching stellar masses, galactic winds, and the dark matter distributions of dwarf galaxies.  To reach larger audiences, the investigators plan to create new musical "sonifications" of the FIRE simulations.  The sonifications will be performed at an annual concert and highlight time-dependent phenomena.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715216</AwardID>
+<Investigator>
+<FirstName>Claude-Andre</FirstName>
+<LastName>Faucher-Giguere</LastName>
+<EmailAddress>cgiguere@northwestern.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+</Award>
+</rootTag>

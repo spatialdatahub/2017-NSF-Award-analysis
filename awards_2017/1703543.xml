@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Study on Physics and Chemistry of Distributed Combustion for Reducing Pollutants</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>280000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Song-Charng Kong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will provide understanding of new ways to burn low-carbon fuels (such as natural gas) and zero-carbon fuels (such as hydrogen) in a new combustion mode called distributed (or flameless) combustion.  Previous experiments have shown that flameless combustion produces ultra-low levels of pollutants (nitric oxide and carbon monoxide) and is ideal for proposed low-carbon fuels.  However, previous work was trial-and-error; the reasons for the improvement, the practical limitations and the underlying physics were not measured.  This research will employ the unique laser sheet kilohertz imaging diagnostics of the PI to take high speed movies of the chemical reaction layers and local gas temperatures within this new mode of flameless combustion for the first time.  The resulting experimental data base should provide the understanding needed to optimize the operating conditions and minimize pollutants. The data base will be disseminated to allow others to develop design models based on advanced computer codes. &lt;br/&gt;&lt;br/&gt;A specially-designed flameless combustor experiment will be operated at large values of preheat gas temperature, internal gas recirculation, turbulence levels, gas pressure and air staging.  For the first time, the chemistry that occurs within this mode of combustion will be measured. Fuels will be selected that promote auto ignition (dimethyl ether, propane and hydrogen-CO synfuel) in addition to natural gas. The HO2 radical plays an important role in the chemistry, as well as formaldehyde and hydroxyl. Concentrations of these species will be measured simultaneously for the first time using the new fluorescence methods of the PI.  Of particular interest is seeing how turbulent eddies enter into the chemical reaction layers and broaden them, which reduces the temperature gradients and provides a more uniform combustion with less nitric oxide formation.  Gas velocity field imaging at kilohertz framing rates will be conducted provide high speed movies and information about the fundamental physical processes. The boundaries between this new regime of flameless combustion and conventional flames will be recorded. The relationship between the time scales of flameless and auto-ignition chemistry will be measured.  This research is being conducted within a highly turbulent and realistic engine environment and should provide a bridge between these realistic, turbulent conditions and several NSF-funded chemistry studies of auto ignition that are being conducted in bench top chemistry labs.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703543</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Driscoll</LastName>
+<EmailAddress>jamesfd@umich.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1407</Code>
+<Text>Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+</Award>
+</rootTag>

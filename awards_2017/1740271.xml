@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>E2CDA: Type I: Collaborative Research: Interconnects Beyond Cu</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>26667</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitris Pavlidis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When electrons move through wires, they are scattered by vibrating atoms and wire imperfections. This scattering is the source of the electrical resistance and results in power consumption. For the wires used in modern electronics (interconnects) this is already a bottleneck to computing performance and is worsening as the wires (along with the transistors) are made smaller.  The aim of this program is to make the wires so small (&lt;&lt; 10-nm in width and height) and so structurally perfect that quantum size effects arise and the electrons can travel in a ballistic fashion without scattering. This can result in orders of magnitude improvements in resistance and computing energy efficiency and enable a revolution in electronics. In addition to the societal benefit of improved computing, the program will support education and research at the undergraduate, graduate and post-doctoral levels at four institutions, Columbia University, Massachusetts Institute of Technology, Rensselaer Polytechnic Institute and the University of Central Florida. The outreach effort will include: (1) The Harlem Schools Partnership (HSP) for STEM education at CU, (2) MIT's Materials Day for industry outreach, (3) the Discovery Engineering program for high-school girls at RPI, and (4) the techCAMP "Future of Information" at UCF.&lt;br/&gt;&lt;br/&gt;To achieve its goal of ballistic conduction in metallic nanowires, the project will include the preparation and atomic scale characterization of single crystal metallic films and lines as well as experimental measurement of electron transport behavior, with ruthenium as the metal of choice for the initial studies. The stability of the metallic lines will also be investigated, since this is critical to the reliability of interconnects in computing systems. A theoretical and computational physics modeling effort will aim to provide a quantitative understanding of ballistic transport in the size and defect limits, and serve to identify preferred metals for ballistic conductance of interconnects for future efforts. The computational models and codes developed will be made available on the Nanohub (https://nanohub.org/). The project will additionally provide a proof-of-principle demonstration of how the proposed metallic conductors can be fabricated for technology implementation by the semiconductor industry.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740271</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Gall</LastName>
+<EmailAddress>galld@rpi.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rensselaer Polytechnic Institute</Name>
+<CityName>Troy</CityName>
+<ZipCode>121803522</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress>110 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>015Y</Code>
+<Text>Energy Efficient Computing: fr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

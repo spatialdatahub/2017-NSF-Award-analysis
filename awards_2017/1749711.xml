@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: System Techniques to Improve Fuzzing Performance</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>93615</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Fuzzing is an automatic software-testing technique that repeatedly injects a randomly mutated input to a target program. Proven to be effective in finding bugs in complex, real-world programs, fuzzing has become a core technique for finding security vulnerabilities. There are now examples of major companies building large-scale, distributed fuzzing infrastructure, which runs on hundreds of virtual machines that relentlessly process over millions of test cases per day. The performance of fuzzers is critical, as a faster, smarter fuzzer will find more security bugs in the target program more quickly.&lt;br/&gt;&lt;br/&gt;This project takes a novel approach to fuzzing performance by shortening the execution time of each fuzzing iteration by trying to achieve more test coverage in a fixed time interval, whereas other approaches focus on convergence to input sets that are more likely to trigger a vulnerability. In the process, the project will overcome hidden scalability and performance bottlenecks caused at the system software layers, such as operating system and hypervisor. Such technical advances can bring significant saving of the operation cost of fuzzing infrastructure and help developers to identify more security bugs in open source and commercial software in a cost-effective manner.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749711</AwardID>
+<Investigator>
+<FirstName>Taesoo</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>taesoo@gatech.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

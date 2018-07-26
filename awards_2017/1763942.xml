@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Shanks Workshop on Mathematical Aspects of Fluid Dynamics</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for participation in the conference "2018 Shanks Workshop on Mathematical Aspects of Fluid Dynamics" that will be held March 24-25, 2018 at Vanderbilt University.&lt;br/&gt;&lt;br/&gt;The conference focuses on recent developments in Analysis, especially in the fields of partial differential equations  and mathematical fluid dynamics.   A number of distinguished mathematicians have agreed to attend and speak at this conference.  This award gives early career researchers, members of underrepresented groups, researchers not funded by NSF and the like an opportunity to attend and participate in this conference.   The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities.   More information will be made available at:&lt;br/&gt;&lt;br/&gt;https://my.vanderbilt.edu/shanks2018/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1763942</AwardID>
+<Investigator>
+<FirstName>Gieri</FirstName>
+<LastName>Simonett</LastName>
+<EmailAddress>gieri.simonett@vanderbilt.edu</EmailAddress>
+<StartDate>11/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marcelo</FirstName>
+<LastName>Disconzi</LastName>
+<EmailAddress>marcelo.disconzi@vanderbilt.edu</EmailAddress>
+<StartDate>11/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Giusy</FirstName>
+<LastName>Mazzone</LastName>
+<EmailAddress>giusy.mazzone@vanderbilt.edu</EmailAddress>
+<StartDate>11/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

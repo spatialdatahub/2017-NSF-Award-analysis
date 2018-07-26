@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: TTP: Small: Modular Platform for Web-based Secure Multi-Party Analytics</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>499577</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project designs, develops, and applies a modular infrastructure for building web-based applications that allow individuals and organizations to benefit from privacy-preserving data aggregation and analysis in contexts where data sharing is encumbered by confidentiality concerns, legal restrictions, or corporate policies. Today, individuals and organizations face a tension between the explosion of valuable data that can be collected and processed and the threat of the exposure of data (which may be sensitive) due to malicious actors, criminal enterprises, and software errors. In response, entities often isolate their data, and in the process forego opportunities to benefit from collaborative data analysis. The infrastructure addresses these circumstances by allowing software developers, entrepreneurs, social scientists, and organizations to build web-based applications that leverage Secure Multi-Party Computation (MPC), a collection of cryptographic techniques that have been known for 35 years. In the last decade, MPC techniques have been implemented in several software frameworks, and specialized individual deployments of MPC include work on tax fraud detection, disease surveillance, and pay equity assessment. However, MPC's social benefits are only broadly realized when it is possible to design and assemble lightweight, user-friendly, web-based MPC applications that decision-makers and stakeholders without a cybersecurity background can understand and that the public and underserved populations can access and utilize. Software libraries, packages, and applications developed and evaluated over the course of this project will have tangible impacts on the ways in which sensitive data corpora can be used by multiple individuals, organizations, and policymakers to identify trends, diagnose problems, test hypotheses, and inform policy decisions.&lt;br/&gt;&lt;br/&gt;This project lowers the barrier for the design, development, and deployment of MPC applications by delivering two types of open-source software: (1) libraries for building back-end frameworks and Application Programming Interfaces (APIs) that can support web-based MPC-enabling services and (2) front-end frameworks for developing client-side functionalities that can operate in a standard browser or on a standard mobile device. Collectively, this software infrastructure enables a diverse collection of MPC functionalities suitable for a variety of deployment scenarios and user roles. The effort selects, adapts, translates, refactors, optimizes, and encapsulates existing MPC algorithms and frameworks with a focus on two operational metrics: (1) enhancing accessibility and driving adoption of MPC, and (2) operating with minimal overhead in low-performance production environments. Three real-world use cases identified by early adopters of MPC technology will inform and ground the work: a pay equity analysis by the City of Boston and the Boston Women's Workforce Council, a mobile health intervention app for addiction recovery, and an effort to design a livelihood assessment of underserved populations based on data sets maintained by a variety of distinct organizations. All three test cases provide essential feedback that can direct efforts leading to successful delivery and utilization of MPC in practice by elucidating the suitability of existing MPC functionalities for such applications, the necessity for optimization or customization of such functionalities for individual scenarios, and the organization and decomposition of such functionalities around real-world participant roles and workflows.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718135</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Lapets</LastName>
+<EmailAddress>lapets@bu.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mayank</FirstName>
+<LastName>Varia</LastName>
+<EmailAddress>varia@bu.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Azer</FirstName>
+<LastName>Bestavros</LastName>
+<EmailAddress>best@bu.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

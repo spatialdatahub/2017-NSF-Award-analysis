@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Impact of Anthropogenic Air Pollution on Ice Clouds and Regional Radiative Forcing</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>279999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will make use of satellite data to improve the understanding of how pollution affects ice clouds.  A significant fraction of the globe is covered by cirrus and related ice clouds and these clouds have an important impact on the radiation budget of Earth.   Pollution can impact clouds by changing the size and density of the ice particles that make up the cloud.  However, there are still significant uncertainties related to the kinds of pollution that affect clouds and how that translates to changes in the radiative balance and climate.  The long-term impact of the project will be to improve global climate models by addressing ice clouds, which are one of the key remaining uncertainties.  The project also includes training for an early-career scientist.&lt;br/&gt;&lt;br/&gt;The research team will improve understanding of the ice nucleation process associated with anthropogenic aerosols.  The focus of the project will be on black carbon, biomass burning aerosols, organic matter and solid ammonium sulfate with a goal to provide a comprehensive assessment of the contribution of anthropogenic aerosols to ice nucleation, ice cloud properties, and the consequent regional radiative forcing.  Data from the A-train constellation of satellites, including CloudSat, CALIPSO, and Aqua will be used to:  1) investigate the correlation between aerosol loading and ice cloud microphysical and macro-physical properties, 2) evaluate the impacts of various meteorological parameters on the observed aerosol-cloud relationship to extract the effect of aerosols, and 3) perform a comprehensive analysis of observations of collocated aerosols and ice clouds to quantify the radiative forcing exerted by aerosols interacting with ice clouds.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701526</AwardID>
+<Investigator>
+<FirstName>Yu</FirstName>
+<LastName>Gu</LastName>
+<EmailAddress>gu@atmos.ucla.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kuo-Nan</FirstName>
+<LastName>Liou</LastName>
+<EmailAddress>knliou@atmos.ucla.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

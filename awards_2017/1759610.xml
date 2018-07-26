@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ergodic Theory of Foliated Spaces through Geometric Deformations</AwardTitle>
+<AwardEffectiveDate>08/10/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>94884</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to develop a set of tools with which to study a large class of dynamical systems.  The systems in this large class come from different places, from bouncing balls in polygons to the crystalography of exotic crystals, to name a few.  These have been studied using different techniques. The goal here is to show that the systems in this large class have common properties and to develop a point of view which applies to all systems in this class.&lt;br/&gt;&lt;br/&gt;More specifically, the proposed project aims at developing a more unified theory of ergodic properties of translation actions on certain foliated spaces.  The best known of these systems are translation flows on flat surfaces.  A key tool used to study these systems is the use of renormalization flows on moduli spaces obtained through geometric deformations of the foliated spaces.  This project seeks to introduce these tools and ideas to the study of the dynamics of other (usually higher rank) translation actions.  For example, the subject of quasicrystals, aperiodic tilings and Delone sets is a particularly good one in which to apply the ideas used in Teichmüller dynamics.  In particular, the relationship between ergodic theory, cohomology, and geometric deformation, which has been exploited in the study of flat surfaces, can also be exploited to study the properties of systems coming from quasicrystals and aperiodic tilings.  Tools used in the study of tilings such as non-commutative geometry can also be used to study translation flows on flat surfaces including those of infinite type. This cross-fertilization of fields will be mutually beneficial.</AbstractNarration>
+<MinAmdLetterDate>09/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1759610</AwardID>
+<Investigator>
+<FirstName>Rodrigo</FirstName>
+<LastName>Trevino</LastName>
+<EmailAddress>rodtrevino@gmail.com</EmailAddress>
+<StartDate>09/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Using Polarization to Reveal the Nature of Lyman-alpha Nebulae</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>390729</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Astronomers seek to understand how stars and galaxies formed.  The early universe was believed to be pervaded by diffuse gas. All this gas should have collapsed into stars by now under the influence of gravity.  However, most of it is diffuse.  Only a small fraction now resides in galaxies.  Zabludoff and collaborators study mysterious, glowing clouds of such gas that may be the progenitors of galaxies.  To understand their glowing emission, these investigators will study polarization of their light.  Polarization can reveal the nature of their underlying power sources.  This study is enabled by a special instrument at the 6.5m MMT telescope that is sensitive to polarization while also recording images.  The project will reveal how galaxies interact with their environments.  In addition to this ground-breaking research, the PI will engage in outreach activities.  Such activities will include participating in an astronomy workshop for teenage girls and research and career presentations to a native American community.  Such efforts support broadening participation in science among underrepresented groups.&lt;br/&gt;&lt;br/&gt;This project is a study of Lyman-alpha blobs, which are giant (~100 kpc) glowing clouds of gas that are associated with rich clusters of galaxies.  The source of their Lyman-alpha emission is not known.  Two possibilities include photo-ionizing radiation produced in situ or resonant scattering of radiation from a central source.   Polarization measurements can differentiate between these mechanisms because resonant scattering leads to large polarization gradients while in situ photoionization produces no polarization.  Zabludoff and collaborators will study a statistical sample of dozens of such galaxies with the SPOL imaging spectro-polarimeter on the 6.5 m MMT telescope.  Analysis of such data will be compared with radiative transfer models to reveal how blobs glow and under what circumstances different mechanisms are responsible.  This research will lead to a more detailed connection between massive galaxies and the circumgalactic medium in which they live.</AbstractNarration>
+<MinAmdLetterDate>07/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715609</AwardID>
+<Investigator>
+<FirstName>Ann</FirstName>
+<LastName>Zabludoff</LastName>
+<EmailAddress>azabludoff@as.arizona.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF National Robotics Initiative (NRI) 2017 PI Meeting</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>147846</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this award is to organize the annual Principal Investigators (PI) meeting for the National Robotics Initiative (NRI), which was launched in 2011. The PI meeting brings together the community of researchers, companies, and program officers who are actively engaged in the NRI to provide cross-project coordination in terms of common intellectual challenges, methods for education and training, best practices in education, technology transfer and general outreach, and a centralized and lasting repository illustrating the research ideas explored and milestones achieved by the NRI projects. The meeting will be two days in November 2017 in the vicinity of Washington DC. The format will include short presentations by all the attending PIs, a poster session, keynote speeches, and panel discussions. Invitations to the meeting will include all PIs with active NRI grants, program managers with robotics-related programs, and members of the press.</AbstractNarration>
+<MinAmdLetterDate>07/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745122</AwardID>
+<Investigator>
+<FirstName>Daniela</FirstName>
+<LastName>Rus</LastName>
+<EmailAddress>rus@csail.mit.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leslie</FirstName>
+<LastName>Kaelbling</LastName>
+<EmailAddress>lpk@csail.mit.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tomas</FirstName>
+<LastName>Lozano-Perez</LastName>
+<EmailAddress>tlp@csail.mit.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

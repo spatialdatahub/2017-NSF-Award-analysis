@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Photophysics of Intraband Transitions in n-type Colloidal Quantum Dots</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>420000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miriam Deutsch</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description: This project addresses the preparation and investigation of new materials made of semiconductor nanocrystals that can detect heat emitted by warm objects.  Examples of potential applications of thermal infrared technologies are rapid avoidance sensors of people for self-driving vehicles, sensing of specific greenhouse gas emissions, and eye-safe high-bandwidth optical communications through the atmosphere.  However, the widespread use of infrared devices in these types of applications is limited by the very high cost of the current technologies. The focus of the project is on semiconductor quantum dots.  The new material approach may completely transform the accessibility of mid-infrared technologies in our daily life for safety, surveillance, communication, health and pollution monitoring. The project supports research on the synthesis of novel quantum dots and the testing of their properties. In addition, the research offers advanced training opportunities for graduate students in physics and chemistry, while also supporting related outreach activities.&lt;br/&gt;&lt;br/&gt;Technical description:  It has been recently shown that electron-doped colloidal quantum dots exhibit strong optical response in the mid-infrared from 3-12 microns and function as mid-infrared photodetectors and emitters.  The infrared response arises from the intraband optical transition between the two lowest electron states, while the wavelength is tunable by the size of the particle.  The project expands the range of electron-doped quantum dot materials with tunable and stable doping, including oxides and chalcogenides.  In parallel, laser studies in the mid-infrared enable the measurements of the photophysical properties of the different materials.  Studies of the quantum yield as a function of wavelength, materials, ligands, temperature and surrounding matrix are performed to understand and reduce non-radiative processes.  Pump-probe studies address the Auger recombination kinetics.  Time-resolved spectroscopy allows measuring the coupling to phonons and the homogeneous linewidths. This project defines the physical boundaries for the possible properties of these n-doped colloidal quantum dots, and therefore informs the degree to which these new infrared chromophores could transform infrared technologies.</AbstractNarration>
+<MinAmdLetterDate>06/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708378</AwardID>
+<Investigator>
+<FirstName>Philippe</FirstName>
+<LastName>Guyot-Sionnest</LastName>
+<EmailAddress>p-guyot-sionnest@uchicago.edu</EmailAddress>
+<StartDate>06/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

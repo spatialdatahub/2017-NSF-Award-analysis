@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI:  Construction, Testing, Installation, and Commissioning of the ALICE Fast Interaction Trigger T0+ detector</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>69999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena Opper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the PI and her students in their collaboration on the ALICE experiment to investigate the behavior of the hot dense plasma of quarks and gluons created in the collisions of nuclei at the CERN Large Hadron Collider.  This plasma of nuclear matter constituents mimics the conditions in the early Universe shortly after the Big Bang and allows scientists to study its properties and evolution via the detection of thousands of subatomic particles emitted as the plasma expands and cools.   Over the next several years, as the LHC accelerator is upgraded, the group will analyze data from those heavy ion collisions and build new instrumentation for ALICE &lt;br/&gt;to take advantage of the substantial increase in collision rates.  This will enable ALICE to make more precise and comprehensive measurements of the interactions, governed by the strong nuclear force, that occur in these collisions.  &lt;br/&gt;&lt;br/&gt;Undergraduate students at the PI's institution will help design, build, test, install, and commission the T0+ component of the ALICE Fast Interaction Trigger detector.  This detector is crucial to accomplishing the goals of the ALICE, as it provides the minimum bias trigger, multiplicity trigger, beam-gas event rejection, collision start time, offline multiplicity, and event plane determination upon which all ALICE measurements depend.  The students will be trained in the state of the art of advanced photon-sensor detector technology and take part in the process of scientific discovery with an international collaboration of scientists and engineers.  They will graduate from the PI's institution better prepared to confront challenging problems in a broad array of fields, including education, fundamental research, and technology development. This partnership with ALICE will allow the group to continue to recruit and retain students who will become tomorrow's leaders and innovators.   This award is co-funded by the Office of International Science and Engineering.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713894</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Klay</LastName>
+<EmailAddress>jklay@calpoly.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Polytechnic State University Foundation</Name>
+<CityName>San Luis Obispo</CityName>
+<ZipCode>934070830</ZipCode>
+<PhoneNumber>8057562982</PhoneNumber>
+<StreetAddress>One Grand Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>054Y</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1233</Code>
+<Text>NUCLEAR STRUCTURE &amp; REACTIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5980</Code>
+<Text>WESTERN EUROPE PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

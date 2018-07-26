@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EarthCube Integration: CyberWay--Integrated Capabilities of EarthCube Building Blocks for Facilitating Cyber-based Innovative Way of Interdisciplinary Geoscience Studies</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>1100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This NSF EarthCube project, termed "CyberWay," facilitates interdisciplinary geoscience research with data/service/product interoperability in discovery, access, and data processing, enabling the work on grand challenge geoscience questions from a multidisciplinary perspective, and fostering interoperability and collaboration across existing EarthCube building blocks.&lt;br/&gt;&lt;br/&gt;This project seeks to build a system of systems, named "CyberWay," through integrating the capabilities and systems of multiple existing EarthCube building blocks, particularly BCube, CyberConnector, CHORDS, and GeoWS. BCube enables broker-based data discovery. CyberConnector unifies pre-processing, production virtualization, geoprocessing modeling, and data discovery, access, and interoperability through open geospatial standards.  CHORDS connects small instruments and sensors to the Internet in real time. GeoWS provides a framework and infrastructure for data management and distribution with unified RESTful interfaces.  Selected capabilities from other building blocks will be also integrated through standard service interfaces. Additional services will be developed to meet specific requirements identified for particular geoscience use cases.</AbstractNarration>
+<MinAmdLetterDate>09/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740693</AwardID>
+<Investigator>
+<FirstName>Genong</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>gyu@gmu.edu</EmailAddress>
+<StartDate>09/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bromwich</LastName>
+<EmailAddress>bromwich@polarmet1.mps.ohio-state.edu</EmailAddress>
+<StartDate>09/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Kinter</LastName>
+<EmailAddress>ikinter@gmu.edu</EmailAddress>
+<StartDate>09/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liping</FirstName>
+<LastName>Di</LastName>
+<EmailAddress>ldi@gmu.edu</EmailAddress>
+<StartDate>09/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

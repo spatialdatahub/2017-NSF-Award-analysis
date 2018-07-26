@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CyberSecure: Extended Cybersecurity Education, Curriculum and Workforce Development</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>299404</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>R. Corby Hovis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Keeping computers and information systems secure is a major challenge. Business, industry, and government need well-prepared technicians who can prevent, detect, and investigate cybersecurity breaches, and the growth of cyber-threats has created a need for many more workers who have appropriate, specific knowledge and skills. In this project, the University of Hawaii Maui College (UHMC) will build on the work of other NSF Advanced Technological Education (ATE) grantees to develop a comprehensive, industry-driven program for cybersecurity education and workforce development. The project team will recruit undergraduate students from the University of Hawaii's community colleges and other institutions where cybersecurity education is limited or nonexistent; enable the students to conduct basic cybersecurity research projects that will develop their confidence and skills for a global marketplace; expose the students to real-world cybersecurity exercises, such as the annual Pooihe Cyber Security Exercise conducted alongside the Hawaii National Guard; and train high school STEM teachers on core topics in network and computer security, so that they can bring the knowledge into their classrooms and prepare their students for career pathways in information technology and cybersecurity.&lt;br/&gt;&lt;br/&gt;The project will use problem-based learning and an online environment to educate students, community college faculty, and high school teachers from diverse backgrounds. Activities will particularly target underrepresented minorities. In particular, the project will create new cybersecurity curricula for the Internet of Things (IoT) and for the accounting, healthcare, and hospitality and tourism industries, which are important to Hawaii's economy. Outcomes will include new curricular modules that are compliant with industry standards, an increase in the number of students who enroll in cybersecurity classes and graduate with a certificate or degree in cybersecurity at UHMC, and an increase in the number of college faculty and high school teachers who teach cybersecurity topics.</AbstractNarration>
+<MinAmdLetterDate>07/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700562</AwardID>
+<Investigator>
+<FirstName>Debra</FirstName>
+<LastName>Nakama</LastName>
+<EmailAddress>debran@hawaii.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Debasis</FirstName>
+<LastName>Bhattacharya</LastName>
+<EmailAddress>debasisb@hawaii.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

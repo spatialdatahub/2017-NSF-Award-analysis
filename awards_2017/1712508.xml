@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Identifying and Aiding At-Risk Students in Computing</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>299326</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie August</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will address the problem of meeting computer science students' learning needs by identifying and supporting at-risk students.  Computer science (CS) education has been pushed to the foreground as the importance of computing in society continues to increase. Initiatives like the Hour of Code and CS10K have been successful in attracting students to computing courses, but this in turn has also strained instructor resources at many institutions. Over the past 40 years of computer science education, a concerning theme has emerged in terms of student success. Students fail at elevated rates compared to other STEM disciplinary courses and often leave the field altogether after poor early experiences.  Many learn less than instructors expect. The CS education community has done well to document these struggles and hypothesize on their antecedents, but has done less well in terms of intervening to help these students.  Leveraging a source of student process and learning data not available to earlier generations of researchers such as in-class clicker responses and fine-grained programming activity data allowed for identification of struggling students in introductory computing courses using machine learning techniques. The core intellectual merit of the project is the creation of practical and sharable methods and tools for instructors to identify struggling CS students early, an improved understanding of the factors that cause students to struggle, and written reports on the value of one-on-one or small group interventions for helping CS students improve.  &lt;br/&gt;&lt;br/&gt;Specifically, the project aims to advance the team's preliminary work in this area by (1) broadening the applicability of the technique to more computing courses under differing circumstances, (2) interviewing students at-risk early in the term with the goal of identifying reasons for their struggles, and (3) piloting interventions with follow-up student interviews to better understand the effect of the interventions.  The broader impacts of this work will be the increased learning, success, and retention of computer science undergraduate students. Instructors armed with the tools of early and accurate identification of struggling students will be able to intervene before the students have fallen too far behind. Knowing why the students are struggling, and what actions might help, better equips instructors to intervene and help students. This offers the potential to grow the supply of capable computer scientists, which, despite increased national enrollments, will still fall short of industry demand. It also promises to help underrepresented groups, who are most apt to be at risk, thus improving gender, racial, ethnic, and socioeconomic equality in CS.</AbstractNarration>
+<MinAmdLetterDate>07/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712508</AwardID>
+<Investigator>
+<FirstName>Leo</FirstName>
+<LastName>Porter</LastName>
+<EmailAddress>leporter@cs.ucsd.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Griswold</LastName>
+<EmailAddress>wgg@cs.ucsd.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Alvarado</LastName>
+<EmailAddress>alvarado@cs.ucsd.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

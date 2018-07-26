@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>549532</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julie Martin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Professional engineering is a complex, multifaceted activity. Today's engineer needs to be resourceful and innovative, to build models, and to test and improve designs. Moreover, creating a new artifact is often an interdisciplinary effort. The task may well involve elements of computational, mechanical, and electronic construction. As a result, introducing young people to this field is a particular challenge. This project, in response, introduces a new genre of engineering education through Paper Mechatronics, an activity that extends traditional children's papercrafts with novel, accessible, computationally-enhanced tools and materials to create original and compelling artifacts. Through paper mechatronics, children can create true working devices - machines, robots, toys, automata, kinetic artwork - using paper as the foundational building material. This project seeks to pioneer paper mechatronics by various means: through sample curricular problems and projects, novel "smart" crafting tools for paper, innovative design software, and instructional resources. The research will also explore how young people learn engineering with paper mechatronics, and study how novices develop adaptive expertise in this creative and powerful medium. The overall effort will further a style of engineering education that is at once interdisciplinary (integrating elements of programming, electronics, and mechanical design) and realistic, yet also playful and respectful of children's creativity.&lt;br/&gt; &lt;br/&gt;This is a particularly opportune time to explore paper mechatronics as a medium for education and engineering. There is a burgeoning landscape of newly-accessible, lightweight computational devices (microprocessors, power sources, sensors, and actuators) that are readily integrated into paper constructions. These elements may now be connected via innovative craft materials such as conductive threads, paints, and inks. Paper mechanical elements may be designed and printed via accessible high-precision fabrication tools such as desktop paper cutters and laser cutters. Design patterns and mechanical building-blocks may be introduced and communicated, and their construction facilitated, by powerful software systems. In sum, the component tools and materials are now available so that youth can create high-quality, expressive, personally meaningful, and even (as expertise develops) challenging engineering projects. Moreover, paper mechatronics has the potential to reach a wide audience in formal and informal contexts because the materials are low-cost, and activities that use these materials can be gender-neutral and appeal to varied populations of learners with a variety of interest and backgrounds. To pursue this idea, this project will make use of workshops and activities at the Children's Creativity Museum in San Francisco as a venue for pilot tests to study the development of adaptive expertise and to gather data on how children understand engineering. At the same time, the project will extend the boundaries of paper mechatronics through the design of software tools, computationally-enhanced handheld devices for working in paper, and experimentation with novel paper-like (flexible) materials for construction. The curricular materials and design software for these projects are planned as open source, with materials using the code to be released under a Creative Commons license, and distributed for free via the Concord Consortium and the University of Colorado at Boulder's Craft Technology Lab website.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1735836</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Eisenberg</LastName>
+<EmailAddress>duck@cs.colorado.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sherry</FirstName>
+<LastName>Hsi</LastName>
+<EmailAddress>shsi@concord.org</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Concord Consortium</Name>
+<CityName>Concord</CityName>
+<ZipCode>017422345</ZipCode>
+<PhoneNumber>9784053205</PhoneNumber>
+<StreetAddress>25 Love Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1340</Code>
+<Text>ENGINEERING EDUCATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8020</Code>
+<Text>Cyberlearn &amp; Future Learn Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1340</Code>
+<Text>ENGINEERING EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8045</Code>
+<Text>Cyberlearn &amp; Future Learn Tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8841</Code>
+<Text>Exploration Projects</Text>
+</ProgramReference>
+</Award>
+</rootTag>

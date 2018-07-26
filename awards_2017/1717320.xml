@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AF:  Small:  Collaborative Research:  Computational Representations for Design and Fabrication of Developable Surfaces</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops mathematical representations and computer algorithms for three-dimensional forms that can be assembled from a collection of flat pieces without incurring material stress, known as piecewise developable geometry. These will drive new developments in the emerging industry of advanced 3D manufacturing: Not only can developable geometry can easily be cut from a rich array of thin flat materials like plywood or sheet metal, but it can also provide a novel geometric approach to tool path planning that improves the efficiency and accuracy of shapes fabricated via computer-controlled flank milling.  Such processes offer a competitive advantage for manufacturing in the US by reducing cost, increasing complexity of fabricated forms, and automating tasks previously only achievable by hand (e.g., robotic folding of developable forms).  A fundamental issue addressed by the research is automatic approximation of an arbitrary curved surface by a small number of developable pieces---at present this process must be carried out laboriously by expert engineers and designers, severely limiting the scope and impact of developable manufacturing processes.  More broadly, algorithmic models of developable geometry enrich basic understanding in the area of discrete differential geometry, which seeks to reformulate classical geometric knowledge from a discrete, algorithmic point of view.  This area provides a crucial link between modern geometric theory and industrial/applied applications that need to incorporate data and computation, and students trained in this project will be well-equipped to contribute in 3d manufacturing. &lt;br/&gt;&lt;br/&gt;The project builds on foundations from smooth and discrete differential geometry: rather than view discrete meshes as mere numerical approximations, the unifying goal is to develop data structures that directly encode the most salient features of piecewise developable geometry.  Two key observations are that (i) flattenability alone is not a sufficient characterization for discrete developability, often leading to nasty "crumpling" behavior and (ii) the curvature of a piecewise developable surface is encoded entirely by the shape of its patch boundaries, a fact often exploited in garment design.  These observations lead to two primary thrusts, namely (i) representations for discrete developability that naturally avoid crumpling by guaranteeing the existence of discrete "ruling lines," and (ii) efficient algorithms for developable surface design based on sparse descriptions of curvature along critical feature curves.  A cross-cutting theme is physical considerations for fabrication, e.g., translation between simple geometric models and material/constitutive properties relevant to the production of physical artifacts.</AbstractNarration>
+<MinAmdLetterDate>08/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717320</AwardID>
+<Investigator>
+<FirstName>Keenan</FirstName>
+<LastName>Crane</LastName>
+<EmailAddress>kmcrane@cs.cmu.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7933</Code>
+<Text>NUM, SYMBOL, &amp; ALGEBRA COMPUT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

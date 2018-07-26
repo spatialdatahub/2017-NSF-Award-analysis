@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EFRI NewLAW: Topological Mechanical Metamaterials Science</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>2000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kara Peters</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>One of the grand challenges in engineering, physics, and materials science is the ability to design materials with properties that do not occur in natural systems. Mechanical metamaterials attempt to achieve this by building an aggregate system out of linear or nonlinear components, that collectively exhibit material properties and functionalities that differ from, and surpass those of, their constituent materials.  However, their functionality is typically compromised by defects and imperfections, which are unavoidable in real world applications. This begs the question of whether a new paradigm exists, whereby a new class of building blocks and interactions enables the design of materials that are robust to imperfections and that are characterized by new functionalities. These studies will demonstrate that concepts from topology provide an organizing principle that gives rise to a wide range of impurity-immune phenomena in areas such as wave guiding, structural stability, and fracture. The project findings will have implications for the design and fabrication of mechanical energy control systems and devices whose operation relies on wave focusing, amplification, localization and attenuation. These include ultrasonic acoustic transducers, sonars, noise absorbing or enhancing devices, and material systems for vibration filtering and impact/blast protection.  The objectives of the project will be achieved through the collaboration of a team that combines experts in topological mechanical metamaterials, experimental wave dynamics, linear and nonlinear wave propagation, condensed matter physics and mathematics. This multi-disciplinary approach to research is rich in opportunities for outreach and for broadening participation of underrepresented groups in engineering and science. For example, outreach programs to underrepresented groups will be organized in collaboration with the Museum of Science and Industry in Chicago.&lt;br/&gt; &lt;br/&gt;This project investigates topological mechanical metamaterials that challenge classical notions in mechanics such as reciprocity, time reversal symmetry and sensitivity to defects. The objective is to investigate their fundamental properties, such as the existence of topological modes in ordered, disordered and amorphous systems, the effects of nonlinearities, as well as energy transport in the bulk. Guided by these studies, the research team will then explore the engineering implications of topological mechanical metamaterials, focusing on wave guiding, structural stability and fracture. These investigations will be conducted on novel experimental platforms ranging from gyroscopic systems as proof-of-concepts, to newly designed continuous systems that have potential for material/structural system development. The research is expected to enable functionalities that shift the paradigm in which dynamic control devices and materials are designed. The team's unique strengths in theory, simulation and experiments provide the combination of skills that are essential for the successful execution of this ambitious research program.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741685</AwardID>
+<Investigator>
+<FirstName>Massimo</FirstName>
+<LastName>Ruzzene</LastName>
+<EmailAddress>ruzzene@gatech.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Irvine</LastName>
+<EmailAddress>wtmirvine@uchicago.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katia</FirstName>
+<LastName>Bertoldi</LastName>
+<EmailAddress>bertoldi@seas.harvard.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jinkyu (JK)</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>jkyang@aa.washington.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+</Award>
+</rootTag>

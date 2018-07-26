@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Next-Generation Neural-Machine Interfaces for Electromyography-Controlled Neurorehabilitation</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>441501</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The lives of millions of patients worldwide are severely impacted by upper extremity loss or impairment. An emerging technology, electromyography (EMG)-based Neural Machine Interface (NMI), offers enormous potential in the restoration of function through neuroprosthetics for this population, including amputees, stroke survivors, and cerebral palsy patients. The technology senses bioelectrical signals from muscles, interprets them to identify the intended movement of the patient, and makes decisions to control neurorehabilitation applications (e.g., a prosthetic limb). While neurorehabilitation system design has progressed remarkably over several decades, no system is currently capable of meeting all desired technical specifications for commercial and clinical implementation. This project takes a computer engineering approach toward improving EMG-based NMI technology functionality and robustness. Software will be developed for managing the sensor status and real-time responses, and novel computing platforms will be implemented to handle the large-scale, data-intensive computations required for responsive neurorehabilitation applications. The project integrates research and education through several avenues: enhancement of undergraduate curricula with embedded research experiences, development of a massive open online course on neural machine interface, and initiation of a K-12 through community college outreach program. &lt;br/&gt;&lt;br/&gt;The PI's long-term career goal is to develop next-generation NMIs that will connect people and enable the exploration of big data and deep learning technologies in neurorehabilitation research. Toward this goal, the project's objectives are to (1) develop new hardware and software methods to enable the use of high-density grid sensing technology in real-time EMG-based NMIs to improve the functionality and robustness of the NMIs and (2) develop new computing technologies so that computing power and storage capacity are no longer barriers to the advancement of NMI neurorehabilitation research. The PI will first address the challenge of applying high-density EMG grids to real-time NMIs by employing a Grid Status Awareness and Response Engine to closely monitor the status of the EMD grids and respond accordingly. The issue of computational burden posed by the high-density EMG grids will then be tackled through the development of a neuromorphic computing system. Finally, a hierarchical computing platform that provides sufficient computational and storage capabilities to enable real-time response and portability will be developed. Insights and advancements made here in EMG-based NMI design will markedly improve reliability and functionality of EMG-controlled neurorehabilitation systems. Additionally, the developed NMI methods and tools are applicable to research fields beyond neurorehabilitation applications, such as brain-computer interfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1752255</AwardID>
+<Investigator>
+<FirstName>Xiaorong</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>xrzhang@sfsu.edu</EmailAddress>
+<StartDate>03/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Francisco State University</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941321722</ZipCode>
+<PhoneNumber>4153387090</PhoneNumber>
+<StreetAddress>1600 Holloway Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

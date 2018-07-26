@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Astrophysical Multimessenger Observatory Network</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>397921</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jean Cottam Allen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Astrophysical phenomena, and particularly the most energetic, may emit a range of particles from photons to neutrinos and cosmic rays. They may also produce gravitational radiation. These "messengers" carry details of the energetics and physical conditions in these sources. The Astrophysical Multimessenger Observatory Network (AMON) aims to discover and study new astrophysics phenomena by merging the world's leading multimessenger observatories into a single data system. AMON will link facilities that observe high-energy neutrinos (the IceCube and ANTARES Neutrino Observatories), the sub-atomic particles observed as cosmic rays (the Pierre Auger Cosmic Ray Observatory), gamma-ray photons (the Swift and Fermi satellites, and the HAWC and VERITAS ground-based observatories), and oscillations in the fabric of space-time manifested as gravitational waves (the Advanced LIGO and VIRGO gravitational-wave detectors).  With this renewal award, the PIs will construct a production network focused on discovering the first astrophysical sources jointly emitting high-energy neutrinos, gamma rays and/or gravitational waves.  The PIs will also continue to run "AstroTxt," a project that engages central Pennsylvania middle and high school students with AMON data and operations.&lt;br/&gt;&lt;br/&gt;AMON consists of a multimessenger database and tools for data exchange and analysis for interoperability between participating facilities.  AMON will enable real-time analysis of data that are below a detection threshold in an individual observatory but may achieve a high level of significance in joint-coincidence analyses with data from other observatories.  The AMON cyberinfrastructure enables time-critical analyses, with each candidate astrophysical signal packaged as an AMON Alert and distributed to a network of follow-up facilities for counterpart search and characterization.  Furthermore, AMON has deployed software and database interfaces to enable partner collaborations to carry out joint analyses on the AMON archive, including searches for persistent multimessenger sources.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708146</AwardID>
+<Investigator>
+<FirstName>Miguel</FirstName>
+<LastName>Mostafa</LastName>
+<EmailAddress>miguel@psu.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bangalore</FirstName>
+<LastName>Sathyaprakash</LastName>
+<EmailAddress>bss25@psu.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Cowen</LastName>
+<EmailAddress>cowen@phys.psu.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Fox</LastName>
+<EmailAddress>dfox@astro.psu.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7244</Code>
+<Text>COMPUTATIONAL PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+</Award>
+</rootTag>

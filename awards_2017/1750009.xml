@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Duality-Based Algorithm Synthesis</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>249938</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The task of designing an algorithm that performs a desired function, or achieves a desired goal, currently requires expertise in the problem domain.  Consequently, although people have access to powerful computing platforms, most non-experts are limited to using these platforms through pre-programmed apps. Automated program synthesis changes this current state of affairs by enabling computers to convert high-level specification of the problem to a computable procedure.  Apart from the benefit of making technology accessible to more people, program synthesis has the promise of reducing errors, and improving performance, of software.  &lt;br/&gt;&lt;br/&gt;Program synthesis refers to the problem of discovering a program that meets the requirements specified by a user.  It is a hard problem to solve in general.  However, if the space of possible programs is restricted, then it becomes feasible to iteratively search the space of possible programs for some program that works correctly on all inputs.  The quantifier alternation in this exists-forall formulation makes synthesis computationally difficult and hinders scalability. This project drastically improves efficiency of program synthesis by developing and exploiting a notion of duality in programming.  Duality between computing and proving promises to play a foundational role in understanding program analysis and synthesis. It not only encompasses several well-known concepts, such as types, abstractions, and abstract interpretation, but also goes beyond them to provide a general methodology for attaching a proof with a program.  Duality enables approximating the exists-forall synthesis constraint by a relatively more tractable exists-constraint.  This project develops the duality-based synthesis approach.  This project also makes contributions to education, research, and technology transfer to industry through freely distributed tools and academic visitor programs that include internships for graduate students.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750009</AwardID>
+<Investigator>
+<FirstName>Susmit</FirstName>
+<LastName>Jha</LastName>
+<EmailAddress>susmit.jha@sri.com</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ashish</FirstName>
+<LastName>Tiwari</LastName>
+<EmailAddress>tiwari@csl.sri.com</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SRI International</Name>
+<CityName>Menlo Park</CityName>
+<ZipCode>940253493</ZipCode>
+<PhoneNumber>6508592651</PhoneNumber>
+<StreetAddress>333 RAVENSWOOD AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

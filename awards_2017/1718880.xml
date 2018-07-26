@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR: Small: The Deterministic Memory Approach for Predictable and High Performance Cyber Physical Systems</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>High-performance embedded multicore platforms are becoming increasingly important for cyber-physical systems (CPS) - especially in automotive and aviation domains - to reduce cost, size, weight, and energy consumption through consolidation. However, poor time predictability of multicore platforms is a major hurdle for safety-critical CPS. This project will address the time predictability problem by proposing a new memory abstraction, called Deterministic Memory, that enables effective cross-layer collaborations between software and hardware. Leveraging abstraction and architecture extensions, resource management techniques and analysis methodologies will be developed to realize predictable and efficient real-time computing in multicore systems.&lt;br/&gt;&lt;br/&gt;The project will demonstrate how the proposed Deterministic Memory abstraction enables innovations in software and hardware designs. The project will develop new timing analysis methodologies that will incorporate the new memory concepts, which have the potential to significantly reduce the gap between theory and practice in multicore real-time systems. The project will advance safety-critical CPS domains, such as automotive and aviation, by improving predictability and determinism of the systems without over-provisioning of resources.&lt;br/&gt;&lt;br/&gt;The research is expected to enable efficient consolidation of multiple tasks with different criticality, and thereby to cut the cost and reduce the size, weight, and power requirements of the system. Moreover, the research has the potential to help reduce certification cost of aviation industry by providing stronger isolation with hardware support. Considering the market size of automotive industry and the high certification cost in aviation industry, the expected improvements promised by the research represent potentially billions of dollars in savings.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718880</AwardID>
+<Investigator>
+<FirstName>Heechul</FirstName>
+<LastName>Yun</LastName>
+<EmailAddress>heechul.yun@ku.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kansas Center for Research Inc</Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457568</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress>2385 IRVING HILL RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Interdisciplinary and Social Science Extreme Events Reconnaissance (ISSEER)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>299950</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Extreme events are increasing in frequency, magnitude, and scope as the population grows and infrastructure development further expands into hazard-prone areas. This project is concerned with how hazards and disaster research communities will respond to disaster events when they occur. At present, social science and interdisciplinary disaster research communities have no formal structure for organizing before or in the event of a disaster, no established process for communicating pressing research needs or ongoing projects, and hence no established culture regarding scientific agenda setting in terms of rapid reconnaissance research. In response, this EArly-concept Grant for Exploratory Research (EAGER) project will establish a scientific platform and coordinating network for Social Science Extreme Events Reconnaissance (SSEER) and a second platform and network for Interdisciplinary Science and Engineering Extreme Events Reconnaissance (ISEEER). SSEER and ISEEER will draw upon insights from the science of team science (SciTS) and leverage databases and information resources available through the Natural Hazards Center at the University of Colorado Boulder to build the capacity of the social science, engineering, and interdisciplinary hazards and disaster research communities. The ultimate vision for the work is to prepare individual researchers and teams to carry out extreme events rapid reconnaissance research that is coordinated, comprehensive, coherent, ethical, and scientifically rigorous.  &lt;br/&gt;&lt;br/&gt;This project will result in the development of two new platforms and corresponding networks, SSEER and ISEEER that will help researchers respond to and overcome long-standing challenges that have stymied the advancement of the hazards and disaster field, including lack of identification and coordination of researchers and research teams; inadequate guiding research frameworks for rapid reconnaissance investigations; a lack of inventories of existing research protocols, instruments, and secondary data; over-emphasis on large-scale sudden-onset events; time-limited data collection and lack of replication across events; and lack of interdisciplinary integration in rapid reconnaissance teams. The work plan will contribute to existing knowledge and applications by: (1) identifying, cataloguing, and mapping researchers from a range of disciplines engaged in hazards and disaster research; (2) coordinating those researchers in the event of a major disaster; (3) developing research frameworks and ethical guidance for social science and interdisciplinary disaster research; (4) cataloging existing research protocols, instruments, validated scales and measures, and secondary data sets to allow researchers to more quickly characterize affected communities; and (5) convening social scientists, engineers, and scholars working in the science of team science to inform the project and advance the science and practice of rapid reconnaissance research.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745611</AwardID>
+<Investigator>
+<FirstName>Lori</FirstName>
+<LastName>Peek</LastName>
+<EmailAddress>lori.peek@colorado.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>014Y</Code>
+<Text>Engineering for Natural Hazard</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1638</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

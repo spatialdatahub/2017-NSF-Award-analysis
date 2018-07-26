@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Standardized Performance Testing of Multispectral Reflectance Oximetry Imaging (MROI) in Emerging Device Platforms</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>84228</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PI will develop advanced methods for characterizing minimally-invasive diagnostic medical devices. The research will facilitate the development and standardized performance testing of novel biophotonic technologies for early disease detection and image-guided surgery. &lt;br/&gt;&lt;br/&gt;3D-printed biomimetic phantoms for the performance testing of near-infrared spectroscopy systems (NIRS) will be developed and the PI will investigate near-infra-red (IR) fluorescence (NIRF) image quality through phantom-based measurements to explore the basis for developing standards that can be used to validate NIRF imaging systems. The development of novel biomimetic phantoms for noninvasive fluorescence molecular imaging (FMI) will elucidate optimal fabrication approaches that influence the effectiveness of 3D-printed phantoms.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743660</AwardID>
+<Investigator>
+<FirstName>Yu</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>yuchen@umd.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

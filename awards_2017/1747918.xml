@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Student support for 2017 Napa Microsystems Workshop. To Be Held in Napa, California, August, 21-23, 2017</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitris Pavlidis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed project seeks financial support to support the conference registration costs of up to 50 student participants of the 2017 Napa Microsystems Workshop, which will be held in Napa, CA on 21-23 August 2017. The meeting is to bring together researchers on the themes of non-reciprocal systems, nonlinear systems, parametric resonance, optomechanics, and microsystems for computing. The central thesis for the workshop is that micro-electro-mechanical sensors and actuators are approaching a saturation point in technology development due to the fundamental assumptions of linear time invariance and reciprocity. A study of non-linear, non-reciprocal, and parametric systems is therefore necessary to overcome currently faced barriers. The cross-pollination of ideas between the above described different physical domains plays a critical role in developing new applications, for example, borrowed concepts from optics and opto-mechanics can stimulate new capabilities in microwave, RF, and acoustic systems. The Workshop will provide opportunities for a diverse group of graduate student researchers to interact with senior members of the research community, broadening their scientific perspective and promoting their career development. It will enhance understanding of the science that underpins the development of micro/nanoscale sensors, actuators, and microsystems and will promote long-term relationships between researchers in diverse fields including bioengineering, chemical engineering, mechanical engineering, electrical engineering and chemistry. The will be Workshop proceedings that will be disseminated among the conference attendees either digitally or as a proceedings book of abstracts</AbstractNarration>
+<MinAmdLetterDate>07/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747918</AwardID>
+<Investigator>
+<FirstName>Gaurav</FirstName>
+<LastName>Bahl</LastName>
+<EmailAddress>bahl@illinois.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

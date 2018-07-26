@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Theoretical Foundations for Probabilistic Models with Dense Random Matrices</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>188474</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many real-world scientific and engineering applications require sophisticated processing of large and complex data sets. Examples include wireless communications,  computational photography, and the training of multilayer networks for classification tasks. In some cases, performance is fundamentally limited by the amount of data. In other cases, the main limitation is the computational complexity of processing algorithms. A major challenge for researchers is to understand these fundamental limits. This project explores these limits by studying probabilistic models that describe the statistical relationship between the data and the unknown quantities of interest (e.g., transmitted message or correct label). The research involves combining ideas from information theory and statistical physics to compute fundamental limits and using these results to design efficient methods with improved performance. The interdisciplinary nature of the research is mirrored in the education activities of this project, which focuses on making connections between engineering, statistical physics, and the information sciences, as well as improving undergraduate education through exploratory data analysis.&lt;br/&gt;&lt;br/&gt;The key conceptual idea behind this research is that statistical dependencies induced through multiplication by dense random matrices can be understood through connections with simpler models involving additive Gaussian noise. In a recent breakthrough, the investigator showed how ideas from information theory could provide rigorous proofs for behaviors that had been conjectured using the heuristic replica method from statistical physics. Building upon this insight, the research is organized around three thrusts: i) Developing new theoretical methods to provide rigorous and interpretable characterization of fundamental limits; ii) Designing new algorithms for inference, learning, and compression; and iii) Analyzing bi-linear and multi-layer inference problems with applications to deep learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750362</AwardID>
+<Investigator>
+<FirstName>Galen</FirstName>
+<LastName>Reeves</LastName>
+<EmailAddress>galen.reeves@duke.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

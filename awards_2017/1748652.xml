@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Software-Hardware Co-Design Approaches for Multi-Level Memories</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The effective solution of big data problems requires computers that have very large memory capacity and that are able to perform very many operations per second. Since providing the required amount of main memory with sufficient bandwidth to achieve the desired throughput is cost prohibitive, vendors have resorted to multi-level memory (MLM) architectures in which main memory comprises two or more levels, with each level having memory with different bandwidth and cost characteristics. The Intel Knights Landing is an example; it has two levels of main memory - 16Gigabytes of high-cost, high-throughput memory, and up to 384Gigabytes of relatively low-cost, low-throughput memory. The Knights Landing also has 72 compute cores capable of performing up to 6 teraflops of single precision or 3 teraflops of double precision operations. This project seeks to demonstrate the effectiveness of multicore MLM architectures in solving big data problems.&lt;br/&gt;&lt;br/&gt;This project will develop efficient multicore MLM software for representative applications with different workflow characteristics: data parallel, hierarchical, and task parallel. The specific applications being considered are simulation of compressible multiphase turbulence, sparse matrix factorization, and image reconstruction from synthetic aperture radar data. The software will be evaluated on the Knights Landing as well as using MLM simulation software. Techniques for the development of such software and optimal MLM configurations based on workload characterization will be identified.</AbstractNarration>
+<MinAmdLetterDate>09/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748652</AwardID>
+<Investigator>
+<FirstName>Sartaj</FirstName>
+<LastName>Sahni</LastName>
+<EmailAddress>sahni@cise.ufl.edu</EmailAddress>
+<StartDate>09/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sanjay</FirstName>
+<LastName>Ranka</LastName>
+<EmailAddress>ranka@cise.ufl.edu</EmailAddress>
+<StartDate>09/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  An Electronic Subconscious For Lifelong Learning</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project is a fully synergistic educational framework that addresses learning, retention, and presentation, with the potential to improve the educational outcomes for society at large. By maximizing the work done in a limited timeframe, immediate beneficiaries will be underrepresented minority students. This product will accelerate the taking of science to the society, and the society to the next frontier of science. It has ubiquitous application to all adult learning communities, including colleges, healthcare, governmental organizations, and private corporations.  This solution augments some highly used current educational technologies with engagement mechanisms that greatly accelerate the learning process, personalize it, and persist this personalized knowledge so as to make it continually available to the learner. This innovation creates a layer of intelligence that is common to all of those involved in learning, and uses it to personalize a user's next learning experience.  It avoids grappling with the plethora of learning technologies (e.g., learning management systems, conference management systems, continuing education companies, and content hosting software) by exploiting the virtues of a select set of ubiquitous educational technologies and at the same time compensating for many of their drawbacks. The solution generates and exploits appropriate user engagement data to drive the persistent intelligence layer. &lt;br/&gt;&lt;br/&gt;This innovation is a framework that supports learning through a network of intelligent personal assistants that shadow a learning community and interact to enhance both the individual and the group learning experience. It exploits existing teaching pedagogies augmented with big data analytics to provide a disruptive result while ensuring a low barrier to adoption. It is unique because it works with existing practices and provides powerful visualizations of interactivity that can be used to evolve both teaching and learning practices.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722425</AwardID>
+<Investigator>
+<FirstName>Shoukat</FirstName>
+<LastName>Ali</LastName>
+<EmailAddress>shoukatali@middlescholars.com</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MiddleScholars Inc.</Name>
+<CityName>Ponte Vedra</CityName>
+<ZipCode>320816041</ZipCode>
+<PhoneNumber>4083345053</PhoneNumber>
+<StreetAddress>685 Aspen Leaf Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

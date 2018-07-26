@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel for Programming Languages Mentoring Workshop at International Conference on Functional Programming 2017 (PLMW@ICFP)</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Title: Student Travel for Programming Languages Mentoring Workshop at International Conference on Functional Programming 2017 (PLMW@ICFP)&lt;br/&gt;&lt;br/&gt;A Programming Languages Mentoring Workshop for students is being organized as part of the 22nd International Conference on Functional Programming (ICFP), one of the premier conferences in the area of programming languages. The conference will be held in Oxford, UK. This grant will support approximately 9 students to attend the mentoring workshop plus the ICFP conference and its satellite events. This proposal is intended specifically to target women students and students from underrepresented groups and gives priority to US citizens and permanent residents. The broader significance and importance of the grant relate to the need to broaden participation, provide opportunities for students to receive mentoring from leading members of the programming languages community, and build the next generation of researchers and knowledgeable practitioners in this important research arena.</AbstractNarration>
+<MinAmdLetterDate>06/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745203</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Licata</LastName>
+<EmailAddress>dlicata@wesleyan.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wesleyan University</Name>
+<CityName>Middletown</CityName>
+<ZipCode>064593208</ZipCode>
+<PhoneNumber>8606853683</PhoneNumber>
+<StreetAddress>237 HIGH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

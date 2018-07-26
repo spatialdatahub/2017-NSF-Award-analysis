@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Examining the Origins and Molecular Pathways of Alternate Allosteric Networks in the Lacl System</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wilson Francisco</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>How proteins communicate with their environment is critical to many life processes and detailed molecular knowledge of this process is required for the development of next-generation biotechnologies. Allosteric communication is the principal means by which proteins translate an environmental signal into a useful response (e.g., gene expression). Understanding the detailed mechanism of allostery is a vexing problem. Despite more than three decades of study, this fundamental mode of biological communication remains unsolved at the molecular level. A thorough understanding of allosteric communication will facilitate the development of new protein design rules. The design of "custom made" allosteric functions promises to revolutionize biotechnology, namely with regard to the development of more competent biological drugs, diagnostic tools, and industrial processes. These technological advances will be achieved by enabling precise and predictable biological communication in response to desired environmental cues. In addition to advancing our understanding of allosteric communication, this study will enable the development of new scientists in a cutting-edge research area, and will include the training of underrepresented groups in STEM. This initiative will contribute to the development of a diverse and engaged science and engineering workforce.&lt;br/&gt;&lt;br/&gt;The goal of this study is to decipher the underlying molecular mechanism by which allosteric signals traverse the scaffold across LacI variants with alternate allosteric control. This study will be accomplished by the construction and characterization of a synthetic phylogenetic tree of alternate allosteric networks. To complement inferred evolutionary relationships, experimental maps of communication will be constructed for two or more linages. Members of a given linage will be evaluated biophysically to decipher the underlying molecular mechanism. Phylogenetic and biophysical data will be leveraged to design alternate allosteric routes in the LacI scaffold in which precise performance metrics (i.e., tuned dynamic range, ligand sensitivity and temporal responsiveness) are conferred. This study will help identify whether allostery in the LacI scaffold can be conferred via multiple networks of residues, or whether allostery requires a single conserved network of residues. Upon completion, this study will enable the testing of assertions with regards to the origin and molecular mechanics of alternate allosteric communication via the development of design rules for specific allosteric operations.  In turn, this algorithm will produce novel LacI-based transcription factors for use in a broad range of biotechnological applications, specifically in synthetic biology. In addition, this study will significantly broaden our fundamental understanding of allosteric communication.</AbstractNarration>
+<MinAmdLetterDate>07/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747439</AwardID>
+<Investigator>
+<FirstName>Corey</FirstName>
+<LastName>Wilson</LastName>
+<EmailAddress>corey.wilson@chbe.gatech.edu</EmailAddress>
+<StartDate>07/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

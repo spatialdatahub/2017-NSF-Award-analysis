@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Carnegie-NYU-Rochester Conference on Public Policy</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds a series of conferences designed to foster research and discussion of major issues in macroeconomics and monetary economics that are important for public policy. The conference series has three goals. First, to stimulate new research that develops new models and analyzes economic data. Second, to bring together researchers who approach the science questions in different ways. Third, to develop greater understanding among academic researchers of the multiple factors that influence the formation of economic policy. The conference brings together a diverse audience with the overall goal of encouraging academic researchers to focus on problems that are of importance for policy questions.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730210</AwardID>
+<Investigator>
+<FirstName>Narayana</FirstName>
+<LastName>Kocherlakota</LastName>
+<EmailAddress>nkocherl@ur.rochester.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marvin</FirstName>
+<LastName>Goodfriend</LastName>
+<EmailAddress>marvingd@andrew.cmu.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stanley</FirstName>
+<LastName>Zin</LastName>
+<EmailAddress>stan.zin@nyu.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

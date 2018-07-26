@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a high speed multiphoton laser-scanning microscope for research and training at UNLV</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>998614</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to the University of Nevada, Las Vegas (UNLV) to acquire a high-speed multiphoton laser scanning microscope system to view the behaviors of cells in living tissues with time-lapse images. UNLV is the only research-intensive university in southern Nevada, and the largest in the state. Expansion of the scope and impact of UNLV research activities is a high priority for the State of Nevada, and part of its plan to diversify the economy beyond the gaming and tourism industries. The UNLV Confocal and Biological Imaging Core provides training and support for laser-scanning fluorescence microscopy in a wide array of biological, environmental, and engineering applications. Graduate students from across UNLV and nearby post-graduate professional universities receive basic and advanced training in quantitative fluorescence microscopy techniques, advancing the national goal of developing a diverse STEM workforce. Graduate students use the majority of Core instrument time, and are assisted by collaborating undergraduate researchers. In additional, other undergraduate UNLV students will experience the new multiphoton technology through modules in advanced laboratory coursework. In 2015, UNLV was ranked as one of the 10-most diverse public universities in the US. UNLV is also a Minority-Serving Institution for Native American and Pacific Islander students and an emerging Hispanic Serving Institution. Tours and demonstrations will be provided to students from nearby high schools and two-year and four-year colleges through outreach activities. To further recruit a diverse range of students to STEM disciplines, videos showing the inner workings of plant and animal tissues will be developed and presented in Clark County K-12 classrooms. Similar presentations for Science Café Las Vegas will enhance scientific literacy by introducing the lay public to the fascinating behaviors of cells within living tissues. &lt;br/&gt;&lt;br/&gt;The newly acquired multiphoton laser scanning microscope provides advanced technology to obtain images from living tissues to depths of 1 mm. This instrument will be located in the UNLV Confocal and Biological Imaging Core, so that it will be available on a first-come, first-served basis to scientists and students across Nevada. Availability of this instrument eliminates the barrier of transporting samples to other states, and enables Nevada researchers to study living systems at new levels of sensitivity and depth. The high-speed imaging technology decreases tissue damage and increases sensitivity, allowing detection of fast-changing processes over periods of seconds to hours. This type of imaging is driving unexpected discoveries about the brain and how cells work together to build the architecture of many other organs. The advanced capabilities of multiphoton laser scanning microscopy will be used to study a wide range of biological and engineering systems, such as hormonal control of gland secretion, electrical oscillations in living mouse brain slices, repair and regeneration of eye tissues, organization of bio-fouling bacteria, and electrical activity of polymers for robotics and nanotechnology.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726925</AwardID>
+<Investigator>
+<FirstName>Boo Shan</FirstName>
+<LastName>Tseng</LastName>
+<EmailAddress>boo.tseng@unlv.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Andres</LastName>
+<EmailAddress>andrew.andres@unlv.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>hong.sun@unlv.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ai-Sun</FirstName>
+<LastName>Tseng</LastName>
+<EmailAddress>kelly.tseng@unlv.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laurel</FirstName>
+<LastName>Raftery</LastName>
+<EmailAddress>laurel.raftery@unlv.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nevada Las Vegas</Name>
+<CityName>Las Vegas</CityName>
+<ZipCode>891541055</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress>4505 MARYLAND PARKWAY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Testing the Solar Occultation Flux Instrument on the Wyoming King Air</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>199973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project includes the modification and testing of the University of Colorado Airborne Solar Occultation Flux (SOF) instrument on the Wyoming King Air aircraft during the late summer of 2017. Prior deployment of this instrument on the NSF/NCAR C130 demonstrated its capability to quantify emission fluxes of ammonia, nitrogen oxides and other trace gases.  The instrument will be especially useful in the study of wildfire emissions planned as part of a larger field campaign in the summer of 2018 in the Western US.  Wildfires contribute to reduced visibility and the degradation of air quality in many regions.&lt;br/&gt;&lt;br/&gt;The SOF can quantify trace gas emission fluxes from an area source, such as a wildfire source, by measuring the entire plume column profile. In combination with measurements of wind direction/speed, the emission flux is calculated by applying the mass balance method. The urgency of this RAPID proposal consists in the need for instrument modifications and for testing and demonstrating the feasibility of deploying the instrument in a wildfire environment prior to supporting its use in a major field campaign scheduled for next summer in 2018.  SOF measurements of trace gas columns are highly complementary to the detailed sampling that is planned from the NSF/NCAR C130 aircraft in 2018.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744537</AwardID>
+<Investigator>
+<FirstName>Rainer</FirstName>
+<LastName>Volkamer</LastName>
+<EmailAddress>rainer.volkamer@colorado.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

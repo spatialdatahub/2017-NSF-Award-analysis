@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD:   Estimation and Anomaly Detection for high-dimensional Data, Maps and Dynamic Processes</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Lund</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project focuses on the analysis of collections of regular, hyperspectral, LiDAR, and thermal images, and multi-modal data sets, both in terms of detection of anomalies and classification tasks.  The input data (such as images, spectra, etc.) for many threat detection problems is typically high-dimensional, corrupted by noise, and subject to nonlinear transformations due to environmental conditions.  Automatic threat detection problems typically face the fundamental curse of dimensionality: to achieve a target level of accuracy, the number of observations required is exponential in the dimension of the data.  This work focuses on the automated discovery of low-dimensional representations of the data, or at least of those features of the data that are sufficient to perform the task at hand. These representations will enable high statistical and computational performance in the above tasks even with a relatively small amount of data. The project will also focus on automatically modeling and learning interaction rules in interacting agent systems.&lt;br/&gt;&lt;br/&gt;This project entails an overarching program of research aimed at detecting and exploiting intrinsic low-dimensionality and estimating low-dimensional models for data and certain types of high-dimensional data and agent-based systems. Low-dimensional probabilistic models for high-dimensional data, arising from Hyper-Spectral Imaging (HSI), LiDAR, and Near-Infrad/Night-Vision cameras, will be constructed, enabling efficient data encoding and decoding, statistical models for detecting background noise versus signals of interest, and anomaly detection. Novel techniques for understanding dependencies across multiple sensor modalities by studying maps in high-dimensions between data collected by different sensors will be developed and tested on a variety of multi-modal data sets. Novel machine learning techniques for learning from agent systems with unknown influence functions will be developed.</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737984</AwardID>
+<Investigator>
+<FirstName>Mauro</FirstName>
+<LastName>Maggioni</LastName>
+<EmailAddress>mauro.maggioni@jhu.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>Q218</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Enhancing Transgene Expression and Retention by Co-delivery of DNA Vectors with Modified Histones</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>449998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gene therapy has been offered as a potential cure for a wide range of diseases, including hemophilia, cystic fibrosis, Parkinson's, HIV, hepatitis, and heart disease. Conventional gene delivery approaches currently lack the safety, efficiency and durability required for many research, industrial and/or clinical applications. Understanding how to create and maintain active gene expression will have broad-ranging impacts on gene delivery and expression in humans. The proposed work will bring effective gene therapies closer to reality, and will also train and inspire the next generation of scientists and engineers through their active participation in this interdisciplinary research.&lt;br/&gt;&lt;br/&gt;The long-term objective of this project is to elucidate how long-term cellular memories of transcriptional states are created and maintained to advance research, industrial and gene therapy applications requiring regulated transgene expression. The specific scientific objectives are to 1) develop a robust strategy for co-delivering transgenes together with modified histone proteins promoting active transcription; and 2) evaluate and enhance protein expression from chromatin assembled on transgenic DNA. The established delivery approach is expected to significantly improve the uptake and controlled expression of transgenic DNA and to be compatible with a broad range of vectors. The fundamental kowledge gained regarding the design of epigenetic systems for heterologous gene expression could have profound implications for all eukaryotic gene expression systems. Such insight could, for example, significantly expand the scope and efficacy of human gene therapy, leading to cures for many serious diseases.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1705560</AwardID>
+<Investigator>
+<FirstName>Chongli</FirstName>
+<LastName>Yuan</LastName>
+<EmailAddress>cyuan@ecn.purdue.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yoon</FirstName>
+<LastName>Yeo</LastName>
+<EmailAddress>yyeo@purdue.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ann</FirstName>
+<LastName>Kirchmaier</LastName>
+<EmailAddress>kirchmaier@purdue.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Lasers in Micro, Nano, and Bio Systems: The integration of laser physics, materials, nanotechnology, and biology GRC. To Be Held In Waterville Valley, NH June 17-22, 2017.</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shubhra Gangopadhyay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NSF actively promotes the inclusion of students and post docs in technical conferences and in the advancement of scientific research. To this affect the PI requests that the CCSS and EPMD programs, within the ECCS Division of the Engineering Directorate at the NSF, sponsor a selected number of students and post docs to  participate in the Gordon Research Conference titled "Lasers in Micro, Nano &amp; Bio Systems" to be held in Waterville Valley, New Hampshire, on June 17-22, 2018.&lt;br/&gt;&lt;br/&gt;The first Gordon Research Conference on "Lasers in Micro, Nano &amp; Bio Systems" will define key strategic directions for future research in fundamental laser physics, new laser phenomena, enabling micro/nano engineering technologies, integrated biological system with laser, and applications, and are expected to broadly impact interdisciplinary scientific efforts. The NSF support is expected to significantly promote student and post doc participation in the Meetings and to provide a unique opportunity for them to learn about emerging fields in micro/bio photonics research. Participation of graduate students and post-doctoral researchers, in particular those from underrepresented groups, will be fostered leveraging NSF funds to partially cover registration fee.</AbstractNarration>
+<MinAmdLetterDate>06/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743488</AwardID>
+<Investigator>
+<FirstName>Seok (Andy)</FirstName>
+<LastName>Yun</LastName>
+<EmailAddress>syun@mgh.harvard.edu</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xudong</FirstName>
+<LastName>Fan</LastName>
+<EmailAddress>xsfan@umich.edu</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

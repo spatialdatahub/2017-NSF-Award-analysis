@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Designing High Efficiency Small Scale Motors using Switched Reluctance Technology</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>747282</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to revolutionize the efficiency of electric motors in the heating, ventilation and air conditioning (HVAC) market. The innovation technology area is a new class of electric motor and control hardware and software that is based on switched reluctance technology, exhibiting very high efficiencies of 90%+ across a broad range of speeds. This innovation will enhance scientific understanding by showing how this new class of electric motors can be optimized to minimize noise and vibration, while allowing variable speed control and Internet connectivity. The potential societal impacts of such a technology are significant: more than half the new motors purchased each year in the United States are 1-5 horsepower motors (1.024M of 1.792M), and they collectively account for nearly 25% of the United States electricity consumption. As such, if commercialized this technology could save retail and commercial organizations millions of dollars a year in electricity savings due to efficiency improvements. The benefits for an adoption rate of just 5% of available applications are $500M / year in electricity savings and 1M tons / year of carbon savings.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase 2 project aims to research a new type of electric motor with a high rotor pole switched reluctance (HRSRM) design. This HRSRM motor has a simplified physical construction with no permanent magnets but complex electronics that manage the torque and speed in the motor through carefully timed generation of magnetic fields. This class of motors have proven extremely difficult to research because of highly nonlinear response characteristics, and sensitivity to very small changes in timing, electromagnetics, and physical setup. This project will research methods for adapting dynamic control algorithms to increase the speed and sensitivity of the power electronics to manage these characteristics. Research will also examine physical elements of the design and build a generalized simulation model combining both finite element analysis as well as structural modeling, constrained mode analysis and vibration models to reduce and optimize noise, vibration and harshness measures. Finally this project will optimize the ~600 key parameters associated with an HRSRM motor, allowing the rapid design and prototyping of new motor designs in minutes rather than months.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738233</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Johnston</LastName>
+<EmailAddress>mark.johnston@softwaremotorcorp.com</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Software Motor Corporation</Name>
+<CityName>Sunnyvale</CityName>
+<ZipCode>940892216</ZipCode>
+<PhoneNumber>6692244373</PhoneNumber>
+<StreetAddress>1295 Forgewood Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+</Award>
+</rootTag>

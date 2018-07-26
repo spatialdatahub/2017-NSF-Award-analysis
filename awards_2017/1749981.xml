@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Coded Caching for Wireless Content Delivery Networks: Challenges and Opportunities</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>192160</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The continuously increasing demand for broadband data has produced overwhelming network traffic and, despite steady improvements in wireless communication technology, data rates continue to fall short of the exponential growth in demand. As such, opportunistic transmission strategies based on network characteristics, demand profile, and content type, can help meet expectations. The major contributor to this traffic explosion is broadband video, characterized as being repeatedly requested by multiple users and having highly variant temporal traffic. Such properties provide an opportunity for caching the data at local storage units closer to users during the off-peak hours of the network, to reduce network traffic at peak hours. Recent developments in coded caching offer a promising solution for high data rates. This research will study challenges and benefits of employing caching in practical communication networks, and pursue a solid theoretical foundation for adopting caching as a universal resource in data delivery networks. &lt;br/&gt;&lt;br/&gt;This project will target the fundamental theory and practical aspects of caching in data delivery networks by addressing several practical concerns. While caching gain degrades in real networks with time-varying channels, asynchronous and delay sensitive requests, and without a central coordinator, coding techniques will be used to improve the gain of caching. In addition, a rate-distortion theoretic framework will be developed to characterize the fundamental trade-off between cache size, delivery rate, and reconstruction quality, alongside efficient coding schemes to achieve this tradeoff. Following the success of multi-antenna communication systems, the interaction between caching gain and spatial diversity will be studied. A successful completion of this part will lead to an optimum resource (cache size, power, and rate) allocation as well as transmission scheduling in non-homogeneous Multi-Input-Multi-Output (MIMO) networks. Finally, software to simulate caching techniques for a wide range of networks and applications, and supporting both research and education, will be developed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749981</AwardID>
+<Investigator>
+<FirstName>Soheil</FirstName>
+<LastName>Mohajer</LastName>
+<EmailAddress>soheil@umn.edu</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

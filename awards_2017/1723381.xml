@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS:INT: Integrated Reasoning, Planning and Acting for Household Robots</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Robots have the potential for enormous beneficial impact on society in fields such as cleaning, tidying, and cooking in households and hospitals, and supporting the elderly to age in place. To achieve many of these benefits, however, these systems will need to be smart enough so that they can be easily told what to do and act sensibly over long periods without needing constant supervision.  The proposed research aims to develop fundamental algorithms that will enable robots to operate autonomously in complex domains, characterized by substantial uncertainty, complex interacting goals, and interaction with multiple people and many objects.  Graduate and undergraduate students are involved in all aspects of the research, and the research in this project will become part of a new "AI in Robotics" project course at MIT (also available on-line).&lt;br/&gt;&lt;br/&gt;The fundamental approach in this proposal is decision-theoretic: (a) the system's uncertainty about its physical environment (such as location, shape, type, mass, etc. of objects) as well as mental states of other agents (such as intentions and desires) is modeled probabilistically; (b) design objectives for the system are articulated in terms of utility; and (c) the robot chooses actions according to the principle of rationality, that is, it should do things expected to gain high utility.  While finding optimal solutions in complex domains is highly computationally intractable; the project will develop principled approximate solutions that are tractable, based on principles of hierarchical abstraction in space and time, planning in advance for only the most likely outcomes, and factoring complex processes into nearly-independent subprocesses.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723381</AwardID>
+<Investigator>
+<FirstName>Leslie</FirstName>
+<LastName>Kaelbling</LastName>
+<EmailAddress>lpk@csail.mit.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tomas</FirstName>
+<LastName>Lozano-Perez</LastName>
+<EmailAddress>tlp@csail.mit.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

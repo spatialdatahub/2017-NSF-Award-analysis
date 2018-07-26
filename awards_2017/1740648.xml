@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Proposal: EarthCube Integration: Pangeo: An Open Source Big Data Climate Science Platform</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>736713</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris M. Uz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Climate, weather, and ocean simulations (Earth System Models; ESMs) are crucial tools for the study of the Earth system, providing both scientific insight into fundamental dynamics as well as valuable practical predictions about Earth's future. Continuous increases in ESM spatial resolution have led to more realistic, more detailed physical representations of Earth system processes, while the proliferation of statistical ensembles of simulations has greatly enhanced understanding of uncertainty and internal variability. Hand in hand with this progress has come the generation of Petabytes of simulation data, resulting in huge downstream challenges for geoscience researchers. The task of mining ESM output for scientific insights  has now itself become a serious Big Data problem. Existing Big Data tools cannot easily be applied to the analysis of ESM data, leading to a building crisis across a wide range of geoscience fields. This is exactly the sort of problem EarthCube was conceived to address. The project will integrate a suite of open-source software tools (the "Pangeo Platform") which together can tackle petabyte-scale ESM datasets. Additionally, training and educational materials for these tools will be developed, distributed widely online, and integrated into existing educational curricula at Columbia. A workshop at NCAR in the final year will help inform the broader community about Pangeo. Collaborators at other US climate modeling centers will encourage adoption and participation in the Pangeo project by their scientists. Beyond climate and related fields, multidimensional numeric arrays are common in many fields of science (e.g. astronomy, materials science, microscopy). However, the dominant Big Data software stack (Hadoop) is oriented towards tabular text-based data structures and cannot easily ingest petabyte scale multidimensional numeric arrays. The proposed work thus has potential to transform Data Science itself, enabling analysis of such datasets via a novel, highly scalable, highly flexible tool with a syntax familiar to disciplinary researchers.&lt;br/&gt;&lt;br/&gt;The core technologies are the python packages Dask, a flexible parallel computing library which provides dynamic task scheduling, and XArray, a wrapper layer over Dask data structures which provides user-friendly metadata tracking, indexing, and visualization. These tools interface with netCDF datasets and understand CF conventions. They will be brought to bear on four high impact Geoscience Use Cases in atmospheric science, land-surface hydrology, and physical oceanography. Disciplinary scientists will define workflows for each use case and interact with computational scientists to demonstrate, benchmark, and optimize the software. The resulting software improvements will be contributed back to the upstream open source projects, ensuring long-term sustainability of the platform. The end result will be a robust new software toolkit for climate science and beyond. This toolkit will enhance the Data Science aspect of EarthCube. Implementation of these tools on the cloud will also be tested, taking advantage of agreement between commercial cloud service providers and NSF for the BIGDATA solicitation.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740648</AwardID>
+<Investigator>
+<FirstName>Naomi</FirstName>
+<LastName>Henderson</LastName>
+<EmailAddress>naomi@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Seager</LastName>
+<EmailAddress>rich@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Tippett</LastName>
+<EmailAddress>mkt14@columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Abernathey</LastName>
+<EmailAddress>ra2697@columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chiara</FirstName>
+<LastName>Lepore</LastName>
+<EmailAddress>clepore@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6899</Code>
+<Text>OCE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

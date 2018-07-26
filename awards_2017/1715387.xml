@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small:  ConfigV: Automated Verification of Configuration Files</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Configuration files allow programmers to easily control many key software settings, but this variety of settings creates a large surface for potential errors, with impacts as severe as performance degradation or system-wide failure. These configuration errors have affected many software-based services, from social networking to emergency dispatch call systems. The fundamental issue this project addresses is the need to detect these errors, before they are released in production, by automatically checking configuration files against a set of rules that describe safe configurations. Since there are many different types of configuration languages, all with too many complex rules to be manually written, configuration file verification must automatically learn rules from existing examples of configuration files. This project will have broader impact in the field, expanding the verification beyond just traditional programs, and allowing for ensuring the safety of both configuration files and other complex and unstructured objects.&lt;br/&gt;&lt;br/&gt;The goal of this proposal is to develop a fully automated verification framework for general software configurations. To do this, the user must provide a set of example configuration files, from which we learn rules that describe various properties that hold on the given example set. These rules, in general, specify which properties the keywords in a configuration file need to satisfy. A key challenge in the process of inferring such a specification is that configuration files are generally an untyped, unstructured sequence of assignments - making the application of existing formal methods approaches difficult. To add structure to these files, the PI uses a probabilistic type inference algorithm to assign each keyword a type. The learning process then relies on matching the inferred types to a set of very general templates, which describe the keywords and their relations. This project further extends the areas where formal verification can be applied and develops a tool set for configuration file verification that can increase the productivity of software practitioners.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715387</AwardID>
+<Investigator>
+<FirstName>Ruzica</FirstName>
+<LastName>Piskac</LastName>
+<EmailAddress>ruzica.piskac@yale.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

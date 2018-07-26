@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-Planning:  Towards Smart and Accessible Transportation Hub - Research Capacity Building and Community Engagement</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SCC-Planning project will be design a human-centered service system, using the existing cyber infrastructure of a transportation hub. Users will be assisted by an "app" for navigating complicated buildings and urban spaces.  With this app, the visually impaired, whose numbers exceed 6 million individuals today, will find using public transportation services more convenient and efficient.  There are significant hurdles to be overcome to realize this design, called the Smart and Accessible Transportation Hub (SAT-Hub), which will extend an individual's mobility, offer greater freedom of movement, and open new possibilities for daily living and community engagement. In addition, the SAT-Hub will provide unique, interdisciplinary training opportunities for students, including under-represented populations in STEM at CUNY City College, CUNY Borough of Manhattan Community College and Rutgers.&lt;br/&gt;&lt;br/&gt;The planning for the SAT-Hub will bring together several technical areas: smart infrastructures and sensing and computing with transportation planning and accessibility and mobility. The project has three main objectives: (1) design a smart transportation hub framework for experimenting, debugging, and refining the smart service, (2) strengthen partnerships with community stakeholders by exploring the unique needs of their user communities through regular community engagement, and (3) identify cross-disciplinary, integrative research themes to enable the successful deployment of a solution. The City University of New York and Rutgers University will work to meet these objectives with our partners from local government in NY and in NJ, the regional transit agencies, and the service institutions for underserved users.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737533</AwardID>
+<Investigator>
+<FirstName>Zhigang</FirstName>
+<LastName>Zhu</LastName>
+<EmailAddress>zhigang.zhu.ccny@gmail.com</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Gong</LastName>
+<EmailAddress>jg931@soe.rutgers.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Camille</FirstName>
+<LastName>Kamga</LastName>
+<EmailAddress>ckamga@utrc2.org</EmailAddress>
+<StartDate>11/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Seiple</LastName>
+<EmailAddress>wseiple@lighthouseguild.org</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Candace</FirstName>
+<LastName>Brakewood</LastName>
+<EmailAddress>cbrakewood@ccny.cuny.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate>11/21/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cecilia</FirstName>
+<LastName>Kelnhofer-Feeley</LastName>
+<EmailAddress>cfeeley@rci.rutgers.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

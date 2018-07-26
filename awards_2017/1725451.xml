@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an Acoustic Camera for Multidisciplinary Research and Teaching at Dartmouth College</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>115199</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Dartmouth College to acquire an acoustic camera for tracking sources of sound in video. The acoustic camera will contribute to multidisciplinary research, teaching and outreach. A teaching module will be developed on the acoustics of natural landscapes using the acoustic camera that can be customized and incorporated into graduate courses, undergraduate courses and teacher training for professional development days. Dartmouth's Science &amp; Technology Outreach team will assist with delivering products from the acoustic camera to the broader community, such as interactive audiovisual depictions of songbird choruses for the Hubbard Brook LTER web portal, movies from research on the acoustics of bats, frogs and primates to present at a local science pub, and audiovisual displays for the website of a National Public Radio special series on sounds in nature.&lt;br/&gt;&lt;br/&gt;Sound recordings provide rich information about natural systems and human environments. A major limitation of acoustic recordings, however, is that they do not provide information about the direction or location of the sound source. An acoustic camera is a cutting-edge instrument that integrates both visual and acoustic information to generate video images that identify the direction and source of sounds using a video camera, microphone array, data acquisition board and processing computer. At Dartmouth, there is an unusually large and interdisciplinary community of people united by an interest in acoustics and natural sounds. The acquisition of an acoustic camera will elevate the individual research and teaching programs of multiple faculty in multiple disciplines who study the transmission and identity of sounds in the environment. Furthermore, the acoustic camera will foster cross-disciplinary collaborations among faculty in Biology, Anthropology, Music, and other disciplines. Current projects across the university address the role of sounds in evolutionary processes. These projects range from the dynamics and evolutionary drivers of social interactions in acoustically signaling animals, to the role of soundscapes in the evolution of human hearing, language and music. The ability to assign sounds to individuals within aggregations or pairwise interactions in field conditions will enable researchers to answer unresolved questions for a variety of projects across disciplines.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725451</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Casey</LastName>
+<EmailAddress>Michael.A.Casey@dartmouth.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Dominy</LastName>
+<EmailAddress>nathaniel.j.dominy@dartmouth.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Calsbeek</LastName>
+<EmailAddress>ryan.calsbeek@dartmouth.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hannah</FirstName>
+<LastName>ter Hofstede</LastName>
+<EmailAddress>Hannah.ter.Hofstede@dartmouth.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Ayres</LastName>
+<EmailAddress>matthew.p.ayres@dartmouth.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037551404</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROJECTS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

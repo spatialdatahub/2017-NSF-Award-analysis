@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Beyond DFT: Accurate Simulations of Low Dimensional Materials For Energy and Device Applications</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>140000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl W. Hess</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NONTECHICAL SUMMARY&lt;br/&gt;This award supports theoretical and computational research focused on advancing understanding of two-dimensional materials. Two-dimensional (2D) materials possess extraordinary properties. They are among the strongest materials ever discovered and can change from metals to semiconductors and vice-versa just by stacking them in layers, stretching, or doping them. This points to the potential applications of 2D materials in energy storage, batteries, and semiconductor devices. The research team will use highly accurate simulation techniques, called quantum Monte Carlo methods, to illuminate the properties of interesting inorganic 2D materials, the transition metal dichalcogenides and the post-transition metal chalcogenides. Based upon the material properties uncovered, the team aims to "engineer" and model new 2D-materials suitable for electronic devices capable of outperforming traditional devices and using light to split the water molecule to harvest hydrogen for energy. This award also supports the team's efforts to mentor underserved area students through the college applications and annual science fair processes, and to educate a diverse body of younger scientists about the physical sciences as part of local outreach efforts to underserved populations, including local high school Girls Who Code Clubs.  &lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;This award supports theoretical and computational research focused on advancing understanding of two-dimensional materials. Two-dimensional (2D) inorganic materials within the quantum confinement limit are emerging as an important class of nanomaterials for novel applications in information technology, optoelectronics, spintronics, and energy storage and conversion technologies. Because of the effects of enhanced quantum confinement and high surface-to-volume ratios, low dimensional materials possess extraordinary chemical and physical properties, including band gaps and metal-semiconductor transitions whose properties can be tuned by altering their doping and layering. As a result, they can range from insulators to topological insulators to semiconductors, and even, superconductors. Understanding the properties of these materials thus presents a materials research opportunity that could have immediate importance to the future design of semiconductor devices. The team aims to develop high accuracy methods to overcome limitations of first principles density-functional-based approaches, particularly in their application to 2D materials, to enable better understanding of experiments. The method development involves combining Quantum Monte Carlo with cluster expansion methods that are commonly used to model alloys. The team will use these methods to study mono/few layer structures of post-transition metal chalcogenides spanning from metals to gap semiconductors. Direct gap compounds for photovoltaics and photoelectrochemical water splitting applications will be designed using alloying as a means to tune phase stability, and electronic and optical properties. &lt;br/&gt;      &lt;br/&gt;The PIs will use this research to educate a diverse body of younger scientists about the physical sciences as part of local outreach efforts to underserved populations, including local high school Girls Who Code Clubs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726213</AwardID>
+<Investigator>
+<FirstName>Brenda</FirstName>
+<LastName>Rubenstein</LastName>
+<EmailAddress>brenda_rubenstein@brown.edu</EmailAddress>
+<StartDate>04/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

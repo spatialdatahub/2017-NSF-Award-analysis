@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Convertible Data Center Networks</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Part 1:&lt;br/&gt;Increasingly, the main drivers for scientific discoveries and technological advances are data intensive computations that are performed in massive networked computing infrastructures called data centers. Such computations involve moving data between servers and processors across the data center network.   It is important to be able to adapt the network to match changing and evolving network communication demands in order to keep data centers scalable, cost effective, and energy efficient. This project is aimed at solving that problem.  It will develop a new approach for data center networking called 'network convertibility'.   A convertible data center network transforms its structure dynamically and adapts to different network communication demands from data-intensive computations. In doing so, it can provide optimal performance for a wide range of applications without any manual network re-structuring, resulting in a more efficient data infrastructure to serve the many application areas that rely on data analytics.&lt;br/&gt; &lt;br/&gt;Part 2:&lt;br/&gt;This project will develop a network convertibility approach which leverages small port-count converter switches to convert topologies dynamically. The converter switches are strategically placed and finely integrated into the physical data center network design, and serve as the agents for convertibility that can fundamentally alter the network's properties such as average hop count, topological regularity, clustering properties, etc. to adapt to the application needs. The network convertibility approach has the potential to enable bandwidth to be moved to transmission hot spots in a fine-grained manner as needed.  It also has the potential to achieve both easy implementation and high bandwidth performance by allowing the data center network to be organized/implemented as a hierarchical Clos network, but with the ability to convert it to a flatter and less hierarchical network like a random graph. The project will address multiple challenging sub-problems that are broadly classified into (1) building block designs, (2) convertible network designs, and (3) control algorithm designs.  Given a convertible network design, algorithms will be developed to maximize the benefits of the available convertibility for different use cases.  The project will also perform implementation and experimental evaluation on server clusters in the PI's lab.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718980</AwardID>
+<Investigator>
+<FirstName>T. S. Eugene</FirstName>
+<LastName>Ng</LastName>
+<EmailAddress>eugeneng@rice.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>William Marsh Rice University</Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress>6100 MAIN ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

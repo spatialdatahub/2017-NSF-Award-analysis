@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Laser-Stimulated Phosphor Light Sources for Next-Generation Solid-State Lighting</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>746165</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project are numerous and include commercial, societal, environmental, and educational impacts. Commercially, an innovation of this magnitude would enable flexible design illumination, with great control over light placement, beam shape, stray light, and light pollution, all while decreasing the size and complexity of the optics and fixtures required. This will impact the amount of electricity used for lighting, helping to reduce global energy consumption, preserve our environment, and create economic and societal benefits. This project will also result in the employment several technical personnel to carry out the project's technical goals. Educational outreach will continue to impact the local community, students and researchers at nearby institutions, as well as visitors through seminars and workshops on solid-state lighting, materials research, and entrepreneurship. Furthermore, the technical results may also inform future materials research in the development of robust materials, components, and device architectures with optimal properties to advance other areas of solid-state lighting research.&lt;br/&gt;&lt;br/&gt;The proposed project is aimed at achieving deployment of laser-stimulated phosphor technology for illumination in the commercial marketplace. Research in the field of solid-state lighting is advancing towards the goal of ultra-efficient and smart lighting. Exploring laser-stimulated phosphor emission could lead to next generation, energy-efficient light sources, surpassing the limitations of current lighting technologies. Optical modeling and thermal simulations will be used to optimize the optics, phosphor materials, and device architectures to achieve narrow-beam angle, low-etendue, and high color-quality white light sources, while maintaining efficient operating temperature. Secondary components will be designed, including the electronics, packaging, heat sinks; compatibility tested with fixtures and manufacturing processes; and implementation into a light engine compatible in design and functionality with customer-specific applications. Regulatory, safety, and performance testing will be completed to achieve industry-specific standards, by working with regulatory bodies to test lifetime and durability in operating conditions, implementation of safety mechanisms, and photometric testing to ensure performance metrics. Lastly, planning, partnerships, execution, data collection, and reporting of field trail testing of products in real life conditions will result in a fully deployed and tested product, ready for implementation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758320</AwardID>
+<Investigator>
+<FirstName>Kristin</FirstName>
+<LastName>Denault</LastName>
+<EmailAddress>kristin.denault@fluencylighting.com</EmailAddress>
+<StartDate>02/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Fluency Lighting Technologies, Inc.</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931033124</ZipCode>
+<PhoneNumber>9142609785</PhoneNumber>
+<StreetAddress>819 Reddick St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

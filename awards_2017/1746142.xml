@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Accelerating the dissemination of healthcare interventions that improve care for high-need/high-cost patients</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase 1 project includes: accelerating the pace of healthcare improvement by making information on high-need/high-cost patients instantly accessible and individually tailored to health care providers; transforming health intervention databases into active and dynamic learning communities about caring for high-need/high-cost patients; reducing the burden on safety net providers to sort and sift through dozens of information sources about delivering care to high-need/high-cost patients. Health Information Networking Tool (HINT) will be a unique combination of customized algorithms that will fill in critical gaps in knowledge, especially around health disparities, the social determinants of health and underserved conditions; boost opportunities for safety net providers to connect with peers to engage in collaborative problem-solving; reduce duplication and repetition of errors and failed interventions across safety net healthcare organizations; increase public recognition for safety net institutions that develop promising interventions; and enable technical advancements in machine learning to suggest models of care for high-need/high-cost patients. The commercial impact for HINT includes: reducing the cost and improving the quality of care delivered to high-need/high cost populations; and creating opportunities for safety net institutions and providers to market their expertise on caring for complex, underserved patients.&lt;br/&gt;&lt;br/&gt;The proposed project was conceived on the belief that ingenious solutions in caring for society's most vulnerable populations occur daily across the safety net health system; that HINT will accelerate innovation by bringing an unprecedented resource to disseminate voluminous and constantly changing healthcare information; that the proposed information network will reduce the fragmentation of information and duplication in errors and failed interventions that currently occur; and finally that unlocking and disseminating innovations and advice from peers - in similar institutions and caring for similar patients - will accelerate successful practices to improve the health of high-need/high-cost patients. HINT proposes to develop unique crawling, clustering, text mining, collaborative filtering, bipartite matching, and ranking algorithms. The team will integrate the six algorithms into a customized social content management system, and address challenges around design and functionality.</AbstractNarration>
+<MinAmdLetterDate>12/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746142</AwardID>
+<Investigator>
+<FirstName>Fei</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>lifei@cs.gmu.edu</EmailAddress>
+<StartDate>12/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bianca</FirstName>
+<LastName>Finkelstein</LastName>
+<EmailAddress>bianca.finkelstein@healthnetworkresearch.com</EmailAddress>
+<StartDate>12/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Health Network Research Group</Name>
+<CityName>Herndon</CityName>
+<ZipCode>201704425</ZipCode>
+<PhoneNumber>5618628064</PhoneNumber>
+<StreetAddress>11597 Cedar Chase Ro</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CASPER Workshop 2017</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Kurczynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Collaboration for Astronomy Signal Processing and Electronics Research (CASPER) was founded eleven years ago to develop specialized computational methods for radio astronomy.  It has since become a community of hundreds of scientists and engineers worldwide and their methods have become ubiquitous throughout radio astronomy.  Such numerically intensive methods require high-performance computing hardware and specially designed software.  This project will support a conference that provides training and opportunities for students to make contacts with representatives from industry.  Funds will offset costs of student registration, accommodation, and travel.  This workshop will provide students with specialized software development experience and direct access to core developers and experienced researchers.  &lt;br/&gt;&lt;br/&gt;CASPER has a user community of about 600 scientists and engineers worldwide, and it is supported by a current ATI award (AST-1407804).  CASPER supports each of the top-ranked radio astronomy initiatives of the last decadal review.  This project will support the CASPER Conference scheduled for 2017 August 14-18 at the California Institute of Technology.  The workshop will include morning presentations and afternoon tutorials and breakout sessions.  Tutorials will cover developing software for Field-Programmable Gate Array (FPGA) and Graphical Processing Units (GPUs) in support of radio astronomy research goals such as pulsar search and timing, searches for Fast Radio Bursts (FRBs), spectrometers, correlators, and beamformers.  Students will have the opportunity to meet and interact with software developers and experienced researchers.  Presentations from the conference will be made publicly available on the conference and CASPER websites.</AbstractNarration>
+<MinAmdLetterDate>06/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745221</AwardID>
+<Investigator>
+<FirstName>Jonathon</FirstName>
+<LastName>Kocz</LastName>
+<EmailAddress>jxkocz@gmail.com</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

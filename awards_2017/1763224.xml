@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Intelligent Cognitive Assistants (ICA). To Be Held November 14-15, 2017 in San Jose, California.</AwardTitle>
+<AwardEffectiveDate>10/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>49500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shubhra Gangopadhyay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PI requests that the CCSS program, within the ECCS Division of the Engineering Directorate at the NSF, to support a workshop titled workshop titled "Workshop on Intelligent Cognitive Assistants (ICA)" to be held at IBM Almaden Research Center, San Jose, CA on November 14-15,2017. The goal of the workshop titled "Workshop on Intelligent Cognitive Assistants (ICA)" is to identify gaps in science, engineering and technology for developing intelligent, energy-efficient, brain-inspired perception and corresponding devices and systems to support human daily activities and address emerging applications.&lt;br/&gt;&lt;br/&gt;The proposed ICA workshop will gather experts from fields spanning psychology, sociology, artificial intelligence and machine learning, robotics, computer science and engineering, to identify the highest priority research needed to address the scientific and engineering challenges of creating the most effective and beneficial Intelligent Assistant-Human collaboration to address applications such as: elder care, autonomous vehicles, smarter communities, and workplace activities.</AbstractNarration>
+<MinAmdLetterDate>10/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1763224</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Wallach</LastName>
+<EmailAddress>david.wallach@src.org</EmailAddress>
+<StartDate>10/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Semiconductor Research Corporation</Name>
+<CityName>Durham</CityName>
+<ZipCode>277035420</ZipCode>
+<PhoneNumber>9199419400</PhoneNumber>
+<StreetAddress>4819 Emperor Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI SPECIAL STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

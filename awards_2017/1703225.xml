@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Medium: Collaborative Research: Experimental and Robotics Investigations of Multi-Scale Spatial Memory Consolidation in Complex Environments</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>494420</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth C. Whang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Navigation technologies are an increasingly important component of everyday life in an ever more dynamic and complex world. One limitation of these technologies is that they are optimized for a specific spatial scale. Another limitation is that they do not use the knowledge of previous navigation to compute new paths, essentially starting from scratch every time they are invoked. Recent evidence shows, however, that the mammalian brain has evolved to use multiple spatial navigation scales in parallel, and to use spatial memory to improve path planning. How these scales are used and what advantages such uses provide are still unknown. This project hypothesizes that multiscale spatial navigation is crucial in large and cluttered environments. Experiments recording from the neurons of the "brain GPS" system of the rodent (an excellent and efficient spatial navigator) seek to elucidate the basic principles of memory-based multiscale spatial navigation. These experiments will inform new algorithms that will be implemented on a computer to simulate complex multiscale spatial navigation, mimicking the neural computations of the brain. The simulations will then be tested and improved on actual autonomous mobile robots navigating in challenging complex environments.&lt;br/&gt;&lt;br/&gt;The project will use wireless high density neural recording technologies allowing for parallel recording of large populations of individual neurons. Optogenetic techniques will be used to manipulate the activity of these neurons and study their impact on the behavior and spatial memory of the animal. The multiscale pattern of neural activity will be used in the development of a mechanistic computational model, which will be tested in new and arbitrary simulated environments, and generate predictions as to how the neural system might succeed or fail. Finally, the simulations will be ported onto a mobile robot, where the algorithms can be tested and improved when the robot is faced with real sensor noise and unreliable world features.</AbstractNarration>
+<MinAmdLetterDate>09/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703225</AwardID>
+<Investigator>
+<FirstName>Alfredo</FirstName>
+<LastName>Weitzenfeld</LastName>
+<EmailAddress>aweitzenfeld@usf.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336129446</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+</Award>
+</rootTag>

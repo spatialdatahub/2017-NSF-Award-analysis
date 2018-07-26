@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Implementing 21st century geodesy learning through faculty development and expanded applications of data to societal issues</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>112782</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Rom</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Over the last two decades, technical advances in geodesy - the study of the size, shape, and mass of the Earth and their changes with time - have revolutionized our understanding of Earth processes and produced discoveries of major societal impact related to water resources, ice sheet and glacial melting, natural hazards such as earthquakes and landslides, and environmental change. Three collaborating institutions, UNAVCO, Inc., Mount San Antonio College, and Indiana University and other organizations including, Science Education Resource Center (SERC) at Carleton College, the National Association of Geoscience Teachers (NAGT), the American Geophysical Union (AGU) and the Consortium of Universities for the Advancement of Hydrologic Science (CUAHS) will further develop and disseminate undergraduate learning materials that apply geodesy data and methods to critical societal issues, concurrently engaging faculty in significant professional development. A previous award, the GEodesy Tools for Societal Issues (GETSI)"exploratory" Phase 1 (1245025), produced five teaching modules on a subset of geodesy topics, but additional modules, dissemination, and widespread faculty development are needed to fully integrate geodetic data and applications into undergraduate programs, including civil engineering, ecology and forestry. &lt;br/&gt;&lt;br/&gt;The GETSI Phase 2 plan in this proposal will support four components: &lt;br/&gt;1) development of three new teaching modules and three modules adapted from existing modules to work at different curricular levels; &lt;br/&gt;2) twenty or more in-person and virtual short courses on module implementation (&gt;450 faculty served); &lt;br/&gt;3) research on the process of adaption/adoption of curricula by instructors; and &lt;br/&gt;4) research on the challenges and benefits of building modules that serve both geoscience and allied science/engineering students. &lt;br/&gt;GETSI project goals are to: 1) improve geoscience (particularly geodetic) knowledge base of undergraduate students both for general science literacy (introductory courses) and future science workforce (majors-level) and 2) improve effectiveness of teaching resources and pedagogy employed by faculty members teaching geodesy, geoscience, and allied science/engineering fields.</AbstractNarration>
+<MinAmdLetterDate>06/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725332</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Douglas</LastName>
+<EmailAddress>douglasb@indiana.edu</EmailAddress>
+<StartDate>06/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

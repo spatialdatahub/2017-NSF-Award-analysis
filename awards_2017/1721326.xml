@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Adaptive Charging Network for EV and Energy Services</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project will address two societal needs. It will enable mass charging infrastructure for electric vehicles (EVs) at minimal costs, and will enable the provisioning of ancillary services to help integrate renewable energy sources.  This is critical as electricity generation and transportation consume about 2/3 of all US energy and emit more than 1/2 of all US greenhouse gases. To drastically reduce greenhouse gases will therefore require mass adoption of electric vehicles and renewable generation.  CA has a mandate to have 1.5 million zero emission vehicles by 2025 and, currently, half of the nation's EVs are in CA. It has been estimated that the proposed technology can potentially save CA $144M annually in operating costs and $1.1B in capital cost when CA reaches its ambitious goal by 2025. By drastically decreasing the cost of mass EV charging, the proposed technology will also help reduce 5.5 million US tons of greenhouse gases annually in CA.  This project will therefore make an impact in both clean transportation and clean energy.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop theory and algorithms for real-time distributed optimization and control of smart EV chargers. Multiple parties in the smart grid ecosystem, from electricity wholesale market operator, to utility companies, to aggregators, and individual parking facility operators, have their own individual objectives, and make local decisions based on local information, yet their decisions interact over the grid through power flows in intricate ways. The key to an efficient solution is a set of recent mathematical techniques to decompose the global problem into a set of subproblems, to be solved by individual parties, that communicate through local message exchanges. The core challenges this project will overcome pertain to optimization decomposition, scalability, stability, global optimality, and robustness.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721326</AwardID>
+<Investigator>
+<FirstName>Cheng</FirstName>
+<LastName>Jin</LastName>
+<EmailAddress>cheng@powerflexsystems.com</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PowerFlex Systems</Name>
+<CityName>Los Altos</CityName>
+<ZipCode>940223657</ZipCode>
+<PhoneNumber>6265338088</PhoneNumber>
+<StreetAddress>450 1st St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

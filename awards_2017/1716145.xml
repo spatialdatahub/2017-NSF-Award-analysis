@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mathematics and Control of Systemic and High-Frequency Trading Risks</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>225189</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding the dependence structure among defaults of financial institutions is of fundamental importance for the design of policies aiming to enhance financial stability. Contractual, legal, and business relationships among firms may act as a conduit for the transmission and amplification of risks. Under scenarios of financial distress, spillover effects on business counterparties and more broadly on the real economic sectors can be significant. It is thus fundamentally important that financial institutions, holding large portfolios of fixed income securities, can quantify these risks and their systemic implications before making hedging and investment decisions. Equally important for financial stability is to explain the huge volatility spikes of asset prices, periodically observed during flash crash events in markets dominated by high-frequency traders. If these events were happening to a too-big-to-fail institution, the market could be wrecked and government bailout would be necessary, with enormous consequences on taxpayers.&lt;br/&gt;&lt;br/&gt;This project will develop stochastic control techniques for solving fixed income portfolio selection problems in the presence of contagion risk, and analyzing intraday liquidity and price dynamics in high-frequency trading markets. In the first part of the project, the investigator will study recursive systems of nonlinear parabolic partial differential equations arising in the optimal selection and hedging of fixed income portfolios. In the second part of the project, he will develop new numerical techniques for analyzing second order forward-backward stochastic differential equations with jumps, a class of equations arising naturally in high frequency trading when controlling for the inventory risk. The unique structure of these problems will present new mathematical challenges in stochastic analysis, including the study of fully nonlinear partial integro-differential equations, second order forward-backward stochastic differential equations with jumps, and stochastic games associated with these equations.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716145</AwardID>
+<Investigator>
+<FirstName>Agostino</FirstName>
+<LastName>Capponi</LastName>
+<EmailAddress>ac3827@columbia.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

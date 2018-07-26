@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Convergence NNA: Navigating the New Arctic- Understanding Future Systems of Transportation in Arctic Regions, a Workshop Proposal</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>98823</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane McKnight</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The workshop will consider future innovations in transportation technology and policies in the Arctic that could address challenges associated with rapid climate change. One transportation challenge, for example, is the limited network of roads which are now being undermined by permafrost thaw and flooding; while another challenge is the subsistence based rural economies which may face food shortages. The workshop will bring together a number of natural and social scientists and engineers with relevant expertise to consider how autonomous and robotic transportation might address transportation challenges of the new Arctic in the context of social, cultural, economic and environmental systems.&lt;br/&gt;&lt;br/&gt;The workshop will consider future innovations in transportation technology and policies in the Arctic that could address challenges associated with rapid climate change. This workshop proposes not only to look at the technological and engineering advancements of robotic transportation but to expand collaborations between engineers, social and natural scientists in order to develop new convergent ways of thinking about this technology and its social and environmental impacts.  These issues are particularly relevant in the north because of the long distances, rural economies, fragile environments, and majority Indigenous communities that pose both opportunities and challenges to robotic transportation, particularly within the context of globalizing social and economic systems and environmental change.  The workshop will be structured to enhance convergent outcomes through a combination of lightning talks, co-design exercises and recombining the initial organizing committees into convergence teams. The workshop will promote convergence by focusing on the critical societal concern of limitations to inland transportation in the Arctic and by bringing together experts from many relevant disciplines of social science, natural science and engineering to devise new creative approaches to address these limitations.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744410</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Kantor</LastName>
+<EmailAddress>kantor@ri.cmu.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Wettergreen</LastName>
+<EmailAddress>dsw@ri.cmu.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jodi</FirstName>
+<LastName>Forlizzi</LastName>
+<EmailAddress>forlizzi@cs.cmu.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7699</Code>
+<Text>ICER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8078</Code>
+<Text>INSPIRE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>060Z</Code>
+<Text>Convergent Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5219</Code>
+<Text>ARCTIC SYSTEM SCIENCE PROGRAM</Text>
+</ProgramReference>
+</Award>
+</rootTag>

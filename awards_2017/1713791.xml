@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Testing General Relativity with Galaxy Surveys</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>300929</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard E. Barvainis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cosmology has made tremendous advances in the last decade, and we now have a highly predictive model for the emergence of structure in the Universe, which draws upon a rich set of ideas from high energy physics, gravitation theory, and astrophysics.  However, this model requires one very surprising ingredient, an accelerating expansion of the Universe.  This acceleration poses the most profound question in physical science today with even the most prosaic explanations demanding the existence of a new constituent ("dark energy") with exotic physical properties.  More extreme alternatives include extra spatial dimensions or a breakdown of General Relativity on cosmological scales.  Luckily, the motion of galaxies allows us to probe dark energy and to test General Relativity.  Turning this realization into a precision tool is the goal of this project.&lt;br/&gt;&lt;br/&gt;The project aims to develop the insight that large-scale structure can provide as a probe of dark energy and modified gravity.  By combining state-of-the-art modeling and new analysis methods with the massive new data sets being accumulated from redshift surveys, it is possible to simultaneously measure the growth rate of cosmic structure and the cosmological geometry using redshift-space distortions.  The investigators will validate and apply models rooted in perturbation theory to the most constraining subsets of existing near-future data sets to generate a consistent meta-analysis of the current state of the field.</AbstractNarration>
+<MinAmdLetterDate>08/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713791</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>White</LastName>
+<EmailAddress>mwhite@berkeley.edu</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

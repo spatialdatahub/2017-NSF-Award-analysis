@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Convergence QL:Workshop on Quantum Elements of Secure Communication</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop brings together researchers to discuss current topics and trends in quantum communications. This meeting addresses a central issue belonging to the NSF's Quantum Leap Big Idea, related to development of secure and scalable modes of communication based on quantum phenomena. Participants come from a diverse pool of convergent disciplines, ranging from chemistry, materials sciences, engineering to physics and quantum information. A post-meeting report is planned to summarize the current status and challenges in the field. Members of underrepresented groups and minorities will be encouraged to apply.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745810</AwardID>
+<Investigator>
+<FirstName>Edwin</FirstName>
+<LastName>Barnes</LastName>
+<EmailAddress>efbarnes@vt.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sophia</FirstName>
+<LastName>Economou</LastName>
+<EmailAddress>economou@vt.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8078</Code>
+<Text>INSPIRE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>060Z</Code>
+<Text>Convergent Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

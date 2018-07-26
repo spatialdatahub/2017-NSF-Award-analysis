@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:   Magnetic Induction Based Communications for Fresh Food  Distribution Monitoring</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Transportation and distribution of fresh food is a huge and growing enterprise due to increasing consumption and expectations of "freshness" from the public. Yet, fresh food transportation and distribution (T&amp;D) is very inefficient in terms of substantial spoilage and wastage, dismal utilization of T&amp;D capacity, and large energy and carbon footprint for transportation and storage. Furthermore, fresh food is almost entirely responsible for large annual incidence of food borne illnesses in the US and elsewhere. The purpose of this research is to develop basic communications and localization technologies for online monitoring of the freshness and contamination in fresh food as it flows through the T&amp;D system starting at a packaging center up to the retailer or institutional customer.  Fresh food is usually packed in boxes, which are further stacked into pallets or other bigger packages and carried on carriers (e.g., trucks) or stored in warehouses on their way to the distribution endpoints.   Assuming a suitable sensor and a radio deployed in each box, the research explores the communication of food quality and contamination out to the next level (e.g., truck or warehouse). This would enable deployment of large scale information technology infrastructure for monitoring and decision making to enhance food freshness, safety and traceability, reduce food waste, and increase T&amp;D utilization and energy efficiency.  &lt;br/&gt;&lt;br/&gt;The box level communication is quite challenging using normal radio frequency (RF) mechanisms due to very densely packed radios, a difficult radio propagation media (tissue, water, salts), and the need for extremely low energy consumption. The key proposition of this research is that Magnetic Induction (MI)-based communication can work reliably in this environment with very low energy consumption. Through actual experiments and simulations, this research will develop the MI channel model for a variety of situations (e.g., different types of fresh food products, boxes, box arrangements) and study key issues of isotropicity, interference, and impact of conductive material (e.g., truck walls). It will exploit the characterization to study two key functionalities: (a) use of multihop MI communications to forward sensed data to a "hub node" located in the truck/warehouse, from where it can use RF communications technologies for forwarding, and (b) reliable localization, or identification of the box sending the data.  The research will also study mechanisms to maximize sensor lifetimes to multiple years so that battery change issues are largely avoided.</AbstractNarration>
+<MinAmdLetterDate>08/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744187</AwardID>
+<Investigator>
+<FirstName>Krishna</FirstName>
+<LastName>Kant</LastName>
+<EmailAddress>kkant@temple.edu</EmailAddress>
+<StartDate>08/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Depicting Innovation in Information Technology</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>396575</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The very success of the industry sectors that produce information technology (IT) and the pervasiveness&lt;br/&gt;of IT products and services in daily life can obscure the interacting roles that industry, government, and&lt;br/&gt;academia play in conducting IT research and translating results into new products, services, and&lt;br/&gt;industries. This project will update earlier illustrations of such phenomena such as how much industry&lt;br/&gt;builds on government-funded university research, the long incubation periods sometimes needed for&lt;br/&gt;research to be translated into major industry activities, the steady work and funding required to get from&lt;br/&gt;initial exploration to large-scale commercial deployment, the interdependencies between research&lt;br/&gt;advances in different subfields, and the complex nature of the IT research "ecosystem." This project will&lt;br/&gt;also build on earlier work by adding updated examples of research investments and impacts.&lt;br/&gt;&lt;br/&gt;A National Academies of Sciences, Engineering, and Medicine committee will update the "tire tracks"&lt;br/&gt;figure published in CSTB's 2012 report Continuing Innovation in Information Technology. Drawing on a&lt;br/&gt;literature review, input from experts, and suggestions solicited from the relevant communities, it will&lt;br/&gt;identify emerging research areas and significant new industries, products, and firms. Using a graphical&lt;br/&gt;approach similar to that used in 2012, it will depict the interconnections across research areas and with&lt;br/&gt;the creation and evolution of IT industry sectors. It will illustrate the roles of industry, academia, and&lt;br/&gt;government in computing innovation and the development of IT products, services, and industries and&lt;br/&gt;consider if and how these roles may have evolved since the last report. In addition to presenting&lt;br/&gt;established computing research areas and industry sectors, it will also consider emerging candidates in&lt;br/&gt;both categories. A National Academies report will be prepared containing the figure together with a&lt;br/&gt;review of lessons learned about the structure and nature of information technology research and its&lt;br/&gt;impacts. Two derivative products will be prepared: (1) a brochure containing the figure and a summary of&lt;br/&gt;the report's analysis and (2) a Web interactive infographic that links the figure to more detail on selected&lt;br/&gt;topics and connections drawn from earlier Academies work and other sources.</AbstractNarration>
+<MinAmdLetterDate>09/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748756</AwardID>
+<Investigator>
+<FirstName>Jon</FirstName>
+<LastName>Eisenberg</LastName>
+<EmailAddress>jeisenbe@nas.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Academy of Sciences</Name>
+<CityName>Washington</CityName>
+<ZipCode>200012721</ZipCode>
+<PhoneNumber>2023342254</PhoneNumber>
+<StreetAddress>500 FIFTH STREET NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MATDAT18:  Materials and Data Science Hackathon</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>148810</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl W. Hess</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Division of Materials Research, the Division of Information and Intelligent Systems, and the Division of Mathematical Sciences contribute funds to this award. It supports the organization of a "data hackathon" in which interdisciplinary teams, each composed of both materials researchers and data scientists, will work together to apply advanced data science methods to address important, challenging problems in the intrinsically interdisciplinary field of materials research. The goal of this hackathon is to spark new collaborations in which important, challenging problems in materials science are addressed in novel ways by leading methods in data science.&lt;br/&gt;&lt;br/&gt;The exponential increase in materials data and in available computing power has made it possible to generate and analyze large amounts of materials data. Initiatives such as the Materials Project have created publicly accessible databases containing the structure and properties of tens of thousands of materials. In addition to these general-purpose resources, individual research groups are generating large data sets for more specific materials research problems. One of the leading challenges in materials science and engineering is determining how to best make use of this abundance of materials data in the process to design and discover new materials with desired properties and accelerate their deployment in existing technologies and innovate new technologies. Despite the considerable progress that has been made in the application of data analytics and machine learning to materials science in recent years, there is still a fundamental problem in that most experts in materials science and engineering are not experts in data science, and data scientists are not experts in materials research. This "data hackathon" activity is aimed to bring the materials research community and the data science community together to attack significant problems where a data-centric approach may be able to make progress and to stimulate collaboration among the communities. &lt;br/&gt;&lt;br/&gt;This "data hackathon" will be fundamentally interdisciplinary by construction. Small groups of researchers representing both data and materials sciences will work face-to-face for several days on substantial materials problems. It is hoped that materials researchers are exposed to cutting-edge statistics and machine-learning techniques, and data scientist are motivated to develop new methods to analyze the novel data streams produced by materials researchers. The participant application process will also emphasize inclusion of junior researchers and under-represented groups.</AbstractNarration>
+<MinAmdLetterDate>09/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748198</AwardID>
+<Investigator>
+<FirstName>Sanguthevar</FirstName>
+<LastName>Rajasekaran</LastName>
+<EmailAddress>rajasek@engr.uconn.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Ferguson</LastName>
+<EmailAddress>alf@illinois.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Mueller</LastName>
+<EmailAddress>tmueller@jhu.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Reich</LastName>
+<EmailAddress>brian_reich@ncsu.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>024Y</Code>
+<Text>BD Spokes -Big Data Regional I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8069</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028Z</Code>
+<Text>BD Spokes Full Awards</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+</Award>
+</rootTag>

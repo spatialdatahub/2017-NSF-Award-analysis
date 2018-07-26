@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR - TT: High Efficiency Hydraulic Pump-Motors Employing Partial Stroke Piston Pressurization</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project focuses on translating a discovery on how to vary the power of hydraulic pumps and motors in a simple and effective manner to fill the need for high efficiency hydraulics in a variety of applications.  The new technology is called "partial stroke piston pressurization (PSPP)".  Hydraulic pumps and motors are often run at a small fraction of their maximum power, and they are typically very inefficient when run at that operating point.  PSPP is important because it saves energy at low power operation, which occurs frequently, thereby reducing global energy consumption.  Power will be saved in a large variety of applications where hydraulics are employed including: off-road vehicles (e.g., construction equipment), stationary equipment (e.g., hydraulic elevators and industrial presses), and aircraft (e.g., landing gear and wing articulation).  Furthermore, reduced power consumption by pumps and motors enables dramatic systems-level savings; for example, engines and cooling systems can also be down-sized.  The project will also have economic impact by expanding the domain of products where hydraulics provide optimal solutions; for example, PSPP pumps and motors may make hydraulic hybrid on-road vehicles competitive with electric hybrids, and they may facilitate the capture and storage of renewable energies, such as wind and wave energy.  &lt;br/&gt;&lt;br/&gt;The project will result in a working prototype of a PSPP pump to be demonstrated on a skid-steer loader.  The pumps and motors developed in this project are unique in utilizing hydro-mechanical rotary valves to implement PSPP.  They are also unique in utilizing hydraulic power exclusively in internal control circuits; e.g., no electric controls nor mechanical cams are needed.  These features provide higher durability, increased up-time, lower total and life-cycle costs, and increased ease of maintenance when compared to the leading competing technology in this market space, which instead utilizes electro-hydraulic valving.&lt;br/&gt;&lt;br/&gt;This project addresses the following technology gap(s) as it translates from research discovery toward commercial application:  First, analytically projected efficiency gains will be experimentally demonstrated on an existing first prototype by developing improved manufacturing methods for the valving systems.  Second, efficiency will be further increased by applying a rigorous analysis-driven design methodology to optimize the valving systems.  Third, the cost of PSPP pumps and motors will be reduced through the application of advanced manufacturing strategies.  &lt;br/&gt;&lt;br/&gt;In addition, graduate and undergraduate students involved with the project will receive technology translation experiences by working with industrial manufacturers to demonstrate the advantages of PSPP pumps on skid-steer loaders.&lt;br/&gt;&lt;br/&gt;The project engages KoMotion Technologies, LTD, to guide commercialization aspects in this technology translation effort from research discovery toward commercial reality.  KoMotion has extensive practical experience in leading new hydraulic pump and motor technology from concept development, through production launch, and into large scale global commercialization.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Division of Industrial Innovation and Partnerships and the Division of Engineering Education; reflecting the alignment of this project with the respective goals of the two divisions and their programs.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700747</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Chase</LastName>
+<EmailAddress>trchase@umn.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Perry</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>lixxx099@umn.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: The Effects of Robots on the Economy</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100738</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>cassidy sugimoto</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project provides funding for the first data to be systematically collected on the annual expenditures on robots by American manufacturing establishments. Robot technology has advanced rapidly in a number of areas, and the cost of using robots has declined. As a result, more and more U.S. businesses are using robots for a wide range of tasks, which has led to speculation about whether robots will replace workers, or have other impacts on our economy and society. The data collected by this project will help researchers to investigate how expenditures on robots affect a wide range of economic outcomes and help policy makers to assess possible policy responses. &lt;br/&gt;&lt;br/&gt;Existing surveys rely instead on national or industry level counts of robot shipments. This project collects establishment level data on robot expenditures from an additional question added to the Annual Survey of Manufacturers (ASM). The ASM samples approximately 50,000 manufacturing establishments annually, and the population of approximately 300,000 manufacturing establishments every five years. This project will use establishment-level data on robot expenditures to study the effect of robot expenditures on the number and wages of workers at these establishments, establishment-level revenues, and other establishment-level measures of productivity. The data will also be aggregated to local and regional levels to study how expenditures on robots affect regional economies, including regional-level measures of manufacturing value-added, labor force participation, and unemployment, among others. Moreover, as the data will be collected via a recurring annual survey, it is possible to study robot expenditures trends, within-establishment effects of robot expenditures on establishment-level outcomes, and longer-term effects of robot expenditures on labor, productivity, and regional economies.</AbstractNarration>
+<MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748045</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Seamans</LastName>
+<EmailAddress>rcs10@nyu.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8800</Code>
+<Text>SCIENCE RESOURCES STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8800</Code>
+<Text>SCIENCE RESOURCES STATISTICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

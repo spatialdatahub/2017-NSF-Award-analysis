@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Principles And Resources For Integrating Computational Thinking Into High School Science Courses</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>1249632</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Haury</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As computing has become integral to the practice of science, technology, engineering and mathematics (STEM), the STEM+Computing program seeks to address emerging challenges in computational STEM areas through the applied integration of computational thinking and computing activities within STEM teaching and learning in early childhood education through high school (preK-12). This project will integrate computational thinking with biology and chemistry in high school science courses, and conduct research to generate knowledge about: (1) How to create instructional experiences for all high school students that engage them in computational thinking (CT) in their learning of science; (2) What teachers require to effectively provide these experiences as a regular part of their science program; and (3) How to measure student engagement in and learning of CT in the context of science.  The general aim of this project is to expand understandings of how CT can be infused into all high school science courses by examining the needs teachers who want to implement computational science curriculum modules, and researchers who want to measure outcomes of student learning experiences in computational science curriculum modules. &lt;br/&gt;&lt;br/&gt;This exploratory integration research project will be implemented in three phases (development, pilot, and field trial) and will conduct mixed-methods studies of curriculum adaptation, teacher preparation and support, and measurement of student instructional experiences and outcomes. Three research questions guide the activities of this project: (1) How can computational thinking be operationalized in high school science courses? (2) What do high school teachers need to understand and believe to promote computational thinking in their science courses and to teach science using computational thinking? And (3) How can computational thinking integrated into science instruction be rigorously measured? The development phase will span the first two years of the project, and will result in: (1) Development of four CT curriculum modules: two for high school biology courses and two for high school chemistry courses; and (2) Development of prototype instruments for measuring CT.  The Pilot phase, taking place in year two of the project, will involve four selected teachers who teach science (two biology teachers and two chemistry teachers) and the students in two of their classes each (approximately 200 students total). The Field Trial phase in year three of the project will include a residential institute for 12 participating teachers (six biology teachers and six chemistry teachers). The institute will prepare them to teach the modules. During the year, each participating teacher will enact the modules in two of their science classes, involving their students also as participants in the research (approximately 600). During implementation, project team members will provide guidance to teachers through webinars, user community interactions, and just-in-time support.</AbstractNarration>
+<MinAmdLetterDate>09/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741831</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Heck</LastName>
+<EmailAddress>dheck@horizon-research.com</EmailAddress>
+<StartDate>09/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joan</FirstName>
+<LastName>Pasley</LastName>
+<EmailAddress>jpasley@horizon-research.com</EmailAddress>
+<StartDate>09/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Gotwals</LastName>
+<EmailAddress>gotwals@ncssm.edu</EmailAddress>
+<StartDate>09/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Horizon Research Inc</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275142296</ZipCode>
+<PhoneNumber>9194891725</PhoneNumber>
+<StreetAddress>326 CLOISTER CT</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+</Award>
+</rootTag>

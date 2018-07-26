@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Topics in Temporal Marked Point Processes: Granger Causality, Imperfect Observations and Intervention</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Event sequences are ubiquitous in many important applications. For example, a major earthquake may trigger many after-shocks and a specific disease in early life leads to many symptoms and diseases later on.  A fundamental question is how different types of events relate to each other and how one type of event causes the occurrence of another type of event. The objective of this project is to address this question by leveraging the probabilistic and statistical methodology of temporal marked point processes, which models the instantaneous likelihood of an event occurrence using history dependent intensity functions. The project will specifically investigate the notion of causality that provides a general framework for tackling the problem of how to control a temporal marked point process. To make the methods practical, the project will also investigate statistical learning problems when point process data are noisy and incomplete. This research targets health informatics and e-commerce. For healthcare, the research has the potential to uncover clinically meaningful comorbidity in disease progression as well as to optimize treatment regimes for the purpose of improving healthcare outcomes. For e-commerce, the research has the potential to improve companies' operational efficiency and enhance user experiences.&lt;br/&gt;&lt;br/&gt;This project will focus on machine learning and data mining methodology and algorithms for modeling, learning and control of temporal marked point processes. The goal is in understanding and modeling of how the occurrences of a specific type of events at present and future depend on the occurrences of events of the same and other types happened in the past, and how this dynamic dependency exhibits heterogeneity across a population and across time. Ultimately, it will leverage knowledge of the dynamic properties of temporal marked point processes to design intervention policies to change their time evolution so as to achieve more desirable outcomes.  The technical core of the project is to develop intensity based causal dynamic models of temporal marked point processes with the goal to extend Granger causality to the context of temporal point processes, to make algorithms for temporal marked point processes more practical by systematically investigating inference algorithms under a variety of imperfect observations and to develop methods for the manipulation and control of the time evolution of temporal marked point processes in order to achieve more desirable outcomes.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717916</AwardID>
+<Investigator>
+<FirstName>Hongyuan</FirstName>
+<LastName>Zha</LastName>
+<EmailAddress>zha@cc.gatech.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

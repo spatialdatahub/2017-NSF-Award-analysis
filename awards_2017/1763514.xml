@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCF: Medium: Enabling Real-Time Quantitative Decision Making over Streaming Data</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardAmount>683237</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A key component of an effective Internet of Things (IoT) system is the ability to make decisions in real-time in response to data it receives. While the exact logic for making decisions in different applications requires domain-specific insights, it typically relies on computing quantitative summaries of large data streams in an efficient and incremental manner. Programming the desired logic is challenging due to the enormous volume of data and hard constraints on available memory and response time. This project aims to assist IoT programmers in meeting this challenge by designing a query language with natural and high-level constructs suitable for processing streaming data, supported by a compiler and run-time system to facilitate deployment while meeting the constraints of desired accuracy, memory footprint, and real-time response.&lt;br/&gt;&lt;br/&gt;The design of the query language draws upon insights from two distinct paradigms: extensions of relational query languages for handling streaming data, and state-based languages for runtime monitoring and synchronous programming. The novel integration of linguistic constructs allows the programmer to impart input data stream a logical hierarchical structure  and also employ relational constructs to partition the input data by keys and to merge data streams from different sensors. While theory of approximation and streaming algorithms allows exploration of trade-offs among language features, accuracy, and processing time during compilation, distributed platforms such as Apache Storm are used for high performance processing.  Two application domains, device monitoring for physiological patient data and dynamic monitoring of network traffic for anomalies, are used for experimental evaluation. A course module on predictable real-time decision making is being developed, and can be used in an undergraduate course on data science, in graduate courses on database systems and cyber-physical systems, in summer schools, and as tutorials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1763514</AwardID>
+<Investigator>
+<FirstName>Zachary</FirstName>
+<LastName>Ives</LastName>
+<EmailAddress>zives@cis.upenn.edu</EmailAddress>
+<StartDate>04/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajeev</FirstName>
+<LastName>Alur</LastName>
+<EmailAddress>alur@cis.upenn.edu</EmailAddress>
+<StartDate>04/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Boon Thau</FirstName>
+<LastName>Loo</LastName>
+<EmailAddress>boonloo@cis.upenn.edu</EmailAddress>
+<StartDate>04/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sanjeev</FirstName>
+<LastName>Khanna</LastName>
+<EmailAddress>sanjeev@cis.upenn.edu</EmailAddress>
+<StartDate>04/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

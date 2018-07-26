@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Lift Management for Unsteady Translating Wings Using a Rotating, Swept Wing Tip</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>299658</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ronald Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Drone aircraft have an ever-increasing role in society, with both civilian and defense applications.  A key research area is the development of small-scale, agile drones that can maneuver alone or in groups in complex environments.  Such scenarios include search-and-rescue operations, tracking a toxic gas plume, or collecting large-scale data such as city traffic patterns.  However, these vehicles are susceptible to loss of control during maneuvers because of turbulence and wind gusts. This project will seek to better understand and prevent this loss of control by modifying the wing-tip shape in real-time in order to control the lift force in these scenarios.  Imaging and lift measurements in a water tank with a scaled wing model will lead to a predictive mathematical model for improved future flight-control systems.  This project also has an outreach plan that focuses on mentoring female high-school, undergraduate, and graduate students and engaging them through hands-on research.&lt;br/&gt;&lt;br/&gt;The objective of the proposed research is to investigate the viability of a variable wing tip to control the flow coherence and lift for a dynamically-stalled wing during high-angle-of-attack, unsteady translation.  In this scenario, a swirling, low-pressure leading-edge vortex forms over the wing and yields large lift, but then sheds.  The proposed moveable wingtip will exploit tip-vortex control to increase lift for high-angle-of-attack maneuvers or reduce lift for gust alleviation.  The proposed variable wing tip is unique, combining rotation with aft sweep, which should produce a more attached and coherent vortex flow and substantial lift control.  Experiments will be performed with scaled models in a water tank, using dye visualization, force measurements, and stereo particle image velocimetry for 3D velocity reconstructions.  The experimental results will be used to develop a predictive model for improved flight-control methods.</AbstractNarration>
+<MinAmdLetterDate>06/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1706453</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Ringuette</LastName>
+<EmailAddress>ringum@buffalo.edu</EmailAddress>
+<StartDate>06/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Amherst</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: IA: Harnessing Language and Interaction Dynamics at Multiple Scales to Maximize the Benefits of Group Interaction</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>983479</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian D. Humes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Internet has enabled new kinds of interaction among people at a wide variety of scales, ranging from small groups to global social networks. The data arising from these new forms of interaction have been challenging to integrate because of how they span this wide range of scales; yet without this integration, we cannot understand how micro-level group interactions build up to macro-scale behavior or how macro-level factors shape small group interaction. A key data-science challenge is to bridge this gap between the micro- and macro-levels; and a crucial but relatively unexplored part of this challenge resides in the lack of conceptually useful models and techniques at the intermediate scales in between. This project investigates online social interaction data at different levels of scale, and develops methods for bridging the extremes by taking into account not just the global scales but also the intermediate meso-scale interaction (constituting interactions among hundreds or thousands of participants). Developing methods for handling the meso-level of data not only poses scientifically rich questions in its own right but also allows for transformative theory building across micro- and macro-level phenomena. &lt;br/&gt;&lt;br/&gt;The project brings together researchers from a wide range of backgrounds to develop new ways of understanding and designing online interaction across different levels of scale. The research seeks to identify new forms of sub-structure that arise as the scale of the group increases to meso-scale and on to global scale; to identify new ways of maintaining an effective flow of ideas and processes for reaching consensus when the number of participants in a discussion grows signi&amp;#64257;cantly; and to develop techniques for addressing the increased potential for conflict and polarization when people can participate at a boundary between recognizability and anonymity. &lt;br/&gt;&lt;br/&gt;The project team combines multiple research perspectives, with broad expertise in analyzing social interaction data and developing models of social network dynamics; opinion extraction, summarization and argument mining; modeling conversational behavior; large-scale data analysis of pragmatics of language, including persuasion and information spread; and computer-mediated communication, social computing and human-computer interaction. In addition to the underlying research questions, the project also seeks to provide new knowledge that companies and organizations building meso-scale platforms can adopt to maximize the effectiveness of their sites; to add to research infrastructure through the release of datasets, code, and working applications; to impact education through the interdisciplinary training of graduate and undergraduate students, including students from underrepresented groups; and more generally to create mechanisms that can make online interactions more productive.</AbstractNarration>
+<MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741441</AwardID>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Fussell</LastName>
+<EmailAddress>sfussell@cornell.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lillian</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>llee@cs.cornell.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Cardie</LastName>
+<EmailAddress>cardie@cs.cornell.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jon</FirstName>
+<LastName>Kleinberg</LastName>
+<EmailAddress>kleinberg@cs.cornell.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cristian</FirstName>
+<LastName>Danescu-Niculescu-Mi</LastName>
+<EmailAddress>cristian@cs.cornell.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

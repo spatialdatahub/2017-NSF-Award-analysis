@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Agro-combs: Development of a mid-infrared dual-comb spectrometer for the detection of agriculturally significant gases</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>1692426</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Kansas State University to support a team of world-class physicists and agronomists to develop a dual-comb laser spectroscopic system for the detection of agriculturally significant gases. This system is based on the Nobel-prize winning concept of the optical frequency comb and is hereby called an "agro-comb". The most critical agricultural challenge is to double crop production by 2050 to meet surging world food demand. To do so, plant, soil and environmental scientists need accurate data on the concentrations of multiple agriculturally significant gases at relevant time and spatial scales. Such data are indispensable for applications such as crop breeding, nutrient management, crop water use, and livestock gas emission monitoring. The agro-comb will support a collaborative group of interdisciplinary users from Kansas State University and throughout the United States and Canada. Broader impacts of this project include the training of young researchers in this highly interdisciplinary research area. Important societal outcomes also include potentially commercial technology which could widely influence precision agriculture management, breeding programs, and other areas. Project scientists will team up with existing University outreach programs to offer summer research opportunities to undergraduate students and hands-on activities for middle-school children, particularly girls. Furthermore, they will present related science to children throughout Kansas via a traveling lecture series, among other outreach activities.&lt;br/&gt;&lt;br/&gt;The agro-comb is a mid-infrared laser system for the simultaneous measurement of multiple trace gas concentrations with high sensitivity over a 10 m path. The intellectual merit of the research is the sensitive detection of agriculturally relevant gases in the field, with the unprecedented combination of speed, spectral width, and sensitivity that dual-comb spectroscopy offers. The agro-comb's broadband but discrete nature will permit the high-resolution detection of carbon dioxide and water, including forms that incorporate deuterium, carbon-13, and oxygen-16 isotopes, with a single open-path instrument. Such simultaneous measurements, never before possible, are key to understanding the carbon and water cycles by improving knowledge of photosynthesis, soil respiration and evaporation, and plant transpiration. These measurements can be made over individual sub-plots of different crop varieties, to expand the ability to connect a plant's traits to its genetic composition. The agro-comb will also be used to detect important gases such as methane, nitrous oxide, and ammonia, which can be used to monitor gaseous losses of nitrogen from soils and methane emissions from feedlots.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726304</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Welch</LastName>
+<EmailAddress>welchsm@ksu.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristan</FirstName>
+<LastName>Corwin</LastName>
+<EmailAddress>corwin@phys.ksu.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Washburn</LastName>
+<EmailAddress>washburn@phys.ksu.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eduardo</FirstName>
+<LastName>Santos</LastName>
+<EmailAddress>esantos@ksu.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>Manhattan</CityName>
+<ZipCode>665061100</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>2 FAIRCHILD HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Interacting atoms in optical lattices</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>204075</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Cronin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study the quantum mechanical behavior of atoms in one dimensional (1D) gases.  This is important because 1D gases are one of the few many-body systems for which exact quantitative predictions can be made about their quantum states.  In comparison, most other quantum many-body systems are not "integrable," and therefore are much more challenging to describe.  For this project, ultracold atoms will be prepared and then confined in 1D traps using laser light.  The atomic momentum distributions in these 1D gases will be precisely measured under a variety of conditions, and this will serve as a benchmark test for advanced theoretical approaches that are being developed to understand many-body quantum systems.  This project is also designed to observe quantum many-body phenomena such as "dynamical fermionization" and "prethermalization."  These experiments will motivate new theoretical approaches that will also be relevant for nuclear and condensed matter physics, and will lead to a deeper understanding of quantum many-body phenomena such as superconductivity, magnetism, and quantum information processing.  Students working on this project will learn advanced atomic physics research techniques that will prepare them for careers in academia or high tech industry.&lt;br/&gt;&lt;br/&gt;This team will work on three sets of measurements related to the momentum distributions of 1D Bose gases, using a technique that is dramatically more precise than previous approaches. The first set of measurements will be of equilibrium momentum distributions with intermediately and strongly coupled gases, for a range of temperatures. These will be compared to new theoretical calculations. Any disagreement would indicate that the 1D gases do not have a thermal distribution, despite their extremely gentle preparation starting from equilibrated 3D gases. The second set of measurements will entail the first observation of dynamical fermionization, where the initially bosonic momentum distribution of a Tonks-Girardeau gas transforms into that of a non-interacting Fermi gas, thus directly revealing the underlying conserved quantities in this system. The third set of measurements will measure the early stages of prethermalization after a quantum quench. The quench will be a Bragg scattering pulse, and the part of the ensuing evolution that is related to the point contact interactions is much faster than typical evolution in a trap. Comparisons with recently developed theory will be made. For the latter two sets of the measurements it is beyond existing theoretical methods to perform these dynamical calculations in the intermediate coupling regime. But the investigators propose to perform the experiments there as well, thus setting benchmarks for theorists to work toward.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707576</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Weiss</LastName>
+<EmailAddress>dsweiss@phys.psu.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

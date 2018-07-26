@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Digital Instrumentation for the Radio Astronomy Community: The Next Generation of CASPER</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>1208681</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Kurczynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Collaboration for Astronomy Signal Processing and Electronics Research (CASPER) was founded eleven years ago to develop specialized computational methods for radio astronomy.  It has since become a community of hundreds of scientists and engineers worldwide and their methods have become ubiquitous throughout radio astronomy.  Such numerically intensive methods require high-performance computing hardware and specially designed software.  Declining costs and technological advance of this hardware mean that old CASPER methods are in danger of becoming obsolete. This project will develop a modern version of the CASPER toolkit, known as JASPER.  This new toolkit will enable a wide range of scientific discoveries.  The collaboration is also known for providing training for students and early career researchers.  This project will continue ongoing, highly successful conferences that provide such training and industry contacts for academics.  The PIs also plan to release the JASPER toolkit as open source and build upon the existing user community around the language by ensuring that interested researchers are able to contribute to the JASPER codebase. This will allow a wider growth of the project. This aspect is of special interest to the software cluster in the Office of Advanced Cyberinfrastructure, which has provided co-funding for this award.&lt;br/&gt;&lt;br/&gt;This project will update the current offering of Field-Programmable Gate Array (FPGA) design tools and software to support the latest generation of hardware.  Preliminary development has already begun.  This project will expand into a flexible, well documented framework.  This award will also support continued migration away from expensive proprietary platforms (i.e. Matlab, Simulink) toward freely available, open source software written in Python.  It leverages progress in the computing industry, which has surpassed hardware development in radio astronomy.  This project will provide infrastructure to cost-effectively build the next generation of astronomical instrumentation, including wide-band spectrometers, transient-detection machines, large N correlators and high-pixel-count, millimeter wave cameras.</AbstractNarration>
+<MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711254</AwardID>
+<Investigator>
+<FirstName>Anthony C.</FirstName>
+<LastName>Readhead</LastName>
+<EmailAddress>acr@astro.caltech.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Werthimer</LastName>
+<EmailAddress>danw@ssl.berkeley.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David Robert</FirstName>
+<LastName>DeBoer</LastName>
+<EmailAddress>ddeboer@berkeley.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Hickish</LastName>
+<EmailAddress>jackh@berkeley.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6892</Code>
+<Text>CI REUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

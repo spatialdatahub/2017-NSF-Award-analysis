@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Convergence QL: Ideas Lab Workshop: Practical Fully-Connected Quantum Computer Challenge (PFCQC), Santa Fe Institute, August 28 - September 1, 2017</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>98750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan B. Blagoev</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF "Ideas Lab: Practical Fully-Connected Quantum Computer Challenge (PFCQC)" described in the NSF solicitation 17-548 will be held at the Santa Fe Institute in Santa Fe, NM, from August 28 to September 1, 2017. Researchers from a broad range of disciplines, including physics, engineering, and computer science, will work together to develop promising new techniques that can address the challenge of developing and operating a practical fully-connected quantum computer. The funds will cover travel and expenses for 28 Ideas Lab participants: 24 invited participants and 4 mentors. These expenditures will be administered by the Santa Fe Institute, NM. Practical quantum computing has the potential to transform cryptography, secure communication, material and drug design, the efficient simulation of physical systems, and our ability to solve a host of optimization problems in science and industry. Current work strongly suggests that quantum computers have moved past the stage analogous to the first transistor; several technologies are now reminiscent of the first integrated circuit, and are showing signs that they can scale up to the point where quantum computers will exceed classical ones in practice. Focusing on and incubating these technologies at this juncture could usher in a new digital revolution. &lt;br/&gt;&lt;br/&gt;Recent advances in the laboratory are bringing large-scale quantum computing closer to fruition, with several technologies that show promise of scalability. In particular, fully-connected architectures-where one can control interactions between any pair of qubits at will-offer truly programmable quantum computers, as opposed to specialized hardware devices hardwired to solve a fixed type of problem. Programmable quantum devices like these could finally make quantum algorithms a reality, such as Shor's factoring algorithm, Grover's search algorithm, and algorithms for efficiently simulating quantum Hamiltonians relevant to condensed matter physics, high energy physics, materials science, molecular biology, and drug design. Even devices with ~30 qubits could exceed the capabilities of classical computers, as well as providing tests of "quantum supremacy" confirming the theoretical computational power of quantum mechanics.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744320</AwardID>
+<Investigator>
+<FirstName>Cristopher</FirstName>
+<LastName>Moore</LastName>
+<EmailAddress>moore@santafe.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Santa Fe Institute</Name>
+<CityName>SANTA FE</CityName>
+<ZipCode>875018943</ZipCode>
+<PhoneNumber>5059462727</PhoneNumber>
+<StreetAddress>1399 HYDE PARK ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7244</Code>
+<Text>COMPUTATIONAL PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>060Z</Code>
+<Text>Convergent Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

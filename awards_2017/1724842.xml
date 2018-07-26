@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Comparing infants' and adults' learning of three types of linguistic generalizations</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>315978</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Maling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research addresses two puzzles about language: Only humans have it, and learning a language as an infant results in better language skill than learning as an adult.  Learning a language entails discovering rules, such as the English rule that the plural ending on nouns either sounds like "z" as in "kids" or like "s" as in "kits". In simplified terms, the rule is: add the "z" sound if the word ends in a voiced consonant ("d" is made with vocal cords vibrating) OR add the "s" sound if the word ends in a voiceless consonant (no vocal cord vibration for "t"). 11-month-olds can learn an "OR" rule from just 4 words of an invented language, but adults cannot learn the rule even from 76 words. Non-human animals, like human adults, also fail to learn OR rules in the visual domain (e.g., press the button for either small black squares OR large white triangles). Thus, infants are adept at learning a type of rule that is frequent in human language, but that adults and animals do not easily learn. Understanding why infants succeed so easily promises to reveal differences in how adults and infants learn language, and will perhaps allow superior, infant-like, language learning by computers.&lt;br/&gt;&lt;br/&gt;Infants are exposed to words from an invented language that reflects one of three types of rules (the OR rule or 2 other types that are more easily learned by adults and animals). Their rule learning is tested by measuring their attention to new words that reflect the same or a different rule. Adults are exposed to the same words under several conditions that are designed to improve learning of the OR rule. Their rule learning is tested by asking them to rate new words on their similarity to the words that they just heard.</AbstractNarration>
+<MinAmdLetterDate>06/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1724842</AwardID>
+<Investigator>
+<FirstName>LouAnn</FirstName>
+<LastName>Gerken</LastName>
+<EmailAddress>gerken@email.arizona.edu</EmailAddress>
+<StartDate>06/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1698</Code>
+<Text>DS - Developmental Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1698</Code>
+<Text>DEVELOP&amp; LEARNING SCIENCES/CRI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

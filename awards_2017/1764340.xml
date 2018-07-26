@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Coordinated Rainfall Analysis of Hurricane Harvey</AwardTitle>
+<AwardEffectiveDate>11/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2018</AwardExpirationDate>
+<AwardAmount>99557</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The landfall and slow movement of Hurricane Harvey created one of the most exceptional precipitation events on record in the United States.  This rapid response award will result in the creation of a research-quality rainfall analysis product that can be used by hydrologists, meteorologists, and engineers to study flooding and extreme rainfall events.  Traditional rainfall analysis products are limited by potential errors in the underlying data and differences in how ground-based measurements are mixed with weather radar estimates of rainfall.  The researchers in this project will collect data about the rain gauges and test the various analysis techniques to provide a product that has high spatial and temporal resolution and quantifiable uncertainty estimates.  The impact of the project will be to help improve simulations of urban flooding and to better understand extreme precipitation events.  Local high school students will work on teams to collect data for the project, introducing them to scientific research activities.&lt;br/&gt;&lt;br/&gt;The research team will create a foundational set of rainfall data, metadata, and analyses for use in atmospheric, hydrologic and engineering studies of extreme precipitation events.  One of the main project goals is to create a level of consistency and accuracy of the information that goes into the rainfall analyses.  The research team will work with other stakeholders to establish metadata needs and standards and then collect the metadata from the network operators.  Different rainfall analysis techniques and the sensitivity of the analyses to technique and parameter choices will also be assessed.  One result of the project will be to provide analyses and uncertainty quantification to the research community.  Other aspects of the research project will be to place Harvey's rainfall into historical context and to establish a dataset for comparison of rain gauge network performance.</AbstractNarration>
+<MinAmdLetterDate>11/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764340</AwardID>
+<Investigator>
+<FirstName>Brent</FirstName>
+<LastName>McRoberts</LastName>
+<EmailAddress>mcrobert@tamu.edu</EmailAddress>
+<StartDate>11/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Nielsen-Gammon</LastName>
+<EmailAddress>n-g@tamu.edu</EmailAddress>
+<StartDate>11/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

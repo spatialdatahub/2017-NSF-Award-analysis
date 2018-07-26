@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:BIC - Flexible,equitable, efficient, and effective distribution (FEEED)</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops a smart service system to assist hunger relief organizations, like food banks, in the Flexible, Equitable, Efficient, and Effective Distribution (FEEED) of food to those in need. One in eight people in America struggle with hunger. Food banks try to connect excess food to these families in need but face many challenges. The true need is uncertain; donated food has a limited shelf life; warehouse networks and receiving agencies have capacity constraints; and the donated food supply is unpredictable in timing, quantity, and quality. These challenges are becoming increasingly complex as food banks must distribute food equitably to those in need, efficiently maximize donated supply, minimize waste and distribute food in a cost effective manner. The existing tools used by food banks provide information to facilitate all levels of decision making but are limited in their ability to (i) provide a comprehensive picture; (ii) recommend improvements; and (iii) learn from and respond to the highly dynamic and uncertain environment. FEEED will synthesize data from various sources to automatically predict, visualize, learn from decision maker?s actions, and identify strategies to advance operational effectiveness of food collection, distribution, and resource management and fundamentally transform the way food banks operate.&lt;br/&gt;&lt;br/&gt;FEEED advances the management of complex dynamic distribution systems that require intelligence to effectively utilize data to improve decision making. This research project will involve the exploration and development of: (1) a novel, stochastic modeling framework to adapt to the dynamically changing objectives of the human decision maker, thus enabling the system to learn over time and more effectively recommend solutions tailored to the decision maker's preferences; (2) an intelligent operational guidance engine and knowledge base that help food bank staff operationalize complex modeling into their daily processes; (3) a framework for synthesizing and managing big data in the humanitarian relief sector; and (4) human/machine communication modalities that facilitate user understanding and visualization of smart system analysis, predictions and recommendations. This research addresses the critical intersection of humanitarian relief, engineering, computer science and industry by linking donations management and food distribution to supply chain management and forges a relationship necessary to address this significant global challenge. The proposed research integrates discovery in industrial engineering and computer science with industry best practice knowledge for the development of technology that can be applied for flexible, equitable, efficient, and effective humanitarian relief operations worldwide.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718672</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Jiang</LastName>
+<EmailAddress>xjiang@ncat.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>lbdavis@ncat.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>Greensboro</CityName>
+<ZipCode>274110001</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E. Market Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

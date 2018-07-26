@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  All-Carbon, Chemically Cross-Linked 3D Nano Assemblies for Liquid Chromatography</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the development of high-performance all-carbon reverse-phase high-performance liquid chromatography (HPLC) column packing material. Customers of the $1.3 Billion/year HPLC column market include life science, biochemical, industrial, nutritional safety, environmental, agricultural, process engineering, academic and governmental organizations. Reversed-phase columns account for the majority of HPLC column market. Upon market entry, our technology will attract customers whose analysis requirements fall outside the capabilities of current silica- (Hydrophobic alkyl chains typically comprising of 18 carbon atoms (C18) bonded to silica support) or graphitic carbon-based columns as well as those who are seeking faster more efficient analysis at a lower cost. It will also attract customers seeking next-generation performance capabilities for separation of structurally similar compounds, biologics, biobetters or biosimilars. Molecules would include geometric isomers and diastereoisomers (e.g., chiral drugs such as thalidomide), biogenic (e.g., catecholamines or other hormones that are modulated in many neurologic disorders such as Alzheimer Disease). Macromolecules include structurally similar compounds (e.g., hemoglobin variants in sickle cell anemia) and many drug metabolites (e.g., glucuronide in opioid metabolites) and drugs of abuse (e.g., cannabis).&lt;br/&gt;&lt;br/&gt;This SBIR  Phase I project proposes to establish the technical feasibility of a chemically-crosslinked all carbon column material for reverse phase HPLC.  Chromatography technology plays a key role in the development of life-saving pharmaceutical products and medical therapies, ensuring the safety of our food and water, protection of our environment and guarding public health. Reversed-phase HPLC columns employ a hydrophobic stationary phase. Typical silica-based reverse phase HPLC columns are not durable, are challenged by elevated pH and temperature and lack sufficient retention for highly polar and closely related structures. The newer graphitic carbon HPLC columns are prohibitively expensive and neither scalable nor functionalizable for improved selectivity. Our technology's key differentiator is at the molecular surface level, where our novel proprietary fabrication technology directly connect carbon nanomaterials with covalent bonds, producing scalable all-carbon column materials. Our overall objective during Phase I is to identify the optimal column packing conditions and characterize the chromatographic performance of the columns as a function of pH and temperature and ability to separate structurally similar small compounds and biologics. Successful completion of the proposed research and development plan will allow us to finalize highly differentiated all-carbon nanomaterial column prototypes that will offer unparalleled chemical and thermal stability, best-in-class recovery, excellent separation efficiency and increased column longevity at a significantly lower cost.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746697</AwardID>
+<Investigator>
+<FirstName>Balaji</FirstName>
+<LastName>Sitharaman</LastName>
+<EmailAddress>balaji@millennialmaterials.com</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Millennial Materials and Devices Inc</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117903350</ZipCode>
+<PhoneNumber>6316554736</PhoneNumber>
+<StreetAddress>Long Island High Tech Incubator</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: In-cloud Destination-driven Distributed Denial of Service Filtering</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to improve security by providing the strongest levels of network destination control with minimum deployment requirements. This project addresses the problem of Distributed Denial-of-Service (DDoS) attacks on the Internet, which have been used in recent years to silence a variety of organizations, including companies, governments, and non-profits. The proposed mechanism defends against such DDoS attacks, and can improve Internet availability for a variety of customers. Bringing a DDoS-prevention mechanism to market prevents attackers from silencing and denying service to their targets, enabling increased availability to deployments of such systems.&lt;br/&gt;&lt;br/&gt;This I-Corps project explores the commercial potential for a cloud-based traffic filtering technology.  The technology combines two significant, but distinct, approaches to Distributed Denial-of-Service (DDoS) prevention - commercial approaches that perform in-cloud filtering to remove the most obvious DDoS traffic, and academic approaches that perform in-network filtering based on protocol-specific fairness criteria. The technology explored combines the in-cloud filtering of existing commercial approaches, together with a mechanism called "capabilities" in the academic approaches, to create an in-cloud, destination-driven enforcement of per-flow bandwidth allocations. This destination-driven approach can enforce a wide variety of destination-specified policies with a single mechanism, and each destination can choose the traffic that it wishes to prioritize. As a result, the same mechanism can to be used to defend against DDoS attacks and to provide priority to certain traffic.</AbstractNarration>
+<MinAmdLetterDate>11/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758179</AwardID>
+<Investigator>
+<FirstName>Yih-Chun</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>yihchun@uiuc.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

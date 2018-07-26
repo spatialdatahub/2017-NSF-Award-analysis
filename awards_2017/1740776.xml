@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>TRIPODS: Transdisciplinary Research Institute for Advancing Data Science (TRIAD)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project creates the Transdisciplinary Research Institute for Advancing Data Science (TRIAD) at the Georgia Institute of Technology.  TRIAD aims to integrate research and education in mathematical, statistical, and algorithmic foundations for data science. Analysis of massive, dynamic, noisy, and complex data arising in virtually every sphere of human activity is a pressing challenge of our time, and an area of great importance for its economic and societal impact. TRIAD will address the growing challenges in establishing the foundations of data science, much of which lies at the intersection of computer science, statistics, and mathematics. TRIAD's intellectual focus is to design and build transdisciplinary research programs that provide an enabling and cross-fertilizing platform of ideas and stakeholders (including theoreticians/scientists from domain sciences and users of technology). TRIAD hosts focused working groups, national and international workshops, and organized innovation labs. Participants include senior, mid-career, and junior faculty members, postdoctoral fellows, graduate and senior undergraduate students, and data science practitioners at large. All TRIAD activities involve interdisciplinary personnel from the three foundational disciplines. TRIAD deploys information technology and communication infrastructure to quickly and efficiently disseminate its research and activities, while the research community at large can easily access and comment/critique TRIAD's choice of research programs and topics. The institute aims to create an intellectual atmosphere that connects theoreticians and practitioners, scientists, and engineers from across the nation and worldwide on a regular basis.&lt;br/&gt;&lt;br/&gt;TRIAD enriches careers of participants ranging from undergraduate students to senior researchers from around the nation. Postdoctoral fellows and graduate students are introduced to collaborative research in the institute activities and through workshops. TRIAD makes prudent efforts to reach out to diverse communities, including participants from smaller colleges and institutions serving under-represented minorities. TRIAD actively engages in outreach through public lectures, press releases, and dissemination via other internet channels. TRIAD works with associated professional societies to provide stimulus to data-science-related initiatives. Additional activities (such as customized workshops) will combine interactive projects and field trips to acquaint undergraduate and/or high school students from all over the U.S. with data-science-related techniques and the themes of TRIAD's year-long programs. Every effort will be made to make products and lectures available online and to enable remote participation.  Funds for the project come from CISE Computing and Communications Foundations and MPS Division of Mathematical Sciences.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740776</AwardID>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Randall</LastName>
+<EmailAddress>randall@cc.gatech.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Prasad</FirstName>
+<LastName>Tetali</LastName>
+<EmailAddress>tetali@math.gatech.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivas</FirstName>
+<LastName>Aluru</LastName>
+<EmailAddress>aluru@cc.gatech.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaoming</FirstName>
+<LastName>Huo</LastName>
+<EmailAddress>xiaoming@isye.gatech.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>C. F. Jeff</FirstName>
+<LastName>Wu</LastName>
+<EmailAddress>jeffwu@isye.gatech.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>041Y</Code>
+<Text>TRIPODS Transdisciplinary Rese</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>047Z</Code>
+<Text>TRIPODS Phase 1</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+</Award>
+</rootTag>

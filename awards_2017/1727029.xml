@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a differential scanning calorimeter for undergraduate research and training</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>84362</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation Programs. Professor Gerald Van Hecke from Harvey Mudd College and colleagues are acquiring a differential scanning calorimeter (DSC).  A differential scanning calorimeter measures the temperature that a material undergoes a change in phase (for example from solid to liquid), the heat necessary to promote the phase change, and glass temperature changes.  The capacity of a material to adsorb heat (heat capacity) and the detection of polymorphic crystals can be studied. The instrument is used in research on atmospheric aerosols and the study of potential materials for thermal energy storage media. The DSC provides research opportunities in calorimetry at Harvey Mudd, sister Claremont Colleges, and at least two local community colleges which greatly increases the training of young researchers in this technique. &lt;br/&gt;&lt;br/&gt;This calorimeter enhances research and education at all levels. It aids researchers in thermally characterizing aqueous atmospheric aerosols and in exploring eutectic and peritectic behavior in binary mixtures of simple carboxylic liquids.  These later materials have potential use in thermal energy storage materials.  Finally, the DSC is used to determine the thermal and phase properties of emergent materials for coupling magnetism to ferroelectric crystalline propwerties above ambient temperature.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727029</AwardID>
+<Investigator>
+<FirstName>Lelia</FirstName>
+<LastName>Hawkins</LastName>
+<EmailAddress>lhawkins@g.hmc.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Eckert</LastName>
+<EmailAddress>james_eckert@hmc.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerald</FirstName>
+<LastName>Van Hecke</LastName>
+<EmailAddress>gerald_vanhecke@hmc.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvey Mudd College</Name>
+<CityName>CLAREMONT</CityName>
+<ZipCode>917115901</ZipCode>
+<PhoneNumber>9096218121</PhoneNumber>
+<StreetAddress>301 Platt Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+</Award>
+</rootTag>

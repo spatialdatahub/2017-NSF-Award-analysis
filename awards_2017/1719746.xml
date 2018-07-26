@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Conference in Geometric Topology</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>45000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides partial support for participation by U.S.-based mathematicians at an international conference in geometric topology to be held in Tuscany, Italy, during June 5-9, 2017. Topology is the study of the properties of spaces that do not depend on a way to measure distance; this conference focuses on those spaces that arise in geometric contexts such as surfaces and three-dimensional spaces (with the universe we live in being one example). The conference will feature both research talks on the latest developments in the area and three mini-courses designed for advanced graduate students and other early career mathematicians. The conference will provide an opportunity for those conducting cutting-edge research to present their results and a venue for discussion and collaboration among established researchers and junior mathematicians in the field. This award will allow a significant number of U.S.-based early-career mathematicians to attend, and a majority of this funding will support these mathematicians.&lt;br/&gt;&lt;br/&gt;The conference will focus primarily on low-dimensional hyperbolic geometry, and, more generally, geometric structures on manifolds. Mini-courses on character varieties and knot symmetries, arithmetic hyperbolic 3-manifolds, and renormalized volume will provide an introduction to several of the emerging trends in the field. This will be complemented by research talks from a distinguished international group of speakers.  More information on the conference can be found at &lt;br/&gt;http://www.dm.unipi.it/~martelli/Cortona2017/Cortona.html</AbstractNarration>
+<MinAmdLetterDate>06/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719746</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Canary</LastName>
+<EmailAddress>canary@umich.edu</EmailAddress>
+<StartDate>06/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Bromberg</LastName>
+<EmailAddress>bromberg@math.utah.edu</EmailAddress>
+<StartDate>06/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

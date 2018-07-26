@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Quality of Experience and Network Management in the Encrypted Internet</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardAmount>91631</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen L. Fisher</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>While encryption is essential for security and privacy, it limits the ability of content providers (e.g. Netflix and YouTube) and mobile network operators (e.g. AT&amp;T and Verizon) to effectively and efficiently deliver content to users. First, encryption limits the ability of content providers to maintain effective control over modern applications such as augmented reality or virtual reality (AR/VR) video streaming. Second, encryption limits the ability of mobile network operators to efficiently share the scarce radio spectrum among their many users. These issues can significantly degrade users' Quality of Experience (or QoE). The goal of this project is to improve QoE of modern applications in the increasingly encrypted Internet. &lt;br/&gt;&lt;br/&gt;This project will investigate implicit and explicit cooperation between network operators and content providers for QoE and network management in the encrypted Internet. First, the project will investigate implicit cooperation between network operators and content providers through machine learning based analysis of encrypted traffic. Second, the project will investigate in-band and out-of-band protocols and API frameworks for explicit information exchange between network operators and content providers. The project investigates a spectrum of innovative approaches for cooperative QoE and network management, ranging from clean slate approaches to the ones that are backward compatible and incrementally deployable. The proposed research will help improve Internet experience of modern high-throughput low-delay applications such as AR/VR video streaming, especially for users in underserved areas with poor Internet connectivity. The project will also engage undergraduates and under-represented minority students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750175</AwardID>
+<Investigator>
+<FirstName>Zubair</FirstName>
+<LastName>Shafiq</LastName>
+<EmailAddress>zubair-shafiq@uiowa.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

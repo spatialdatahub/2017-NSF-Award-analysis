@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Secure Mobile Cloud Sensing</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mobile Cloud Sensing (MCS) is a promising paradigm for collaborative information collection and sharing in emerging smart cities. MCS is based on the fundamental principle of Sensing-as-a-Service and enables on-demand network access to a shared pool of sensing hardware and software that can jointly sense urban physical/social environments. The major conceptual difference of MCS from existing mobile sensing paradigms lies in the introduction of MCS providers, each having virtually owned an extremely large sensing infrastructure comprising heterogeneous smartphones and tablets (called sensing agents). Upon request from a smart-city application which may demand realtime or historical sensed data, an MCS provider either coordinates its distributed sensing agents to jointly perform the sensing task and then return the sensed data or respond with historical sensed data previously collected from its sensing agents.&lt;br/&gt;&lt;br/&gt;This project is to investigate several fundamental security and privacy challenges associated with MCS. Specifically, there are four main thrusts in this project: (1) developing a suite of secure and privacy-preserving data aggregation primitives; (2) designing differentially-private sensing task assignment mechanisms; (3) developing a unified framework for verifiable query processing via untrusted smart-city service providers; and (4) building a prototype MCS system for validation and evaluation. The project also actively channels the research results into undergraduate and graduate curriculum, provides research experience for undergraduate and under-represented students, and includes outreach activities to K-12, underrepresented, and oversea students.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718078</AwardID>
+<Investigator>
+<FirstName>Rui</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>ruizhang@udel.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197162553</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

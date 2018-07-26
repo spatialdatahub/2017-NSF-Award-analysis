@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Organic Molecular Paleohypsometry: A new approach to quantifying the topographic history of the most rapidly eroding mountain belt on Earth</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardAmount>95813</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen S. Harlan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Movement of Earth's tectonic plates controls the formation of mountains, affects the frequency and magnitudes of earthquakes and influences the transport and burial of carbon responsible for the formation of hydrocarbon reservoirs. Despite the critical importance of mountains in shaping geologic hazards, sediment export and global environmental conditions, there are few ways of quantifying their growth over time. This project is focused on development of a new tool to quantify changes in the paleoelevation of mountains that will have implications for geophysics, the oil and gas industry and studies of surface change. This project benefits society by contributing to the development of a globally competitive STEM (science, technology, engineering and mathematics) work force by providing support for graduate student training in a core STEM discipline. Further societal benefits include support for the integration of earth science education into Connecticut State Science Standards through the creation of a new STEM education outreach collaboration with Hartford area STEM Magnate schools that serve a majority minority population. This outreach program, entitled "Mountains, Rivers and Carbon", provides traditionally-underrepresented students with hands-on exposure to earth science research, routine engagement with the principal investigator, and opportunities for students to participate in a workshop at the University of Connecticut campus that bridges sampling in a modern river with activities in a working lab and engagement with university faculty and students. The research is also fostering the development of new international collaborations between U.S. and Taiwan scientists.&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;This research is developing a new geochemical tool to reconstruct the paleoelevation history of mountain belts based on the isotope chemistry of organic matter preserved in sedimentary archives. This method, entitled Organic Molecular Paleohypsometry, exploits the measured and predictable variation in the stable isotope composition of water and organic matter as a function of elevation. Organic matter sourced from different elevations is characterized by distinct stable isotopic signatures, and changes in the isotope chemistry of sedimentary organic matter should reflect changes in the integrated elevation of the source area. The method is being tested, refined and applied to Taiwan, one of the fastest uplifting and eroding regions of the globe, but a region for which no paleoelevation technique has been applicable, until now. Calibration of this method includes sampling of modern river waters, soils and sediments from across Taiwan to quantify how the isotope chemistry of organic matter in river sediments reflects the chemistry of organic material from across mountainous catchments. This approach will be applied to geologically-recent marine and terrestrial floodplain sediment cores from the Gaoping river and submarine canyon to examine short-timescale effects on organic molecular signatures during the recent late Pleistocene global deglaciation. In addition, the proposed research focuses on the analysis of 5 million year and younger sediments from basins along western Taiwan to test whether organic molecular records of the Taiwan orogen show that it was uplifted simultaneously along the length of the island, or experienced a southward propagation of high topography over the last 1.5 million years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1752815</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Hren</LastName>
+<EmailAddress>michael.hren@uconn.edu</EmailAddress>
+<StartDate>04/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1572</Code>
+<Text>TECTONICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

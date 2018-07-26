@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A UAV Mounted Frequency Domain Terahertz Spectrometer for Real-Time, Location Specific, Pollution Detection</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>224601</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to create an economical, high performance Terahertz (THz) spectrometer mounted to a consumer drone or Unmanned Aerial Vehicle (UAV) to allow testing of air for the presence of harmful compounds over a specific geographical location. A frequency domain THz spectrometer is capable of characterizing many different molecules and chemicals in a gas sample. Historically these spectrometers have been relegated to the laboratory because of their size and complexity. However, recent advancements have made it possible to build a lightweight spectrometer that can be mounted to a drone. This is significant because the ability to analyze samples locally removes the time and expense of collecting and shipping potentially dangerous compounds (i.e. chemical warfare agents or pollutants) to a laboratory for analysis. It also allows detection and classification to occur on short notice and without the need to subject personnel to the local environment. The THz Drone will allow immediate and accurate detection of many harmful compounds in the air.&lt;br/&gt;&lt;br/&gt;The proposed project will demonstrate a compact, battery operated, frequency domain THz photomixing spectrometer that is capable of Doppler limited molecular spectroscopy and is constructed predominantly from economical off-the-shelf fiber optic components in a highly compact, light-weight form factor. The brass-board instrument will incorporate an optical phase-modulation technique to remove the effects of coherent detection and it will have a greater than 2 THz bandwidth with a spectral purity of better than 100 kHz. After construction, the instrument will be employed to measure Doppler limited molecular transitions of carbon dioxide mixed with water vapor. Upon the successful demonstration of the capabilities of the instrument, a first-draft design for an integrated system weighing less than 3 kg and capable of being carried with a consumer drone will be generated as will a larger laboratory version of the instrument.</AbstractNarration>
+<MinAmdLetterDate>06/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721831</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Demers</LastName>
+<EmailAddress>federal@bakmantechnologies.com</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bakman Technologies LLC</Name>
+<CityName>Sherman Oaks</CityName>
+<ZipCode>914034910</ZipCode>
+<PhoneNumber>6269930305</PhoneNumber>
+<StreetAddress>15462 Longbow Dr.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

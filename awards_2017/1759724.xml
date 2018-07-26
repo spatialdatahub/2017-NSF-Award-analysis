@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Linking Forest Regeneration, Plant Distributions, and Ecotone Dynamics in Changing Mountain Environments</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardAmount>103974</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sunil Narumalani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project will investigate how distributions of tree species and boundaries between deciduous and coniferous ecosystems respond to changing environmental conditions across multiple spatial scales  The project will expand current knowledge about the mechanisms through which tree seedlings colonize new areas or experience poor recruitment in other areas by testing hypotheses that integrate concepts from theoretical ecology, biogeography of climatic gradients, and invasion ecology.  Using predictive modeling, the project will provide new insights about strategies for adapting to changing climatic conditions in forests that provide valuable ecological and socioeconomic services in the northeastern United States.  Research findings will be disseminated to regional forest management agencies and the general public via presentations or exhibits in regional nature visitor centers, meetings of professional societies and public interest groups, and a public-access website.  The project also will contribute to improved education in science, technology, engineering, and mathematics (STEM) fields through graduate training and expansion of undergraduate participation in research.&lt;br/&gt;&lt;br/&gt;Mountain regions contain spatially compressed elevational gradients in climate and associated biological communities.  As a result, they are vulnerable to environmental changes.  Montane ecotones, such as the transition between low-elevation deciduous and high-elevation coniferous forests, are particularly conducive to detecting changes in species distributions.  Many high-elevation treelines across the globe have advanced upslope in recent decades in direct response to increasing temperature and growing season length.  The investigators will quantify ongoing demographic shifts in tree species to provide an early indicator of potential future changes along elevational climatic gradients of northeastern United States.  They will also analyze how the diversity and composition of forest understories change along elevational climatic gradients, and they will determine how forest understory composition and diversity affect the establishment and recruitment of tree seedlings of various species along spatial environmental gradients.  Understory plant community composition, light environment, microclimate, and tree seedling banks will be characterized and analyzed in closed canopy settings and in forest gaps.  Size-class distributions of tree species over elevation will be analyzed using logistic models.  Understory plant diversity and compositional gradients will be characterized with generalized linear models (GLM) and non-metric multidimensional scaling, and GLM-based tree regeneration models will be developed for each major tree species relative to the environmental gradients and understory vegetation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1759724</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Dovciak</LastName>
+<EmailAddress>mdovciak@esf.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY College of Environmental Science and Forestry</Name>
+<CityName>Albany</CityName>
+<ZipCode>122010009</ZipCode>
+<PhoneNumber>3154706606</PhoneNumber>
+<StreetAddress>PO Box 9</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9198</Code>
+<Text>OTHER ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9278</Code>
+<Text>HUMAN DIMENSIONS OF GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

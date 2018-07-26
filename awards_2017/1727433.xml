@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Non-classical Micromorphic Continuum Model for Granular Microstructure Design</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>380086</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siddiq Qidwai</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports fundamental research for development of new analyses methods that will accurately and efficiently describe the mechanical behavior of granular solids and its relation to microstructure and grain-interactions. Granular solids are ubiquitous and impact diverse areas of engineering and science such as material development, transportation and infrastructure systems, pharmaceuticals and drug delivery, and natural processes in geophysics.  These materials span the spectrum from highly consolidated dense solids formed of particulate precursors to confined packings of non-cohesive particles.  The response of these materials to imposed mechanical loads characteristically exhibits a range of complex behavior.  By manipulating the microstructure and grain-interactions the mechanical behavior can be controlled and additive manufacturing can be exploited to fabricate such materials with predictable properties.  The current methods used for the predicting the mechanical performance of these materials suffer from inefficiencies and inaccuracies. Such knowledge will open the door for the design of novel granular solids that have superior weight-to-stiffness/strength ratio, vibration control capabilities and other unusual properties.   There is an increasing demand for accelerated development of such materials in infrastructure, aerospace, biomedical and automotive industries.  Consequently, the results of this research will have beneficial impact upon the U.S. economy and society.  This interdisciplinary research will draw from a number of disciplines including manufacturing, mathematics, material science and engineering.  The research results and techniques will be highlighted at the campus outreach events designed to attract students into STEM disciplines and recruit students into graduate programs.  The interdisciplinary nature of the project will help attract participation from underrepresented groups and introduction of higher-level mechanics concepts into engineering education. &lt;br/&gt;&lt;br/&gt;The grain-pair interactions and granular structures have a strong effect upon the collective behavior of grains in granular solids.  Therefore, approaches are needed that are different from the many micromechanical or multi-scale methods that have been conceived within the framework of conventional continuum and discrete particle mechanics.  The research project is aimed at developing a novel non-classical micromorphic continuum model using the granular micromechanics paradigm.  The outcome of the project will be the development of tools and methodologies for describing mechanics of these materials and will result in following: (1) continuum model of materials with granular microstructures accounting for fluctuations in grain displacements and grain rotations in the framework of granular micromechanics; (2) rationale for the need for enhanced continuum approach based upon empirical data; and (3) validated methodology for practical application of these models.</AbstractNarration>
+<MinAmdLetterDate>07/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727433</AwardID>
+<Investigator>
+<FirstName>Anil</FirstName>
+<LastName>Misra</LastName>
+<EmailAddress>amisra@ku.edu</EmailAddress>
+<StartDate>07/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kansas Center for Research Inc</Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457568</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress>2385 IRVING HILL RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

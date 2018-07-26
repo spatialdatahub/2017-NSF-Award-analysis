@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  KONTAK Hydrogen Liquid Storage Reactor</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I Project is designed to enable the wide acceptance of hydrogen as a green alternative to gasoline and diesel.  To accomplish this goal, a way had to be found to safely and economically store, transport and use hydrogen.  A class of organic compounds has been discovered that can store hydrogen, release it as needed, and form a recyclable residual compounds. By holding hydrogen on a liquid carrier at normal temperatures and pressures, the cost and complexity of compressing or liquefying hydrogen has been eliminated.  The same infrastructure that supplies us with gasoline, diesel and ethanol can be used without modification to transport this hydrogen liquid. A safe and economical means for capturing, storing, transporting and dispensing hydrogen will enable green technologies for making hydrogen from wind, solar, biomass and tidal energy.  Possibilities exist for using CO2 as a component to make these carrier molecules from hydrated ethanol. Hydrogen can be mixed 50/50 with diesel fuel to cut harmful diesel emissions in half including diesel soot which has been implicated in the rise in childhood asthma.&lt;br/&gt;&lt;br/&gt;This project combines the skills of organic chemists, nanotechnology, 3D fabrication engineers and computer-controlled electronics drivers to deliver a novel result. Achieving uniform heating of a catalytic volume is key to producing the desired output without byproducts and fouling of the catalytic surfaces. Since the anticipated reactions are endothermic and the flow rates for commercial applications are high, the research is focused on developing precise control of heat transfer into the reactor core through design and experiments. The experimental plan also involves evaluation of multiple materials for the induction heating elements, the effect of location in the solenoid barrel of the reactor core, and the various methods available to bind multiple, very small Reactor tubes together to create the Cores. The goal is to demonstrate capability for generating hydrogen output of 33 gaseous liters per&lt;br/&gt;minute for a 5 kW fuel cell.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722037</AwardID>
+<Investigator>
+<FirstName>Barton</FirstName>
+<LastName>Norton</LastName>
+<EmailAddress>bartnorton@me.com</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>KONTAK, LLC</Name>
+<CityName>Redmond</CityName>
+<ZipCode>980537644</ZipCode>
+<PhoneNumber>4254425929</PhoneNumber>
+<StreetAddress>21311 NE 101st Court</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Summer School: Waves and Particles in Random Media, Theory and Applications</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Roytburd</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides partial funding for the summer school "Waves and Particles in Random Media: Theory and Applications" to be held May 21-25, 2018 at Colorado State University, Fort Collins, Colorado. Study of waves and particles in random media is a domain of applied mathematics that involves a wide range of topics from various fields, such as electromagnetism, analysis of partial differential equations, inverse problems, probability and stochastic equations. The main objectives of the school are to offer a basic training in the field of waves and particles in random media in the broad sense, as well as to present the state-of-the-art and new directions of research. Besides the wealth of mathematical techniques, the topic also has a profound impact on many practical problems, for instance, on medical and radar imaging, underwater acoustics, non-destructive testing and seismology. The participants will also be exposed to a great variety of notions in cutting-edge research directions. &lt;br/&gt;&lt;br/&gt;Four distinguished invited speakers will give mini-courses on various aspects on wave propagation, from asymptotic theory to imaging techniques. Top researchers from applied fields involving wave phenomena, agreed to give special presentations. Some sessions of the Summer School will be reserved for young scientists to present their work. More information is available at:&lt;br/&gt;http://math.colostate.edu/~pinaud/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757469</AwardID>
+<Investigator>
+<FirstName>Olivier</FirstName>
+<LastName>Pinaud</LastName>
+<EmailAddress>pinaud@math.colostate.edu</EmailAddress>
+<StartDate>01/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

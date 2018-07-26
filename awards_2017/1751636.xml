@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: A Flexible Optimal Control Framework for Efficient Training of Deep Neural Networks</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardAmount>48457</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthias Gobbert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>One of the most transformative technologies of our time is deep learning, a form of machine learning that uses neural networks containing many hidden layers. Recent success has led to breakthroughs in applications such as speech and image recognition, nourishing public interest. However, more theoretical insight is needed to create a rigorous scientific basis for designing and training deep neural networks, increasing their scalability, and providing insight into their reasoning. This project develops a new mathematical framework that simplifies designing, training, and analyzing deep neural networks. Due to the broad applicability of deep learning, advances made in this project will benefit a wide range of technologies of high economic and societal impact, e.g., driverless cars, drug discoveries, and web searches. The mathematical theory supporting the new algorithms will increase the acceptance of deep learning for delicate tasks, e.g., cancer prediction and cyber-security. &lt;br/&gt;&lt;br/&gt;This project develops a new mathematical framework for deep learning based on the interpretation of deep learning as a dynamic optimal control problem involving nonlinear time-dependent differential equations. This interpretation offers a new way to analyze the successes and failures of deep learning. Advances in deep learning will be made by adapting the wide array of tools available for related optimal control problems, including numerical optimization, partial and ordinary differential equations, inverse problems theory, and parallel processing. Using these currently untapped resources provides rigorous new ways to design and train very deep neural networks that generalize well. Advances in optimal control will be achieved through new hybrid regularization methods, adaptive time discretizations, and large-scale splitting-based optimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1751636</AwardID>
+<Investigator>
+<FirstName>Lars</FirstName>
+<LastName>Ruthotto</LastName>
+<EmailAddress>lruthotto@emory.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emory University</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303224250</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress>1599 Clifton Rd NE, 4th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

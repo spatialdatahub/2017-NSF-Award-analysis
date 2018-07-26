@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Coordination and Information Design</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds research in economic theory that considers how to use information disclosures in order to persuade individuals to coordinate actions to benefit everyone. For example, suppose a bank faces a potential bank run and depositor insurance is not available. In this case, a government policy disclosing information about the bank's full portfolio of loans and excellent long-run profitability could convince depositors to stay with the bank. The research team wants to understand the best ways to disclose information under two different circumstances; first, when all individuals see the disclosures and second, when disclosures can be made to some people but not to others. The project is relevant to many applications in banking and finance and could help to improve policies designed to promote financial stability such as so-called 'stress-tests'.&lt;br/&gt;&lt;br/&gt;The project studies persuasion in markets in which a large number of agents must choose whether to coordinate on a socially-desirable action or else take action against the status quo. Agents are endowed with heterogeneous private information about the underlying economic fundamentals. The analysis focuses on properties of optimal information disclosures, both in the case in which the mechanism designer must disclose the same information to all participants as well as the case of private disclosures. The project combines ideas from separate areas of economic theory: robust mechanism design, persuasion games, and coordination games. The team will also extend their analysis to consider the design of disclosure policies in settings in which the policy maker is uncertain about the initial distribution of beliefs among market participants. They will also consider the possibility of repeated attacks and the characterization of optimal policies in markets in which the designer must solicit information from the entity under scrutiny prior to communicating with the market.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730483</AwardID>
+<Investigator>
+<FirstName>Alessandro</FirstName>
+<LastName>Pavan</LastName>
+<EmailAddress>alepavan@northwestern.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

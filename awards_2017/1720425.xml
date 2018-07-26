@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Topics of Immersed Finite Element Methods</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>125042</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland M. Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Interface problems are ubiquitous. When simulations involve multiple materials or multi-physics, interface problems arise. Many real-world problems in fluid mechanics, material science, mechanical engineering, and biomedical engineering are modeled by three-dimensional interface problems. The immersed finite element methods (IFEM) are a class of numerical methods for solving interface problems on interface-unfitted meshes. Two interrelated problems will be investigated in this research project. The first problem aims to design a self-adaptive IFEM based on the a posteriori error estimation. The second problem focuses on development, implementation, and analysis of three-dimensional IFEM.&lt;br/&gt;&lt;br/&gt;The first problem concerns the study of both residual-based and recovery-based error estimation for various immersed finite element discretizations. These include the immersed finite element approximation in conforming, nonconforming and discontinuous Galerkin frameworks. Rigorous mathematical analysis will be carried out for the reliability and efficiency error estimates of IFEM. The second problem focuses on interface problems of three spatial dimensions. It aims to develop an innovative approach to efficiently construct the three-dimensional immersed finite element functions. These immersed finite element functions will be implemented in various numerical schemes for three-dimensional interface problems. Theoretically, both a priori and a posteriori error estimates will be conducted for new IFEM schemes. Computationally, a three-dimensional IFEM software package will be developed with the feature of adaptive mesh refinement.</AbstractNarration>
+<MinAmdLetterDate>07/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720425</AwardID>
+<Investigator>
+<FirstName>Xu</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>xuzhang@math.msstate.edu</EmailAddress>
+<StartDate>07/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mississippi State University</Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<ZipCode>397629662</ZipCode>
+<PhoneNumber>6623257404</PhoneNumber>
+<StreetAddress>PO Box 6156</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS: INT: RoboBees 2.0 Towards Autonomous Micro Air Vehicles</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In 2009, a group of researchers from Harvard led an NSF Expeditions in Computing project to build a colony of flapping-wing robots, called RoboBees, motivated by the multidisciplinary challenges associated with building and controlling effective robotic insects. The research has been exciting and it has tickled the imagination of many "young and old" through numerous museum exhibits and outreach activities. The severe inherent constraints associated with building at-scale flying robotic insects required many innovations and new technologies at each step. For example, a new manufacturing process called pop-up MEMS was developed to enable mass production of small-scale, foldable devices. New electronics were developed to flap artificial insect-scale wings. A new small-scale computer chip (called the BrainSoC), connected to various sensors, was created to control the robot. The culmination of this work has been exciting demonstrations of RoboBees hovering and maneuvering about within carefully controlled environments. The next phase of this work is to imbue these robots with machine intelligence and autonomy: RoboBee 2.0. The main objective of this proposal will be to teach the RoboBees to fly autonomously.&lt;br/&gt;&lt;br/&gt;Over the past 10 years, while roboticists have been busily building small-scale robots, there has been a surge of activity in machine learning that has led to rapid advances in machine perception and control. For example, the recent success of deep learning can be attributed to the virtuous cycle of (i) more and higher quality data; (ii) faster parallel computation; and (iii) more efficient learning algorithms. The time is ripe to combine these threads of research to develop machine learning-enabled flight control and perception for RoboBees. This project brings together a multidisciplinary team of experts from different engineering backgrounds to build the next generation of RoboBees. The project seeks to push the envelope by targeting the RoboBees platform, which introduces flight dynamics and sensitivity requirements beyond the bleeding edge of what is possible using off-the-shelf components. This effort builds on the existing experimental RoboBee platform at Harvard built with special onboard electronics, which will be used to record large volumes of flight data. This data can then feed exploration of machine learning flight control algorithms, which begins with simple hovering before tackling more challenging maneuvers such as obstacle avoidance and object tracking. Since hand tuning conventional control algorithms is overly cumbersome, focus will be on modern computing paradigms that can be taught rather than programmed. Development and demonstration of autonomous flight control based on deep learning for insect-scale flapping-wing robots will broadly impact the fields of microrobotics, machine learning, energy-efficient computing, and a broad array of autonomous systems, further extending capabilities of autonomy, to a broad range of robotic platforms, from regular vehicles to tiny robots of diverse configurations and applications.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1724197</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Wood</LastName>
+<EmailAddress>rjwood@eecs.harvard.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gu-Yeon</FirstName>
+<LastName>Wei</LastName>
+<EmailAddress>guyeon@eecs.harvard.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Brooks</LastName>
+<EmailAddress>dbrooks@eecs.harvard.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Kuindersma</LastName>
+<EmailAddress>scottk@seas.harvard.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Adams</LastName>
+<EmailAddress>rpa@princeton.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Support for the 2017 Gaseous Electronics Conference</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav S. Lukin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Gaseous Electronics Conference (GEC) is an annual topical meeting of the American Physical Society sponsored under the auspices of the Division of Atomic, Molecular and Optical Physics. It is the leading international conference in the science and technology of Low Temperature Plasmas (LTP) combined with collision physics (CP). The GEC combines aspects of atomic, molecular, and optical physics with low-temperature plasma physics, electric discharges, and plasma chemistry, as well as their technological and medical applications.  The conference has been the venue of the first presentations on world leading developments in investigations of LTP and CP topics including advanced combustion systems, lighting and lasers, plasma materials processing of relevance to the semiconductor and photovoltaics industry, and plasma application in biomedicine. The invited speakers represent the world's leading scientists in these fields.&lt;br/&gt;&lt;br/&gt;This award will pay partial travel support for 20 US PhD students to attend and present the results of their work at the 70th Annual GEC meeting to be hosted on November 6-10, 2017 in Pittsburgh, PA by West Virginia University. This meeting is expected to attract more than 500 plasma scientists, collision physicists, and engineers. This award will provide the opportunity for PhD students to establish peer to peer collaboration with researchers from around the world. The students will have the opportunity to observe first-hand the scientific and cultural diversity of the field, and establish what will hopefully be career long collaborations with their international counterparts. The GEC makes a special effort to support graduate students who are women and underrepresented minorities.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744618</AwardID>
+<Investigator>
+<FirstName>Earl</FirstName>
+<LastName>Scime</LastName>
+<EmailAddress>escime@wvu.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>Morgantown</CityName>
+<ZipCode>265066845</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>P.O. Box 6845</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

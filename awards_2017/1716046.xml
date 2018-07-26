@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF/MCB-BSF: Rare genes and alleles in halophilic archaeal populations and communities</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>817279</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The research will address the following questions: (1) How do microorganisms (bacteria and archaea) diverge and become adapted to new environments? (2) What is the role of rare genes in the adaptation process? Evolution and adaptation of bacterial and archaeal populations, the spread of "selfish" or parasitic genes in those populations, and especially the maintenance of within-lineage variation, in which different microbial cells contain slightly different complements of genes, impacts plant, animal and human life in many ways. This interdisciplinary project combines theoretical explorations with the study of environmental samples and laboratory experimentation on archaea that inhabit saline environments. The project will train its participants in theoretical and computational biology and genetic research that involves genome sequencing, genetic engineering and laboratory tests. The research will involve high-school students and teachers, undergraduate and graduate students, and postdoctoral fellows in an international collaboration to develop and test hypotheses on the long-term survival of rare genes. &lt;br/&gt;&lt;br/&gt;The research will execute the following tasks: (1) Through theory, modeling, and in silico experiments determine which population dynamics can lead to persistence of alleles in the non-core portion of the pan-genome. Find conditions that allow for the emergence of a within population division of labor, and for the within population survival of molecular parasites.  In particular, explore the impact of population bottlenecks, gene flow and recombination within and between populations and species on the persistence of rare genes over time. (2) Determine which community dynamics can lead to the coexistence of alleles and to species diversification. Research will focus on the effect of low or uneven rates of within population gene transfer, possibly due to incompatibility of restriction modification (RM) or targeting by clustered regularly spaced short palindromic repeats (CRISPR) systems and we will explore when a division of labor that arose within a population is expected to lead to diversification. (3) Identify genes having limited distribution in Haloferax spp. and Halorubrum spp. populations and species from genome and meta-genome sequences, characterize these genes through bioinformatics based approaches, and select suitable candidates for genetic experimentation. (4) Perform experiments to determine the effect of selfish genetic elements, RM and CRISPR-Cas systems on recombination and gene frequencies in the off-spring. (5) Perform growth competition experiment in Hfx. volcanii (plus versus minus a gene of interest) to measure fitness cost of genes contributing to the production of a common shared good and for selfish genetic elements.&lt;br/&gt;&lt;br/&gt;This collaborative US/Israel project is supported by the Division of Molecular and Cellular Biosciences and the Office of International Science and Engineering at the US National Science Foundation and the Israeli Binational Science Foundation.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716046</AwardID>
+<Investigator>
+<FirstName>R. Thane</FirstName>
+<LastName>Papke</LastName>
+<EmailAddress>thane@uconn.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Johann Peter</FirstName>
+<LastName>Gogarten</LastName>
+<EmailAddress>gogarten@uconn.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>054y</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

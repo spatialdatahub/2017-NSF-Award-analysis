@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017 Atomic Physics GRC: From Quantum Control to Tests of Fundamental Physics</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Cronin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for student participation in the Atomic Physics Gordon Research Conference (GRC) titled, "From Quantum Control to Tests of Fundamental Physics" and the co-convened Gordon Research Seminar (GRS) titled "Hybrid Atomic Systems in the Quantum Regime."  This conference program includes many of the research topics central to Atomic, Molecular, and Optical Physics and Quantum Information Science.  The support of students through this award makes a substantial contribution to the education and training of future scientists. Students who graduate with a background in atomic, molecular, and optical physics acquire a broad range of knowledge and skills that enable them to contribute to progress in many areas of science and technology. &lt;br/&gt;&lt;br/&gt;The Atomic Physics Gordon Research Conference (GRC) and Gordon Research Seminar (GRS), which this award supports, are scheduled to be held in Newport, RI in June, 2017.   This Seminar offers an opportunity for students to present their research results and to interact with senior scientists primarily from the United States, but also the broader international community.  The Gordon Research Conference offers students an opportunity to learn about atomic physics applications in several fields of science.  Support is provided only for US students (students enrolled in US universities).</AbstractNarration>
+<MinAmdLetterDate>06/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734244</AwardID>
+<Investigator>
+<FirstName>Marianna</FirstName>
+<LastName>Safronova</LastName>
+<EmailAddress>msafrono@physics.udel.edu</EmailAddress>
+<StartDate>06/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

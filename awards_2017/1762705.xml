@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Cytoskeletal Mechanical Transduction of Force in Platelets Attaching in Flow</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>408048</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michele Grimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Platelets are blood cells that help to stop bleeding after injury by forming adhesive bonds to other parts of the blood and body.  They must be able to tell the difference between bleeding and the ordinary forces encountered as they tumble and bump along a healthy blood vessel.  This is important so that platelets don't cause a stroke by spontaneously forming blood clots in healthy vessels.  The biochemical signals governing clotting have been intensely studied, but the response of platelets to mechanical loading is largely unknown. This research will test whether force sensing is important in the 'decision' of a platelet to participate in clotting. The project will identify mechanical cues that trigger platelet responses and the internal signals that communicate the responses inside the cell.  Undergraduate and graduate biomedical engineers will perform the research.  Interactive demonstrations to K-12 students will improve the environment for younger students to participate in science education. This research will benefit society by discovering fundamental knowledge needed to develop new therapies for occlusive thrombosis (stroke) and for some bleeding disorders.&lt;br/&gt;&lt;br/&gt;While mechanical sensing and mechanotransduction (conversion of mechanical to biochemical signals) processes in nucleated cells are beginning to be understood, little is known about the role and existence of mechanotransduction in regulating anucleate platelet adhesive functions in response to their hemodynamic environment. By investigating the platelet actomyosin cytoskeleton, efforts of this work will aim to examine the mechanochemical steps that support firm integrin-dependent platelet adhesion and shape change under varied hemodynamic environments using specialized microfluidic devices, high speed microscopy, single cell force measurements, and nanoscale flow quantification.  We aim to define the platelet hemodynamic forces relative to outside-in-signaling processes that trigger ligand-dependent integrin clustering, assembly of actin-based cytoskeletal complexes, and cytoskeletal reorganization. Dynamic contractile patterns associated with myosin II will be assessed to identify hemodynamic signals that lead to firm adhesion and cell detachment. Lastly, biochemical and biomechanical signals involved in these processed will be defined. This work will improve our understanding of how platelets respond to changes in flow after their initial tethering/adhesion, which is fundamental to processes that lead to normal hemostasis, relative to bleeding or thrombosis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762705</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bark</LastName>
+<EmailAddress>david.bark@colostate.edu</EmailAddress>
+<StartDate>05/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7479</Code>
+<Text>Biomechanics &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>070Z</Code>
+<Text>MB-Mechanobiology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCSS: Small: Universal Feature Selection in Integrated Monitoring of Large Networks</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Akbar Sayeed</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The key challenges of monitoring and managing large networks comes from two sources. First, the network measurement data is multi-modal, with data of different forms, qualities, meanings, and overall several orders of magnitudes higher dimensionality than the current techniques can jointly processing. Second, such network monitoring results are often needed to serve multiple purposes, to answer queries about different aspects of the network behaviors, to understand at a microscopic level of how the interconnected components interact. The goal of this project is to apply a new geometric approach of feature selection to reduce the high dimensional network measurement data into a much more manageable lower dimensional feature space, where efficient algorithms can be applied to understand network behaviors, identify suspicious activities, and optimize network resource allocations. The success of this project can lead to new interfaces to network status, better network operations, as well as new approaches to improve cyber security. &lt;br/&gt;&lt;br/&gt;The main technical contribution of this project is based on a novel formulation of "universal feature selection", with the goal of finding features from the data that is universally informative to a collection of possible queries. A geometric-based analysis method is developed to give quantitative solutions to such problems. Comparing to the tradition information metrics that only quantify the volume of information, the geometric framework helps to give rise to a new notion of "information vector", which can be used to quantitatively measure the meaning of a piece of information and the relevance to a specific query. Feature selection based on such a geometric structure can thus connect the information processing operations to these new information metrics, providing guidance of optimization and theoretical guarantees of the performance. The project is thus based on a theoretic framework that is general, connecting several different branches of statistics. The network monitoring problem is a particularly</AbstractNarration>
+<MinAmdLetterDate>06/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711027</AwardID>
+<Investigator>
+<FirstName>Lizhong</FirstName>
+<LastName>Zheng</LastName>
+<EmailAddress>lizhong@mit.edu</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Automating reforestation using machine learning and unmanned aerial vehicles</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to provide enhanced capabilities for improved management of forest resources via aerial reforestation. Sustainable forest management practices are important to decrease soil erosion, increase biodiversity, sequester carbon and meet future demand for timber and biomass supply to the pulp, paper, wood, and energy sectors. Reforestation (natural or assisted) of cleared or degraded land is an important management objective to achieve these goals. Management costs of private forest lands have increased over time particularly for small-scale private landowners. Unmanned aerial vehicles, equipped with customized hardware and software, have the ability to replace or supplement conventional assisted-reforestation practices (hand planting or mechanical) and provide a cost-effective alternative. This project's approach to reforestation can increase accessibility to physically remote or topographically constrained locations that are difficult to access with large heavy machinery and vehicles.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the commercial viability of a data driven management system for assisted reforestation efforts. The system is designed to plant seeds using unmanned aerial vehicles outfitted with customized hardware. The system hardware is capable of projecting customize seed pellets into a range of soil conditions and at penetration depths necessary for successful germination. Coupled to the system is a machine learning algorithm that provides data metrics on forest land holdings using remotely sensed images. The machine learning algorithm can be trained, based on data type and quantity, for more accurate and reliable analysis. These data enable private landowners to assess overall conditions of their holdings, facilitate development of reforestation plans, and determine flight patterns. In addition, the algortihm is capable of communicating and guiding the unmanned aerial vehicle's autonomous guidance system to direct field planting.</AbstractNarration>
+<MinAmdLetterDate>01/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1756056</AwardID>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Jackson</LastName>
+<EmailAddress>jacksonn@njit.edu</EmailAddress>
+<StartDate>01/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021982</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>University Heights</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

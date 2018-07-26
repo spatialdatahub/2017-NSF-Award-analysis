@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop - Acoustics: New Fundamentals and Applications; Alexandria, Virginia; October 2017</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>49945</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Atul G. Kelkar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this workshop is to bring together researchers from the dynamics &amp; control, acoustics, and metamaterials communities with the purpose of identifying promising future research directions focusing on the use of dynamical systems and control theory to address problems at the nexus of acoustic metamaterials and system theory. The workshop will be held in Alexandria, Virginia, in October 2017.&lt;br/&gt;&lt;br/&gt;Acoustics permeates our daily life in far more ways than we normally think, and the related research is far from having achieved maturity. Several emerging concepts hold significant promise for practical application, and have the potential for important societal impact. Progress in these topics would greatly benefit from exposure to, and interaction with, disciplines that traditionally do not focus on acoustics as an application area. The goal of the workshop is to bring together experts from selected, emerging topics in acoustics and metamaterials with researchers from the controls community in order to identify opportunities for collaboration, new research questions, specific needs, and, most of all, promising applications that may be enabled by the control of new properties of acoustic systems. The workshop is expected to define promising investigation areas and their path to application.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743300</AwardID>
+<Investigator>
+<FirstName>Massimo</FirstName>
+<LastName>Ruzzene</LastName>
+<EmailAddress>ruzzene@gatech.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8400</Code>
+<Text>DMREF</Text>
+</ProgramReference>
+</Award>
+</rootTag>

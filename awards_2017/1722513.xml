@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An experimental facility to test the impacts of multiple physical stressors on physiology, ecology and genomics of marine species</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>279341</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter H. McCartney</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Coastal marine ecosystems in the US and the economies that depend on them are experiencing the brunt of an increasingly variable climate, characterized by increasing frequency and intensity of heat waves, strong El Niño events, storms, low-oxygen episodes and gradual ocean acidification. These changes in the environment have cumulative biological effects, and a great deal of research shows how each one separately affects many marine species. What is needed next is a set of experiments on how these environmental factors act when they act in combination with each other. This project will establish a new multi-user experimental facility at Hopkins Marine Station that will provide independent control of seawater temperature, dissolved oxygen concentration and acidification. These units will allow researchers to expose marine species to the wide range of physical conditions found naturally in upwelling ecosystems, and to alter those conditions to match future predictions. The proposed facility will enable training in experimental biology and climate change science for postdoctoral researchers, graduate and undergraduate students at all Monterey Bay institutions, K-12 outreach programs, and a training program for graduate students from the University of Puerto Rico. A major component of the proposed training activities is through collaboration with faculty at California State University Monterey Bay in supporting broad participation of underrepresented minorities, women and first generation college students in independent research and course-based projects.   &lt;br/&gt;&lt;br/&gt;The impact of multiple environmental stressors acting together on marine species has been hypothesized to be more than the sum of the impacts of single stressors alone. Yet this hypothesis has not often been tested across a range of species that naturally experience multi-stressor environmental impacts. The proposed facility will enable researchers at marine institutions in the Monterey Bay area to conduct the next generation of multi-stressor experiments with a suite of benthic and pelagic marine invertebrates and fishes that are relevant to local ecosystems and environmental variability. This project will address this issue by establishing a new multi-user experimental facility at Hopkins Marine Station (https://hopkinsmarinestation.stanford.edu) that will allow independent control of seawater temperature, dissolved oxygen concentration and pH over a range of parameter values that regularly occur in Monterey Bay and the offshore waters of the California Current System. The facility will include 40 independently controlled 189-liter aquaria and is based on successful construction and experimental use of four fully working prototypes. Thirty-six units will be added as part of this project. Four 500-liter round tanks to facilitate the study of small pelagic fishes and squid, and a small-tank system designed to allow the rapid change of multiple physical parameters through mixing of controlled water volumes for experiments on pelagic squid and fishes that involve equipment-intensive electrophysiological and biomechanical approaches will be components of the system to be employed. Experiments conducted in this facility will be analyzed through a wide range of modern tools including advanced genomics, neurophysiology, analysis of species interaction strengths, and ecosystem modeling. Overall, these facilities will provide an unprecedented ability to conduct collaborative joint experiments on a wide range of ecologically and economically relevant species and will support a creative and comprehensive research program on the effects of changing physical parameters on biodiversity and ecosystem functioning of the future oceans.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722513</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Denny</LastName>
+<EmailAddress>mwdenny@stanford.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Gilly</LastName>
+<EmailAddress>lignje@stanford.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Goldbogen</LastName>
+<EmailAddress>jergold@stanford.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fiorenza</FirstName>
+<LastName>Micheli</LastName>
+<EmailAddress>micheli@stanford.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Palumbi</LastName>
+<EmailAddress>spalumbi@stanford.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7593</Code>
+<Text>FIELD STATIONS AND MARINE LABS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>006Z</Code>
+<Text>Multiple Environmental Stressors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1382</Code>
+<Text>OCEAN ACIDIFICATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

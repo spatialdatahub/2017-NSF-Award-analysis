@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  A novel set of computational methods for mining nonlinear and high-order relationships</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aidong Zhang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Studying nonlinear and high-order relationships in a network data set is very important to understand the mystery of a complicated system and the structure of many real world problems such as the microbial community of human body, environmental eco-systems, etc. However, the huge data volume, the complexity and the intricate data properties have created a lot of opportunities and challenges for data analysis and mining. This project aims to develop a novel computational framework to tackle these challenging issues, focusing on the following two tasks: 1) Novel computational approaches to mine, extract and infer interactions and relations; 2) Novel computational methods for identifying higher-ordered interactions and relations from three types of microbiome datasets: metagenomes, bacterial genomes and literature. This research is of high risk and high payoff because the outcome will revolutionize the way to construct and analyze microbial knowledge graphs, and to aid discovery for biological mechanisms and medical applications.&lt;br/&gt;&lt;br/&gt;This project will consider the characteristics of microbiomic data and develop a novel computational framework for microbiomic data analysis. Scalable probabilistic and tensor methods with manifold-regularization for mining microbiomic data will overcome the assumption of linear, Euclidean and infinite space. These computational methods will be used to construct and analyze microbial knowledge graphs to aid discovery. The computational results will be disseminated through open software tool (by developing a novel R package) and presentations at conferences and workshops. Both the research and education plans of the proposal are highly interdisciplinary, engaging students and faculty from various research areas and drawing from work on multiple fields of study. The proposed research area lends itself to raising the scientific curiosity of students at many levels. Students will obtain significant exposure to the latest research in big data, computational science, bioinformatics and statistics.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744661</AwardID>
+<Investigator>
+<FirstName>Xiaohua (Tony)</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>xh29@drexel.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 10th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Maker: BioFabLab: Making as an Entryway to the Life Sciences for Early Undergraduates</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>299685</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ellen Carpenter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project explores the potential for elements of Making to improve attraction to and retention in life science disciplines among undergraduate students. BioFabLab is a one-semester class in which first time-first year undergraduate students, who start college with no declared major, work in teams to address a biological research question through the design, iterative fabrication, testing and description of a novel experimental apparatus. The class harnesses the rich collaborative and innovative space created by the Maker movement, and builds on the growing Maker culture in Vermont. This study places particular emphasis on those students who may possess an aptitude for creative thinking and an enjoyment of "tinkering" and innovation, but might for other reasons pass over opportunities to major in the life sciences. BioFabLab makes use of local Maker resources, but also aims to echo the Maker ethos of encouraging creativity, collaboration and lifelong learning. To achieve this, the project is built on the concepts of guided, student-centered group learning and design thinking, and explores Making as a conduit for self-directed learning of fundamental biological principles.&lt;br/&gt;&lt;br/&gt;Active learning educational strategies outperform traditional lecture approaches in student engagement, retention, and performance. Making incorporates many elements of active learning such as Problem-Based Learning, but studies do not show how such learning processes work, particularly when incorporated into formal STEM education. Furthermore, the Maker Movement attracts followers with diverse interests and backgrounds, but it is unknown how or whether this success translates to increased interest and persistence in undergraduate STEM coursework. BioFabLab is a problem-based course that challenges undeclared first-year students to address real scientific research questions within the setting of a thriving local Maker community. Using both quantitative and qualitative educational research approaches, we will study a) how scientific learning happens in such an environment, and b) its effects on student persistence and retention. This project has the potential to introduce and engage a wide range of learners, including meritorious students, from low income, rural communities in Vermont to Making specifically, and to STEM more broadly. This in-context engagement/introduction to Making will present a pathway for learners to pursue STEM degrees.  This project is a part of NSF's Maker Dear Colleague Letter (DCL) portfolio (NSF 15-086), a collaborative investment of Directorates for Education and Human Resources (EHR), Computer &amp; Information Science &amp; Engineering (CISE), and Engineering (ENG).</AbstractNarration>
+<MinAmdLetterDate>06/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723653</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Mead</LastName>
+<EmailAddress>Andrew.Mead@uvm.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Miles</LastName>
+<EmailAddress>Libby.Miles@uvm.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jim</FirstName>
+<LastName>Vigoreaux</LastName>
+<EmailAddress>jvigorea@uvm.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Vermont &amp; State Agricultural College</Name>
+<CityName>Burlington</CityName>
+<ZipCode>054050160</ZipCode>
+<PhoneNumber>8026563660</PhoneNumber>
+<StreetAddress>85 South Prospect Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>058Z</Code>
+<Text>EAGER: MAKER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

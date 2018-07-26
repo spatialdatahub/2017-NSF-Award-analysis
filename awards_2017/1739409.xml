@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Small: RUI: Incentive Mechanisms for Mobile Crowdsourcing, Reaching Spatial and  Temporal Coverage Under Budget Constraints</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>166069</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Crowdsourcing is a computational paradigm to leverage the power of crowds by outsourcing the solution of a specific task. These crowds are composed of regular citizens. The potential of crowdsourcing has been proven in fields such as environmental sciences, transportation systems, and social sciences. Well-known examples include the mobile applications for the community-based traffic and navigation, which help drivers take the most efficient routes based on information provided by other drivers. Some other crowdsourced applications are the periodic measurement of environmental variables, monitoring of roads, traffic, and civil infrastructure. A crowdsourced system may be a Cyber-Physical System (CPS), which includes incentive mechanisms to encourage user participation in a given task. The typical elements of such a system are the data buyers, contributors and a platform for data storage and processing. The contributors may take the form of people who use their smartphones for data collection or autonomous vehicles with the attached sensors. These contributors have natural patterns of daily movement, which covers only specific paths in the target area at specific times. However, a sensing task may require data from all parts of the target area in different times to ensure representative sampling. Therefore, coverage in terms of both space and time may be critical for crowdsourced applications. This proposal addresses the problem of spatial and temporal coverage for sampling in a target area, in particular the coverage of isolated sub-regions where participants' density is very low. This problem is tackled by an incentive mechanism that dynamically assigns compensation for data collection in the sub-regions of the target area based on the density of the contributors in that sub-region. To achieve this goal, a sensing market is modeled using a game-theoretic approach. In the sensing market, a data buyer announces a task per sub-region and the corresponding compensation. Then, the interested participants who decide to visit that region, submit their current locations and final destinations as well as the amount of time they are willing to spend on the sensing task. Similar to any other market, the members of a CS market want to maximize their utilities. The contributors maximize their utility by strategizing their trajectories while data buyers maximize their utility by predicting the contributors' behavior and setting the optimal rewards per sub-region. &lt;br/&gt;&lt;br/&gt;The resulting information of the proposed incentive mechanism may be leveraged by people and other rational participants such as autonomous vehicles to better plan their daily activities. For example, individuals can avoid environmental conditions that represent a risk for their health or change their daily commute to produce the lowest stress level. Other potential applications include autonomous vehicle scheduling and navigation, smart robots navigation and smart utilization of transportation resources. The proposed project will facilitate and encourage interdisciplinary collaboration among the disciplines of computer science, transportation engineering and environmental science. Specifically, interdisciplinary courses and laboratories will be developed while employing peer-to-peer Web technology, such as Wiki pages, to facilitate instant and direct access to ideas and data related to the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739409</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Jaimes</LastName>
+<EmailAddress>ljaimes@floridapoly.edu</EmailAddress>
+<StartDate>02/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mustafa</FirstName>
+<LastName>Akbas</LastName>
+<EmailAddress>makbas@flpoly.org</EmailAddress>
+<StartDate>02/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Polytechnic University</Name>
+<CityName>Lakeland</CityName>
+<ZipCode>338058531</ZipCode>
+<PhoneNumber>8638748534</PhoneNumber>
+<StreetAddress>4700 Research Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

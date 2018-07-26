@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Multi-Loop Amplitudes for Precision Physics at the LHC</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>70000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith R. Dienes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds the research activities of Professor Andreas von Manteuffel at Michigan State University.&lt;br/&gt;&lt;br/&gt;At the Large Hadron Collider (LHC), the world's largest particle collider, beams of protons are accelerated to highest energies and collided against each other.  A careful analysis of the particles produced in these collisions allows us to improve our understanding of the fundamental constituents of matter and their interactions at smaller distances than have ever been previously explored.  In his research, Professor von Manteuffel aims to enable theoretical predictions for collider experiments with previously unattainable precision.  This work is essential for unambiguously identifying effects of new particles or unknown forces.    As a result, research in this area advances the national interest by promoting the progress of science in one of its most fundamental directions:  the understanding the physical laws of Nature and the discovery of new physical mechanisms beyond our present knowledge.   Located at the interface of theoretical particle physics, applied mathematics and computational science, this project is also envisioned to have significant broader impacts.  The PI will involve graduate students and postdocs in his research, thereby providing training to junior physicists in analytical and computational methods.&lt;br/&gt;&lt;br/&gt;More technically, Professor von Manteuffel will develop and apply new computational methods for the evaluation of multi-loop scattering amplitudes and integrals, aiming specifically at the evaluation of radiative corrections relevant for experimentally observable phenomena. Explicit results will be provided for key processes at the LHC, involving the Higgs boson, electroweak gauge bosons, and the top quark.</AbstractNarration>
+<MinAmdLetterDate>08/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719863</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>von Manteuffel</LastName>
+<EmailAddress>manteuffel@pa.msu.edu</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+</Award>
+</rootTag>

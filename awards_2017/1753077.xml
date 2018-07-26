@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: The Algebraic Structures of Three-Dimensional Gauge Theory</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>40638</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew  Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The past forty years have brought an ever-increasing appreciation that the interactions of quantum particles are controlled by fundamentally geometric and algebraic structures. This has on one hand made algebra and geometry extremely valuable in particle physics; and on the other hand has allowed powerful physical intuition to be used in the development of pure mathematics. Continuing in this tradition, the research goals of this project fit into a broader effort to incorporate modern mathematical ideas and methodology in quantum field theory and vice versa. In educational components of the project, the PI will host a summer school on this theme for graduate students in theoretical physics and mathematics and he will develop a series of lectures for undergraduate and graduate students, freely available online, that delineate various connections between modern algebra/geometry and quantum field theory.&lt;br/&gt;&lt;br/&gt;In more detail, the PI will combine physical and mathematical approaches to uncover new structures in supersymmetric gauge theory and geometric representation theory. The PI and his collaborators have established the beginnings of a deep relation between mirror symmetry in 3d supersymmetric gauge theories and symplectic duality. Symplectic duality is an equivalence of geometric categories associated to pairs of algebraic-symplectic varieties that was conjectured by Braden, Licata, Proudfoot, and Webster, and that generalizes many classic results in geometric representation theory (such as the Koszul duality of Beilinson, Ginzburg, and Soergel relating categories of modules for simple Lie algebras). In this project, the PI and his collaborators will use new techniques in gauge theory to establish a systematic construction of objects in the categories relevant for symplectic duality, and an explicit duality map between them. He will also define and investigate yet another category, of Fukaya-Seidel type, that gauge theory predicts to be equivalent to the usual categories in Symplectic Duality, but which seems to make many subtle aspects of the duality manifest. Finally, he will extend the methods developed to study 3d gauge theories to 4d supersymmetric gauge theories, where they lead to a construction of the categories of line operators -- with far-reaching implications for categorification of wall-crossing fomulas and of cluster algebras.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1753077</AwardID>
+<Investigator>
+<FirstName>Tudor Dan</FirstName>
+<LastName>Dimofte</LastName>
+<EmailAddress>tdimofte@UCDAVIS.EDU</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8048</Code>
+<Text>Division Co-Funding: CAREER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

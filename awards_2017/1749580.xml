@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: The Online Processing of Noun Phrase Ellipsis</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>9132</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Maling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Comprehending language seems easy; however, we know that language comprehension involves complicated cognitive processes. This seems to be harder when part of a sentence is omitted or elided, such as in "Derek's key to the boxes must be on the table and Sue's is probably on the carpet." The sentence does not say that Sue's key to the boxes is probably on the carpet, but we are still able to understand exactly that. This project focuses on one kind of elided construction, called Noun Phrase Ellipsis, in which the noun phrase (like "key to the boxes") is elided. The crucial part in understanding how this kind of structure works is to discern what kind of information can be retrieved from memory at the stage when the readers notice that something is missing. The studies proposed here aim to test longstanding questions in psycholinguistics: (1) what is the nature of memory representation; and (2) what information is retrieved from memory during active sentence processing?&lt;br/&gt;&lt;br/&gt;By employing eye-tracking experiments, this project investigates the retrieval process in Noun Phrase Ellipsis, which we find includes detailed structural and morphological information. Pairing ellipsis constructions with agreement attraction should illuminate the process, distinguishing the observed effect from other syntactic structures. In addition, it also seeks to determine at which stage that information influences the processing of ellipsis constructions, compared to other kinds of noun anaphora. This project will enable us to identify potential sources that interfere with resolving different types of dependencies with respect to memory retrieval mechanisms. This will in turn enhance our understanding of the difficulties experienced by second language learners and those with specific language impairments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749580</AwardID>
+<Investigator>
+<FirstName>Masaya</FirstName>
+<LastName>Yoshida</LastName>
+<EmailAddress>m-yoshida@northwestern.edu</EmailAddress>
+<StartDate>02/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nayoun</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>NayounKim2018@u.northwestern.edu</EmailAddress>
+<StartDate>02/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

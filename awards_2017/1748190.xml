@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BRAIN EAGER:  Novel Viral Vectors for Neuroscience Research</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>299998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edda (Floh) Thiels</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The pace of scientific discovery is often dictated by the development of new tools and techniques that bring into focus previously imperceptible aspects of the matter under investigation. In the study of the brain, the development of new labeling methods, such as the Golgi stain in the 1870s or genetic expression of fluorescent proteins in the 1990s, continues to revolutionize our ability to better understand the organization of the brain and study how networks in the brain function to support behavior, learning and memory. The aim of this research is to identify and develop a novel set of genetic tools that allow brain researchers to label and manipulate brain circuits with increasing sophistication. In this project, expertise of virologists and neuroscientists is paired in order to design new, cutting-edge approaches for studying and manipulating brain circuits. These novel tools provide important methods for mapping the intricate connections between nerve cells that support learning and behavior. To facilitate broad adoption of the new, virus-based approaches, the tools generated through this research are made freely available to the scientific community, and on-line resources are constructed to help the research community search and request all the tools and protocols developed under this project.&lt;br/&gt;&lt;br/&gt;Viruses have evolved over millions of years to evade detection and thrive in vertebrate hosts. Building on the evolutionary diversity of vertebrate viruses, this research examines the use of several, previously untested, viral species for neuroscience research. This innovative, high-risk project establishes a unique research partnership between virologists and neuroscientists, in order to identify new viral vectors for labeling and expressing molecular tools in large populations of neurons. The broader impacts of this proposal are many-fold. First, this research leads to the development of new viral tools for labeling and genetically manipulating neurons in diverse animal models. Second, by studying a diverse set of viruses in both birds and rodents, this research leads to a better understanding of virus-host interactions and how they can and should be considered when selecting and designing viral tools for neuroscience research. This research therefore provides valuable new information and tools for neuroscientists and virologists. Third, all genetic and viral tools generated through this research are made freely available to the research community. Fourth, an on-line resource describing results of all tested viruses is being generated in order to help guide other research labs when selecting and testing new viral tools.</AbstractNarration>
+<MinAmdLetterDate>10/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748190</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Roberts</LastName>
+<EmailAddress>Todd.Roberts@UTSouthwestern.edu</EmailAddress>
+<StartDate>10/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas Southwestern Medical Center</Name>
+<CityName>Dallas</CityName>
+<ZipCode>753909105</ZipCode>
+<PhoneNumber>2146484494</PhoneNumber>
+<StreetAddress>5323 HARRY HINES BLVD.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1096</Code>
+<Text>NEURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

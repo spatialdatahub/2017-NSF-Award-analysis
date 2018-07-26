@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSforAll: RPP: Medium: Understanding Equity and Access in a CSforAll Implementation</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardAmount>999891</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cleveland State University (CSU) proposes to create a knowledge base, focused on equity and access for all students, that will guide implementation of CSforAll initiatives in schools and districts across the country. CSU has been assisting the Cleveland Municipal School District (CMSD) as it begins implementation of computer science (CS)  for all students in district high schools starting in the 2017-18 academic year. CSU and CMSD are intentionally focusing on all students with the goal of creating a model that, not only includes, but is targeted towards students from groups that are traditionally underrepresented in CS--students from African American, Hispanic and low socio-economic status populations. The effort is built on an existing research practitioner partnership (RPP) that includes CSU, CMSD, the Cleveland Foundation, and the NEOSTEM Ecosystem. &lt;br/&gt;&lt;br/&gt;The central aim of the research is to investigate whether the implementation proceeds in a manner that preserves equity across students. The expected outcomes include (1) the creation of a replicable model for a CSforAll implementation, in diverse and high-needs school districts, with equity as a primary design consideration, (2) an increased research base on mechanisms for addressing achievement gaps among students from groups typically underrepresented in CS, (3) a set of "adoption guides" for principals and administrators that clearly outline various issues that arise when implementing CSforAll in schools, and document best practices, including course coding, teacher credentialing, scheduling, advising, etc., and a pathway for CS teachers to receive highly qualified teacher status in Ohio.</AbstractNarration>
+<MinAmdLetterDate>08/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738607</AwardID>
+<Investigator>
+<FirstName>Debbie</FirstName>
+<LastName>Jackson</LastName>
+<EmailAddress>d.jackson1@csuohio.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Harper</LastName>
+<EmailAddress>b.harper1@csuohio.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nigamanth</FirstName>
+<LastName>Sridhar</LastName>
+<EmailAddress>n.sridhar1@csuohio.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cleveland State University</Name>
+<CityName>Cleveland</CityName>
+<ZipCode>441152214</ZipCode>
+<PhoneNumber>2166873630</PhoneNumber>
+<StreetAddress>2121 Euclid Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

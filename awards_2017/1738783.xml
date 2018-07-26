@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase I IUCRC University of Pittsburgh: Center for Space, High-performance, and Resilient Computing (SHREC)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>729904</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Under the auspices of the Industry/University Cooperative Research Centers (IUCRC) program at the National Science Foundation, a new national research Center has been jointly established, the Center for Space, High-performance, and Resilient Computing (SHREC). This Center comprises three university Sites, including the University of Pittsburgh (Pitt) as lead institution, and Brigham Young University (BYU) and the University of Florida (UF) as partner institutions. The SHREC Center is dedicated to assisting U.S. industrial partners, government agencies, and research organizations in mission-critical computing, with research in three domains: space computing for Earth science, space science, and defense; high-performance computing for a broad range of grand-challenge apps; and resilient computing for dependability in harsh or critical environments. The university Sites of the SHREC Center will help address the shortage in the mission-critical computing workforce by training many students with the knowledge and skills necessary to solve the many challenges facing this growing industry.&lt;br/&gt;&lt;br/&gt;With the complementary nature of expertise at each Site, the SHREC Center will address research challenges facing the three domains of mission-critical computing, by exploiting a variety of existing and emerging computing technologies, including digital signal processors, field-programmable gate arrays (FPGAs), graphical processing units (GPUs), hybrid processors, advanced memories, and high-speed interconnects. For space computing, a specialty at the Pitt and BYU Sites, the Center will develop, evaluate, and deploy novel forms of space architectures, apps, computers, networks, services, and systems, while leveraging commercial and radiation-hardened or -tolerant technologies. For high-performance computing, a specialty at the UF and Pitt Sites, the Center will explore the application and productive use of heterogeneous computing technologies and architectures in support of high-speed, mission-critical computing. For resilient computing, a specialty at the BYU and Pitt Sites, the Center will exploit its expertise in fault injection and mitigation as well as radiation testing to demonstrate unique reliability concepts and solutions, including adaptive hardware redundancy, fault masking, and software fault tolerance.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738783</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Jones</LastName>
+<EmailAddress>akjones@engr.pitt.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>juy9@pitt.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ervin</FirstName>
+<LastName>Sejdic</LastName>
+<EmailAddress>esejdic@pitt.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>George</LastName>
+<EmailAddress>alan.george@pitt.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>R123</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R134</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R155</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R157</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8237</Code>
+<Text>CISE Interagency Agreements</Text>
+</ProgramReference>
+</Award>
+</rootTag>

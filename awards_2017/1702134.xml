@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GEM: Simulation Studies of Plasma Redistribution in the Ionosphere and Plasma Supply to the Magnetosphere in Geomagnetic Active Periods</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>279038</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carrie E. Black</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is focused on investigating how changes in the structure of the upper levels of the atmosphere can lead to changes in the plasma flowing out into the outer space.  During periods of significant space weather the circulation of plasma in the upper atmosphere can be dramatically changed, resulting in high density regions flowing over the polar cap that can lead to enhanced outflow of plasma flowing out along magnetic field lines into outer space.  These changes can impact radio communications through the ionosphere and may cause significant errors in positions derived from satellite based navigation systems.  The investigators will address this important topic through the development of a numerical model.  This model will be able to address how the outflow plasma relates to these density enhancements.  Success in modeling these interactions could potentially lead to improved numerical models for forecasting space weather.  In addition, this investigation will support training of a graduate student in computer programming and data analysis techniques. &lt;br/&gt;&lt;br/&gt;A major focus of this investigation will be simulation studies of plasma redistribution associated with the storm enhanced density (SED) and its possible counterpart plasmaspheric plume, polar cap tongues and patches, and enhanced ion outflow associated with such plasma redistribution during geomagnetic active times. The objective of the proposed studies is to expand the Dynamic Fluid Kinetic (DyFK) model to simultaneously follow multiple drifting individual flux tubes for simulating global plasma transport; to quantitatively understand physical processes that cause plasma redistribution and ion outflow; to provide quantitative measure of global ion outflow fluxes of multiple species necessary to understand effects of ionospheric plasma supply on the magnetospheric dynamics.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702134</AwardID>
+<Investigator>
+<FirstName>Jiannan</FirstName>
+<LastName>Tu</LastName>
+<EmailAddress>Jiannan_Tu@uml.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Lowell</Name>
+<CityName>Lowell</CityName>
+<ZipCode>018543643</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress>600 Suffolk Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2017 ACM Conference on Computer and Communications Security (ACM CCS)</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ACM Conference on Computer and Communications Security (CCS) is the flagship annual conference of the Special Interest Group on Security, Audit and Control (SIGSAC) of the Association for Computing Machinery (ACM). The conference brings together information security researchers and practitioners from all over the world to explore cutting-edge ideas to secure the nation's cyberspace. Historically, CCS has been well attended by student researchers and this is a valuable experience for students that cannot be underestimated. CCS, from its inception, has always tried to nurture this by partially subsidizing the costs of attending especially for those who would otherwise be unable to attend.&lt;br/&gt;&lt;br/&gt;Unfortunately, the number of student applicants always exceeds the number of awards that CCS can make. Funding from the NSF will go a long way in narrowing that gap. Typical award amounts range from $500 to $1000. In addition, female students and students from other minority groups are traditionally underrepresented in CCS. This funding will be used to attract members of minority groups.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744868</AwardID>
+<Investigator>
+<FirstName>Hassan</FirstName>
+<LastName>Takabi</LastName>
+<EmailAddress>takabi@unt.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>DENTON</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 Union Circle #305250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

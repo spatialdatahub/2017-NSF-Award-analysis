@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS: INT: Socially-Aware Autonomy for Long-Term Deployment of Always-On Heterogeneous Robot Teams</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project studies how best to enable a team of mobile robots to fully integrate into the social fabric of a community of people.  As such, the most important impact of this project is the ongoing development and dissemination of core algorithms that, for the first time, enable robots to be fully integrated in a socially-aware way into a community of people over a long period of time. In addition to many traditional impacts on education, including a curriculum for a project-based course, serving as a platform for graduate and undergraduate research, this research is being used as the basis for extensive public outreach via demonstrations, camps, and short courses, with a particular focus on underrepresented groups such as women in Computer Science and Engineering and Hispanic students.&lt;br/&gt;&lt;br/&gt;This project focusses on three main technical challenges that are crucial to enabling robots to integrate into the social fabric of a community. First, the project is working towards enabling robots to be cognizant about dynamic social environments.  Second, the project is working towards enabling robots to reason about heterogeneous human-robot capabilities while carrying out specific tasks.  Third, the project is working towards enabling safe, reflective lifelong learning in dynamic environments.  In addition to leading to focussed algorithms designed to address these specific challenges, the project contributions are also being instantiated within a single, coherent multi-robot system capable of long-term autonomy.  A key facilitator of the project's validation plan is a flexible, adaptable, and reusable software and hardware infrastructure that is being developed and expanded at UT Austin under an NSF Computing Research Infrastructure program grant.  The main experimental objective of the project is to demonstrate that these robots can not only operate autonomously for long periods of time, but also be fully integrated into and accepted by the community of people who use the building in which they are situated.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1724157</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Stone</LastName>
+<EmailAddress>pstone@cs.utexas.edu</EmailAddress>
+<StartDate>12/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Niekum</LastName>
+<EmailAddress>sniekum@cs.utexas.edu</EmailAddress>
+<StartDate>12/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Stone</LastName>
+<EmailAddress>pstone@cs.utexas.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate>12/21/2017</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Niekum</LastName>
+<EmailAddress>sniekum@cs.utexas.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate>12/21/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Thomaz</LastName>
+<EmailAddress>athomaz@ece.utexas.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

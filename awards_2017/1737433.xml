@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-Planning:  CityGuide: Beacon-Based Community-Driven Inclusive Wayfinding</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wayfinding has always remained a challenge for people with disabilities in our communities. There remain indoor and many outdoor areas within a city where the effectiveness of current satellite-based systems is limited or non-existent. The long-term goal of the proposed project is to leverage technology to make cities more accessible and safer for people with disabilities and those who may need the extra assistance. A first step to be taken in this project towards this goal is the design and deployment of a community-wide wayfinding system called CityGuide in the city of Wichita that relies on a strategically deployed infrastructure of Bluetooth Low Energy (BLE) wireless information emitters. CityGuide is proposed to be developed as a partnership between the City of Wichita, Wichita State University (WSU), an urban-serving, research university, and Envision, a local not-for-profit serving the blind and visually impaired. The objective of this project is to lay the foundation to meet the three long-term CityGuide needs: integrative and fundamental research contributions, research-capacity building, and community engagement. To this end, this project proposes activities to identify research priorities and set in motion a plan for realizing the CityGuide vision. &lt;br/&gt;&lt;br/&gt;Broader societal impacts from this project include (i) the development of wayfinding technologies for persons with special needs, and (ii) creation of tools for the general population that enable various geofencing applications. Broader educational impacts include (i) the offering of a multi-disciplinary graduate class with a focus on solving societal challenges posed by disabilities through mobile technologies, and (ii) the incorporation of aspects of accessibility in undergraduate student research. &lt;br/&gt; &lt;br/&gt;&lt;br/&gt;The envisioned CityGuide application proposes to (i) supplement outdoor GPS systems (in an integrated smartphone app) to provide fine-grained, customized, turn-by-turn navigation within or across indoor and outdoor spaces for those with visual or physical impairments, and those from the general population, (ii) complement existing signage and provide customized information about features of interest in the community. The multi-disciplinary team working on the project will collaborate on activities that lay the foundation for addressing the research question of how to design and deploy effective and usable wayfinding systems for those with special needs in our communities.  Answering this question would make the following fundamental interdisciplinary research contributions along the way: (i) how can large-scale low-cost wireless embedded devices be deployed and configured in indoor and outdoor spaces for effective wayfinding?, (ii) how can (and what) information from these embedded devices in the environment be leveraged to simultaneously meet the varying special needs of citizens within the community?, and (iii) how can we build usable human-computer interfaces for wayfinding that can simultaneously meet the various human constraints posed by disabilities?</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737433</AwardID>
+<Investigator>
+<FirstName>Rui</FirstName>
+<LastName>Ni</LastName>
+<EmailAddress>rui.ni@wichita.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maryam</FirstName>
+<LastName>Zahabi</LastName>
+<EmailAddress>maryam.zahabi@wichita.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Chaparro</LastName>
+<EmailAddress>alex.chaparro@wichita.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate>09/20/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nils</FirstName>
+<LastName>Hakansson</LastName>
+<EmailAddress>nils.hakansson@wichita.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Chaparro</LastName>
+<EmailAddress>barbara.chaparro@wichita.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate>09/20/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Walker</LastName>
+<EmailAddress>laura.walker@envisionus.com</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vinod</FirstName>
+<LastName>Namboodiri</LastName>
+<EmailAddress>vinod.namboodiri@wichita.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wichita State University</Name>
+<CityName>Wichita</CityName>
+<ZipCode>672600007</ZipCode>
+<PhoneNumber>3169783285</PhoneNumber>
+<StreetAddress>1845 Fairmount</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

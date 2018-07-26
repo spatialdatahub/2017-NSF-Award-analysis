@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Approximation of Singular Solutions to Nonlocal and Nonlinear Models</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>109913</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland M. Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Numerical analysis has been very successful in the development and analysis of schemes to approximate the solution of classical models in the pure and applied sciences. However, in recent times, new classes of models have emerged which challenge the current understanding and techniques of numerical analysis. New approximation techniques are required or the analysis of the classical ones call for new ideas, as standard arguments do not work. This is particularly the case for problems which exhibit nonlocal features in time (memory effects), nonsmooth evolution problems, nonlocality features in space (long range interactions), or a combination of any of these features. Another important class of problems that require special attention are those where the data of the problem is nonsmooth, which includes singular forcing or constitutive laws. Finally, as a last example there are strongly nonlinear problems where there is a barrier in how smooth the solution can be, regardless of the smoothness of the problem data.&lt;br/&gt;&lt;br/&gt;The purpose of this research project is the analysis of approximation techniques for a representative sample of the problems mentioned above. The implementation of many of the numerical techniques that we will discuss in many cases is standard, but their analysis requires a fine interplay between the regularity of the solution (in nonstandard spaces), the structure of the problem and that of the scheme. As an outcome of this work, new numerical techniques will be developed and the existing ones will be strengthened by solid mathematical analysis of their approximation properties. The models which will be under our study describe a wide range of phenomena, and mathematically solid numerical methods for them will be developed. Thus, the proposed ideas will enhance modeling and prediction capabilities. For instance, the study of discretization techniques for nonlocal operators is in its infancy. Even in the linear case, the nonlocality greatly complicates the analysis and efficient implementation of solution schemes.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720213</AwardID>
+<Investigator>
+<FirstName>Abner</FirstName>
+<LastName>Salgado</LastName>
+<EmailAddress>asalgad1@utk.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

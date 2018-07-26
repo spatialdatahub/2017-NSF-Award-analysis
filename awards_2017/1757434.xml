@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Virtual Reality Vision Therapy</AwardTitle>
+<AwardEffectiveDate>10/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to serve the "Convergence Insufficiency" clinical population, which includes millions of people in the US alone, as well as 50% of the brain injury population who has post concussive syndrome (PCS).  Designing engaging vision therapy protocols that leverage virtual reality gaming technology will have a dramatic impact in particular on this young population's academic and professional career growth and goals.  Broad market impacts also include the opportunity for translational research funded by prior NSF grants to reach the general public. This solution has the potential to be an affordable alternative to traditional vision therapy administered in the comfort of one's home saving both healthcare cost and patient's time.&lt;br/&gt;&lt;br/&gt;This I-Corps project seeks to explore the commercial potential of a novel combination of virtual reality and vision therapy technologies. Convergence Insufficiency is a binocular vision dysfunction which causes the following vision symptoms: blurry and double vision, eye stress and strain, headaches, and a 'halo' effect where words appear to float above the page while reading. These visual symptoms negatively impact a person's ability to perform near work such as reading and computer/tablet use. The Virtual Reality Vision Therapy developed here encompasses integration of eye tracking with traditional vision therapy methodologies, promotion of patient compliance through a suite of engaging virtual reality video game experiences, objective assessments of patient progress throughout the course of vision therapy, and a flexible platform to create a patient specific therapeutic intervention.</AbstractNarration>
+<MinAmdLetterDate>10/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757434</AwardID>
+<Investigator>
+<FirstName>Tara</FirstName>
+<LastName>Alvarez</LastName>
+<EmailAddress>tara.l.alvarez@njit.edu</EmailAddress>
+<StartDate>10/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021982</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>University Heights</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

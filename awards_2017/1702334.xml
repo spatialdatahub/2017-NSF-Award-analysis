@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Vaporization of Nanoparticles in Low Temperature Plasmas</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>248984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav S. Lukin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support computational and experimental research towards understanding the mechanisms for synthesis of nanomaterials in low temperature plasmas.  The high chemical reactivity of low temperature plasmas (LTPs) -- a mix of free interacting charged and neutral particles -- presents a tremendous opportunity for producing novel materials.  With the theoretical limits for processing materials into new configurations via interactions with LTPs still unknown, there is also a chance for experimental discovery of novel processes to alter materials in unexpected ways.  The use of LTPs in manufacturing of nanomaterials is ubiquitous, for example, in producing integrated circuits used in computers or in developing advanced electricity storage batteries.  Fundamental knowledge of the formation and growth of nanoparticles in low temperature plasma is, thus, essential to the further improvement of advanced manufacturing processes. &lt;br/&gt;&lt;br/&gt;This project will explore a new aerosol mechanism in LTPs that has not been previously considered. The mechanism allows for the production of monodispersed nanoparticles comprised of materials for which production methods are currently not known.  In LTPs, nanoparticles can be vaporized as a result of ion bombardment. The vaporization results in a supersaturated vapor.  The supersaturated vapor, in turn, condenses back onto particles in the plasma or nucleates new clusters. This process of vaporization in the plasma followed by condensation can result in a monodispersed size distribution. In fact, such a process can transform a polydispersed aerosol into a monodispersed aerosol with high mass yield. Strong preliminary evidence supports the new mechanism. The goals of this project are to 1) develop a robust computational model that incorporates the new mechanism, which will be general and applicable to many different materials using the plasma parameters and residence time as inputs; 2) develop methods to experimentally control the position of the monodispersed peak; 3) identify scaling parameters that would allow the mass throughput to be increased while maintaining a given monodispersed size distribution; and 4) apply the mechanism to synthesize compound semiconductor nanocrystals containing two or more elements.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702334</AwardID>
+<Investigator>
+<FirstName>Elijah</FirstName>
+<LastName>Thimsen</LastName>
+<EmailAddress>elijah.thimsen@seas.wustl.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Plant Signaling: Molecular Pathways and Network Integration</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>8400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Crane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ability of plants to change in response to changing environmental conditions is the result of signals and indicators that are sensed by the plant, and then responded to through a complex web of signaling components. We have recently begun to understand many of the parts of this system, but understanding how the whole system works, and how the plant might respond to multiple signals, has so far eluded us. This meeting will bring together scientists from a wide range of fields, including chemistry, molecular biology, genetics and computer science, so that they can interact and develop collaborations that will allow them to advance plant sciences in ways that are very important for our national economy and food supply. One of the focuses of this meeting will be to provide an opportunity for young investigators to share their work and to develop collaborations in this highly interdisciplinary field.&lt;br/&gt;&lt;br/&gt;Phenotypic plasticity is the quintessential characteristic of plant development and adaptation under fluctuating environments, and is the result of numerous signal sources (extra-, intra- and intercellular) being sensed, integrated and interpreted by a plethora of signaling components which are interacting in a highly-coordinated manner. Recent advances in molecular and synthetic biology, chemistry and computational approaches have greatly facilitated the discovery of novel signaling pathways as well as providing detailed molecular mechanisms for key components of the existing signaling pathway. However, many have yet to be discovered. This meeting will bring together a diverse community of scientists to interact, collaborate and share novel ideas and will encapsulate the most recent advances in this field, from single molecule chemistry to large-scale network analysis, with an emphasis on research areas such as growth and development, environmental responses and biological interactions in both model and non-model plant species. Ultimately, unraveling the complexity of plant signaling networks will be an important step forward in securing food production in today's rapidly changing environment. The meeting will showcase the contributions of trainees and new investigators and provide an opportunity for career development, fostering networking and initiation of collaborations. It is anticipated that this meeting will provide educational benefits including acquainting trainees and investigators new to field with the state-of-the-art science; and providing critical scientific feedback and career development for trainees and new investigators, including opportunities both to see successful scientists presenting cutting-edge science and to network with prospective mentors and others who might contribute to their scientific and professional development.</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748023</AwardID>
+<Investigator>
+<FirstName>Thale</FirstName>
+<LastName>Jarvis</LastName>
+<EmailAddress>thalej@keystonesymposia.org</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Keystone Symposia on Molecular and Cellular Biology</Name>
+<CityName>Silverthorne</CityName>
+<ZipCode>804981630</ZipCode>
+<PhoneNumber>9702621230</PhoneNumber>
+<StreetAddress>PO Box 1630</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

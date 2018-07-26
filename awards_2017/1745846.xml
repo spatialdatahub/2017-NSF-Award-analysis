@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Enhanced solar-thermal vapor generation for salt mining and stilled clean water</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>224934</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will serve two complementary unmet market needs by: (1) accelerating the evaporation rate of brine ponds and enhancing salt production efficiency by 2-3 times; (2) condensing the moisture evaporated from contaminated/salty water so that one can obtain clean drinking water with n consumption of electricity. We will develop an enhanced solar vapor generation strategy based on a patent-pending electricity-free solar thermal technology. Specifically, we will develop/optimize functional materials to enhance the solar-driven vapor generation rate. The target is to double or even triple the salt production of mining companies relying on evaporation of brine ponds exposed to natural sun and wind. We will work with selected industrial partners to perform the field test in lithium brine ponds, which is the key source material for future Lithium battery industry. In addition, by condensing the evaporated moisture, we will aim to produce clean water using low cost materials and systems, which is a promising and sustainable solution to address the global drinking water scarcity using affordable electricity-free products in coastal and resource-limited areas. &lt;br/&gt;&lt;br/&gt;The proposed project will aim to commercialize a patent-pending technology to realize an enhanced solar-driven water evaporator, which is highly desired for both solar mining production and clean water generation. Due to the superior solar energy absorption, heat conversion, and thermal insulating properties of our disclosed structure, most of the absorbed energy can be used to evaporate surface water with significantly reduced thermal dissipation. Remarkably, our pilot system has realized a record solar thermal conversion efficiency of &gt;88% under illumination of 1 kW/m2 with no solar concentration. The corresponding vapor generation rate is ~1.28 kg/m2/h - a full 3X higher than the natural evaporation of bare water surfaces in the same environment. This Phase I SBIR effort will aim to overcome the remaining technical barriers for material and system optimization and scaling up strategies for manufacturing. By comparing the roll-to-roll coating and direct dying processes in this proposed research, we will select the best overall technology to complete our supply chain for the production in Phase II. In particular, we will perform field tests by working with solar mining industrial partners as well as Non-Government Organizations (NGO's) to get their feedback on how to improve the product in relevant environment. </AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745846</AwardID>
+<Investigator>
+<FirstName>Zongmin</FirstName>
+<LastName>Bei</LastName>
+<EmailAddress>zongminb@buffalo.edu</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate>06/01/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haomin</FirstName>
+<LastName>Song</LastName>
+<EmailAddress>zongminbei@gmail.com</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNNY CLEAN WATER LLC</Name>
+<CityName>East Amherst</CityName>
+<ZipCode>140511669</ZipCode>
+<PhoneNumber>5853545623</PhoneNumber>
+<StreetAddress>419 Wood Acres Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

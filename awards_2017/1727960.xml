@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Biomechanics Of Noncollagenous Osteocalcin/Osteopontin Protein Complex In Bone</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>367655</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michele Grimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Bone is a composite material that is made of minerals, collagen and noncollagenous proteins that are intertwined in structures of different sizes ranging from the molecular to the whole bone. At the smallest level, collagen molecules assemble into fibrils. The fibrils are further bonded to form collagen fibril bundles by a 'natural glue' at the interfibrillar interface. This interface is primarily made of other proteins such osteocalcin (OCN) and osteopontin (OPN). While it is generally recognized that the mechanical properties of the bone such as stiffness and fracture resistance are directly attributed to the mechanical properties of its constituents, a comprehensive understanding for the collagen fibrillar interface does not exist.  A computational approach is planned to study the biomechanics of the proteins of the collagen fibril interface. Successful implementation of this project is expected to contribute to the field of bone biomechanics and understanding medical issues with bone such as osteoporosis. Through integration with research, an educational outreach program will contribute to the development of a diverse workforce in biomechanics training two PhD students, exposing undergraduate students to the research program, and engaging high school students through summer internship in the "NanoExplorer" program.&lt;br/&gt;&lt;br/&gt;It is hypothesized that the fracture and deformation behavior and the associated energy dissipation in the OCN/OPN complex are mainly contributed by four key factors: 1) Calcium-mediated electrostatic bonds between noncollagenous protein matrix and mineral in collagen microfibril; 2) Hidden length in OPN; 3) Potential post-translational modification sites in OCN and OPN; 4) Parallel configuration of OCN/OPN within the interface complex. To test the research hypothesis, an atomistic simulation approach will be first established to study the interaction between minerals and non-collagenous proteins (OCN and OPN) with different degrees of post-translational modifications. Subsequently, the biomechanics of interfibrillar interfaces will be investigated by exploring a range of spatial configurations, loading conditions and failure modes. If the above hypothesis is confirmed through this research, it is expected that new models of bone will take into account the important effects of noncollagenous OCN/OPN protein complex in bone rather than those based on merely phenomenological models. This will in turn significantly impact the ongoing research on the mechanics of bone and other tissues.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727960</AwardID>
+<Investigator>
+<FirstName>Dong</FirstName>
+<LastName>Qian</LastName>
+<EmailAddress>dongqian.work@gmail.com</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Majid</FirstName>
+<LastName>Minary Jolandan</LastName>
+<EmailAddress>majid.minary@utdallas.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhong</FirstName>
+<LastName>Zhou</LastName>
+<EmailAddress>zxz130030@utdallas.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate>10/16/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7479</Code>
+<Text>Biomechanics &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

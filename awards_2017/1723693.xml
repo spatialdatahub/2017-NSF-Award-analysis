@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Intergovernmental Personnel Act Assignment (IPA)</AwardTitle>
+<AwardEffectiveDate>01/06/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/05/2018</AwardExpirationDate>
+<AwardAmount>221913</AwardAmount>
+<AwardInstrument>
+<Value>Intergovernmental Personnel Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Friedlander</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>01/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>01/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723693</AwardID>
+<Investigator>
+<FirstName>Anita</FirstName>
+<LastName>Nikolich</LastName>
+<EmailAddress>anikolich@uchicago.edu</EmailAddress>
+<StartDate>01/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Morgridge Institute for Research, Inc.</Name>
+<CityName>Madison</CityName>
+<ZipCode>537151542</ZipCode>
+<PhoneNumber>6083164335</PhoneNumber>
+<StreetAddress>330 North Orchard Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9199</Code>
+<Text>Unallocated Program Costs</Text>
+</ProgramElement>
+</Award>
+</rootTag>

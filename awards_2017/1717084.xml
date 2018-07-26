@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Learning Latent Representations of Heterogeneous Information Networks</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>499635</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Feature engineering is an important pre-processing step in applying machine learning algorithms for knowledge discovery in all fields of scientific research and business applications. In these applications it is crucial to obtain appropriate features that best describe the observed phenomena. Traditionally, researchers often manually decide features of interest based on the knowledge and experiences of domain experts, which is costly and labor-intensive. Recently, a new line of research, called representation learning, has used neural networks to automatically learn features that may be used in various scientific research projects and business applications. The PI plans new representation learning methods to capture rich, meaningful and discriminative features in heterogeneous information networks (HINs), which have been used to model heterogeneous types of network entities and their relationships in support of network data analysis and mining. The work planned in this project includes information about model design, scalability, sample data extraction, network variety and data heterogeneity issues in the implementation of the learning frameworks. This research will be integrated into graduate and undergraduate courses of data mining and machine learning, enabling students to develop analytics and big data skills.&lt;br/&gt;&lt;br/&gt;The specific research objectives of this project are three-fold:  1) The PI aims to leverage information in HINs to learn representations of latent features for nodes and relationships specified by meta-paths in the network. Novel techniques will be developed to address the scalability issues in learning. 2) The PI seeks to address model design and learning issues arising in HINs growing with time, e.g., citation networks. New neural network architectures and new sample data extraction schemes will be devised. 3) The PI plans to integrate both content and network structures in representation learning of HINs. New neural network architectures will be devised. To evaluate research prototypes, the PI will develop a testbed consisting of new neural network frameworks for representation learning on HINs. Techniques and software will be made available as research resources to the communities of data mining and representation learning.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717084</AwardID>
+<Investigator>
+<FirstName>Zhen</FirstName>
+<LastName>Lei</LastName>
+<EmailAddress>zlei@psu.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wang-Chien</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>wlee@cse.psu.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

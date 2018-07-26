@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Scalable conversion of carbon dioxide to value-added commodity chemicals</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to create a closed loop synthetic carbon cycle that addresses both carbon dioxide (CO2) mitigation as well as generating high value hydrocarbons from waste CO2 feedstock. Currently, fossil-fuel-fired power plants typically exhibit significant emissions of CO2.  The process developed here has the potential to capture this waste CO2 and repurpose it towards generation of hydrocarbon fuels and other high value hydrocarbons. It presents an opportunity for these electricity generation units to add profit margin in their business model based on these hydrocarbon chemicals. Similar opportunities are available to positively impact many other industries, as well.&lt;br/&gt;&lt;br/&gt;This I-Corps project develops a sustainable repurposing of CO2. The process, reverse water gas shift chemical looping (RWGS-CL) has demonstrated capability of converting CO2 to CO at high rates and at low temperatures, paving the way for implementation at large scale. The temperatures of operation of RWGS-CL allows for thermal integration with Fischer Tropsch process (FTS). With FTS reactors already being used in industrial scale, the reactor module developed here can potentially find an appropriate use in those industries. This process involves the use of stable catalysts that can be used for several cycles without loss of activity. The process is designed such that there is no intermixing of CO and H2O or H2, thereby restricting any methane formation or any backward reaction.</AbstractNarration>
+<MinAmdLetterDate>06/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743623</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Kuhn</LastName>
+<EmailAddress>jnkuhn@usf.edu</EmailAddress>
+<StartDate>06/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336129446</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

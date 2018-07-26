@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Resolving the Evolutionary History of the Sunflower Family in the Face of Rampant Gene and Genome Duplications</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashley Dowling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Despite the widespread occurrence and cultivation of members of the sunflower family, evolutionary relationships within the group are poorly understood. The lack of knowledge has hampered biological research in the family. This project advances the understanding of the genealogical relationships among sunflowers, while also investigating the reasons that have led to its great success. The sunflower family contains more than 25,000 species, representing 10% of all flowering plants on Earth today. Species within the sunflower family are important agricultural crops including sunflower, lettuce, safflower, artichoke, and chicory. The family also includes some of the world's most noxious weeds (e.g., knapweeds, thistles).  Many other species in the group occur in areas of the world that are threatened with high extinction rates. This project will generate genomic data to help explain the role of genome duplication in the evolutionary success of the family. The project will train students in plant systematics and modern methods of data collection and analysis. Additionally, the project will produce educational tools for use by middle and high school teachers. &lt;br/&gt;&lt;br/&gt;This project will use a phylogenomics approach to investigate the role that large-scale gene and genome duplications have played in the diversification of the sunflower family (Compositae) and what confounding role this may play in resulting discordance among phylogenies produced from genome-scale data. The proposed research will generate genomic and transcriptomic data to examine how large-scale gene duplications influence phylogeny reconstruction. This research will provide transformative information that may be applicable to other large, diverse lineages of organisms especially when strong discordance amongst gene tree and species tree methods is reported and where large-scale or whole genome duplications are found. The data will shed light on the influence of duplications on both lineage diversity and potential causes of discordance and provide a first step toward understanding evolutionary relationships in the face of large amounts of gene duplication.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745197</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Mandel</LastName>
+<EmailAddress>jmandel@memphis.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Memphis</Name>
+<CityName>Memphis</CityName>
+<ZipCode>381523370</ZipCode>
+<PhoneNumber>9016782533</PhoneNumber>
+<StreetAddress>Administration 315</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

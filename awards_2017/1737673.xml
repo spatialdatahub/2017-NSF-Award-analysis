@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD: Collaborative Research: Algorithms and Data for High-Frequency, Real-Time Anomaly Detection</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>47817</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Lund</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The rapidly burgeoning amount of digital data from Internet and mobile-enabled communications can offer low-cost and high-resolution views into human behavior across areas such as health and socio-economics. Personally-generated data from Internet and mobile-connected sources offer unique insight, capturing aspects of human behavior that would be taxing or impossible to quantify through other data sources. Moreover, the data is often available in real time and can be linked to specific locations. This research project addresses the statistical challenges inherent in using such unstructured spatio-temporal data sets for detection of anomalous events.&lt;br/&gt;&lt;br/&gt;Such data requires new statistical approaches to pre-process and extract forms from the data that can reliably be used for event detection. Further, the continuous nature of the data means that what constitutes anomalous behavior depends on the time-scale and on the type of underlying event. This project aims to develop 1) approaches for generating relevant features from social media data that account for the observational nature of the data and can be used in spatio-temporal models of real-world behavior and 2) a new multi-scale approach to modeling dependence structures that uses new information to continuously refine the model and accurately assess anomalies. The approach in this project is both suited to and harnesses the continuous and observational nature of social media data. The research will be validated on empirical data sets, demonstrating practical utility. It is anticipated that the results will be applicable to further the use of publicly-available geospatial data sources and understand human dynamics that are not measurable through other means.</AbstractNarration>
+<MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737673</AwardID>
+<Investigator>
+<FirstName>Tyler</FirstName>
+<LastName>McCormick</LastName>
+<EmailAddress>tylermc@u.washington.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>Q218</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

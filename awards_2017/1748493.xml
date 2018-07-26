@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Future Directions for Algorithms in Biology</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2018</AwardExpirationDate>
+<AwardAmount>98936</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computation has become essential to progress in biology, and an important and difficult research goal is to develop efficient, correct, and useful algorithms to analyze biological data and answer biological questions. This workshop will bring together the community of computational biologists who are interested in algorithmic questions to explore future directions and open problems in applying algorithms to problems in biology. The workshop will host distinguished scientists, students, and junior faculty to discuss emerging research areas, open problems, and grand challenges in algorithmic biology. This will solidify the algorithmic underpinnings of the field of computational biology, jumpstart new collaborations, and help set directions for the field for many years. It will ensure that the most important problems are tackled by the field, and that those who are interested in working on algorithms for those problems are aware of them. The activity will result in publically available video lectures and a published synthesis of the discussion and results of the workshop. It will advance the education of students interested in biology, computational biology, and algorithms by providing a venue for identifying important research questions and providing educational resources such as video lectures. A diverse group of speakers and researchers will participate, broadening the viewpoints represented in the field of algorithmic computational biology. &lt;br/&gt;&lt;br/&gt; The workshop will explore algorithmic questions in areas such as genomics, metagenomics, population genetics, systems biology, biological image analysis, phylogenetics, evolution, RNA and protein structure, proteomics, transcription and translation, experiment design, bioinformatics, and biological data management. The focus of the workshop will be on identifying, publicizing, and formalizing algorithmic open questions and better understanding how algorithmic approaches and thinking can aid biological investigations. The computational focus will be on algorithms and techniques with provable properties (e.g. runtime, correctness, approximation ratio), rather than heuristics. The workshop will host invited and community speakers, and be structured around scientific lectures, discussion sessions, and open problem sessions.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748493</AwardID>
+<Investigator>
+<FirstName>Carleton</FirstName>
+<LastName>Kingsford</LastName>
+<EmailAddress>carlk@cs.cmu.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

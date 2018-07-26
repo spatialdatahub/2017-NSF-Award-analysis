@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CIF: Crowdsourcing-aware Learning</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>174934</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Machine learning has significantly advanced the state of the art in a variety of applications. These successes have required massive labeled datasets for training machine learning algorithms. The collection of these labeled datasets usually involves human annotation. For instance, the training labels for supervised learning algorithms are often obtained through "crowdsourcing" where people label the data over the Internet in exchange for monetary incentives. Most learning algorithms, however, are agnostic of this human-labeling process. This project designs improved learning algorithms by incorporating the "human" aspect of the data collection process in the machine learning objective.&lt;br/&gt;&lt;br/&gt;In more detail, this project considers supervised binary classification tasks where the labels for the training data are obtained from people. The research involves design of learning algorithms that jointly consider the human collection process -- including the interfaces and incentives available to the human labelers -- and the overall learning objective. Theoretical guarantees of optimality are derived and compared with guarantees for algorithms which are agnostic of the human component. The algorithms and guarantees are based on models of human behavior from psychology, such as permutation-based models, that allow for maximal accuracy while making minimal assumptions on how the human labelers behave. The theoretical results are corroborated with practical implementations (open sourced) and real-world experiments (data freely available online).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1755656</AwardID>
+<Investigator>
+<FirstName>Nihar</FirstName>
+<LastName>Shah</LastName>
+<EmailAddress>nihars@andrew.cmu.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

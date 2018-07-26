@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SI2-SSE: Software for Semiconductor and Electrochemical Interfaces (SSEI)</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>322051</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The importance of materials interfaces is apparent when considering key industrial segments such as the microelectronics, chemical, energy, and biomedical industries. Interfaces and surfaces often control the properties of materials and the interface structure and chemistry are one of the most important, yet least understood, aspects of materials synthesis and functionalization. Materials interfaces come in a broad variety, ranging from solid/solid interfaces in semiconductor hetero-structures to solid/liquid interfaces in electrochemistry and biomaterials, and solid/vapor interfaces in chemical vapor deposition and free-standing 2D materials. Despite their diversity, all interfaces present a common set of challenges for computational studies. This project will develop a sustainable software package that enables ab initio simulations of materials interfaces in various environments that extends the current state of the art by adding functionality and increasing performance. The software tools will impact the development and the design of novel materials that broadly benefit society in the fields of catalysis, electrochemistry, battery technologies, and electronic devices.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop a comprehensive and sustainable Software for Semiconductor and Electrochemical Interfaces (SSEI) that provides various continuum models and couples them to ab initio simulations. The SSEI package will enable an efficient and accurate description of a wide variety of materials interfaces that are important for application in energy technologies, corrosion research, electronic devices, and 2D materials. The SSEI is based on the VASPsol module developed by the PI and will be developed primarily for direct use as a module in VASP. For future extension of the software to other DFT codes, the project will provide a portable software interface and detailed documentation. The software design goals are to develop SSEI into (i) a sustainable scientific tool, (ii) significantly extend its functionality to nonlinear models and arbitrary electrostatic boundary conditions, and (iii) increase its performance. These complementary goals will be achieved through an expansion of the developer and user base, a transition to portable software interfaces and data structures, and the addition of modular algorithms for functionality and performance enhancements. All developments will make extensive use of object-oriented programming principles and software design patterns to speed up the development process and aid maintainability. The SSEI package provides the predictive tools for materials interfaces that have the potential to transform the use of ab initio methods to advance our fundamental knowledge and enable the design and optimization of materials interfaces for better catalysts, battery electrodes, electronic junctions, and corrosion resistance.&lt;br/&gt;&lt;br/&gt;This project is supported by the Office of Advanced Cyberinfrastructure in the Directorate for Computer and Information Science and Engineering and the Division of Materials Research in the Directorate of Mathematical and Physical Sciences.</AbstractNarration>
+<MinAmdLetterDate>09/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740251</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Hennig</LastName>
+<EmailAddress>rhennig@ufl.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8005</Code>
+<Text>Scientific Software Elements</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

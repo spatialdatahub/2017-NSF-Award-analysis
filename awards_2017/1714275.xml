@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AF: Small: Classification Program for Counting Problems</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is a study of the computational complexity of counting problems.  The PI aims to classify the complexity of problems known as Sum-of-Product computations.  These counting problems come from all parts of computer science, and even other fields of study.  They are naturally defined and include such counting problems as vertex covers, graph colorings, and graph matchings.  There is also a strong connection to problems studied in statistical physics.&lt;br/&gt;&lt;br/&gt;In computational complexity theory, there is no higher aim than to achieve a complete classification of a wide class of computational problems.  This is usually done in terms of the P and NP theory, where P and NP denote problems computable in polynomial time by deterministic and nondeterministic algorithms, respectively.  There has been strong interest in the PI's classification program, especially with the concept of holographic algorithms.  There is also a significant amount of computational experimentation in the search for the right formulation of the classification, providing an opportunity to engage undergraduate students in research.&lt;br/&gt;&lt;br/&gt;A sharper delineation between what is or is not efficiently computable will have broader impact within computer science and beyond.  Within CS, a substantial body of work in AI is centered around similar models called partition functions.  Outside computer science, there is a long tradition in statistical physics to study partition functions, and this study informs the so-called exactly solved models.&lt;br/&gt;&lt;br/&gt;In more technical terms, these are computations defined as sum_sigma prod_f f | sigma, where the f's are local constraint functions, and the sigmas are assignments to local variables.  There are three related frameworks to study these problems.&lt;br/&gt;&lt;br/&gt;(1) Spin systems  or graph homomorphisms,&lt;br/&gt;(2) Counting CSP problems, and &lt;br/&gt;(3) Holant problems.&lt;br/&gt;&lt;br/&gt;Over the past several years, the following thesis has gained considerable evidence, namely a large family of Sum-of-Product computations can be classified into exactly three categories with an explicit criterion on the constraint function set:&lt;br/&gt;&lt;br/&gt;(I) Computable in P;&lt;br/&gt;(II) #P-hard for general graphs, but solvable in P for planar graphs; and&lt;br/&gt;(III) #P-hard even for planar graphs.&lt;br/&gt;&lt;br/&gt;Furthermore, for Spin systems and Counting CSP, category (II) corresponds precisely to those problems which can be solved by holographic algorithms with matchgates.  But for Holant problems, there are additional novel tractable classes of problems.  The PI plans to prove classification theorems that apply to asymmetric constraint functions. If this can be settled for asymmetric as well as symmetric constraint functions, it will be a unifying result, answering questions that are open at least since the time of Kasteleyn in the 1960's.</AbstractNarration>
+<MinAmdLetterDate>08/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714275</AwardID>
+<Investigator>
+<FirstName>Jin-Yi</FirstName>
+<LastName>Cai</LastName>
+<EmailAddress>jyc@cs.wisc.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

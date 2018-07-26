@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Cybersecurity Research of Unmanned Aerial Vehicles</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>287959</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This funding establishes a new Research Experiences for Undergraduates (REU) Site at Embry-Riddle Aeronautical University. This project focuses on cybersecurity research for unmanned aerial vehicles (UAVs). In each summer, ten undergraduate students will participate in research for eight weeks to understand cybersecurity challenges for UAVs, and how to design algorithms and techniques to protect UAVs from cyber-attacks. This program will provide a research experience with a balance of theory, hands-on practical skills, and applications. The project is led by a team of experienced faculty who will mentor the participating researchers through a number of professional development activities that prepare them for future careers as professionals in the field of cybersecurity and UAVs, which are areas of critical need for the workforce of the future. This project will provide great opportunities for undergraduate students, especially for those from underrepresented and minority groups and institutions with limited research resources, to be involved in real-world cybersecurity research of UAVs. This project will conduct a nationwide recruitment process with particular emphasis on the southeast region of the United States.&lt;br/&gt;&lt;br/&gt;The objective of this REU site is to involve undergraduate students to integrate fundamental and state-of-the-art cybersecurity research using UAVs as the platform. Students will understand and study cyber-attacks targeted at UAVs and investigate corresponding cyber defenses. Research activities in this project will explore the cybersecurity of UAVs from multiple angles, including secure communication, data privacy protection, secure control systems for autonomous UAVs, etc. By conducting diverse but coherent research projects, students will gain in-depth understanding and hands-on experience in cybersecurity research for UAVs, as well as general computer and data security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757781</AwardID>
+<Investigator>
+<FirstName>Remzi</FirstName>
+<LastName>Seker</LastName>
+<EmailAddress>sekerr@erau.edu</EmailAddress>
+<StartDate>12/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiawei</FirstName>
+<LastName>Yuan</LastName>
+<EmailAddress>yuanj@erau.edu</EmailAddress>
+<StartDate>12/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>Daytona Beach</CityName>
+<ZipCode>321143966</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>Sponsored Research Adm</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

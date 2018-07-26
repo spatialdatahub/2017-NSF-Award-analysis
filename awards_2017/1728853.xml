@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Best Experienced Payoff Dynamics and Cooperative Play in Extensive Form Games</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>288000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds research in game theory. The investigator seeks to develop and analyze new models of population dynamics in situations where individuals interact with others in strategic situations over time. The first part of the project considers a situation in which individuals respond rationally to the outcomes they experience when randomly matched with a partner. The goal here is to demonstrate how the resulting dynamics lead to cooperative behavior even when the individuals involved know that they will only interact with the same person for a set time. The possibility of maintaining cooperative behavior in repeated relationships with a set end date is a basic question in game theory, one with direct relevance to many social sciences and many policy applications. The dynamics studied in this project can provide one explanation for the persistence of cooperative behavior and may help us develop policies and institutions that support cooperation.  The PI will also develop new public domain software, and will demonstrate how to use that software to model game dynamics via an online textbook/course. The software, online book, and course will enable students and researchers in a wide variety of disciplines to experiment with evolutionary game dynamics, without requiring that these students have extensive backgrounds in game theory or mathematics. &lt;br/&gt;&lt;br/&gt;The first component of the project studies best experienced payoff dynamics, under which revising agents select a set of strategies to test, play each strategy against fixed numbers of randomly chosen opponents, and switch to the strategy with the highest realized payoff. Analysis based on backward induction predict fully uncooperative behavior, while experimental evidence points to higher levels of cooperation. The basic idea is that the dynamics possess an almost globally attractive rest point exhibiting high levels of cooperation. This rest point is quite robust to variations of the model. Because the dynamics take the form of polynomial equations with rational coefficients, techniques from computational algebra are useful to prove results and in describing the classes of games in which cooperative play can be sustained. The second project considers evolutionary game dynamics which incorporate intrinsic relations among different strategies. These relations may reflect similarities in what playing the strategies entails, perceptions that certain strategies are of a similar nature, or the contexts in which the game is played. Nested replicator dynamics arise when imitating agents evaluate strategies by comparing their payoffs not only to an exogenous standard, but also to the average payoff earned by similar strategies. These dynamics retail all basic convergence and stability properties of the replicator dynamic, and can be lined to models from discrete choice theory via models of reinforcement learning.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1728853</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Sandholm</LastName>
+<EmailAddress>whs@ssc.wisc.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

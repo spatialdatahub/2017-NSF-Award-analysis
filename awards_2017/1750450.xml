@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Enabling Brian-like Computing through 3D Neuromorphic Circuits and Systems</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>74771</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project addresses design challenges in building a brain-like computing system through three-dimensional (3D) neuromorphic circuits, and using Through Silicon Via (TSV) - based 3D Integrated Circuits. The approach is expected to reduce the design area occupied by conventional capacitors, resulting in chip design-area reduction and improvement in chip performance and efficiency. A Computer Aided Design framework will be developed to optimize the use of these reconfigured TSVs. The resulting devices, circuits, and framework will be validated using silicon tape outs and emerging applications, e.g., advanced wireless broadband communications. In addition to enabling educational and outreach programs, the project provides industrial experience for underrepresented students, thus contributing to the development of workforce in this area of technology.&lt;br/&gt;&lt;br/&gt;The project undertakes a systematic attempt to explore the alternative use of TSVs as capacitors in 3D Neuromorphic Computing (NC) circuits. The NC chips require membrane capacitors to power the process of "neuron firing", and, depending on specifications, these capacitors can occupy from 25-75% of state-of-the-art electronic neuron's design area. This project entails the design of a NC chip in which idle TSVs are co-opted to function as capacitors. Three specific thrusts are proposed: reconfiguration and adaption of idle TSVs as capacitors; scalable, robust, and energy-efficient 3D NC circuit design; and system prototype and emerging applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750450</AwardID>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Yi</LastName>
+<EmailAddress>yangyi8@vt.edu</EmailAddress>
+<StartDate>03/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

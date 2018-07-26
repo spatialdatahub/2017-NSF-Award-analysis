@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Acquisition of an Automated Laser Diffraction Particle Size Analyzer at the University of Massachusetts</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>89810</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell C. Kelz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports acquisition of a laser diffraction particle size analyzer with automated sample preparation and introduction devices.  The instrument will support faculty and student research at the University of Massachusetts Amherst that requires determination of fine grained particle size distributions in sediments and soils.  Grain size analysis is a fundamental tool supporting research in sedimentology, natural hazards, paleoclimatology, geomorphology, and hydrology.  Studies of sediment transport in rivers and estuaries during extreme events, Arctic paleoclimate investigations, and fault zone material mechanical properties will be supported by the acquisition.  Students will be trained in instrumental procedures and the instrument will serve regional institutions in New England.  The acquisition will also support faculty outreach efforts to engage regional K-12 and community college students in societally relevant paleoenvironmental research.  This support is congruent with NSF's mission of promoting the progress of science and advancing the national health, prosperity and welfare given the relevance of targeted research aimed at understanding records of historical hurricanes affecting the U.S. Northeast as recorded in the terrestrial and marine sedimentary records, studies of Earth's climate dynamics as recorded in lake sediments and the impact of the acquisition on training the next generation scientific workforce.&lt;br/&gt;&lt;br/&gt;Significant uncertainty remains regarding the fundamental mechanisms of fluid and sediment transport during extreme flooding.  To fill this knowledge gap, the sedimentology lab at the University of Massachusetts Amherst and colleagues at Virginia Tech are currently using patterns in deposition from historical floods to validate and inform numerical simulations of sediment dynamics under extreme flows.  Grain size distribution of sediment?s in back barrier marshes and ponds can vary by 3 orders of magnitude, from coarse beach-derived sand and gravel at the coast to fine-grained mud drapes at their landward extents.  Mapping spatial trends in these deposits assist in understanding the physics of sediment transport during extreme flood events.  The laser particle size analyzer will also be used to identify coarse-grained storm deposits embedded within fine-grained lake and lagoon sediments to further extend our knowledge of pre-historic hurricane events and therefore better understand the probability of hurricane hazards.  The particle size analyzer will also aid in studies of high latitude glacial history by examining the paleorecords of lake sediment grain size as a proxy of glacial advance and retreat.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719218</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Woodruff</LastName>
+<EmailAddress>woodruff@geo.umass.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Bradley</LastName>
+<EmailAddress>rbradley@geo.umass.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+</Award>
+</rootTag>

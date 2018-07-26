@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BRIGHT-CS: Building Student Retention through Individuated Guided coHort Training in Computer Science</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>1195708</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>BRIGHT-CS creates a comprehensive computer science and empowerment model for girls of color in computing. Through deep engagement with select high schools, universities, non-profit and community organizations, BRIGHT-CS builds and assesses the strength of an ecosystem that supports girls of color. It acknowledges the larger national effort to achieve gender equity in computing and is intentional in building effective ecosystems to support that. In the spirit of culturally responsive pedagogies, BRIGHT-CS builds on the premise that girls need their identities to be affirmed coincident with their computing skills being honed. &lt;br/&gt;&lt;br/&gt;The work is centered in two locations, in Arlington, VA and in New York City. The targeted groups of students and schools are selected to engage in educational experiences at the intersection of formal and informal learning. They experience a comprehensive set of experiences that begin with affirming their place in computing as young women and girls. The critical partnerships developed in each location are central to testing the proposed hypothesis that effective ecosystems are required for promoting and fostering the sustained success of girls of color in computing.</AbstractNarration>
+<MinAmdLetterDate>09/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1752436</AwardID>
+<Investigator>
+<FirstName>Ryoko</FirstName>
+<LastName>Yamaguchi</LastName>
+<EmailAddress>ryreed@uncg.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jamika</FirstName>
+<LastName>Burge</LastName>
+<EmailAddress>jamika.burge@gmail.com</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Egenrieder</LastName>
+<EmailAddress>jime@vt.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina Greensboro</Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274125013</ZipCode>
+<PhoneNumber>3363345878</PhoneNumber>
+<StreetAddress>1111 Spring Garden Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

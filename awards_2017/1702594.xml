@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantal Heating in Electron Systems with Discrete Spectra</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL ABSTRACT:&lt;br/&gt;Conversion of electrical energy into heat, so called Joule heating, is one of the major physical processes affecting the modern economy. Due to Joule heating the overall electrical energy losses between power plants and consumers is in the range between 8 and 15%. A reduction of such enormous losses would be highly beneficial for society. Recently the principal investigator team has discovered that quantum properties of matter substantially affect Joule heating, that leads to a strong reduction of the energy losses. One of the main goals of this project is to reveal the mechanisms of the electrical energy dissipation in quantum electrical conductors. The proposed study of the temporal evolution of Joule heating may help realize this goal. The research results are of paramount importance for the design of novel energy-lossless electrical conductors utilizing the quantum properties of matter. The research is accomplished via direct participation of students of the City College of New York, which is a federally recognized minority serving institution.  The activity has great impact on these students, providing training and education in advanced areas of quantum physics and material science.&lt;br/&gt;&lt;br/&gt;TECHNICAL ABSTRACT:&lt;br/&gt;Joule heating is a remarkable physical phenomenon, which transforms electric energy into heat. Recently it was shown that the quantum properties of matter significantly affect this heating, giving rise to a thermal stratification (quantization) of the electron distribution in the energy space. This effect, called quantal heating, does not exist in classical electron systems. In contrast to classical Joule heating, quantal heating leads to outstanding nonlinear transport properties of highly mobile 2D electrons, driving them into exotic nonlinear states in which voltage does not depend on current and vice versa. This project is the original study of the dynamics of quantal heating and the exotic nonlinear states in highly mobile 2D electron systems placed in quantizing magnetic fields. The research includes investigations of fundamental mechanisms of the nonlinear response: spectral diffusion, spatial electron redistribution and inelastic electron relaxation in different regimes including the dc-driven exotic nonlinear states of 2D electrons and Quantum Hall Effect. Investigations of nonlinear electron transport at half-integer filling factors are focused on the search for quantal heating and nonlinear states of composite fermions in response to dc bias. The project reveals the important role of quantum effects in the transfer of electric energy into heat. The research is accomplished via direct participation of students of the City College of New York, which is a federally recognized minority serving institution.  The activity has great impact on these students, providing training and education in advanced areas of quantum physics and material science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702594</AwardID>
+<Investigator>
+<FirstName>Javad</FirstName>
+<LastName>Shabani</LastName>
+<EmailAddress>jshabani@ccny.cuny.edu</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sergey</FirstName>
+<LastName>Vitkalov</LastName>
+<EmailAddress>vitkalov@sci.ccny.cuny.edu</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+</Award>
+</rootTag>

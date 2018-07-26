@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Support for the 2017 Canadian-American-Mexican Graduate Student Physics Conference in Washington, DC</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>39937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen V. McCloud</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support to the American Physical Society (APS) for conference planning and student travel to participate in the joint Canadian, US, and Mexican physical societies' graduate student conference (CAM2017), to be held in in Washington, D.C. from August 17-19, 2017. This is an opportunity for physics graduate students to begin networking across borders. Throughout the conference, students will discuss current research in both formal and informal settings with international peers and professors. &lt;br/&gt;&lt;br/&gt;The CAM2017 workshop is designed for and by graduate students in all areas of physics. Plenary sessions will be given by well-known scientists in their sub-disciplines including Particle Physics, Astrophysics and Nuclear Physics, Condensed Matter Physics, Biophysics, Optics, Atomic Physics, Nanoscience, Computational Physics, and Materials Physics. The plenary sessions will be followed by contributed talks from the students. There will be two panel discussions titled "Transcending Boundaries: Geographical, Disciplinary &amp; Career" and "Transcending Boundaries: Personal and Societal" highlighting CAM2017s goal to foster student ability to transcend boundaries in physics. A student poster session will round out the scientific program. All students who attend will present their research in either a contributed talk or poster session. </AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702225</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Flatten</LastName>
+<EmailAddress>flatten@aps.org</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Krista</FirstName>
+<LastName>Freeman</LastName>
+<EmailAddress>kfreeman@andrew.cmu.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Physical Society</Name>
+<CityName>College Park</CityName>
+<ZipCode>207403841</ZipCode>
+<PhoneNumber>3012093220</PhoneNumber>
+<StreetAddress>One Physics Ellipse</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

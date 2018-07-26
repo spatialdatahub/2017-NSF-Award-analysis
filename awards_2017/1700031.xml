@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR - TT: Advancement of Dispersed Particle Electrochemical Device for Analytical and Energy Storage Applications</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project focuses on translating a technique for characterizing battery materials from the proof-of-concept phase to a functional prototype that can be demonstrated to potential customers. This technology aims to fill the need for faster and less ambiguous evaluation of battery materials during the quality control stage of battery manufacturing. The dispersed particle electrochemical device is important because it improves the speed and reliability of battery manufacturing quality control. Improvements in speed of quality control processes results in lower manufacturing costs, which translates to less expensive batteries. More reliable and robust quality control reduces uncertainty in performance and incidence of failure in battery products. Thus broader impacts of this proposal include both reducing the cost of batteries and reducing the incidence of battery failures, which in some cases result in major safety hazards including fire and injury. &lt;br/&gt;&lt;br/&gt;This project will result in a prototype that provides straightforward quantitative outputs for comparison between battery materials using a very fast method relative to the current state-of-the-art. This dispersed particle electrochemical device has the following unique features: fast electrochemical evaluation of battery electrode materials, further narrows tolerances for battery manufacturing, reduces ambiguity on the source of battery performance perturbations, and accelerates screening of candidate new materials. These features provide the following advantages: time savings of quality control analysis, improved battery product reliability, and faster evaluation of battery materials both in manufacturing and research environments. These features result in cost and safety improvements for finished battery cells at the consumer level. The dispersed particle electrochemical device, when compared to the leading competing battery cell fabrication and evaluation practice currently used in this application, is both orders of magnitude faster and is not misinterpreted due to contributions from other battery cell components in this market space.  &lt;br/&gt; &lt;br/&gt;This project addresses the following technology gaps as part of its intellectual merit as the technology translates from research discovery toward commercial application. The technology has currently been demonstrated with a single battery material, and manufacturers have indicated that additional materials must be demonstrated to confirm the broad applicability of the technique. This project will also demonstrate the use of lower cost and nonflammable dispersion solvents which will make the technology more adaptable to a manufacturing environment. Similarly, part of the advancement to the prototype stage will include adapting to a flow-through device which will improve sample throughput and will be more amenable to manufacturing applications. Knowledge gaps related to commercialization including additional interviews with battery manufacturers to further understand quality control processes and needs, more detailed evaluation of existing intellectual property and necessary partners, and production of a travel prototype to demonstrate at customer facilities will also be addressed. In addition, personnel involved in this project, including faculty, post-docs, graduate students, and undergraduate students, will receive innovation, entrepreneurship, and technology translation experiences through working towards advancing the dispersed particle electrochemical device to the prototype stage and further working with battery manufacturers to adapt the technology to address their needs.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700031</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Koenig</LastName>
+<EmailAddress>gmk3k@virginia.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Muir</LastName>
+<EmailAddress>dam3jb@virginia.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

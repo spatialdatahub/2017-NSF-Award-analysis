@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI/Collaborative Research:   Immiscible Phase Interface-Driven Processing of Ultrafine-Laminated Structures for Lightweight and Strong Magnesium-Based Sheets</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>284928</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexis Lewis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Magnesium (Mg) is the lightest non-hazardous structural metal, and its alloys have tremendous potential for achieving energy efficiency in the aerospace and automotive industries. Magnesium alloys often lack strength and formability, however, and traditional pathways for overcoming these drawbacks are insufficient and costly. Two-phase laminated materials, consisting of an Mg alloy phase and another distinctly dissimilar metal phase, have the potential to overcome these challenges. This Grant Opportunities for Academic Liaison with Industry (GOALI) award supports fundamental scientific research needed to achieve the processing breakthrough of making the first two-phase, finely laminated structures of Mg alloys, by first understanding the mechanisms by which these materials deform under applied load. One key element that fuels this project is the use of a new Mg alloy, called Mg500, which does not contain rare earth elements, and has very low aluminum content, making it an excellent candidate for many applications. The extraordinarily high density of Mg500/Niobium interfaces will permit multiple functions not possible in Mg-based materials to date. Understanding the deformation of these materials systems will make a critical contribution to the next generation of lightweight structural materials for automotive and aerospace applications. In addition, this research program will provide excellent educational opportunities for students, and training for the next generation of scientists and engineers in both academic and industrial settings. The new knowledge derived from this work will be disseminated broadly though software, tutorials and cloud-based Apps for data distribution.&lt;br/&gt;&lt;br/&gt;The scientific goals of this research program are to advance understanding on how hexagonal close-packed (HCP)/body-centered cubic (BCC) interfaces can control slip and twinning in novel ultra-fine laminated metallic composites and, as a result, radically enhance strength and formability. It is a cooperative program that joins the University of California at Santa Barbara, the University of New Hampshire, and the industrial partner, nanoMAG, LLC. The research activities are driven by hypotheses that HCP/BCC interfaces can thwart macroscopic instabilities and promote uniform deformation and formability. Together this university-industry team will carry out an integrated experimental and modeling strategy to understand how Mg500/Nb (HCP/BCC) interfaces can control plasticity processes, enabling homogeneous deformation of high-strength (&gt;1 GPa) Mg-based sheets to moderate strains (&gt; 5%). This understanding will be integrated into a predictive multi-scale, interface-sensitive model for linking microstructural evolution during processing with mechanical performance.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1728224</AwardID>
+<Investigator>
+<FirstName>Irene</FirstName>
+<LastName>Beyerlein</LastName>
+<EmailAddress>beyerlein@engineering.ucsb.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Decker</LastName>
+<EmailAddress>rdecker@nanomag.us</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8092</Code>
+<Text>Materials Eng. &amp; Processing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

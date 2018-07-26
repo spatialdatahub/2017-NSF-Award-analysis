@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:MAKER: Piloting a BioDesign Maker Space and Curriculum for K-12 STEM Learning</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>279110</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen B. Bergin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Researchers from the Rhode Island School of Design will create a BioDesign Maker Space, providing an immersive environment for K-12 students and other learners to engage in hands-on design projects that cultivate a working knowledge of biology and natural systems. The space will leverage strategies from biophilic design, including features and patterns observed in the natural world shown to improve student focus, productivity and wellbeing. A BioDesign curriculum, developed for use in the space, will explore the use of ecosystem services to design solutions to urban issues such as air and water pollution and food security. Students from area public schools will receive the cumulative benefits of learning in a biophilic space and an approach to STEM learning that emphasizes practical, inquiry-based, design and design thinking methods. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this initiative is in its bio-centric approach to the design and construction of learning, living and work environments, leading to improvements in human and environmental health. Through new perspectives on the presence of nature in human spaces, and the power of studio/Makerspace pedagogy, the proposed effort introduces an innovative approach to STEM education that identifies the human-nature connection as integral to engaging students in STEM fields, and preparing them to meet social and environmental challenges. A catalog of BioDesign Maker Space strategies, as well as curriculum modules, will be widely disseminated.&lt;br/&gt;&lt;br/&gt;This project is a part of NSF's Maker Dear Colleague Letter (DCL) portfolio (NSF 15-086), a collaborative investment of Directorates for Computer &amp; Information Science &amp; Engineering (CISE), Education and Human Resources (EHR) and Engineering (ENG).</AbstractNarration>
+<MinAmdLetterDate>06/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723559</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Sproll</LastName>
+<EmailAddress>psproll@risd.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neal</FirstName>
+<LastName>Overstrom</LastName>
+<EmailAddress>noverstr@risd.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Bissonnette</LastName>
+<EmailAddress>jbissonn@risd.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eduardo</FirstName>
+<LastName>Duarte</LastName>
+<EmailAddress>eduarte@risd.edu</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rhode Island School of Design</Name>
+<CityName>Providence</CityName>
+<ZipCode>029032784</ZipCode>
+<PhoneNumber>4017098643</PhoneNumber>
+<StreetAddress>2 College Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>058Z</Code>
+<Text>EAGER: MAKER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

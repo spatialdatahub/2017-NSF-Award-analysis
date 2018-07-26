@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Investigation of the Honey Lake and Warm Springs Faults using Seismic CHIRP Imagery</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>25499</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Honey Lake is a lake basin located in eastern California, about 60 mi. north of Reno, Nevada. Despite its name, the lake basin is often a dry playa with little or no water. The winter of 2016/2017 brought record precipitation levels to the western US filling the Honey Lake basin to the highest level in more than 20 years. This rare event provides an opportunity to use efficient marine seismic imaging techniques on what is normally a dry lakebed to image two major fault systems that transect this area. The Warm Springs fault and the Honey Lake faults traverse Honey Lake and. are the focus of this data collection effort. This study on Honey Lake uses high-resolution Compressed High Intensity Radar Pulse (CHIRP) imagery that may determine the sense of motion in these faults and their relationship to others in the region.&lt;br/&gt; &lt;br/&gt;The Honey Lake fault and the Warm Springs fault are the northern-most boundary of the Walker Lane Belt, an area of transtension that encompasses western Nevada/eastern California. Questions persist regarding how tectonic strain is partitioned from the Walker Lane back towards the Pacific Plate near the same latitude as Honey Lake. The motion on faults in Honey Lake is critical to understanding how the Walker Lane functions at its northern boundary. Despite the importance of these faults and the seismic hazards they present, very little is known about the recurrence of earthquakes, their clustering and strain rates in each of the faults. Previous terrestrial studies on the Honey Lake fault have not constrained its activity in the latest Holocene and very little paleoseismic data are available for the Warm Springs fault. By acquiring a network of CHIRP data across these two fault systems, we hope to contribute to the current state of knowledge and inform the tectonic framework in this region.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745803</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Kell</LastName>
+<EmailAddress>kella@unr.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1572</Code>
+<Text>TECTONICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7571</Code>
+<Text>DEEP EARTH PROCESSES SECTION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

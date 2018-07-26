@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Proposal: MSB-FRA: The future of US forest function under changing environment, disturbance, and forest management</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>762228</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth R. Blood</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Most forests of the world are managed to provide goods and services, such as wood products, biodiversity protection, and water purification and play an important role in regulating regional and local weather. Forest management is one of the most extensive and continual drivers of forest change affecting the success of associated communities of plants and animals, as well as the patterns of water capture, movement, and storage for future human consumption. This project seeks to understand how forest management decisions influence the long-term health of forests and the services they provide across regional to continental scales across the United States. Using a mapping and computer modeling approaches, the project will evaluate national and regional forest management policies, environmental disturbances, and resulting ecological, social, and economic consequences.&lt;br/&gt;&lt;br/&gt;Using satellite technology, maps of forest management types will be developed for forests across the entire US at scales relevant for national and regional policy, and for understanding interactions with the environment. These maps will inform computer models to generate estimates of carbon sequestration, water, and forest characteristics under various management and environmental scenarios. Earth systems models (ESMs), which operate at these very broad scales, will be improved by incorporating forest management and disturbances, allowing better predictions of the effects of changing management policy, disturbance regimes, and environment on forests across the continental US and Alaska. This computer modeling framework will be used to test the relative importance of forest management across environmental conditions and assess the strength of these relationships by region in determining change in forest characteristics (e.g., species composition and size structure), and the services they provide across scales from stands to the continent. A key component of this proposal is evaluating the impacts of changing forest policies and their relative importance in comparison to direct changes in forest condition from the environment, especially in regards to species adaptation and change mitigation strategies. The socioeconomic understanding developed with this project will permit the integration of findings into relevant policy and management. This increased knowledge will assist future decision makers in evaluating potential changes that are economically and socially important.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702996</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Staudhammer</LastName>
+<EmailAddress>cstaudhammer@ua.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Dietze</LastName>
+<EmailAddress>dietze@bu.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Duffy</LastName>
+<EmailAddress>paul.duffy@neptuneinc.org</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ankur</FirstName>
+<LastName>Desai</LastName>
+<EmailAddress>desai@aos.wisc.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>Tuscaloosa</CityName>
+<ZipCode>354870005</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>801 University Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

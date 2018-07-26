@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Nanoimprint Lithography Instrument for Research and Education</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>458600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Song-Charng Kong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will be used to obtain a nanoimprint lithography (NIL) instrument for advanced fabrication of materials and devices. This instrument will provide state-of-the-art fabrication abilities that can be used for both fundamental and applied research. A unique aspect of this instrument is the possibility to span multiple length scales, from millimeters to nanometers and retain alignment for large (millimeter or micro scale) and small (nanoscale) features. This instrument also allows fabrication of multiple devices at one time, which will increase speed, efficiency and overall throughput. The instrument will be used to fabricate structures for original research projects that include construction of chemical and biochemical sensors, design of nanoscale materials fabrication, and investigations of virology and cell biology. Students trained with the instrument will develop skills applicable to frontier fabrication techniques. The instrument will be used in interdisciplinary studies in chemistry, biotechnology, physics and materials science which will lead to diverse training opportunities for postdoctoral associates, and undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;This system fills a critical gap in fabrication abilities at Indiana University. This instrument will provide a route to key components and devices in specific research activities in the following areas: (1) Multichannel mobile nano- and microscale fluidic probes; (2) Nanoimprinted nanofluidic devices for studying virus assembly; (3) Nanopatterned microchannels for investigations of bacterial motility; (4) Fibers for passive thermoregulation; (5) Nanostructured surfaces for templated assembly of 2D and 3D materials; (6) Zero-mode optical waveguide approach to in singulo real-time virus assembly; (7) Nanoimprinted wells for template-assisted assembly of metal nanocrystals; (8) Fabrication of topological oxide nanowires; (9) Hyperspectral and polarimetric sensing; (10) Nanoimprinted non-centrosymmetric metal nanoparticle building blocks for plasmonics; (11) Nanopatterned surfaces for template-assisted assembly of virus-like particles; and (12) Nanoimprinted pillar arrays for force measurement of bacterial Tad pili. Understanding the structure and formation of molecular and self-assembled materials is critical to student education and training in interdisciplinary fields. Faculty involved in this proposal participate in the summer NSF Research Experience for Undergraduates. This combination of interdisciplinary research, state-of-the-art instrumentation, nanoscience seminars, and an active recruiting program lays a solid foundation to attract and retain outstanding students, postdoctoral fellows, and faculty members.</AbstractNarration>
+<MinAmdLetterDate>09/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726642</AwardID>
+<Investigator>
+<FirstName>Sima</FirstName>
+<LastName>Setayeshgar</LastName>
+<EmailAddress>simas@indiana.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Jacobson</LastName>
+<EmailAddress>jacobson@indiana.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lane</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>lanbaker@indiana.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Zlotnick</LastName>
+<EmailAddress>azlotnic@indiana.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Gumennik</LastName>
+<EmailAddress>gumennik@iu.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  PPER Developing Drought-Resilient Communities by Utilizing Acrylic Concrete Structures for Rainwater Harvesting</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>99997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project uses both citizen science and crowdsourcing in the design, construction, and utilization of acrylic concrete structures for rainwater harvesting in San Angelo, Texas, an area prone to persistent droughts. By engaging citizens in water sampling and water quality testing this project gains insight into leaching of acrylic concrete leachate in these rainwater harvesting systems and aids in the development of low-cost, sustainable rainwater harvesting systems that can support human consumption of this harvested water. &lt;br/&gt;&lt;br/&gt;In this research project, citizen scientists participate by collecting rainwater in their backwards, submitting measurements of captured rainwater through a mobile friendly platform, responding to surveys and interviews on the rainwater system, and participating in community workshops for continued and adaptive project design. Through this engagement process this research project seeks to expand the literature on engaging with vulnerable populations in citizen science water quality projects by considering local epistemologies and socioeconomic status in project design and implementation. This project has three goals to advance emerging rainwater harvesting technology: 1) advance the state of design and manufacturing of acrylic concrete that is used as a low-cost, sustainable rainwater harvesting system, 2) advance understanding of acrylic concrete leachate in the captured rainwater expand its use from irrigation purposes to human consumption, and, 3) fill a gap in the literature on how local knowledge in vulnerable populations plays an important role in water centric citizen science.  The project design has continuous community outreach, engagement and assessment through three workshops titles, "construction", "water", and, "next steps", that recruit and take participants through the research project, step by step. The project is generating a framework to facilitate engagement of community members and vulnerable populations in engineering through civil engineering research.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744006</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Mejia</LastName>
+<EmailAddress>jmejia@sandiego.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Castaneda</LastName>
+<EmailAddress>daniel.castaneda@angelo.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Azadeh</FirstName>
+<LastName>Bolhari</LastName>
+<EmailAddress>azadeh.bolhari@angelo.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Angelo State University</Name>
+<CityName>San Angelo</CityName>
+<ZipCode>769095099</ZipCode>
+<PhoneNumber>3259422530</PhoneNumber>
+<StreetAddress>2601 West Avenue N</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>043Z</Code>
+<Text>PPSR- Public Participation in Scientific</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

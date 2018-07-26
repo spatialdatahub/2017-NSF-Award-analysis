@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Theoretical Studies of  Non-Valence Correlation-Bound and Temporary Anions</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>300001</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Cave</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Kenneth Jordan of the University of Pittsburgh is supported by an award from the Chemical Theory, Models and Computational Methods program in the Chemistry Division to develop theoretical methods for describing the interaction of excess electrons with molecules and molecular clusters.  Processes involving electron capture and transfer are involved in photosynthesis, the operation of batteries, in radiation damage, and in the operation of some laser systems.  The research of the Jordan group is relevant to understanding how these processes occur at a molecular level.  Professor Jordan is actively engaged in organizing scientific workshops that bring together researchers from different disciplines as well as summer schools where students learn about state-of-the-art methods in computer simulation of molecular systems.&lt;br/&gt;&lt;br/&gt;Professor Jordan is developing methods for modeling non-valence correlation-bound and temporary anion states.  Both classes of anions are particularly challenging to describe theoretically.  These studies address how non-valence correlation-bound anions evolve into image potential states with increasing system size.  The research of the Jordan group also elucidates the role of charge-transfer polarizability in describing the net polarizability of molecules and molecular clusters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762337</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Jordan</LastName>
+<EmailAddress>jordan@pitt.edu</EmailAddress>
+<StartDate>06/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Theory, Models, Comput. Method</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

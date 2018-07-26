@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrated Framework for Detection and Mitigation of GPS Spoofing Attacks in Smart Grids</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>399934</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Global Positioning System is one of the nation's most critical infrastructures, which provides precise timing and location to a host of systems and applications. Examples include air, sea, and land transportation, telecommunications, financial transactions, real-time industrial control systems, and most importantly, the electrical power grid. Specifically, reliable operation of the future electrical power grids depends on the availability of grid measurements with precise timing that is enabled by the Global Positioning System's time-synchronization technology. Although this system is very reliable, it is vulnerable to malicious spoofing cyber-attacks that disrupt the time synchronization of measurements. This consequently misleads the seamless operation of the infrastructures relying on it. For example, these attacks have ramifications on the electrical power grid, including power outages with dire socio-economic implications. The theme of this project is the real-time detection and mitigation of such attacks on the Global Positioning System with applications in power grids. &lt;br/&gt;&lt;br/&gt;Spoofing attacks manifest themselves at different physical layers including the signals aggregated by the Global Positioning System receiver, the time and location computed by the receiver, and eventually the voltage and current phasor measurements collected from Phasor Measurement Units in the electrical grid.  Novel, rigorous, and comprehensive models of the spoofing effects on the Global Positioning System receiver as well as the power grid operation are put forth. Leveraging the novel models, this research additionally furnishes advanced methods to detect the attacks and ultimately protect the grid from their harmful effects. Specifically, online spoofing detection schemes are developed using sparsity-based optimization formulations. These schemes are able to detect and isolate unnatural changes in the received satellite signals and the associated time and location solutions. Based on a novel measurement model that directly relates the spoofing attack with the electrical network state, dynamic algorithms are developed to maintain an accurate state estimate of the power grid, while seamlessly restoring grid stability in the presence of attacks.</AbstractNarration>
+<MinAmdLetterDate>06/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719043</AwardID>
+<Investigator>
+<FirstName>Ahmad</FirstName>
+<LastName>Taha</LastName>
+<EmailAddress>Ahmad.Taha@utsa.edu</EmailAddress>
+<StartDate>06/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Akopian</LastName>
+<EmailAddress>david.akopian@utsa.edu</EmailAddress>
+<StartDate>06/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nikolaos</FirstName>
+<LastName>Gatsis</LastName>
+<EmailAddress>nikolaos.gatsis@utsa.edu</EmailAddress>
+<StartDate>06/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>San Antonio</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>One UTSA Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NRI: FND: Safe and Efficient Robot Collaboration System (SERoCS) for Next Generation Intelligent Industrial Co-Robots</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce M. Kramer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In current automated factories, humans and robots typically work separately, partly for safety reasons and partly because full robotic automation has been a goal. In recent years, however, it has been recognized that there are tremendous opportunities when robots are brought out of their cages and allowed to collaborate with human workers in a shared workspace.  Such collaboration takes advantage of both the intelligence, adaptability and flexibility of humans and the endurance, strength and reliability of robots. In any collaboration between humans and robots, i.e. co-robots, it is important to consider and ensure both the safety of the humans and the best performance of the robots. This project aims to establish a set of design principles for a safe and efficient robot collaboration system (SERoCS).  Outside of factories, SERoCS may be applied in other settings, such as with mobility assistance of humans by robots and automated driving situations where human-driven vehicles and autonomous vehicles share the same road.&lt;br/&gt;&lt;br/&gt;SERoCS consists of three parts: (1) robust cognition algorithms for environment monitoring, (2) optimal task planning algorithms for safe human-robot collaboration, and (3) safe motion planning and control algorithms for safe human-robot interactions (HRI).  Research on cognition environment monitoring algorithms involves the construction of a cognition model library and the implementation of an algorithm for online prediction and adaptation of human behavior. In addition, task planning algorithms for safe human-robot collaboration require the construction of a motion skill library learned from human demonstrations and its association with an algorithm for online task planning and objective generation using learned skills. The two-layer structure that will be employed for safe motion planning and control algorithms comprises a long-term, efficiency-oriented planning layer and a short-term, safety-oriented control layer for safe HRIs. The SERoCS will signicantly expand the skill sets of the co-robots and prevent and minimize occurrences of human-robot collision and robot-robot collision during operation.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734109</AwardID>
+<Investigator>
+<FirstName>Masayoshi</FirstName>
+<LastName>Tomizuka</LastName>
+<EmailAddress>tomizuka@berkeley.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8013</Code>
+<Text>High Risk/Reward Innovative Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

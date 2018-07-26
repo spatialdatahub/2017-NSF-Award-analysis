@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Combining High-throughput Automation and Organism Design Software</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the expansion and  development of the field of synthetic biology, with a number of possible applications in untapped markets. By applying research outcomes from synthetic biology, robotic automation, and machine learning, the designing and engineering of microorganisms opens the door to a realm of possibilities in chemical synthesis that never existed in the past. This work will allow us to build nano-scale factories, applying the experimental field of synthetic biology to the real-world demands of pharmaceutical companies, allowing them to bridge the gap between disease and cure, faster and cheaper than ever before. By industrializing the process of designing biological systems, it is possible to build a system that can automate innovation at the nano-scale level. This will focus research on developing new approaches, with a majority of the experimentation performed by robotic laboratories. &lt;br/&gt;&lt;br/&gt;This I-Corps project automates the design and engineering of microorganisms for pharmaceutical production, by bringing together recent advances in the fields of synthetic biology, robotic automation, and machine learning. The approach translates innovations in these fields to form hypotheses that are tested using high-throughput automation to develop methods to predict novel function of enzymes and other biological parts. This will allow clients to produce compounds faster and more efficiently, freeing resources for development of new products.  Preliminary studies have been in the engineering of microorganisms for production of an alternative sugar. By coupling machine learning with high-throughput screening, testing, and experimentation, the approach will enable automated discovery, testing, and validation.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744226</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bernick</LastName>
+<EmailAddress>dbernick@soe.ucsc.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

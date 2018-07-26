@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>COLLABORATIVE RESEARCH: The statistical mechanics of bed load sediment transport: Scaling particle motion to fluvial form</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>225998</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Lawrence</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The streams and rivers of the United States are in a state of flux due to the building, and now decommissioning, of tens of thousands of dams, as well as changes in water use and land use influencing river flows. Extensive field studies have documented complex changes to the geometry and substrate of gravel-bedded rivers affecting fish and other biota. Due to the patchy, intermittent nature of the motion of sand and gravel carried by turbulent river flow, current models of sediment transport are unable to predict most of these critical riparian changes. This project investigates and describes sediment motion at the level of individual grains and turbulent eddies using physics-based supercomputer algorithms and advanced laboratory imaging techniques. Statistical physical principles are applied to these supercomputer and laboratory results to produce a theoretical framework that is expected to provide predictive capabilities, and thus, policy guidance regarding dramatic changes occurring in the country's waterways.&lt;br/&gt;&lt;br/&gt;The experimental work involves gravel-bed flumes and high-speed video to illustrate the basis for changes in streambed topography, and how the characteristic length-scales in this problem are determined by the distribution of particle motions. Laboratory experiments will be replicated by particle- and turbulence-resolving supercomputer simulations coupled in momentum. The work also is aimed at parameterizing statistical theory for the case of alternate bar formation, thus providing the basis for further clarifying channel-scale morphodynamics problems in which patchy, rarefied transport conditions exist.&lt;br/&gt;&lt;br/&gt;This award is cofunded by the Geomorphology and Land-use Dynamics Program and the National Strategic Computing Initiative.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734752</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Schmeeckle</LastName>
+<EmailAddress>schmeeckle@asu.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6898</Code>
+<Text>EAR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7458</Code>
+<Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+</ProgramReference>
+</Award>
+</rootTag>

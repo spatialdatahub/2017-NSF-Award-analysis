@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  User Application and Backend Portal to Enhance and Measure Addiction Treatment and Recovery Efficacy</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to investigate the feasibility of enhancing the core individual user application and commercial backend portal products as required to enhance and measure the efficacy of innovative addiction treatment and recovery support tools. If successful, the investment will enable healthcare stakeholders (e.g., individuals, addiction and mental health institutions and providers, health researchers and universities, government agencies, and payers) to leverage technology-enhanced addiction treatment innovations such as mindfulness training, contingency management, medication-assisted treatment, peer support, and adaptive interventions that show promise for improving health outcomes and delivery efficiencies. The proposed innovation will help to determine the feasibility of developing, testing, and commercializing innovative technologies that improve the efficacy of existing health IT solutions and to create new solutions for the range of stakeholders exhibiting increasingly high demand for effective interventions and tools required to develop, provide, and assess effective addiction treatment and recovery support services in a mix of research and delivery settings and the ability to generate significant revenue across the mix of public and private addiction recovery delivery settings.&lt;br/&gt;&lt;br/&gt;The proposed project will entail rapidly assembling the technical foundation and then testing the feasibility of supporting deployment and assessment of novel, evidence-based addiction treatment strategies and recovery interventions. There are four key research objectives: (1) design, develop, and test a mechanism to create statistically significant cohorts; (2) discern and test methods to measure participant recovery and sobriety success; (3) conduct internal treatment campaigns; and, (4) create a researcher application program interface to enable addiction researchers to connect with the system. Currently, there is no commercially viable platform for surfacing, implementing, and tracking the efficacy of optimal therapies and tools in an application environment. Phase I will focus on determining the feasibility of this technology for unlocking scientific interventions that can be clinically validated as successful in order to expand work in phase II to prove the capacity of this system to deliver single or bivariate therapy campaigns to users while also establishing the clinical efficacy for improving health outcomes sufficient to support interventions nationwide through cost-effective treatment solutions.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721733</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Pesce</LastName>
+<EmailAddress>chris@sobergrid.com</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sober Grid, Inc.</Name>
+<CityName>Somerville</CityName>
+<ZipCode>021433224</ZipCode>
+<PhoneNumber>6177848715</PhoneNumber>
+<StreetAddress>14 Tyler ST 3rd FL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+</Award>
+</rootTag>

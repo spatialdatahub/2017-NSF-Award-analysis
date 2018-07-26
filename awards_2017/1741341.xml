@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: F: Towards Automating Data Analysis: Interpretable, Interactive, and Scalable Learning via Discrete Probability</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>1024363</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As machine learning (ML) permeates all areas of science and technology, demands in diverse data domains, inference questions, resource limitations and reliability fuel several new conceptual and algorithmic challenges. Examples of current shortcomings that limit the full use of machine learning include suboptimal use of data and algorithms; painstaking hand-tuning and model search; validation of results and  difficulties in generalization; limited interactivity with humans; encoding of domain knowledge; and lack of interpretability, among others. Progress on these questions has the potential to impact the successful adoption and use of machine learning in a broad range of fields. With the above motivation, the goal of this project is to create a novel suite of models and algorithms for analyzing complex datasets, with a particular focus on the following three factors crucial for next-generation machine learning: (1) interpretability; (2) interactivity; and (3) automated learning. The overarching technical concept underlying this proposal is the concept of negative dependence in discrete probability. This project lays theoretical foundations for a new set of tools grounded in this concept. Besides practical impacts, the methods to be studied in the project motivate new theoretical questions, and will help increase interest in the underlying mathematics.&lt;br/&gt;&lt;br/&gt;The practical impact of the proposed work has the potential to benefit society on multiple fronts. Via collaborations, the PIs will evaluate the developed methods in healthcare (seeking to ultimately impact patient care and well-being), systems biology (to help with research on cancer and diabetes, among others), and materials science (to help discover safer, functional materials more efficiently). The project will also directly have educational impact: training of graduate students, providing material for data science courses at all levels, and outreach to the community via general talks as well as focused lectures at conferences and workshops, including workshops and events targeted at women in Data Science. &lt;br/&gt;&lt;br/&gt;Technically, the PIs will develop: (1) New tools, models, and algorithms for interactive data analysis, especially for experimental design, information collection, interpretable machine learning, hypothesis testing, performance validation, and architecture learning; (2) Theoretical analysis, such as convergence and complexity (statistical and computational); and (3) Open-source implementations of all key algorithms and frameworks.</AbstractNarration>
+<MinAmdLetterDate>09/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741341</AwardID>
+<Investigator>
+<FirstName>Suvrit</FirstName>
+<LastName>Sra</LastName>
+<EmailAddress>suvrit@mit.edu</EmailAddress>
+<StartDate>09/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stefanie</FirstName>
+<LastName>Jegelka</LastName>
+<EmailAddress>stefje@mit.edu</EmailAddress>
+<StartDate>09/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

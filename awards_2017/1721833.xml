@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Microfluidic quartz resonator based blood plasma coagulation monitors</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This STTR Phase I project aims to develop a novel microfluidic sensor technology that can measure blood coagulation times (specifically prothrombin time-PT, measured in international normalized ratio-INR) at point-of-care (POC). PT/INR has to be monitored frequently for millions of patients on oral Warfarin (an anticoagulant that prevents clotting) to keep them in a safe therapeutic range. The POC sensor developed in this project is expected to provide PT/INR measurements independent of factors influencing the blood counts of the patients, making it safer and more accurate. The technological foundation of the proposed research is to combine acoustic sensing with microfluidics. The preliminary data demonstrates that the proposed sensor can measure viscosity and density of extremely small liquid volumes (~ 10 nL) accurately. The successful implementation and commercialization of this innovation will result in a big market share in the rapidly growing POC coagulation test market and create hundreds of jobs. The research and development process during this STTR will also contribute to the full understanding of this technology?s potential, which can result in other self/home testing instruments for patients. &lt;br/&gt;&lt;br/&gt;The proposed novel coagulation monitor is based on microfluidic quartz resonator sensors. Quartz resonator sensors can be used to measure changes in fluid viscosity or mass coupled to their surfaces (both of which occur during coagulation of blood) by monitoring the associated changes in the resonance frequency. The technology underlying quartz resonators is well established, simple and robust, and amenable to provide portable and compact instrumentation. The innovation here is the integrated microfluidics, which will bring the benefits of extremely low liquid volume requirements, control over how liquid is observed by the sensor (which can be used to enhance sensor output due to the coagulation), and on-chip blood plasma separation. The key objectives of the proposed research are to determine the microfluidics design and the surface functionalization that will optimize a microfluidic quartz resonator sensor?s coagulation measurement sensitivity, and to implement on-chip blood plasma separation for PT/INR measurements.</AbstractNarration>
+<MinAmdLetterDate>06/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721833</AwardID>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Zauscher</LastName>
+<EmailAddress>zauscher@duke.edu</EmailAddress>
+<StartDate>06/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zehra</FirstName>
+<LastName>Parlak</LastName>
+<EmailAddress>zehra.parlak@gmail.com</EmailAddress>
+<StartDate>06/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Qatch Technologies LLC</Name>
+<CityName>Burlington</CityName>
+<ZipCode>272155379</ZipCode>
+<PhoneNumber>6789083112</PhoneNumber>
+<StreetAddress>505 Alamance Rd Ste#109</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

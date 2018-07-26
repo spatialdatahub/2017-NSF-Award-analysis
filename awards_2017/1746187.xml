@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Achieving a scalable Earthquake Early Warning System (EEWS) with a sub-second response</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project achieves a widespread earthquake sensor network in the earthquake-prone regions. With this wide prevalence of the sensor network, this smart, real-time earthquake detection system can detect an earthquake within a second near an epicenter and notify the other users away from the epicenter before the shakings arrive, effectively creating an earthquake early warning system for society. This same infrastructure of the smart earthquake monitoring system can be transformed to detect other natural hazards such as landslides, volcano eruptions, mine explosions, generating larger social and economic benefits. With this technology, instead of some sparse seismic recordings that we have currently, we can collect dense earthquake data from tens of thousands of locations in cities, providing a block-by-block risk-assessment of earthquake hazards in cities. This dense data promises several orders of magnitude improvement in the current earthquake hazard maps and helps the first responders, catastrophic modelers, primary insurance and reinsurance companies, city planners, and building owners to better assess the earthquake hazard risks. The granular level of the risk maps has the potential to increase the awareness of earthquake hazard risk in society.&lt;br/&gt;&lt;br/&gt;The proposed project achieves a dense and hybrid seismic network using smartphones, tablets, and stationary IoT devices. A potential outcome of this project is a next-generation Earthquake Early Warning System with a sub-second response that repurposes smartphones, tablets, and other sensors of a large IoT ecosystem for the earthquake sensor network. To achieve the performance under a second, a new earthquake early warning system that scales the massive data streaming from multiple sources, enables sensor and server communication in the fraction of a second, finally builds a new push notification framework to alert hundreds of thousands in less than a second.</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746187</AwardID>
+<Investigator>
+<FirstName>Battalgazi</FirstName>
+<LastName>YILDIRIM</LastName>
+<EmailAddress>yildirimga@gmail.com</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Zizmos, Inc.</Name>
+<CityName>PALO ALTO</CityName>
+<ZipCode>943012772</ZipCode>
+<PhoneNumber>6502487512</PhoneNumber>
+<StreetAddress>845 RAMONA STREET</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

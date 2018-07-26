@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Postdoctoral Fellowship in Biology FY 2017: Leveraging collections to quantify phenotype-genotype-environment associations underlying variation in songbird cryptic coloration</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Marenda</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2017, Research Using Biological Collections. The fellowship supports research and training of the fellow that will utilize biological collections in innovative ways.  An enduring goal in evolution and ecology is to understand how populations and species adapt to environmental conditions that vary over space and time. Studying local adaptation provides important insights into the biological processes that generate geographic variation in observable characteristics within and among populations. Furthermore, many populations and species have traits that have changed overtime, often in response to human-induced modifications of their natural habitat. This research will combine traditionally disparate data sources to quantify associations between phenotypic, environmental, and genetic variation in a widespread songbird, the Horned Lark. In examining geographic and temporal variation in camouflage among Horned Lark populations, this project will shed light on how organisms evolve local adaptations and cope with disturbances to their native habitat in a rapidly changing world.&lt;br/&gt;&lt;br/&gt;The PIs will take standardized measurements of lark coloration and patterning by photographing museum specimens. These measurements will be compared to data acquired from two remote sensing instruments that vary in their spectral and spatial resolution. These phenotype-environment associations will then be considered alongside genotypic variation. After assembling a reference genome, the PIs will examine associations between genotypes and phenotypes to unravel the genetic architecture underlying adaptive coloration in larks. Finally, the PIs will examine phenotypic and genetic variation among a series of museum specimens that exhibit phenotypic change over time in response to increases in agricultural activity in the southwestern United States. In comparing genetic variation between darker-colored larks that were collected in the past ten years to lighter-colored larks that were collected more than 80 years ago in the same locality, this research will quantify the role of selection, drift, and gene flow in driving rapid phenotypic change over contemporary time scales. During their time as a post-doctoral research at UC Berkeley and the Museum of Vertebrate Zoology, the Fellow will learn a variety of bioinformatics techniques, remote sensing technologies, and museum curatorial skills that will benefit him throughout his career in the natural sciences. Furthermore, the Fellow will examine how involvement in natural history collections might influence undergraduate volition and retention in ecology and evolutionary biology, particularly among under-represented demographics in science.  Results from these studies will be published in peer-reviewed journals and shared at scientific meetings.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710739</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Mason</LastName>
+<EmailAddress/>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mason                   Nicholas       A</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148503626</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>001Y</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Seventh International IEEE Conference on  Computational Advances in Bio and medical Sciences (ICCABS) - Travel Awards</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computational techniques are drastically impacting the way in which scientific and engineering research are conducted. Impressive advances have been made in different areas including biology, medicine, and drug discovery. Given the great importance of these areas to the society at large, it is essential to advance the state-of-the art in them. Such advances can be made when the scientists from these domains work together and come up with the best possible diagnosis tools, treatment procedures, drugs for various diseases, etc. Even though a number of conferences exist today in the general area of bioinformatics, they focus on one of these three areas to a large extent. This International IEEE Conference on Computational Advances in Bio and medical Sciences (ICCABS) has the goal of bringing together scientists in biology, medicine, and drug discovery and hence serving as a collaboration platform for them. It is expected that these collaborations will result in the solution of some challenging problems.&lt;br/&gt;&lt;br/&gt;The requested funds will be used to support the travel expenses of graduate students and post-doctoral fellows (PDFs). These students and PDFs will get to meet experts and listen to their research results. Toward this goal, the plan is to invite a number of keynote speakers and invited speakers. Not only the attending students and PDFs but also other students will benefit since when they return to their schools they will communicate their experience with others in the research group. The conference proceedings will be of great use to students, researchers, and practitioners. Two journal special issues are also planned.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747853</AwardID>
+<Investigator>
+<FirstName>Sanguthevar</FirstName>
+<LastName>Rajasekaran</LastName>
+<EmailAddress>rajasek@engr.uconn.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

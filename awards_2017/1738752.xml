@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase I Site Addition:  I/UCRC for Multi-Functional Integrated System Technology (MIST) Center</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>450817</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Prakash Balan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project involves a site addition of University of Virginia (UVA) to the Industry-University Cooperative Research Center (IUCRC) for Multifunctional Integrated Systems Technology (MIST). The semiconductor industry is grappling with the end of Moore's Law and a slow-down in electronic scaling for conventional digital logic. However, there is evidence of a parallel expansion into new domains such as unconventional computing and embedded applications. In particular the Internet of Things (IoT) promises by 2020 to connect up to 30 billion smart devices, buildings, vehicles and cities embedded with software, sensors and electronics that can exchange data and react in real time. While there is a lot of effort in IoT applications at the software level, the focus of this center is to develop the hardware base for the IoT. This includes five research thrusts ? computing, wireless, power, sensing and integration. The UVA site proposes to add new expertise in functional materials, solid-state devices, photonics, Terahertz sensing, thermal characterization, multiscale modeling and heterogeneous integration. Pre-competitive research in this area will serve industry interests by demonstrating proof-of-concept low power sensors and devices, enable cutting edge scientific and technological research, provide a platform for students to present research and facilitate recruitment, and target minority students through workshops geared towards industry internship. &lt;br/&gt;&lt;br/&gt;The UVA Phase I site addition to the IUCRC center for Multifunctional Integrated Systems Technology (MIST) will focus on pre-competitive industry relevant research for smart systems innovations in the IoT era. This includes five research thrusts computing, wireless, power, sensing and integration ? targeting overall the hardware base for the IoT. This will need scalable and embedded applications with small Size-Weight and Power (SWaP), typically involving heterogeneous integration of materials, and integration of a large signal bandwidth from Terahertz and RF-photonic detection to Gigahertz for electronic processors. The UVA site proposes to add critical expertise towards integrated detector-processor arrays, including functional materials, solid-state devices, photonics, Terahertz sensing, thermal characterization, multiscale modeling and material integration. Research in this area will serve industry interests by demonstrating proof-of-concept low power sensors and devices, enable cutting edge scientific and technological research, provide a platform for students to present research and facilitate recruitment, and target minority students through workshops geared towards industry internship.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738752</AwardID>
+<Investigator>
+<FirstName>Avik</FirstName>
+<LastName>Ghosh</LastName>
+<EmailAddress>ag7rq@virginia.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joe</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress>jcc7s@virginia.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Beling</LastName>
+<EmailAddress>ab3pj@virginia.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mircea</FirstName>
+<LastName>Stan</LastName>
+<EmailAddress>mircea@virginia.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Hopkins</LastName>
+<EmailAddress>phopkins@virginia.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>R127</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R128</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R129</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R130</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>170E</Code>
+<Text>Interagency Agreements</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8036</Code>
+<Text>Advanced Electronics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

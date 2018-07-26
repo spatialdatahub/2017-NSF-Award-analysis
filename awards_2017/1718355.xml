@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Caching Networks with Optimality Guarantees</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen L. Fisher</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Internet today includes networks of caches--networks with storage capabilities--that are used in a broad array of real-life networking applications. They play a central role in commercial systems for the online distribution of content (for example streaming movies and other videos). Caching clearly benefits content providers, as it reduces traffic reaching their servers.  It also benefits end-users, as it reduces the latency they experience--for example the time to download a movie--and network service providers, as it reduces the overall Internet traffic traversing or exiting their network. Despite the known practical benefits of cache deployments, a formal, mathematical understanding of how well caching networks perform remains largely elusive.  The goal of this project is a formal understanding of how Internet traffic routing and caching can be jointly optimized so as to provide provable performance guarantees with respect to some set of design objectives, such as throughput optimization or cost minimization.  Optimizing traditional network operations, such as routing, congestion and flow control, active queue management, etc., becomes significantly challenging in the context of caching networks. This work can have a direct and long-term impact on both existing and future network architectures and commercial systems, including information-centric networks (ICNs)  and content-delivery networks (CDNs). The project is also an excellent platform for promoting interdisciplinary learning in the areas of networking and combinatorial and convex optimization, and is well-suited to undergraduate research, including hands-on projects involving simulation experiments and validation.&lt;br/&gt;&lt;br/&gt;Contrary to prior work on caching networks, this project provides distributed, adaptive, stochastic optimization protocols with optimality guarantees over arbitrary network topologies. In particular, using the proposed methodology, both the combinatorial nature of caching as well the lack of convexity of natural objectives are overcome through convex relaxations. The project leverages such relaxations to design constant-approximation, distributed, adaptive, stochastic optimization algorithms, making joint routing and caching decisions that are within a constant factor from the optimal. In addition, the project implements and evaluates these algorithms over realistic network topologies, under a variety of real-life network service loads and user demands.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718355</AwardID>
+<Investigator>
+<FirstName>Edmund</FirstName>
+<LastName>Yeh</LastName>
+<EmailAddress>eyeh@ece.neu.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stratis</FirstName>
+<LastName>Ioannidis</LastName>
+<EmailAddress>IOANNIDIS@ECE.NEU.EDU</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

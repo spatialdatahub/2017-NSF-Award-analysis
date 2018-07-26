@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCF: CIF: Small: Interactive Learning from Noisy, Heterogeneous Feedback</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to develop interactive learning frameworks and methods that can learn predictors based on complex, imperfect feedback adaptively solicited in an on-line fashion from human annotators. Such predictors can significantly benefit the practice of machine learning by making it more accessible in domains where annotations are expensive. Currently, beyond a handful of heuristic studies, the only well-understood interactive learning setting is active binary classification, where a single annotator interactively provides labels to a learning algorithm. The main challenge in exploiting richer feedback is that human responses are inherently inconsistent and imperfect. This project will overcome this challenge by assuming that the responses come from unknown probability distributions with some mild yet realistic properties, which will be exploited to provide methods that can learn reliably from complex feedback.&lt;br/&gt;&lt;br/&gt;Specifically, this project will introduce a general framework for interactive learning from imperfect, complex feedback, and develop methods for three common cases: (1) Active Learning with Abstention Feedback, where annotators can either provide a label or declare I Don't Know (2) Active Learning for Multiclass Classification, where the goal is to learn a classifier for a large number of classes and (3) Active Learning with Feedback from Multiple Annotators, where the goal is to combine feedback from many labelers with varying amounts of expertise subject to a budget. These problems will be approached through two main tools -- adaptive hypothesis testing and surrogate loss minimization. Combining these approaches will lead to principled algorithms for building accurate machine learning predictors with low annotation cost, which in turn, will benefit the practice of machine learning in domains where annotated data is expensive.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719133</AwardID>
+<Investigator>
+<FirstName>Tara</FirstName>
+<LastName>Javidi</LastName>
+<EmailAddress>tara@ece.ucsd.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kamalika</FirstName>
+<LastName>Chaudhuri</LastName>
+<EmailAddress>kamalika@cs.ucsd.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

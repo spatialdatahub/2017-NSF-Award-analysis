@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Trace Formula, Analytic Number Theory, and Langlands Functoriality</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>173463</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew  Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Langlands Program, dating back to the letter written by R. P. Langlands to A. Weil in 1967, predicts surprising connections between arithmetic (e.g. properties of solutions to polynomial equations) and analysis (e.g., highly symmetric solutions to certain differential equations on symmetric manifolds (i.e.,automorphic forms)). The "Functoriality Conjectures" lie at the heart of the Langlands program. These are deep conjectures having far-reaching consequences both in number theory and the theory of automorphic forms. For instance, the celebrated proof of Fermat's Last Theorem by A. Wiles uses a case of functoriality conjectures proved earlier by Langlands and Tunnell. Although significant progress has been made towards these conjectures, in their utmost generality they are wide open. This research project aims to develop tools and techniques to prove further cases of functoriality conjectures. &lt;br/&gt;&lt;br/&gt;One of the most general and power tools in the theory of automorphic forms is the Arthur-Selberg trace formula. It has been successfully used in proving cases of functoriality conjectures. In all of these cases it is a comparison between two different trace formulas that was utilized. In a recent proposal called "Beyond Endoscopy" Langlands proposed a new approach to attack the functoriality conjectures in general. It is a fundamentally new approach aiming to analyze poles of automorphic L-functions using the trace formula and, in particular, is non-comparative. There are various difficulties, intrinsic to the discrete part of the trace formula, that need to be addressed before utilizing it in Beyond Endoscopy. This aim of this project is twofold: First is to address these difficulties in the case of GL(N) (following PI's earlier works and suggestions of Arthur) and get an explicit trace formula on the cuspidal part of the spectrum. The second goal is to use the resulting formula to execute Beyond Endoscopy for various automorphic L-functions.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702176</AwardID>
+<Investigator>
+<FirstName>Salim</FirstName>
+<LastName>Altug</LastName>
+<EmailAddress>altug@mit.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

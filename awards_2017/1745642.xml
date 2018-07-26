@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Wideband Contactless Current Sensors</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to introduce a fully integrated current sensor with an order of magnitude performance improvement over the state-of-art technologies. The developed technology will enable more reliable, efficient and compact power electronics systems. Power electronics is an integral part of today's power delivery systems such as renewable energy systems, electric vehicles, data centers and most consumer electronics. In these applications, electric current information is often an essential parameter that needs to be known and measured for control, diagnostic and prognostic purposes. With advances in power electronic circuits with specific attention to high frequency power converters, there is a need to investigate alternative approaches and techniques to measure the current. These approaches should result in availability of current sensors that have fast-response, are accurate, loss-less, and preferably non-intrusive. The impact of such a sensor is to enable systems and circuits that will be miniaturized and more efficient through the use of wide band-gap semiconductors and high switching frequencies. Additionally, the availability of current measurement information will lead to greater reliability and prognostic capability. Applications include power converters in electric vehicles and data centers.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the commercial potential of the current sensor technology in different industry sectors such as automotive, telecommunications, and data centers. Today, there is no current sensor that can be used in many power electronics systems or integrated into semiconductor modules optimized to operate with switching frequencies beyond 1MHz. This project will address the need and requirements for such sensors by moving away from commonly-used Hall-Effect sensors and utilizing magneto-resistors. With proprietary IC circuitry and packaging, the project team is developing contactless, lossless sensors with bandwidths up to 10 MHz, while overcoming the measurement challenges due to EMI, asymmetrical current distributions and non-uniform magnetic field.</AbstractNarration>
+<MinAmdLetterDate>06/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745642</AwardID>
+<Investigator>
+<FirstName>Babak</FirstName>
+<LastName>Parkhideh</LastName>
+<EmailAddress>bparkhideh@uncc.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

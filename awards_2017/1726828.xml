@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an Inductively Coupled Plasma Mass Spectrometer (ICP-MS) and Laser Ablation (LA) System at the University of Massachusetts Boston</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>503356</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to the University of Massachusetts Boston to acquire an inductively coupled plasma mass spectrometer (ICP-MS) and laser ablation (LA) system to be used for elemental and isotopic analysis of liquid and solid biological, geological, and chemical media.  This award supports researchers and students from a variety of disciplines (physiology, biochemistry, ecology, geology, marine science, engineering) and institutions.  This instrumentation is an invaluable resource for University and external collaborators enabling intellectual property development and training the next generation of scientists, from UMass Boston as well as other institutions.  Through research and integration with educational programs, the instrumentation empowers our diverse student body (42% minority) by providing them with critical skills for further study and employment. This instrumentation serves as a crucial tool for recruiting faculty and is particularly valuable to several young faculty who are developing novel research projects that take full advantage of the flexibility and sensitivity of this instrumentation.&lt;br/&gt;&lt;br/&gt;The ICP-MS and LA instrumentation provides key technological capabilities such as a dynamic mass range, the ability to measure elemental and isotopic compositions in samples from solid to liquid with high precision and accuracy, ultra-low detection limits, and the versatility to allow for direct measurement of seawater elemental composition.  The dynamic, multidisciplinary research facilitated by this instrumentation ranges from ecological applications such as using the elemental composition of hard structures in marine and freshwater organisms to understand individual life histories and population dynamics under conditions of climate change and human impacts.  The instrumentation enables research on the toxicity of nanoparticle metals on marine organisms and the study of the role of calcium in the development of shell disease in lobsters.  In addition, the instrumentation allows for direct measurement of cellular level metal concentrations which are used in the development of novel platinum-based chemotherapies.  In addition to biological research the instrumentation supports the study of the paleoocean at the time of the largest mass extinction on Earth (Permian-Triassic, 250 million years ago), the evaluation of groundwater-surface water connections in agricultural regions of the high Himalaya, and the study of how metals are speciated and transferred across the sediment-water interface in coastal oceans.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726828</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Christian</LastName>
+<EmailAddress>alan.christian@umb.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robyn</FirstName>
+<LastName>Hannigan</LastName>
+<EmailAddress>robyn.hannigan@umb.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Boston</Name>
+<CityName>Dorchester</CityName>
+<ZipCode>021253300</ZipCode>
+<PhoneNumber>6172875370</PhoneNumber>
+<StreetAddress>100 Morrissey Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

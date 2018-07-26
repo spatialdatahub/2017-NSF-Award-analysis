@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Development of a Statewide Network for Teacher Preparation in Computer Science The University of Northern Iowa Partnership for CS Teacher Preparation</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>299984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of Northern Iowa proposes a Planning Grant to develop a research-practitioner partnership (RPP) to facilitate  computer science (CS) teacher professional development (PD) across Iowa.  There has been substantial discipline-wide work done recently to develop curriculum and standards for high school CS.  Knowledge exists regarding PD for in-service teachers, communities of practice, principles for broadening participation, and RPPs, but there are plenty of opportunities to expand experience and expertise in these areas in combination with each other.  The proposed RPP for Iowa includes university personnel to supply content, curriculum design experts and researchers, Iowa Area Education Agenices (AEA) personnel for localization and ongoing support, and school districts with knowledge practitioners. It is an ideal partnership to design and test a network for providing computer science PD and ongoing support. &lt;br/&gt;&lt;br/&gt;The partnership will start by piloting a PD network for high school CS teachers in one of nine AEAs in Iowa.  Identified in-service teachers will complete three courses over two summers and the intervening school year: an introduction to programming, a CS methods course, and a big ideas course.  Instruction will be designed using the Iowa Professional Development Model.  During the PD, participants will become familiar with engagement practices and the culturally responsive computing practices through modelling and explicit instruction.  Furthermore, district personnel in the participants' school districts will attend a workshop on understanding biases and broadening participation in order to set a more positive school environment.  Upon completion of the PD, participants will be well-prepared to teach a high-quality introduction to programming course or an AP CS Principles course.  The proposers have already recruited four districts for inclusion in the partnership and expect to increase that number to 20 over the course of the award. Upon completion of the project, having gathered substantial assessment data, the proposers will be ready to expand this program to allow for participants from school districts and AEAs covering the entire state of Iowa.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738784</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>East</LastName>
+<EmailAddress>east@cs.uni.edu</EmailAddress>
+<StartDate>04/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Ben</FirstName>
+<LastName>Schafer</LastName>
+<EmailAddress>schafer@cs.uni.edu</EmailAddress>
+<StartDate>04/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Northern Iowa</Name>
+<CityName>Cedar Falls</CityName>
+<ZipCode>506140001</ZipCode>
+<PhoneNumber>3192733217</PhoneNumber>
+<StreetAddress>Research and Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

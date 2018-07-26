@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>IIS-RI: International Conference on Automated Planning and Scheduling (ICAPS) 2017 Doctoral Consortium Travel Awards</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>6888</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports student travel for select students to participate in the Doctoral Consortium (DC) at the International Conference on Automated Planning and Scheduling (ICAPS), to be held in June 2017 in Pittsburgh, PA.  ICAPS is a top-tier conference for researchers and practitioners to share and learn from each other in the field of planning and scheduling using artificial intelligence techniques. This consortium is oriented on research and career development for students who have identified their PhD topics and are just embarking on that independent research.  &lt;br/&gt;&lt;br/&gt;Sponsoring student travel to ICAPS fosters a community of research in theoretical and algorithmic advances in planning and scheduling, as well as a range of applications of such automated planning, such as in manufacturing, health care, logistics, space systems, software engineering, robotics, and entertainment.  The entire event provides an opportunity for students to engage in discussion with scientists from around the world and to explore new research directions and topics.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745800</AwardID>
+<Investigator>
+<FirstName>Emma</FirstName>
+<LastName>Brunskill</LastName>
+<EmailAddress>ebrun@cs.stanford.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Studies in Numerical Relativity</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>72061</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Einstein's theory of general relativity describes all gravitational interactions in the universe, ranging from the force that pulls a falling apple to the Earth, to the expansion of the Universe itself.  The equations of general relativity - called Einstein's equations - are quite complicated and can be solved exactly, i.e. with pencil and paper, only under very special and unrealistic circumstances.  Modeling more realistic scenarios - for example in order to understand a gravitational wave signal, emitted by two merging black holes, and detected by the LIGO gravitational wave observatory - requires computer simulations.  This group's ongoing research efforts aim at developing methods and approaches for such computer simulations.  In recent years, the PI has developed new methods that are well suited for a new class of problems, and that may make current simulations significantly more efficient.  In the next few years he plans to adopt these methods to study so-called "critical phenomena" that occur at the onset of back-hole formation, to examine properties of rapidly rotating neutron stars, and to collaborate with colleagues to make the above-mentioned new methods available in public community codes.  Undergraduate students will participate in these activities, providing them with a "hands-on" research experience, and generating a research-enriched learning environment at Bowdoin College.&lt;br/&gt;&lt;br/&gt;The scientific goals of this research effort in numerical relativity include the development and implementation of numerical algorithms for the solution of Einstein's equations of general relativity, as well as their application in the numerical modeling of relativistic objects, in particular neutron stars and black holes.  In the next funding period the PI plans to adopt methods for numerical relativity in spherical polar coordinates, previously developed with support from NSF grants, to study several problems in gravitational physics and relativistic astrophysics, in particular, to use this code to study critical collapse in the absence of spherical symmetry.  Extending earlier results the PI plans to study the effects of angular momentum and aspherical deformations on critical phenomena in the gravitational collapse of perfect fluids, scalar fields, and vacuum spacetimes, addressing several open questions.  The PI also plans to perform simulations of astrophysical objects; specifically, the stability of new types of differentially rotating neutron stars.  Finally, the PI will implement these methods for numerical relativity in curvilinear coordinates in efficient and scalable community codes, namely the Einstein Toolkit and Harm3D, so that these techniques can be applied in a number of astrophysical simulations that cannot be performed with current stand-alone codes.</AbstractNarration>
+<MinAmdLetterDate>06/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707526</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Baumgarte</LastName>
+<EmailAddress>tbaumgar@bowdoin.edu</EmailAddress>
+<StartDate>06/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowdoin College</Name>
+<CityName>Brunswick</CityName>
+<ZipCode>040118451</ZipCode>
+<PhoneNumber>2077253767</PhoneNumber>
+<StreetAddress>6000 COLLEGE STA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1244</Code>
+<Text>GRAVITATIONAL THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

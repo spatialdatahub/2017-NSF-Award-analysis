@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Arctic ocean control of the Atlantic meridional overturning circulation on multi-decadal and longer timescales</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>479930</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Suchman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A major goal of this study is to understand the impacts of Arctic climate change and their effects on the Atlantic meridional overturning circulation (AMOC). This is of significant practical value because the AMOC can affect the climate of different regions of the globe, ranging from North America, Europe and Greenland to the Sahel and the Indian Ocean. Drs. Fedorov and Liu will conduct outreach activities through the Peabody Museum of Natural History. This includes giving public lectures and symposia, leading Teacher development workshops, and communicating the importance of the results to mass media.&lt;br/&gt;&lt;br/&gt;This is a modeling proposal to study the effect of declining Arctic sea ice on the strength and other characteristics of the AMOC - a major element of ocean dynamics and climate. Sea ice decline exposes the Arctic ocean to anomalous solar radiation and freshwater fluxes, generating positive buoyancy anomalies in the upper ocean. The hypothesis being tested is   that, when spreading to the North Atlantic these buoyancy anomalies effectively weaken ocean deep convection, leading to a slow-down of the AMOC on multi-decadal timescales. This hypothesis will be tested with a variety of methods ranging from adjoint ocean modeling to experiments with climate models.</AbstractNarration>
+<MinAmdLetterDate>11/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741841</AwardID>
+<Investigator>
+<FirstName>Alexey</FirstName>
+<LastName>Fedorov</LastName>
+<EmailAddress>alexey.fedorov@yale.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>wei.liu@ucr.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5280</Code>
+<Text>ARCTIC NATURAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Monoidal Categories and Categorification in Classical Representation Theory</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew  Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Groups are fundamental mathematical objects that arise in the study of symmetry. Some of the most important and universal examples include symmetric groups, which arise from symmetries of finite sets, and general linear groups, which arise from symmetries of finite-dimensional vector spaces; both of these examples are a particular focus for this project. Classical representation theory studies groups (and related algebras) by focusing on how they act on other mathematical objects, such as topological spaces. Informally, a representation is a snap-shot of the underlying group (or algebra) taken from a particular vantage point. In the last decade or so, the idea of categorification has become extremely important in this general area and has led to the development of what is now known as higher representation theory. This involves actions of groups on mathematical structures called categories, utilizing not only the relations between these structures (functors) but also relations between these relations (natural transformations). It is a burgeoning area with many applications inside and outside of mathematics, including finite group theory, ring theory, combinatorics, Lie theory, category theory, representation theory, knot theory, and even computer science and theoretical physics.&lt;br/&gt;&lt;br/&gt;This project will study some important and rich categories appearing in representation theory arising from symmetric groups, general linear groups, and related Lie algebras and Lie superalgebras. The project reflects the recent trend towards higher representation theory. There is special emphasis on monoidal categories and categorical Kac-Moody actions. At the same time, the project is firmly rooted in important classical problems in representation theory, such as Broue's Abelian Defect Group Conjecture for finite groups, and the study of maximal subgroups of finite simple groups. Several parts of the project are concerned with the study of derived equivalences between blocks of naturally occurring categories in representation theory, and exploit braid group actions on derived categories. One part of the project is of a more foundational nature, developing the general theoretical framework of highest weight categories in a new direction.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700905</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Brundan</LastName>
+<EmailAddress>brundan@uoregon.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Kleshchev</LastName>
+<EmailAddress>klesh@math.uoregon.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

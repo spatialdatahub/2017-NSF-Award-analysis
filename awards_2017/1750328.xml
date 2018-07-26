@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Air Quality Impacts of Dynamic Forest-Atmosphere-Chemistry Interactions</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>96386</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This CAREER project will investigate how natural and human-caused interannual variability in the sources and sinks of reactive trace gases from forests influence air quality across North America.  Observations and models will be combined to assess the role of interannual variability in the biosphere on atmospheric chemistry and air quality. &lt;br/&gt;&lt;br/&gt;This research has four objectives: (1) Characterize interannual variability in simulated biogenic reactive trace gas sources/sinks and their impacts on air quality in the US, driven by meteorology and phenology; (2) Develop time-varying land cover inputs that can be used to simulate the impacts of recent historical land use/land cover changes on atmospheric chemistry and air quality in the US.; (3) Determine how changing interactions between forests and atmospheric chemistry modify the impacts of concurrent changes in anthropogenic emissions on air quality in the US.; and (4) Identify and attribute important patterns in ground- and satellite-based observations of atmospheric chemical composition to spatiotemporal variability in the biosphere.  The education and outreach plan is focused on expanding science data literacy in atmospheric chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750328</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Geddes</LastName>
+<EmailAddress>jgeddes@bu.edu</EmailAddress>
+<StartDate>02/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

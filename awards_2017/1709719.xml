@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SusChEM: Collaborative Research: Cobalt-catalyzed Defluorination of Branched Perfluorinated Compounds</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>325000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is funded by the Environmental Chemical Sciences (ECS) Program in the Division of Chemistry. It is a collaboration between Professors Jinyong Liu and David Volz at the University of California, Riverside, and Prof. Yujie Men at the University of Illinois at Urbana-Champaign. Together with their graduate students they study perfluorinated compounds (PFCs). PFCs are a family of chemicals that have the same carbon backbone as hydrocarbons but all atoms attached to the carbon backbone are fluorine instead of hydrogen. Carbon-fluorine (C-F) bonds are highly stable. Surfaces modified with PFCs are resistant to both water and oil. Thus, PFCs are widely used in fire-fighting foams, electronics, lubricants, outdoor apparel and equipment, and on-sticking cooking ware. The stability of C-F bonds makes PFCs also very difficult to degrade in the natural environment. Synthetic PFCs have been globally detected in the environment and living organisms. Bioaccumulation of PFCs has been connected to a variety of human health problems. However, current technologies are not effective in PFC degradation via breaking the C-F bonds (i.e., defluorination). Therefore, it is desired to develop both new PFCs that can be degraded more easily and new strategies for removing these compounds from the environment.   This research investigates the structure-activity relationships, reaction mechanisms, and products of cobalt-catalyzed removal of fluorine from of PFCs in abiotic and microbial environments. Outcomes may contribute to solving PFC pollution challenges by providing fundamental guidelines to the design of novel degradable PFCs and microbial remediation in natural environments.&lt;br/&gt;&lt;br/&gt;This research employs a multi-faceted approach combining chemical and biological tools to investigate cobalt (Co)-catalyzed defluorination of PFCs. The team investigates the product of PFC defluorination after Co-catalyzed reactions. The structure-activity relationship between the Co coordination sphere in chemically and biologically synthesized complexes and the defluorination activity is investigated.  The redox environment enabling abiotic and microbial defluorination reactions is determined. Three PhD students receive interdisciplinary training. Undergraduate and high school researchers from a diverse student population are exposed to interdisciplinary training, specifically topics related of sustainability. The broad community is reached via a public-oriented science conference and other events.  Results may be applied to biomimetic catalyst system design, synthesis of novel fluoro-pharmaceuticals, and toxicology evaluation of novel fluorochemicals.  Outcomes of this project have broad impacts on transforming industrial fluorochemical design.  Research efforts are coupled with educational and outreach plans designed to broaden participation from underrepresented minorities in Chemistry, Environmental Science, and Chemical / Environmental Engineering.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709719</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Volz</LastName>
+<EmailAddress>david.volz@ucr.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jinyong</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>jyliu@engr.ucr.edu</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6882</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5937</Code>
+<Text>SWEDEN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

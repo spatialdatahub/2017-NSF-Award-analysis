@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Medium: Robust Memory Forensics Techniques for Userland Malware Analysis</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>1113426</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>State-of-the-art malicious software (malware) is increasingly a threat to military, corporate, and civilian computer systems and critical infrastructure.  Over the past decade, memory forensics has begun to offer powerful techniques for detecting and analyzing malicious software and is often effective in cases where other methods fail.  Memory forensics tools must be robust and trustworthy, because failing to detect a malware infection can have disastrous consequences.  This project is addressing a number of important research issues in memory forensics, including expanding the scope and improving the reliability of memory forensics tools and providing investigators with better mechanisms to evaluate the correctness of digital investigations.&lt;br/&gt;&lt;br/&gt;This project is addressing three important research issues in memory forensics:  (1) Creating a large, diverse collection of freely available, realistic data sets for memory forensics research and practice; (2) Developing a testing platform that automatically discovers errors in both open and closed source memory forensics frameworks; and (3) Developing techniques to detect and analyze user-space (rather than kernel-space) malware activity.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703683</AwardID>
+<Investigator>
+<FirstName>Golden</FirstName>
+<LastName>Richard</LastName>
+<EmailAddress>golden@cct.lsu.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708032701</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 Himes Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

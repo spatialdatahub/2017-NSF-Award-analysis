@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mean Curvature Flow and Nonlinear Heat Equations</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>97390</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher W. Stark</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mean curvature flow is an equation that drives the evolution of a surface in the direction of steepest descent for the surface's area. As a closed surface evolves to decrease its area as rapidly as possible, convex points will move inwards, concave points move outwards, and the speed is slower where the surface is flatter. The area will decrease and eventually go to zero in finite time. In particular, any closed surface becomes extinct in finite time and, thus, singularities always occur.  This flow originated in the materials science literature and has been intensely studied in both pure and applied mathematics. The key to understanding the mean curvature flow is to understand the singularities it goes through.&lt;br/&gt;&lt;br/&gt;These projects focus on a number of related aspects of the singularities: (1) Which singularities occur for a generic flow or a generic family of flows?  (2) What does the flow look like near a singularity? When is the blow up unique? (3) Is there a canonical neighborhoods theorem?  (4) What is the size and structure of the singular set? When is the singular set a nice submanifold? (5) Are singularities in Euclidean 3-space generically isolated? What about singular times?</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707270</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Minicozzi</LastName>
+<EmailAddress>minicozz@math.mit.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

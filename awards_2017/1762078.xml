@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>5th Lake Michigan Workshop on Combinatorics and Graph Theory</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 5th Lake Michigan Workshop on Combinatorics and Graph Theory will&lt;br/&gt;be held at the University of Notre Dame on April 21--22 2018.&lt;br/&gt;The workshop will benefit graduate students and junior researchers in&lt;br/&gt;the field of discrete mathematics, working at institutions in the Great Lakes area. &lt;br/&gt;It is built around two sets of three tutorial lectures, focusing on state-of-the-art techniques and results that the speakers feel are underrepresented in typical graduate sequences, and&lt;br/&gt;on emerging techniques on which the speakers are particularly&lt;br/&gt;qualified to expound. There will also be short talks by students&lt;br/&gt;and younger faculty members. There will be ample unscheduled time&lt;br/&gt;during the weekend, allowing new research collaborations to&lt;br/&gt;commence and active collaborations to be continued. Junior&lt;br/&gt;participants will establish valuable connections with more senior&lt;br/&gt;colleagues, and receive guidance from them in a relaxed and informal&lt;br/&gt;environment.&lt;br/&gt;&lt;br/&gt;The tutorial speakers for the 2018 workshop will talk about "Connections&lt;br/&gt;between Coxeter systems, permutation patterns and reduced words", and "Edit distance in graphs". The website for the conference is https://www3.nd.edu/~conf/lmwcgt18/.</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762078</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Galvin</LastName>
+<EmailAddress>dgalvin1@nd.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Bennett</LastName>
+<EmailAddress>patrick.bennett@wmich.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrzej</FirstName>
+<LastName>Dudek</LastName>
+<EmailAddress>andrzej.dudek@wmich.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

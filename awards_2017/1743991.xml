@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  PPER:  Validation and Utilization of a New Tool for Citizen-Led Water Quality Monitoring in Agricultural Watersheds</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>88714</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project tests a new tool that uses a smartphone app to test water quality. The app relies on the smartphone camera's ability to detect the color change on a chemical test strip to a much higher level of precision and more accurately than the human eye. The phone relays the data and test location to a database for access by the project researchers as well as citizen scientists.  The project goals are to determine the feasibility of using this app to accurately monitor water quality throughout a watershed, to assess user interest and engagement in using the app, and to help stakeholders identify water-quality "hot spots" for the potential implementation of projects to improve water quality. &lt;br/&gt;&lt;br/&gt;In this research project, a water quality monitoring smartphone app is being piloted with stakeholders in two separate field campaigns: Clear Creek Watershed (Fall 2017) in eastern Iowa (to collect preliminary data related to the app's accuracy, ease-of-use, and user experience) and Clear Creek and the Middle Cedar River watersheds (Spring and Summer 2018) in Iowa (to introduce the app to watershed management authorities and other water-quality monitoring volunteers). The two campaigns are providing sufficient data to determine the new app's potential for citizen-led monitoring to provide scientifically credible characterization of water quality. The proposed citizen science project builds on existing hydrology and water-quality expertise at the IIHR - Hydroscience &amp; Engineering, University of Iowa.  IIHR - Hydroscience &amp; Engineering also recently developed the Iowa Water Quality Information System, with which anyone with internet access can view real time water-quality information from sensors deployed across Iowa within its hydrologic context.  Immediate impacts of this project include the use of this tool to inform selection and placement of hundreds of conservation practices to reduce flooding and improve water quality in eight Iowa Watershed Approach project watersheds. The Iowa Department of Natural Resources may also adopt this new app for use by its volunteer water-quality monitoring program. The long-term implications for this project are the broader scientific community's potential adoption of a new water-quality measurement tool that allows anyone with a smartphone to take accurate measurements of water quality and share that data to a common online platform with very little effort or cost. The app will help researchers, state agencies, watershed managers, and the general public better monitor, understand, and characterize water-quality problems at the local watershed scale.</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743991</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Schilling</LastName>
+<EmailAddress>keith-schilling@uiowa.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ibrahim</FirstName>
+<LastName>Demir</LastName>
+<EmailAddress>ibrahim-demir@uiowa.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Jones</LastName>
+<EmailAddress>christopher-s-jones@uiowa.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>043Z</Code>
+<Text>PPSR- Public Participation in Scientific</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

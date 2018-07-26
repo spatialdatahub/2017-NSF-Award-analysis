@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-Planning:  How Can Investments In Smart Cities Technologies Improve The Lives Of Low-Income, Inner-City Residents</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>New "smart cities"technologies are poised to radically alter the form and function of cities. Free public Wi-Fi, the Internet of things, autonomous vehicles, web-based curricula, personal health monitors and smart transit hubs have the potential to radically change how transportation, education, public health, and economic development are organized and delivered. In the past, unfortunately, the adoption of new technologies has often created what is known as the "digital divide" and exacerbated disparities in income and wealth.  The extent to which free access to the Internet, greater transit mobility, and other smart cities technologies can increase access to opportunity, enhance social mobility, and mitigate the digital divide-especially for the young-is an important yet unexplored research question.  To understand whether and how smart cities investments can improve the lives of low-income residents the project team will: engage with residents and business owners to assess the needs of low-income residents; develop plans for technical research on how to design interventions that meet the needs of low-income residents; and develop plans for integrated research on what effects smart cities investments actually have on low-income communities. Such understanding is critical for the effective and equitable deployment of smart cities technologies.&lt;br/&gt;&lt;br/&gt;This project will develop a strategic plan for addressing the question: how can investments in smart cities technologies improve the lives of low-income, inner-city residents.  To address both technological and social science questions the research team includes a broad array of technical and social scientists from five Baltimore-area universities, a team of smart city technology providers, and leaders of local governments, neighborhood associations, and community development corporations. The planning process will involve extensive communication between and among these three groups: meetings of researchers, workshops among technology providers, community engagement events with local residents, and participation in all these events by key project leaders. The effort will produce alternative strategies for smart cities investments in west Baltimore; a network of multidisciplinary researchers prepared to undertake integrated research projects; the design of a shared research and data infrastructure; and build trust between researchers and community stakeholders.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737495</AwardID>
+<Investigator>
+<FirstName>Gerrit</FirstName>
+<LastName>Knaap</LastName>
+<EmailAddress>gknaap@umd.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vanessa</FirstName>
+<LastName>Frias-Martinez</LastName>
+<EmailAddress>vfrias@umd.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

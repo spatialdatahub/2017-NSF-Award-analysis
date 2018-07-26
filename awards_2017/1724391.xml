@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>QEM Outreach Forum on Building Research and Education Capacity in Advanced Computing, Communications, and Information Systems at HBCUs</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>176435</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Forum on Building Research and Education Capacity in Advance Computing, Communications, and Information Systems at HBCUs is designed to increase the research capacity in computer science at HBCUs. The work is in response to the Dear Colleague Letter issued by NSF (17-027) that suggests that HBCUs are an important component of the higher education infrastructure in the United States and the institutions and students would benefit from greater research capacity in critical STEM areas.  In the case of computer science, the Forum addresses the need to close the knowledge gap between CS departments at HBCUs and program officers in CISE directing the core research programs. In addition to closing the knowledge gap, QEM offers technical assistance specifically tailored to enable successful long term research capacity development.&lt;br/&gt;&lt;br/&gt;QEM offers a timely approach to addressing improvement of research capacity in computer science at HBCUs. Intentional technical assistance covers the range of necessary steps to increasing research success that include activities from tailored proposal development to innovative institutional collaboration. As the national focus on post-secondary CS education and institutional research capacity increases, the development of innovative means of strengthening the capacity of HBCUs is critical. The Forum is the beginning of an ongoing effort specifically between CISE and 25 CS departments at HBCUs to catalyze this work.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1724391</AwardID>
+<Investigator>
+<FirstName>IVORY</FirstName>
+<LastName>TOLDSON</LastName>
+<EmailAddress>itoldson@qem.org</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QUALITY EDUCATION FOR MINORITIES NETWORK</Name>
+<CityName>Washington</CityName>
+<ZipCode>200362406</ZipCode>
+<PhoneNumber>2026591818</PhoneNumber>
+<StreetAddress>1818 N ST NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041Z</Code>
+<Text>HBCU-Strengthening Research Capacities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

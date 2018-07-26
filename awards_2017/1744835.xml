@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Modeling Giant Icebergs and Their Decay</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>289502</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter J. Milne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Icebergs are a component of the Antarctic climate system, yet a comprehensive representation of their dynamics in climate models has remained elusive. Representing the role of icebergs in global climate models (GCMs) poses a formidable challenge to the scientific community. The most striking shortcoming of current iceberg models is arguably that they do not represent giant tabular icebergs, even though giant icebergs carry most of the freshwater stored in icebergs in the Southern Ocean. This lack of large icebergs in models is mostly due to the difficulties associated with adequately modeling iceberg decay. In particular, fracturing and breakup are not typically considered in iceberg models, despite being dominant iceberg decay processes. &lt;br/&gt;&lt;br/&gt;Investigators are to address these issues using a hierarchy of iceberg models, ranging from an idealized analytical model to a comprehensive GCM, in concert with recent observational data. The main objective of this study is to develop a new iceberg model that:&lt;br/&gt;(i) accounts for iceberg breakup and fracturing processes that have been neglected to date,&lt;br/&gt;(ii) improves on the representation of iceberg decay processes that were considered in previous models,&lt;br/&gt;(iii) explicitly represents large tabular icebergs.&lt;br/&gt;&lt;br/&gt;The primary broader impact of the proposed work will be through a K-12 teacher workshop series showcasing this project as an example of how scientists develop physical models. Ongoing changes in the California K-12 science standards will enable the teachers to creatively use this material in their classrooms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744835</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Eisenman</LastName>
+<EmailAddress>eisenman@ucsd.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Till</FirstName>
+<LastName>Wagner</LastName>
+<EmailAddress>wagnert@uncw.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Wilmington</Name>
+<CityName>Wilmington</CityName>
+<ZipCode>284033201</ZipCode>
+<PhoneNumber>9109623167</PhoneNumber>
+<StreetAddress>601 South College Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5113</Code>
+<Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+</ProgramElement>
+</Award>
+</rootTag>

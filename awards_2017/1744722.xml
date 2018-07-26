@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Building Educational Capacity in Cyber Operations</AwardTitle>
+<AwardEffectiveDate>04/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>390208</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor P. Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal seeks to improve the educational experience of cyber operations students around the nation by creating and deploying culturally diverse educational content in a proven remotely accessible environment, allowing students and faculty to obtain vital hands-on experience. While several academic institutions are developing programs dedicated to cyber operations, and many more are attempting to incorporate materials designed to give students a strong fundamental understanding of the challenges in this arena, experiential learning opportunities are currently limited by individual institutional funding; the need to provide isolated lab infrastructure in which these topics can be safely studied; and the challenges associated with developing realistic multicultural scenarios. This CyberCorps: SFS capacity-building proposal seeks to build on the successful NSF-funded Remotely Accessible Virtualized Environment (RAVE) Project and a decade of experience at the University of Alaska Fairbanks (UAF) in developing and delivering computer security lab environments and exercises. It develops cyber operations exercises and makes them available to faculty and students at institutions around the nation at no charge. This project incorporates culturally-appropriate virtual machines to extend the realism of the resulting scenarios which have a consistent format following the NSF-funded Security Injections @ Towson presentation model. The project uses an external evaluator specializing in the use of remotely accessible environments.</AbstractNarration>
+<MinAmdLetterDate>09/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744722</AwardID>
+<Investigator>
+<FirstName>Kara</FirstName>
+<LastName>Nance</LastName>
+<EmailAddress>knance@vt.edu</EmailAddress>
+<StartDate>09/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

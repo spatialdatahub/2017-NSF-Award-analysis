@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of Transcriptome-Wide Predictive Models of Phenotypic Traits for Selective Breeding and Hybrid Performance Predictions in Maize</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>216000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Jofuku Okamuro</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF National Plant Genome Initiative Postdoctoral Research Fellowship in Biology for FY 2017. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The host institution for the fellowship is North Carolina State University and the sponsoring scientists are Dr. James Holland and Dr. Dahlia Nielsen.&lt;br/&gt;&lt;br/&gt;Plant and animal breeding is currently undergoing a revolution brought about by big data. Methods to cheaply survey entire individual genomes now exist. Using computational models, this gene sequence data can be used to create a predictive model in which a physical trait of interest can be accurately predicted given an individual's genotypic information. In addition to reading a gene's sequence, we can also measure the strength that a gene is expressed (utilized) by the cell. The major purpose of this project is to determine if such quantitative knowledge of gene expression can be used to supplement and improve current sequence-based models.  This project has potential to add significantly to the impact that omics-level data has on both plant and animal breeding, allowing for generation of superior breeds in significantly shorter time while using less resources.&lt;br/&gt;&lt;br/&gt;This research will compare the predictive power of transcriptomic data for use in maize breeding to recently published methods that use genomic data. Existing public data will be used to guide a series of test crossed. Subsequent transcriptomic and phenotypic measurements will allow evaluation of two types of predictions: (i) predictions of phenotypic trait values in adult plants given either genotypic or transcriptomic data in young seedlings, (ii) predictions of hybrid performance given either genomic or transcriptomic data for the parent inbred lines. All data generated will be deposited in public repositories such as NCBI's Gene Expression Omnibus (GEO) and Sequence Read Archive (SRA). Phenotypic information will be made available through the Panzea Project (http://www.panzea.org/)</AbstractNarration>
+<MinAmdLetterDate>06/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711662</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Sartor</LastName>
+<EmailAddress/>
+<StartDate>06/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sartor                  Ryan           C</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276033998</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8105</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

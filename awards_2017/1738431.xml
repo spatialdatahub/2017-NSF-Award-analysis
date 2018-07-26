@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  New Antimicrobial Technologies to Eliminate Salmonella Carriage in Poultry</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>551725</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project, if successful, will be the development of a probiotic treatment that may be used to reduce or eliminates Salmonella and other infections in poultry. The recent FDA Veterinary Feed Directive will result in the use of antibiotics being phased out of livestock production. New technologies are needed to control pathogens in the absence of antibiotics. The goal of this technology is the reduction of pathogens in pre-harvest poultry, which may result in safer food and reduced foodborne illnesses.  In addition, this technology may help reduce the amount of antibiotics used in poultry production, which has been cited as a major factor in the rise of antibiotic-resistant bacteria.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will result in the development of novel antimicrobial technologies using probiotics engineered to produce antimicrobial peptides (AMPs). Antimicrobial peptides (AMPs) are small proteins with remarkable bactericidal properties. During Phase I, probiotics were built successfully and tested as AMP-delivery vehicles. Probiotics are bile-resistant microorganisms that can be provided to animals safely in their food or water.  The antimicrobial probiotics will be used to test the reduction of pathogens in poultry guts. Pathogens in poultry guts are considered the major source of contamination of poultry meat during processing. The engineered probiotics will use synthetic DNA promoter regions that are designed to precisely control the delivery of AMPs at the site of infection.  The impact will be examined in field trials of probiotics with controllable AMP delivery on poultry challenged by Salmonella enteritidis and Campylobacter jejuni, two common foodborne pathogens. Antimicrobial probiotics also will be tested against Clostridia perfringens, the causal agent of poultry necrotic enteritis, an illness that causes billions of dollars in productivity losses every year in the US.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738431</AwardID>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Geldart</LastName>
+<EmailAddress>kathryn@gprobiotics.com</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>General Probiotics Inc</Name>
+<CityName>St. Paul</CityName>
+<ZipCode>551141964</ZipCode>
+<PhoneNumber>6515032696</PhoneNumber>
+<StreetAddress>1000 Westgate Dr., Ste. 122</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

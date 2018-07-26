@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Augmented Tube Models for Blends of Star and Linear Polymers</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>162099</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl W. Hess</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports computational research and education into the development of fast and accurate models of flow behavior in polymers. Properties of synthetic polymers can be tuned by engineering their molecular structure. This allows polymers to be used in a variety of applications ranging from packaging to automobiles, and from fabrics to surgical sutures. Polymers are typically processed in the liquid or melt state, where the molecular structure strongly influences flow properties. This relationship between molecular structure and flow properties is often studied using a theory called the tube model. &lt;br/&gt;&lt;br/&gt;Failures of the standard tube model can be traced to the manner in which it simplifies "multibody interactions" between polymer molecules. These interactions are more accurately described by a simulation model called the slip link model, which is unfortunately computationally costly. This project seeks to combine the strength of tube model (speed) with that of the slip link model (accuracy) through the development of augmented tube models. If successful, this research will provide a template for blending theories and simulations, which is expected have far reaching consequences for materials characterization, even outside the polymer industry.&lt;br/&gt;&lt;br/&gt;The award also supports the education of minority students at Florida State University by providing modern training in materials modeling, Markov chain Monte Carlo, and statistical analysis. The software and datasets developed by the research team will be made publicly available.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports computational research and education into the development of fast and accurate models of flow behavior in polymers. The tube model is a popular mean-field theory for entangled polymer melts. Unfortunately, it fails consistently even for relatively simple systems like binary blends of monodisperse polymers with widely separated relaxation times. On the other hand, different slip link models, all of which explicitly treat entanglements between chains as slip links, are remarkably successful for such systems. This is primarily due to the different treatment of a relaxation mechanism called constraint release, in the two models. In slip link models, the description of constraint release is "natural", while it can be complicated, and still inaccurate, in the tube model. A drawback of slip link models is their computational cost. This project seeks to combine the strength of tube models (speed) with that of the slip link models (natural and accurate representation of constraint release). The overarching research objectives are (i) to explore the development of augmented tube models, which combine these strengths, and (ii) to test these augmented models on the computationally intensive inverse problem of inferring the composition of a polymer mixture from experimental measurements of rheology. &lt;br/&gt;&lt;br/&gt;The award supports the development of a fast slip link model called ecoSLM, and its validation, using binary blends of star and linear polymers. Research activities to service the overall objectives are broken down into four specific tasks: (i) validating the ecoSLM against all available experimental data on linear-linear, star-linear, and star-star blends, (ii) using the validated ecoSLM to map out the design space to help identify regions where the tube model fails, (iii) developing augmented tube model, which uses ecoSLM to guide the tube model to the correct physics/parameters, and (iv) to use these augmented tube models for inverse modeling.&lt;br/&gt;&lt;br/&gt;The project explores the augmentation of a mean-field theory with a stochastic simulation model, ecoSLM, in order to combine speed with accuracy. If successful, it can provide a template for other problems in materials science that seek to combine a mean-field theory with simple simulation models. Using a Bayesian framework for inverse modeling, this can have far reaching implications for materials characterization, even outside the polymer industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727870</AwardID>
+<Investigator>
+<FirstName>Sachin</FirstName>
+<LastName>Shanbhag</LastName>
+<EmailAddress>sshanbhag@fsu.edu</EmailAddress>
+<StartDate>04/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323064166</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A mathematics communication and collaboration system</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project researches and develops a novel mathematics communication and collaboration system. Mathematics is the foundation of Science and Technology, and national competence in the STEM fields is essential to maintaining our competitive edge on a global scale. Math literacy hinges on effective communication of mathematical concepts and processes. However, despite significant advances in pedagogical methods, the way we communicate mathematics remains curiously behind the times. Preliminary customer and market research has revealed that the lack of adequate communication tools for mathematical and technical expressions is holding back the advance of mathematics in online environments such as online tutoring. Moreover, the scarcity of effective communication tools has reinforced the long-standing preconception that math is primarily a solitary activity, and it has created an unintended and harmful selection bias restricting the diversity of students entering STEM fields. This project fills the void of adequate math communications tools with an dynamic, interactive system for communicating mathematical derivations in real-time in an online environment. The system facilitates student-student and student-teacher remote communication of mathematics, and it is particularly suited for student-tutor communication on online tutoring platforms.&lt;br/&gt;&lt;br/&gt;The math communication and collaboration system this project develops leverages the company's proprietary equation manipulation technology. This system employs an integrated math engine and a touch-based interface allowing users to manipulate equations using simple drag-and-drop gestures. It is built on a game-engine allowing for multi-player support. This project integrates the equation manipulation technology into a networked multi-user interface to connect one or more users for real-time communication of mathematical derivations. The project researches the precise needs of students, teachers, and online tutors to tailor the user interface to the specific needs of online mathematics communication. Specific problems the project researches include multi-player networking and matchmaking functionality, optimal network architecture for the system, transfer of control between users for effective communication, integration of traditional communication tools within the system, and reduction of latency time to enhance real-time interactivity. Successful completion of the project will result in a first-of-its-kind math communication system that allows users in different places to connect online and communicate a mathematical derivation as it is happening, and as easily as if they were in the same room. The primary project deliverable is a minimum viable product to be piloted and vetted through the company?s existing math app.</AbstractNarration>
+<MinAmdLetterDate>06/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721340</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Randono</LastName>
+<EmailAddress>andrew.randono@alefomega.com</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Alef Omega, Inc.</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803025224</ZipCode>
+<PhoneNumber>5124175579</PhoneNumber>
+<StreetAddress>2060 Broadway St, Suite B-1</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

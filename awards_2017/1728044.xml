@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: How Military Service Shapes STEM Trajectories</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>54308</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project will advance scientists' understanding of STEM career trajectories by exploring the historical and contemporary role of the U.S. military as a potential career pathway. Specifically, the project analyzes the impact of educational benefits associated with military service (GI Bill), plus the role of individual and workplace factors on people's educational and occupational outcomes. Thus, the project addresses recurrent calls from the Federal Government and National Academy of Sciences to increase the number of STEM professionals, diversify the STEM workforce, and optimize the recruitment of military personnel. Findings from this project will help social scientists identify the long-term effects of policies and workplace dynamics on degrees and occupations. Findings will promote national defense and our ability to train the next generation of STEM scientists, because employers (from Departments of Defense and Commerce, Veterans Administration, to private-sector) are interested in hiring individuals with a military background, many of whom are poised to work in technical/defense fields and classified environments. Findings also will inform efforts to broaden STEM participation and identify potentially unanticipated consequences of federal policies designed to broaden access to higher education.&lt;br/&gt;&lt;br/&gt;The project addresses the following questions central to scientific literatures on education and occupations: How does military service and the educational benefits associated with it shape individuals? subsequent training and employment in STEM fields? How have era of service and changing GI Bill benefits affected STEM trajectories among veterans? How do organizational factors associated with specific military branches facilitate entry into STEM fields? How does using competing definitions of STEM fields employed by federal agencies affect the form and magnitude of the above patterns?  To answer these questions, the project employs statistical analysis of publically available secondary data from the American Community Survey (ACS) and Department of Defense Demographic Reports. The result will be a newly merged public-use data set available to researchers that combines Census data with organizational data on the armed services. Analyses involve sophisticated statistical models on large samples: For instance, analyses of occupational trajectories include more than 5 million ACS respondents, including more than 700k veterans. ACS data also facilitate analysis of educational and occupational patterns among active-duty military personnel, who potentially constitute a prime target population for recruitment into STEM fields. The project also makes a methodological contribution by examining how various, competing ways to operationalize and measure "STEM" used by federal agencies shape conclusions about the scope and extent of the much-discussed shortage of STEM workers.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1728044</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Steidl</LastName>
+<EmailAddress>christina.steidl@uah.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>Huntsville</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568246120</PhoneNumber>
+<StreetAddress>301 Sparkman Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8800</Code>
+<Text>SCIENCE RESOURCES STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8050</Code>
+<Text>Science of Broadening Participation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

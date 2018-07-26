@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Direct Conversion of Carbon into Q-carbon and Diamond and Fabrication of Novel Nanostructures</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>238995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette D. Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL DESCRIPTION: This project focuses on a transformative approach for synthesis and processing of carbon-based nanostructures that are needed for next-generation high-power devices for smart grids, cutting tools, quantum electronics and biomarkers. In this project's new approach, disordered carbon is converted into diamond or Q-carbon (a new phase of carbon that is harder than diamond) at ambient temperatures and pressures in air. This route to create diamond avoids the conventional extremely high temperatures and pressures needed in an inert atmosphere. Thus, this new approach provides a very inexpensive and rapid way to convert disordered carbon into useful (hard) diamond or Q-carbon structures for a variety of applications. This research involves a close collaboration with Oak Ridge National Laboratory (ORNL) where their Advanced Atomic-resolution instrumentation is quite complementary to atomic scale characterization facilities at North Carolina (NC) State University. This project engages research collaboration and training of graduate and undergraduate students from a nearby Historically Black Colleges and Universities, NC A&amp;T and Shaw. To disseminate nanomaterials research, NC State University has launched an MS (Master of Science) in Nanoengineering through Engineering Online network under the leadership of the principal investigator, where students around the globe complete their Master?s degrees. The students trained in this area are highly sought after for the employment in microelectronics, optoelectronics and biomedical industries. The principal investigator is continuing with a very successful ASM (American Society for Materials) Materials Summer Camp, where high-school students are trained for a week on new materials and technologies.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: This research develops a fundamental understanding of basic mechanisms involved in the direct conversion of disordered carbon into Q-carbon and/or diamond. The next step is to use this understanding to create novel Q-carbon and diamond nanostructures with unique properties for a variety of applications. By using nanosecond pulsed laser irradiation, carbon layers are melted in a super undercooled state at around 4000K (about 1000K below the melting point of carbon) and are quenched subsequently into a new phase of Q-carbon or diamond in the form of nanodiamonds, microdiamonds, nanoneedles, microneedles or large-area single-crystal films. These structures are doped with n- and p-type dopants, thus opening a new frontier in diamond nanoelectronics and high-power devices. Doping of nanodiamonds with nitrogen atoms (N) and vacancies (V) results in NV nanodiamonds which are grown epitaxially on sapphire substrates for atomic sensors and quantum computing applications. As a part of Nanoengineering program, the PI teaches a series of courses where students learn about the latest developments in new materials, thin film epitaxy, defect control, processing, characterization and modeling and next-generation multifunctional smart devices.</AbstractNarration>
+<MinAmdLetterDate>08/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1735695</AwardID>
+<Investigator>
+<FirstName>Jagdish</FirstName>
+<LastName>Narayan</LastName>
+<EmailAddress>j_narayan@ncsu.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

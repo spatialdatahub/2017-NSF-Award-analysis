@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeuroNex Technology Hub: Optical technologies for large scale, noninvasive recording of neural activity</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>1800000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080200</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sridhar Raghavachari</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nervous systems evolved to solve many of the same problems in species as diverse as worms, fishes, and humans. Using collections of neurons, from 100 or fewer in small invertebrates to hundreds of millions in humans, animals behave in ways that allow survival and reproduction in demanding and often hostile environments. A major hurdle to revealing the principles by which diverse species achieve these goals is being able to monitor the structure and function with high resolution throughout the brain - a necessity because behavior emerges from broad interactions of neurons across brains, even in the simplest organisms. A team of investigators will push optical imaging to this goal through the development of a NeuroNex Neurotechnology Hub at Cornell University. Experts from physics, engineering and biology will work together to develop, demonstrate the utility of, and disseminate to other neuroscientists a suite of imaging tools that will overcome current technology barriers in studying how brains work. Furthermore, the Hub will provide a unique opportunity to educate the next generation of neuroscience researchers to work in interdisciplinary teams that combine the neuroscience, technology development, and big data analysis expertise required to make progress in understanding the brain. Graduate student trainees will also receive instruction in science communication and mentoring in career planning. Opportunities for undergraduate researchers will be provided and the PIs and other project members will become actively engaged in outreach to local-area schools, the broad public, and policymakers.&lt;br/&gt;&lt;br/&gt;Large scale, noninvasive recording of neural activity in awake and behaving animals is essential to understand the function of the nervous system. This NeuroNex Neurotechnology Hub will develop and disseminate innovative neurotechnologies for noninvasive recording of neural activity across a large depth and volume, at multiple places in the central and peripheral nervous system, and with high spatial and temporal resolution. The newly developed optical imaging technologies will be employed in behaving animal models across multiple species in different phyla, including mammals, teleost fish, flies, and birds, and will be demonstrated by attacking important neuroscience questions in fruit fly, zebrafish, and mice. We will create a new lab, the Laboratory for Innovative Neurotechnology at Cornell (LINC), which will be shared by the Hub PIs and serve as the physical embodiment of the hub, and close the loop between technology development and biological questions. LINC will serve as a hub for dissemination by hosting, connecting, and training researchers and developers across multiple disciplines from both academia and industry. The dissemination of these new technologies will catalyze studies of how brains produce behavior in species across a broad range of sizes throughout animal phylogeny. This NeuroNex Neurotechnology Hub award is co-funded by the Division of Emerging Frontiers within the Directorate for Biological Sciences and the Division of Chemical, Bioengineering, Environmental, and Transport Systems within the Directorate of Engineering as part of the BRAIN Initiative and NSF's Understanding the Brain activities.</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707312</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Schaffer</LastName>
+<EmailAddress>cs385@cornell.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>cx10@cornell.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Fetcho</LastName>
+<EmailAddress>jrf49@cornell.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nilay</FirstName>
+<LastName>Yapici</LastName>
+<EmailAddress>ny96@cornell.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mert</FirstName>
+<LastName>Sabuncu</LastName>
+<EmailAddress>ms3375@cornell.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5345</Code>
+<Text>Engineering of Biomed Systems</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

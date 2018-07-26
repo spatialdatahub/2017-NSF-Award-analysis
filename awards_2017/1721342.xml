@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Metal Additive Manufacturing Simulation on a Desktop</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>223007</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR phase I project will provide a unique computational capability to additive manufacturing (AM) designers, engineers, and technicians for making better decisions with regards to metal 3D printing. Through AM, one can fabricate complex parts that were previously impossible to manufacture. Perfecting an AM process is however non-trivial, entailing time-consuming and expensive shop-floor experimentation. For example, fabricating a typical hand-sized component on a metal AM machine can take several hours to complete, costing thousands of dollars. Consequently, there is significant interest today to replace experiments with computer simulation. But AM simulations today require massively parallel computer clusters, such as those available only at national labs. This has largely deterred industrial progress and innovation. The proposed research has the potential to yield an algorithmically  advanced AM simulation program that can run on standard desktop workstations without loss of accuracy. An environmental impact of this SBIR proposal is that by promoting virtual simulation of AM, the amount of wasted material will be minimized. &lt;br/&gt;&lt;br/&gt;The proposed research lies at the intersection of computational mechanics, and manufacturing. It proposes to develop a novel computational approach to additive manufacturing simulation that bypasses the memory bottleneck observed in traditional finite element analysis (FEA). By using a voxel representation where all elements are congruent (i.e. possess a rigid transformation symmetry) and have identical material properties, the memory requirements can be reduced dramatically and thereby speed up the simulation by orders of magnitude compared to traditional FEA software. Similar approach has been successfully demonstrated for problems in structural mechanics and topology optimization. The proposal aims to extend the approach to in-process AM simulation where G-code will be used to identify elements in a heat affected zone for laser and electron beam based processes, and the congruent elements will be identified for each phase in the process to reduce simulation time.</AbstractNarration>
+<MinAmdLetterDate>06/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721342</AwardID>
+<Investigator>
+<FirstName>Praveen</FirstName>
+<LastName>Yadav</LastName>
+<EmailAddress>praveen.yadav@sciartsoft.com</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SciArt LLC</Name>
+<CityName>Middleton</CityName>
+<ZipCode>535621177</ZipCode>
+<PhoneNumber>6082156968</PhoneNumber>
+<StreetAddress>3843, Manito Ct</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

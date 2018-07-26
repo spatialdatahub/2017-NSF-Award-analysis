@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF workshop on side and covert channels in computing systems</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Information leakage to malicious adversaries is a fast growing concern affecting computer users. Among the various forms of information leakage, side- and covert channels have particularly gained notorious attention. Side channels are information leakage channels where an adversary silently observes the activities of a victim process to infer its secrets. Covert channels are even more dangerous because a malicious insider trojan process intentionally colludes with the attacker to exfiltrate secrets. Such information leakage channels can exploit the abundance of shared hardware resources in current multi-core hardware, and result in compromising sensitive user information. A thorough understanding of the impact of such information leakage channels on computer system security and their consequences can immensely benefit our national cyber-security.   &lt;br/&gt;&lt;br/&gt;This project organizes a workshop to gather leading researchers and experts who have spent considerable effort and time in studying side and covert channels, as well as security researchers with strong experience in computer systems and their security needs. The workshop narrowly focuses on hardware side and covert channels, in order to create a unique forum for studying a cross-disciplinary challenge in a focused manner, namely the threat of side-channel and covert-channel leakage in computing, with the participation of different communities: computer architects, hardware designers, and cryptographers. The workshop participants identify potential improvements to existing computer design methodologies and strategies to minimizing and potentially neutralizing information leakage. A comprehensive workshop report then summarizes the findings and discussion on the current state of the art and projection in terms of detecting, mitigating and defending against side- and covert channels.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747723</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Schaumont</LastName>
+<EmailAddress>schaum@vt.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Guru Prasadh</FirstName>
+<LastName>Venkataramani</LastName>
+<EmailAddress>guruv@gwu.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200522000</ZipCode>
+<PhoneNumber>2029946255</PhoneNumber>
+<StreetAddress>2121 Eye Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

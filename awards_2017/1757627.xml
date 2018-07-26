@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Chemistry and Biochemistry REU Site to Prepare Students for Graduate School and an Industrial Career</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>331950</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Cave</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award to Brigham Young University from the Division of Chemistry (CHE) at the National Science Foundation supports a Research Experience for Undergraduates (REU) Site with a Research Experience for Teachers (RET) component led by Professors Daniel H. Ess, Rebecca Sansom, and Kara J. Stowers at Brigham Young University. To address the national need for a highly qualified science workforce, this site annually provides ten REU and two RET participants with a ten-week summer program to conduct individual chemistry or biochemistry research projects using state-of-the-art equipment and techniques. Research projects emphasize problems relevant to industrial chemistry. Visits to chemical and biochemical companies, along with workshops and seminars on current and grand challenges in industry, effective communication, team interactions, and delivering scientific presentations, prepare REU participants for graduate school and future industrial careers. Inspiring the next generation of scientists, both REU and RET participants work with the BYU summer chemistry and biochemistry camps for youth. REU recruitment emphasizes participation by students from two-year colleges and underrepresented minorities.&lt;br/&gt;&lt;br/&gt;Participants complete independent research projects in the following areas: design of miniaturized mass spectrometers and micrometer microfluidic devices, biochemistry biomarker assays and drug discovery, inorganic homogeneous and heterogeneous catalyst development, computational chemistry, organic anticancer and vaccine synthesis, physical spectroscopy, materials creation and characterization, renewable energy, and water containment detection. These independent technical research projects, facilitated by BYU chemistry and biochemistry faculty, and student mentors, provide participants with rich experiences in problem solving and scientific discovery, preparing them to earn advanced degrees and enter the industrial chemistry workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757627</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Ess</LastName>
+<EmailAddress>dhe@chem.byu.edu</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sansom</FirstName>
+<LastName>Rebecca</LastName>
+<EmailAddress>rsansom@chem.byu.edu</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>Provo</CityName>
+<ZipCode>846021231</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress>A-285 ASB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1986</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>WERF: Determining the fate and major removal mechanisms of microplastics in water and resource recovery facilities</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>304892</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Proposal: 1707069&lt;br/&gt;PI: Belinda Sturm&lt;br/&gt;&lt;br/&gt;The focus of this project is the fate of microplastics (plastics &lt; 5mm) in the liquid and biosolids discharged from water resource and recovery facilities (WRRFs).  Microplastics are typically entrained within activated sludge and ultimately released to the environment through biosolids.  The detrimental effects of plastics on marine vertebrates is well-documented and a major environmental concern.  In this project the transport pathways for plastics will be identified.  The results of this study will help reduce harmful marine ecosystem impacts.  The PIs will engage municipalities through a full-scale sampling campaign and will disseminate the data in a web-based database that is publically accessible. They will continue to collaborate with high school teachers to refine teaching modules dealing with topics focused on microplastics and emerging contaminants.&lt;br/&gt;&lt;br/&gt;Microplastics are likely to be removed when they are adsorbed or entrained within the activated sludge floc structure.  The main hypothesis is that the sludge structure and extracellular polymeric substances (EPS) content are controlling variables to microplastic removal.  In particular, the assumption is that microbial aggregates with high surface areas and high EPS content can capture more microplastics.  To test this hypothesis the PIs will conduct a survey of select WRRFs with different primary and secondary treatment processes.  To further quantify microplastics capture efficiencies, the PIs will determine the effect of EPS on microplastic adsorption and retention efficiency within lab-scale and pilot-scale reactors and compare conventional and aerobic granular sludge processes for microplastic adsorption.  The activated sludge process, and particularly gravity sedimentation, was not designed to remove low density microplastic particles.  Microplastics are likely to be removed when they are adsorbed or entrained within the activated sludge floc structure.  As microplastic loads to WRRFs increase, it is important to study the effect of niche separation of microplastic-associated microorganisms on activated sludge process performance.  One outcome of the research will be a better understanding the fate of microplastics in WRRFs.  Results of this project will provide a framework for comprehensive management of microplastics contamination in WRRFs.</AbstractNarration>
+<MinAmdLetterDate>07/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707069</AwardID>
+<Investigator>
+<FirstName>Belinda</FirstName>
+<LastName>Sturm</LastName>
+<EmailAddress>bmcswain@ku.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Peltier</LastName>
+<EmailAddress>epeltier@ku.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kansas Center for Research Inc</Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457568</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress>2385 IRVING HILL RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mean Curvature Flow and Minimal Varieties</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>79999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Principal Investigator will study mean curvature flow, a natural process by which geometric shapes change over time.  In mathematics, mean curvature flow and similar flows have proved to be very important: in particular, the closely related Ricci flow has been very much in the news because of its essential role in the solution of the long-standing Poincare conjecture. Mean curvature flow also arises in the physical world.  For example, grain boundaries in annealing metals move by mean curvature flow. The Principal Investigator will also investigate minimal surfaces.  Minimal surfaces are equilibrium shapes for mean curvature flow, that is, shapes that do not change over time.  In astronomy, minimal surfaces occur as  "apparent horizons" of black holes. Here on earth, soap films provide examples of minimal surfaces.  Minimal surfaces are of great theoretical interest: tools first discovered in the study of minimal surfaces have proved to be valuable in many other areas of mathematics.&lt;br/&gt;&lt;br/&gt;The Principal Investigator plans to study properties of mean curvature flow,especially singularity formation and the non-uniqueness known as "fattening".  Specific goals include determining whether generic surfaces give rise to smaller spacetime singular sets than do arbitrary initial surfaces, understanding the causes of fattening, and discovering natural conditions that prevent fattening.  He also plans to investigate minimal varieties, including topics such as the behavior of the recently-discovered genus-g helicoids as the genus tends to infinity, the relationship between properties of a minimal surface and the total curvature of its boundary, the fine structure of branch points of minimal surfaces (and, in particular, whether the Micallef-White necessary conditions for a minimal surface to be area-minimizing near a branch point are also sufficient), and the relationship between topology and density at singularities of minimal varieties.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711293</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>White</LastName>
+<EmailAddress>white@math.stanford.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

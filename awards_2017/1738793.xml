@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase II IUCRC Binghamton University: Center for Energy-Smart Electronic Systems (ES2)</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data centers are an integral part of life, providing services ranging from social networking, e-commerce and entertainment to cloud infrastructures that provide storage and computing capabilities for individuals and enterprises. Data centers consume over 2% of the nation's electricity, generated mostly from fossil sources.  The Center for Energy-Smart Electronic systems (ES2) was established to develop tools and methodologies for improving the energy efficiency of electronic systems, primarily data centers. Much of the energy expended by data centers is wasted due to operating inefficiencies, including operating more servers than are needed to handle the workload and overcooling the IT equipment, or deploying sub-optimal cooling and IT technologies.  ES2?s research focusses on developing intelligent and fully automated techniques for operating data centers to match the IT and cooling resources to the workload demands, avoiding energy waste while maintaining service quality.  ES2 research benefits society by: (a) providing solutions to reduce the demand on the electrical grid and the carbon footprint and enabling the growth of data center-based services in an energy-efficient way and (b) developing human resources by training engineers and computer scientists in high-demand skills. ES2?s research therefore enables the nation to maintain competitive, agile and energy-efficient cyber services and infrastructures.&lt;br/&gt;&lt;br/&gt;The goal of ES2 is to dramatically reduce data center energy consumption. The center's vision is the creation and operation of energy-optimized data centers and electronic systems at any specified performance level by smart allocation and distribution of IT load, smart integration of controlled on-demand cooling, and smart elimination of energy waste and inefficiencies. The Phase I funding from NSF supported the development of models, metrics and infrastructures that would realize this vision. At Binghamton University, Phase II research focuses on the challenges involved in reducing energy waste with just-in-time, just enough server and cooling capacities to handle the instantaneous workload while meeting the performance, reliability and availability goals. The approach taken relies on the use of sophisticated techniques to model and predict the workload and cooling system needs sufficiently in advance to permit timely adjustments of processing and cooling resources.  Considerations of thermal lags and other transient thermal phenomena, the time taken for server activations and deactivations and the potential impact of failures in a tightly-provisioned system come into play, making the solution a complex optimization problem.  Inherent inefficiencies within the cooling, IT and power delivery components are addressed through investigations centered on new and emerging technologies.</AbstractNarration>
+<MinAmdLetterDate>08/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738793</AwardID>
+<Investigator>
+<FirstName>Bahgat</FirstName>
+<LastName>Sammakia</LastName>
+<EmailAddress>bahgat@binghamton.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yogendra</FirstName>
+<LastName>Joshi</LastName>
+<EmailAddress>yogendra.joshi@me.gatech.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kanad</FirstName>
+<LastName>Ghose</LastName>
+<EmailAddress>ghose@cs.binghamton.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alfonso</FirstName>
+<LastName>Ortega</LastName>
+<EmailAddress>aortega@villanova.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dereje</FirstName>
+<LastName>Agonafer</LastName>
+<EmailAddress>agonafer@uta.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Binghamton</Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139026000</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress>4400 VESTAL PKWY E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8040</Code>
+<Text>Energy and Environment</Text>
+</ProgramReference>
+</Award>
+</rootTag>

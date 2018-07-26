@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Large: Collaborative: Investigating the Susceptibility of the Internet  Topology to Country-level Connectivity Disruption and Manipulation</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>347551</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Malicious actors such as hackers, terrorists or nation-states can disrupt, intercept or manipulate the Internet traffic of entire countries or regions by targeting structural weaknesses of the Internet. Strategic physical locations exist in the Internet topology. Despite much recent interest and a large body of research on cyber-attack vectors and mechanisms, we lack rigorous tools to reason about how the Internet topology of a country or region exposes its critical communication infrastructure to compromise through targeted attacks. This project develops methodologies to identify potential topological weaknesses of the Internet infrastructure, especially from the perspective of an attacker, and to quantify the potential impact if attackers were to compromise these critical elements. The broader impacts of this project are substantial: understanding structural weaknesses in the Internet topology of countries or regions is of significant interest not just to the research and operational communities, but also to everyday Internet users and policy bodies. More generally, it will secure the critical Internet infrastructure on which our daily activities depend.&lt;br/&gt;&lt;br/&gt;This project is a two-phase project. In the first phase, the goal is identifying important components of the Internet topology of a country and region --- Autonomous Systems, Internet Exchange Points, colocation facilities, and physical cable systems that represent key locations of the Internet. The project will undertake a novel multi-layer mapping effort, developing measurement and analysis techniques to discover these components and the relationships between them. The second phase of the project utilizes the multi-layer map and develops methods to identify components that represent potential topological weaknesses, i.e., compromising a few such components would allow an attacker to disrupt, manipulate, or eavesdrop on a large fraction of Internet traffic of that country. The multi-layer view of the system will enable an assessment of weaknesses holistically as well as at specific layers, under various assumptions about the capabilities and knowledge of attackers. Geographic annotations will enable a consideration of risks related to the geographic distribution of critical components of the communication infrastructure.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1705024</AwardID>
+<Investigator>
+<FirstName>Amogh</FirstName>
+<LastName>Dhamdhere</LastName>
+<EmailAddress>Amogh@caida.org</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alberto</FirstName>
+<LastName>Dainotti</LastName>
+<EmailAddress>aldainotti@ucsd.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

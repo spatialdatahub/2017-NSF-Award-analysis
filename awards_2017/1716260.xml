@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Statistical Ages of M Dwarf Stars from Abundances</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>373678</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stars smaller and cooler than the Sun - those known as M dwarfs - are the most common types of stars in the Universe, but not much is known about their properties.  Understanding how stars age is critical for determining how their planets age and whether these planets can support life.  The investigating team will develop an innovative technique to measure M dwarf ages, using new observations and state-of-the-art computing tools.  Introductory Astronomy courses at Boston University will directly involve students in all aspects of observing using the 1.8-meter Perkins telescope at Lowell Observatory with some students traveling to the Arizona site and others participating from the remote observing center on campus.&lt;br/&gt;&lt;br/&gt;With a method to measure accurate ages for M dwarf stars to a precision of 1 billion years (Gyr), we can begin to study how their properties change with time.  Recent studies of nearby Sun-like stars and distant giant stars show a strong correlation between stellar age, iron abundance, and alpha enrichment.  The correlation is valid for ages spanning 0.5 Gyr to 13.5 Gyr, indicating the correlation does not depend on where the stars formed in the Milky Way.  Based on this correlation, iron abundance and alpha enrichment are tools for statistically measuring the ages of nearby main-sequence M dwarf stars.  The proposed research program will enable these measurements via high-resolution near-infrared spectroscopy and atmospheric modeling.</AbstractNarration>
+<MinAmdLetterDate>08/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716260</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Muirhead</LastName>
+<EmailAddress>philipm@bu.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

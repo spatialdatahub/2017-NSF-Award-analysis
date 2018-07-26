@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Automated Optimization of Programs and Processing Tools in Answer Set Programming</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>529496</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Answer Set Programming (ASP) is a form of knowledge representation and declarative constraint programming used to represent and solve constraint satisfaction problems.  ASP has its roots in the need to support fast design of robust and reliable software solutions for complex knowledge-intensive applications. It provides a high-level programming paradigm for modeling an application domain as a theory in a language of logic, and leaves all computational concerns to automated reasoning. ASP has been used in a variety of scientific and industrial applications, including product configuration, decision support systems, and repairing large-scale biological networks.&lt;br/&gt; &lt;br/&gt;This project aims to improve both the specific encoding of the ASP problems, and the performance of the underlying automated reasoner or solver. The project focuses on three related research thrusts, each of which leverages the high-level problem description of ASP.  1) Research in program rewriting will generate alternative encodings for a given problem; 2) the development of solver portfolios will improve overall reasoning performance and provide robustness through availability of alternate solvers for the ASP domain encodings; and 3) parameter tuning will be investigated to improve the performance of individual solvers.  The project will establish an evaluation platform to systematically implement and validate each of these research activities. This evaluation platform will be comprised of both experiment encodings and a collection of benchmark problems from techniques in constraint satisfaction and logic programming as well as related solver competitions.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707371</AwardID>
+<Investigator>
+<FirstName>Miroslaw</FirstName>
+<LastName>Truszczynski</LastName>
+<EmailAddress>mirek@cs.uky.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuliya</FirstName>
+<LastName>Lierler</LastName>
+<EmailAddress>ylierler@unomaha.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska at Omaha</Name>
+<CityName>Omaha</CityName>
+<ZipCode>681820210</ZipCode>
+<PhoneNumber>4025542286</PhoneNumber>
+<StreetAddress>6001 Dodge Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

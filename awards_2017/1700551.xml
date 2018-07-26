@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Visualizing Molecular Dynamics in Large Molecules using Intense, femtosecond, Pump-Probe Laser Pulses</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>149999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Cronin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research program will make "molecular movies" that will be used to study fundamental physical and chemical processes induced in molecules by laser light. The goal of this investigation is to determine the time it takes for light-induced transformations to occur in large molecules. This is important because light-induced processes occur continuously in our environment, for example from sunlight shining on earth's atmosphere, plant leaves, and human skin. This team will record "molecular movies" by using strong table-top laser pulses. One pulse will be used to initiate the ionization of the molecular valence electrons orbitals, and then a second pulse and an ion detection system will be used to capture the time-evolution of the transformation. The molecules that will be studied, including ethanol and endohedral fullerenes, are relevant for industries and can serve as test-pieces for the measurement protocols developed by this team.  The molecular movies that this project will produce are important because they will reveal physical and chemical processes that drive specific reactions with these molecules. Students and postdocs that get trained on this project learn skills that they will use for future jobs in academia and industry. &lt;br/&gt;&lt;br/&gt;This research program will focus on investigating the time-resolved photo-induced isomerization of alcohol and the time evolution of endohedral fullerenes (M3N@C80) in the long-wavelength (IR) multiphoton ionization and the tunneling regimes. The goal for the latter experiment is to understand the role of excited super atomic molecular orbital (SAMO) states in these two different energy regimes. The experiments will be carried out using table-top laser pump-probe technique and the resulting charged fragments will be detected using an electron-ion-ion coincidence monitor known as a Cold-Target Recoil Ion Momentum Spectroscopy (COLTRIMS) system. The underlying dynamics will thus be revealed by coincident ion-momentum imaging. This team's contribution to advance science stems from their advanced approach to probe, in real time, and at the femtosecond scale, physical and chemical processes. This is achieved by using intense femtosecond table-top laser with twin optical parametric amplifiers which will enable 2-color pump-probe experiments and will push the current limit of fundamental femtosecond time-resolved large molecular dynamics investigations. This work will be done in partnership with theorists, which will allow this team to understand quantitatively the complexity of the physical processes and which will validate or push forward the calculations/modeling in cases of disagreements between experiment and theory.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700551</AwardID>
+<Investigator>
+<FirstName>Nora</FirstName>
+<LastName>Berrah</LastName>
+<EmailAddress>nora.berrah@uconn.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

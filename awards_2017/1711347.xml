@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantifying the Genome-wide Influence of Human Selection on Leaf Morphology and Amino Acid Metabolism in Cole Crops</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>216000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Jofuku Okamuro</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF National Plant Genome Initiative Postdoctoral Research Fellowship in Biology for FY 2017. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The host institution for the fellowship is the University of Missouri and the sponsoring scientists are Drs. Timothy Beissinger, J. Chris Pires, and Ruthie Angelovici. &lt;br/&gt;&lt;br/&gt;Domesticated cruciferous vegetables in Brassica oleracea, commonly known as cole crops, were selected from wild mustard to encompass a wide range of morphological and nutritional attributes. Despite extreme physical differences among cultivars, little is known about the extent of genetic diversity and developmental trade-offs in cole crops. Of interest is how selection for larger vegetative organs has influenced amino acid metabolism, which is important in leaves for human nutritional quality and for seed germinability to ensure continued evolution and improvement. This project uses a multi-disciplinary approach to address fundamental questions regarding how domestication has influenced genetic diversity and amino acid metabolism in a diversity panel of B. oleracea. Training objectives include quantitative genetics, population genetics, bioinformatics, and metabolomics. Broader impacts include mentoring of students, guest lecturing, and outreach events exploring the connections between food systems and crop domestication. &lt;br/&gt;&lt;br/&gt;There is need to expand domestication research beyond the cereals to additional crops with global and nutritional importance. In this project, the fellow will study domestication and demographic history in B. oleracea by testing for genomic signatures of selection, characterizing previous bottlenecks and expansions, studying trade-offs in amino acid metabolism between leaves and seeds, and identifying genomic regions of interest for these traits. This will include the resequencing of a diversity panel of B. oleracea, network analysis of amino acid composition in leaves and seeds, quantitative assessment of leaf morphology, and identification of the structural variation contributing to the observed phenotypes. All data, scripts, and methodologies produced from this work will be deposited in open-access repositories.</AbstractNarration>
+<MinAmdLetterDate>06/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711347</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Turner</LastName>
+<EmailAddress/>
+<StartDate>06/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Turner                  Sarah          D</Name>
+<CityName>Columbia</CityName>
+<ZipCode>652030000</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8105</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

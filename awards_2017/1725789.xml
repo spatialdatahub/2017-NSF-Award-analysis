@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAR-PF Near-real time monitoring and prediction of snowpack drought over Sierra Nevada, California</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>87000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Judith Ellen Skog</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Dr. Laurie Huning has been awarded an NSF Earth Sciences Postdoctoral Fellowship to work at the University of California, Irvine investigating snowpack droughts across mountainous terrain. Regions in the western United States such as California greatly rely on snowmelt from mountainous regions for a significant fraction of their water resources and drought in California is not uncommon. Nonetheless, the incorporation of snow information into drought monitoring frameworks remains largely unexplored. It is expected that the project will advance the knowledge of drought characteristics across snow-dominated mountainous terrain and provide insight into water availability and the probability of drought persistence that would be useful to the broader community.&lt;br/&gt;&lt;br/&gt;The project aims to develop a better understanding of snow water equivalent (SWE) as a critical drought indicator, which is important for achieving water security in regions that depend on snowmelt-derived water resources. The PI will characterize and diagnose the evolution of snow droughts across the hydrologically-significant Sierra Nevada. Physical and statistical methods, remote sensing, and reanalyses will be used to address science questions related to the spatial and temporal variability of hydrological and meteorological processes and states (e.g. SWE/snowfall, streamflow, temperature, etc.). Such efforts will move toward improved drought monitoring systems and metrics, near-term forecasts, and long-term climate analysis in mountainous regions where snow is important. This project will generate high-resolution, near-real time maps of the snowpack to characterize snowpack deficits, drought severity, and water storage that can be used for water resources management and environmental hazard mitigation. The incorporation of distributed snow information into a drought monitoring system will further the knowledge of processes related to snow hydrology, mountain meteorology, and hydrologic extremes and climatology.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725789</AwardID>
+<Investigator>
+<FirstName>Laurie</FirstName>
+<LastName>Huning</LastName>
+<EmailAddress/>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Huning                  Laurie         S</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926972175</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: SSDIM: Ensembles of Interdependent Critical Infrastructure Networks</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The need to represent and analyze socially coupled interdependent infrastructure networks poses significant scientific and technical challenges. A central challenge is the lack of realistic data sets that represent the networks, their interactions, and the points of connection with consumers. This EArly-concept Grant for Exploratory Research (EAGER) project will develop ensembles of such coupled systems, along with methods to assess concerns of data quality and validity. Ensembles of coupled power and communication networks will provide realistic data for algorithm development. The tools and techniques developed under the project will also be disseminated to the broader community of analysts and researchers interested in the science and engineering of complex networks. The work will result in unique open-access realistic data sets for the  academic and other interested communities. &lt;br/&gt;&lt;br/&gt;This project will develop mathematical techniques and associated algorithms for generating ensembles of infrastructure networks and social interactions. It will also yield methods for the validation and verification of these interdependent synthetic populations and network ensembles. A key focus will be on large, realistic power and communication networks. This work will lead to highly scalable, data-driven, dynamic methods for sensitivity analysis, uncertainty quantification, and verification and validation. The research will provide data to support new ways of characterizing and assessing vulnerabilities inherent in today's societal infrastructures. The ensemble of realistic networks will facilitate the study of vulnerabilities resulting from interdependencies among infrastructures as well as from vulnerabilities and risks that result from interaction of individuals with the infrastructure as well with each other.</AbstractNarration>
+<MinAmdLetterDate>08/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745207</AwardID>
+<Investigator>
+<FirstName>Xinwei</FirstName>
+<LastName>Deng</LastName>
+<EmailAddress>xdeng@vt.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Madhav</FirstName>
+<LastName>Marathe</LastName>
+<EmailAddress>mmarathe@vt.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samarth</FirstName>
+<LastName>Swarup</LastName>
+<EmailAddress>swarup@bi.vt.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henning</FirstName>
+<LastName>Mortveit</LastName>
+<EmailAddress>hmortvei@vbi.vt.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anil Kumar</FirstName>
+<LastName>Vullikanti</LastName>
+<EmailAddress>vsakumar@vt.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>Q231</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

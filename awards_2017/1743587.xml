@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Unearthing interacting nontuberculous mycobacterial, environmental, and host determinants of lung disease in the Hawai'i Islands</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>2321257</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susanna Remold</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will study the environmental factors affecting a naturally occurring type of bacteria, nontuberculous mycobacteria (NTM), which cause an infectious type of lung disease in people. It occurs around the globe and number of people affected is increasing; it infects 180,000 people in the United States each year. Hawaii has the highest prevalence of this lung disease in the United States. While NTM are regarded as an environmentally acquired type of bacteria, there is much we don't understand about where they live in the environment, which of those places are most important for getting into people and causing disease, and how interactions with the host cause disease. This interdisciplinary project will study NTM found from a broad range of environments, such as household water sources, soils, feral pigs, and healthy humans, and compare these to strains from patients in Hawaii. This will be the first time soil and water characteristics, climatic factors, human genes and behaviors, bacterial genomics, and potential vertebrate reservoirs are studied together in a single model. The work will help us understand how bacteria that are sometimes free living and sometimes associated with people and animals use their environment, and provide needed information about environmentally acquired NTM lung disease, and how to reduce these types of infections. This research will involve a large-scale citizen science project. It will involve patients in research, establish outreach programs, and mentor high school, undergraduate, and graduate students, and postdoctoral fellows from Hawaii and other underrepresented Pacific Islands in the fields of microbiology, microbial genomics and ecology, and mathematical modeling. It will contribute to the goal of reducing and perhaps eliminating difficult-to-treat NTM infections.&lt;br/&gt;&lt;br/&gt;This study will investigate environmental and clinical nontuberculous mycobacteria (NTM) by comprehensively characterizing genomic signatures of these opportunistic pathogens, and identifing where they reside in the environment. Human susceptibility to NTM infections will be examined by sequencing the genomes of individuals with NTM lung disease, to investigate and identify human genetic factors influencing disease incidence, including the examination of immune genes, cilia function genes, and genes affecting body or organ morphology. Over 3,000 environmental samples from Hawaii will be examined, and whole genome sequencing of over 1,000 environmental and clinical NTM bacterial strains will be conducted to comprehensively characterize the genome evolution and population dynamics of clinically relevant NTM species on the Hawaiian islands. These data will be combined with environmental analysis of water and soil characteristics to identify variables contributing to NTM survival and colonization in the environment. Through modeling of where individuals acquire NTM infections the research will contribute to identifying specific environmental, climatological, animal reservoirs, host genetic anomalies and behaviors, and particular genetic subtypes that facilitate this acquisition, driving the high prevalence of NTM lung disease in Hawaii. The research will thereby shed light on ecological processes affecting host colonization by environmentally acquired pathogens.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743587</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Strong</LastName>
+<EmailAddress>strongm@njhealth.org</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Chan</LastName>
+<EmailAddress>chane@njhealth.org</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Honda</LastName>
+<EmailAddress>Jennifer.Honda@ucdenver.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Jewish Health</Name>
+<CityName>Denver</CityName>
+<ZipCode>802062761</ZipCode>
+<PhoneNumber>3033981078</PhoneNumber>
+<StreetAddress>1400 Jackson Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID: Trajectories of Social Vulnerability among Houston Area Households: A Pre- and Post-event Study of Hurricane Harvey</AwardTitle>
+    <AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2018</AwardExpirationDate>
+    <AwardAmount>49906</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robin Dillon-Merrill</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Hurricane Harvey hit the Houston, Texas, metropolitan area on 25 August, 2017 and caused unprecedented damage. As of 4 September, 2017, estimates indicate that over 156,000 homes were destroyed and at least 60 people died. Preliminary loss estimates suggest that impacts could well exceed $100 billion, making Harvey the costliest disaster in U.S. history. This project examines underlying factors influencing Hurricane Harvey-induced flood experiences, impacts, and short-term recovery across Houston area households. The project leverages baseline data collected before Hurricane Harvey from a representative sample of Houston area households regarding their vulnerability to hurricanes and flooding, and involves the rapid collection of post-Harvey survey data from those same households. By clarifying how pre-event factors shape households' experiences, impacts, and short-term recovery during and immediately following Hurricane Harvey, the project provides new insights into determinants of community vulnerability versus resilience. As was demonstrated during Hurricane Harvey, people's decision making plays a critical role in the vulnerability of a communities' built environment when subjected to extreme events. Through the collection and examination of a pre- and post-event survey data from the same sample of households, this research project advances our knowledge of the role of underlying social vulnerability in community resilience and recovery during and immediately following large-scale disasters.&lt;br/&gt;&lt;br/&gt;The research objective of this project is to collect data in Houston following Hurricane Harvey to further our understanding of how social vulnerability manifests in flood experiences, impacts, and short-term recovery. The project leverages survey data collected from 600 randomly selected Houston area households in 2012, and involves re-surveying them regarding their Hurricane Harvey-induced flood experiences, impacts, and short-term recovery (in October 2017). Based on updated contact information, the project will collect a second wave of survey data from households still residing in the Houston area at the time of Hurricane Harvey. With this survey data, multivariate statistical models will be used to predict flood experiences, impacts, and short-term recovery across study households using explanatory variables derived from the 2012 and 2017 surveys.</AbstractNarration>
+    <MinAmdLetterDate>09/20/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/20/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1760655</AwardID>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Collins</LastName>
+      <EmailAddress>twcollins@utep.edu</EmailAddress>
+      <StartDate>09/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sara</FirstName>
+      <LastName>Grineski</LastName>
+      <EmailAddress>segrineski@utep.edu</EmailAddress>
+      <StartDate>09/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jayajit</FirstName>
+      <LastName>Chakraborty</LastName>
+      <EmailAddress>jchakraborty@utep.edu</EmailAddress>
+      <StartDate>09/20/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at El Paso</Name>
+      <CityName>El Paso</CityName>
+      <ZipCode>799680001</ZipCode>
+      <PhoneNumber>9157475680</PhoneNumber>
+      <StreetAddress>ADMIN BLDG RM 209</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>071Y</Code>
+      <Text>Hurricane Harvey 2017</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>041E</Code>
+      <Text>HAZARD AND DISASTER REDUCTION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>043E</Code>
+      <Text>EARTHQUAKE ENGINEERING</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>042E</Code>
+      <Text>HAZARD AND DISASTER RESPONSE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

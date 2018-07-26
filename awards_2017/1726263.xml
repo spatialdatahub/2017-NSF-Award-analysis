@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a Fluorescence Lifetime Imaging Microscope System for Research, Undergraduate Research and Training, and Curricular Reform</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>240521</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation (CRIF) programs. Professor Luke Haverhals from Bradley University and colleague Edward Remsen have acquired a fluorescence lifetime imaging microscope. Fluorescence lifetime imaging microscopy (FLIM) is a powerful technique that gives information about the location and the environment of a chemical (a fluorophore) that emits light after absorbing energy. The information obtained from initial samples provides feedback for the development of subsequent attempts, all with the goal of generating tough, functional materials made primarily from biomass while using minimal amounts of recyclable, low volatility organic compounds. The synthesized materials are low cost, sustainable composites that leverage the complex structures created by Nature.  Technologies that may be improved by this instrument acquisition include: low carbon building materials as well as composites for automotive, aerospace, and medical applications.  The new materials may also be used in water remediation, solar and electrochemical energy conversion and storage, and sensors. The research is conducted in collaboration with scientists at Knox College, Western Illinois University, and the US Department of Agriculture National Center for Agricultural Utilization Research (USDA NCAUR). The acquisition is used to train the next generation of scientists. In particular, experience in advanced microscopy techniques benefits master's level and undergraduate students as they prepare for advanced degree programs and industry. &lt;br/&gt; &lt;br/&gt;The newly acquired Fluorescence Lifetime Imaging Microscope (FLIM) enhances research and education at Bradley University. The instrument facilitates the characterization of sustainable processing and manufacturing of composites, the exploration of natural fiber welding to create functional biocomposites, and the analyses of illicit substances. The instrumentation is used for high throughput screening of peptides, affibodies, and antibodies on surfaces; localizing cellular intersection; and studying transport within micro and mesoporous metal oxide porous films.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726263</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Remsen</LastName>
+<EmailAddress>eremsen@bradley.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luke</FirstName>
+<LastName>Haverhals</LastName>
+<EmailAddress>lhaverhals@fsmail.bradley.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bradley University</Name>
+<CityName>Peoria</CityName>
+<ZipCode>616250001</ZipCode>
+<PhoneNumber>3096767611</PhoneNumber>
+<StreetAddress>1501 West Bradley Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Melting of compressed iron-alloys by monitoring atomic dynamics</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>324000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Earth's core is 16% of the planet by volume. It is composed primarily of iron, but includes a quantity of lighter elements whose presence, but not identity, is inferred from geophysical measurements. The core consists of a solid inner section surrounded by a convecting, liquid outer layer. It creates Earth's magnetic field, protecting the planet from space weather events such as solar flares, and provides the heat for plate tectonics as the liquid core freezes. The core begins approximately 2900 km below the Earth's surface, making it difficult to determine its exact composition and temperature profile, so scientists rely on laboratory experiments and an evolving model to infer core characteristics. Under this NSF award, the PI is developing a new application of the Mössbauer effect utilizing synchrotron X-radiation to populate data points on the melting curve of an iron-nickel alloy, a primary component of Earth's core.  This project will provide support and training for students at the undergraduate and graduate level, who will be trained in experimental research utilizing national synchtrotron radiation facilities.&lt;br/&gt;&lt;br/&gt;Laser heated diamond anvil cells, time-resolved synchrotron Mössbauer spectroscopy, x-ray diffraction and a recently developed fast temperature readout spectrometer are used to carry out these measurements. X-ray photons at one of iron's Mössbauer resonant energies are focused on the sample in a laser heated diamond anvil cell, and when melting occurs, the characteristic Mössbauer signal abruptly decreases. Thus, time-resolved Mössbauer spectroscopy provides an excellent diagnostic for the first melt formed in the sample chamber. These outcomes will represent a significant step towards understanding the melting of iron-rich alloys at conditions of terrestrial-type planetary cores. This is in addition to applying a new method that measures the atomic dynamics to the effort of determining melting at high-pressures. The proposed research agenda offers a unique synergy and training ground for the involved students to apply state-of-the-art experimental techniques at multiple facilities, including advanced radiation sources at national facilities, to scientific problems in the area of high-pressure melting investigations of Earth materials, an active area of research.</AbstractNarration>
+<MinAmdLetterDate>06/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727020</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Jackson</LastName>
+<EmailAddress>jackson@gps.caltech.edu</EmailAddress>
+<StartDate>06/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1573</Code>
+<Text>PETROLOGY AND GEOCHEMISTRY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

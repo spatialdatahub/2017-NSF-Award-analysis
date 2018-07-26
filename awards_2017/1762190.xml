@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding the Mechanisms of the Pulsed Electric Current Process for Joining Oxide-Dispersion-Strengthened Alloys</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>307825</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexis Lewis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Next-generation components for infrastructure and transportation, such as power plants and aeronautical engines, must operate in increasingly high temperature environments for maximum performance and output efficiency. To enable high-temperature operations, new materials will be required with high strengths in a variety of extreme environments. A promising class of novel materials known as Oxide Dispersion Strengthened (ODS) Alloys have the potential to perform in these environments. The industrial applications of these alloys, however, have been limited by existing joining technology, because traditional joining processes cause reactions at the micrometer scale in ODS alloys that lead to the deterioration of the joint's mechanical strength. The pulsed electric current joining process has emerged as a promising approach that can produce an outstanding ODS alloy joint with minimal changes at the micrometer scale. This award supports fundamental research to understand the relationships among the pulsed electric current joining process, the ODS alloy microstructure, and the resulting properties of the joints, giving insight into the mechanisms that enable high performance joints. This new knowledge will enable the translation of these high performance materials to applications in transportation, energy, and infrastructure. The research will be integrated into a series of educational activities for undergraduate students, as well as part of outreach to middle school students from underrepresented groups to inspire excitement in Materials Engineering.&lt;br/&gt;&lt;br/&gt;The goal of this project is to understand the fundamental processing-microstructure-property relationships active during pulsed electric current (PEC) joining of Oxide Dispersion Strengthened alloys. The hypothesis is that the PEC joining process is driven by electrical current activation mechanisms, including enhanced mass transport by electromigration and dielectric breakdown of the surface oxide film. To complete the research goal and test the hypothesis, this project will pursue three research objectives: 1) perform in-situ transmission electron microscopy investigation of the mechanisms in the pulse electric current joining process; 2) conduct ex-situ investigation of the mechanisms in this process; and 3) further improve ODS alloy joints using pulsed electric current joining mechanisms. The new knowledge gained from this work can be translated into strategies for using the pulsed electric current process to join other materials requiring minimal microstructural changes during the joining process, including high strength materials for extreme environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762190</AwardID>
+<Investigator>
+<FirstName>Qin</FirstName>
+<LastName>Zhou</LastName>
+<EmailAddress>zhou@unl.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bai</FirstName>
+<LastName>Cui</LastName>
+<EmailAddress>bcui@unl.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Nastasi</LastName>
+<EmailAddress>mnastasi2@unl.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8092</Code>
+<Text>Materials Eng. &amp; Processing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>088E</Code>
+<Text>THERMALLY DRIVEN PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

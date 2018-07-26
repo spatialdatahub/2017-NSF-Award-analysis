@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a New Nuclear Magnetic Resonance (NMR) Instrument with Cryoprobe at Carnegie-Mellon University</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>374717</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation Programs. Professor Roberto Gil from Carnegie Mellon University and colleagues are acquiring a 400 MHz NMR spectrometer equipped with cryoprobe. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as the study of biologically relevant species. In general, NMR spectroscopy is one of the most powerful tools available to chemists for the study molecular structure. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state. Access to state-of-the-art NMR spectrometers is essential to many chemists who are carrying out frontier research. The results from these NMR studies have an impact in synthetic organic/inorganic chemistry, materials chemistry, forensics and biochemistry. This instrument is an integral part of teaching as well as research performed by graduate and undergraduate students via independent student research and traditional academic coursework. Industrial partners area also provided access to the instrumentation in the NMR facility.&lt;br/&gt;&lt;br/&gt;The award of the NMR spectrometer with a cryoprobe is aimed at enhancing research and education at all levels. It especially impacts studies of atom transfer radical polymerization (ATRP) and synthesis of protein polymers and biomaterials that have the potential for use in regenerative medicine, drug delivery and neural interfaces. The instrumement is also used for researching substances to aid in aleviating the opioid crisis in America as well as for preparing polymeric materials that bear main-group elements. In addition, the NMR spectrometer benefits exploration of solar fuel generation - making polymers and materials via the principles of molecular design. The spectrometer benefits characterization of hybrid inorganic-nucleic acid nanostructures, indicator dyes for biological imaging, atmospheric aerosols, and compressed cross-linked polymer gels.</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726525</AwardID>
+<Investigator>
+<FirstName>Roberto</FirstName>
+<LastName>Gil</LastName>
+<EmailAddress>rgil@andrew.cmu.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+</Award>
+</rootTag>

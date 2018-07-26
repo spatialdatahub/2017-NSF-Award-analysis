@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  HI-LIGHT - Solar Thermal Chemical Reactor Technology for Converting CO2 to Hydrocarbons</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project relates to the fact that the extraction and consumption of fossil carbon accounts for over 6 billion metric tons of CO2 emissions each year.  While some mitigation approaches are fairly mature, like capturing CO2 for equestration or for enhanced oil recovery, they are very expensive in terms of both variable and capital costs and have little chance of ever providing a return on investment.  By not viewing fossil fuels and feedstocks through a circular economy lens, we estimate these companies miss an opportunity for approximately $50 billion per year in potential profit from hydrocarbons, including methanol, that could be made with waste CO2. If successful, our HI-Light reactor will enable a new economy based on the conversion of fugitive CO2 into useful hydrocarbons and solve the return on investment problem.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to develop HI-Light, a solar-thermocatalytic "reverse combustion" technology that enables the conversion of CO2 and water to methanol and other hydrocarbons at rate significantly greater than the state of the art. Previous approaches are limited by two roadblocks: (1) the semiconductor catalysts can only use photons with energies greater than their bandgap, which is a small fraction of those present in sunlight and (2) a large fraction of the catalyst material in these reactors is under-utilized due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented, multiscale approach to enhance light and reagent transport directly to the reaction site and makes use of traditionally unused photons to provide heat and enhance reaction efficiency.  The unique features of our reactor are (1) optimized light delivery to ensure that all of the catalyst material has enough light to activate the reaction and (2) an advanced nano-engineered photocatalyst which is functionalized with ligands to enhance CO2 capture and conversion.  The goal of this Phase I effort is to construct an integrated prototype reactor and evaluate its productivity in terms of the grams of hydrocarbon produced per gram of catalyst per hour and demonstrate a 10x improvement over the state of the art.</AbstractNarration>
+<MinAmdLetterDate>06/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720824</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Erickson</LastName>
+<EmailAddress>de54@cornell.edu</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Salfi</LastName>
+<EmailAddress>jason@dimensionalenergy.net</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dimensional Energy Inc.</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148506273</ZipCode>
+<PhoneNumber>5107083648</PhoneNumber>
+<StreetAddress>107 Penny Ln</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

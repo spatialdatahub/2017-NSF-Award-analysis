@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF:SMALL: MECAR: Memory-Centric Architecture to Bridge the Gap Between Computing and Memory</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Traditional computer systems usually follow the so-called classic Von Neumann architecture, with separated processing units (such as CPUs and GPUs) to do computing and memory units for data storage.  The increasing gap between the computing of processor and the memory has created the memory wall problem in which the memory subsystem is becoming the bottleneck of the entire computing system. As technology scales, data movement between the processing units (PUs) and the memory is becoming one of the most critical performance and energy bottlenecks in various computer systems, ranging from cloud servers to end-user devices. As we enter the era of big data, many emerging data-intensive workloads become pervasive and mandate very high bandwidth and heavy data movement between the computing units and the memory.  The fundamental goal of this project is to advance the trend of bridging the gap between computing and memory, with an application-driven approach. &lt;br/&gt;&lt;br/&gt;By leveraging the PI's prior extensive research on 3D-stacked memory and non-volatile memory architecture, the PI proposes to focus on (1) designing memory-centric processing unit (PU) architecture with massive GB on-chip/on-package memory integrated with computing units; (2) investigating new processing-in-memory(PIM) memory architecture designs with both DRAM and emerging NVM; (3) and co-design and co-optimization of both memory-centric PU architecture and NDC/PIM memory architecture, with the emerging data-intensive applications such as neural computing and graph analytics as application driver to guide the architecture optimization. The success of this research will have enormous economic and social benefits as broader impact. The research will provide the design guidelines for enabling future computing systems beyond the state-of-the-art, ranging from high performance exascale computing to low power mobile systems. Consequently, it will enhance nearly every digital device available today from consumer to enterprise electronics. It can also spawn new applications involving the computation on the exascale of data, e.g. data mining, machine learning, bio-informatics, etc. It is expected that this project will serve as a catalyst to accelerate the adoption of data-intensive and memory-centric technologies in future computer systems and applications from architecture and system design perspectives. The PI has extensive industrial ties with summer internships planned, which will be invaluable for broadening the knowledge and skills of the students. The PI will also strive to educate a broad audience on the emerging technologies through regular and online classes. Publication/lecture notes will be released on public websites to promote the broader dissemination of scientific knowledge.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719160</AwardID>
+<Investigator>
+<FirstName>Yuan</FirstName>
+<LastName>Xie</LastName>
+<EmailAddress>yuanxie@ece.ucsb.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

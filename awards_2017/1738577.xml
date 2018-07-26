@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Exploring Computer Science for Puerto Rico (ECS4PR)</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Building on the previous NSF community of practitioners CSMER project, the College of Education and the Department of Computer Science at the University of Puerto Rico at Rio Piedras proposes a project to establish the building blocks of a strong and well-integrated Research-Practitioner Partnership (RPP) that will foster the integration of Computer Science and Engineering (CSE) into the public schools of Puerto Rico. Specifically, the project will build an RPP to foster the integration of the Exploring Computer Science (ECS) curriculum in Spanish in the public school system of Puerto Rico (PR),  study a rapid-response support system for a cultural-linguistic equivalence of ECS curriculum in Spanish, and pilot the implementation of ECS curricula in at least two high schools in PR with a high  population of Hispanic, female, and economically disadvantaged students. &lt;br/&gt;&lt;br/&gt;The project--called ECS4PR--will use a Design Based Implementation Research (DBIR) approach to build on the ECS professional development model and create a scalable, cultural-linguistic equivalent implementation of ECS curriculum in Spanish. It will co-design a strong and well integrated RPP that promotes systemic educational change in Puerto Rico. Once established, that RPP will construct a curricular adaptation model of cultural-linguistic equivalence that can guide a scalable implementation of ECS for a predominantly Hispanic population, and serve as an example for other cultures and languages underrepresented in the field of computer science.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738577</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Lopez</LastName>
+<EmailAddress>luislopez58@upr.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Carroll-Miranda</LastName>
+<EmailAddress>boritux@gmail.com</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Borrero</LastName>
+<EmailAddress>borrero.michelle@gmail.com</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Agustin</FirstName>
+<LastName>Corchado</LastName>
+<EmailAddress>agustin.corchado1@upr.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edusmildo</FirstName>
+<LastName>Orozco</LastName>
+<EmailAddress>edusmildo.orozco1@upr.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico-Rio Piedras</Name>
+<CityName>San Juan</CityName>
+<ZipCode>009311790</ZipCode>
+<PhoneNumber>7877634949</PhoneNumber>
+<StreetAddress>PO Box 21790</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

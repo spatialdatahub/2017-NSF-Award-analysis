@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Scanning Electron Microscope</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>240329</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Song-Charng Kong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project involves acquiring a scanning electron microscope (SEM) instrument to support research and education in science and engineering areas at the University of Massachusetts at Dartmouth. This SEM instrument is being used by many researchers in various departments, including bioengineering, civil engineering, mechanical engineering, and chemistry. This instrument advances various research projects that involve surface analyses of diverse materials, including natural products, inorganic complexes, coordination polymers, nanomaterials, and other materials. The instrument also greatly impacts the education of undergraduate students with diverse backgrounds, since the institution serves a large number of underrepresented minority students. The SEM instrument also allows students the opportunity to use modern equipment and gain research skills that would be valuable for future careers in STEM fields. &lt;br/&gt;&lt;br/&gt;The acquired SEM instrument increases the research capabilities of the University of Massachusetts at Dartmouth. This instrument benefits a number of research projects that involve characterizing surface degradation in biodegradable polymers, coated fibers, electrospun composites and fracture surfaces of various metals, solids and molecules for carbon dioxide capture and activation. The instrument also is being used to structurally characterize biologically relevant materials, including bone fractures, nanomaterials, and particles for delivery of pharmaceutical related compounds. The acquisition of this SEM instrument contributes significantly to ongoing research projects and enables the institution to compete for future grant opportunities. Additionally, the instrument also provides valuable training opportunities to both graduate and undergraduate students. This award is funded by the Office of Assistant Director of Engineering.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726239</AwardID>
+<Investigator>
+<FirstName>Sukalyan</FirstName>
+<LastName>Sengupta</LastName>
+<EmailAddress>ssengupta@umassd.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vijaya</FirstName>
+<LastName>Chalivendra</LastName>
+<EmailAddress>vchalivendra@umassd.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Manke</LastName>
+<EmailAddress>dmanke@umassd.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Brigham</LastName>
+<EmailAddress>cbrigham@umassd.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate>11/01/2017</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Milana</FirstName>
+<LastName>Vasudev</LastName>
+<EmailAddress>mvasudev@umassd.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Milana</FirstName>
+<LastName>Vasudev</LastName>
+<EmailAddress>mvasudev@umassd.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate>11/01/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts, Dartmouth</Name>
+<CityName>North Dartmouth</CityName>
+<ZipCode>027472300</ZipCode>
+<PhoneNumber>5089998953</PhoneNumber>
+<StreetAddress>285 Old Westport Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SPECIAL STUDIES AND ANALYSES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

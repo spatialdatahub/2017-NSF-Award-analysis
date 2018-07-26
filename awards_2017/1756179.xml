@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Training and Research Experiences in Nonlinear Dynamics (TREND)</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>107711</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen V. McCloud</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the Research Experiences for Undergraduates (REU) site in non-linear dynamics at the University of Maryland.  Ten undergraduates per year will spend ten weeks during the summer engaged in research projects in physics, mathematics, or engineering.  The main goal of the program is to engage undergraduate students in cutting-edge research in the interdisciplinary area of nonlinear dynamics. Through guided mentorship by faculty members and interactions with post-docs and graduate students, undergraduates will gain hands-on experience by participating directly in the research process. Students will also be involved with a broad audience communication project and outreach to underrepresented K-12 students. The program offers seminars and trips that expose students to a wide variety of subjects and career opportunities while building a sense of community, and aims to recruit and educate the next generation of scientists and engineers.&lt;br/&gt;&lt;br/&gt;Potential research topics include: magnetic reconnection, turbulence, and nonlinear phenomena in plasmas; chaos and synchronism in large systems of network coupled components; dynamics of granular and soft-matter flow; development of singularities in fluids and solids; nonlinear dynamics in optical systems and charged particle beams; autonomous control of vehicles with forecast uncertainty; and nonlinear physics of living systems. A weekly seminar series will complement and reinforce the learning experience. The seminar topics will be equally divided into research talks and skill development workshops. Research talks will expose students to state-of-the-art research in nonlinear science at a level appropriate for undergraduates. Skills workshops will focus on fellowship/graduate school preparation, oral and written communication, and research ethics. Students will give oral presentations and participate in a poster session on the final day of the program, and funding will be provided to all students to subsequently present their work at a relevant national or regional conference.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1756179</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Girvan</LastName>
+<EmailAddress>girvan@umd.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajarshi</FirstName>
+<LastName>Roy</LastName>
+<EmailAddress>rroy@umd.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

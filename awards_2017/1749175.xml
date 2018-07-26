@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FOundations of Secure and TrustEd HardwaRe (FOSTER) Workshop</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>44966</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Semiconductor microchips are the brains inside all of the electronic devices that pervade our society. To control costs, microchips are often designed and even manufactured off-shore. Outsourcing the design and fabrication of semiconductor microchips comes at the expense of their security. For one, an off-shore microchip foundry can copy or steal the chip's blueprint, and sell copies of the chip in the black market. Perhaps worse, the foundry can also modify the chip's blueprint in stealthy ways, such that modifications go undetected and the chip misbehaves in harmful ways. The vulnerabilities affect the bottom-lines of commercial U.S. chip design companies, but perhaps more critically, threaten the integrity of electronic components used in defense equipment and critical infrastructure. There has been more than a decade of fruitful academic and industry research on solutions to counteract these threats to the design, manufacturing, and supply of electronic components. However, there is still no common consensus on questions of critical importance. For instance, what are the most pernicious attack vectors, in the near and far term? And, how can we quantitatively compare different defense mechanisms in terms of the security they offer? The time is ripe to bring together experts from government, industry and academia to lay the foundations for the next phase of hardware security research and reach a broad consensus on the most critical challenges, identify promising defense mechanisms and establish methodologies to evaluate solutions.  The FOSTER Workshop is aimed at meeting this challenge. The format of the workshop will encourage deep and open discussion between key stakeholders, and its outcome will be a comprehensive report that lays out a roadmap for research and transitioning research outcomes to practice.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Globalization of the IC design flow has reduced design complexity and fabrication cost, but has introduced several security vulnerabilities. A rogue agent anywhere in the IC supply chain can perform the following attacks: reverse engineering, hardware Trojans insertion, counterfeiting (specifically, recycled ICs), and IP piracy. These attacks cost the semiconductor industry billions of dollars annually, undermine national security and put critical infrastructure in danger. Despite the severity of this problem, current commercial IC design tools, for the most part, do not consider security as a first-class design metric. More than a decade of hardware security research has been instrumental in identifying and analyzing the key problems in this area and proposing a diverse array of solutions that address different attack surfaces. As hardware security research moves to a new phase of maturity, there is an urgent need to synthesize multiple threads of research into a synergistic security-aware EDA tool-flow that will enable the next generation of trusted hardware platforms.The FOSTER Workshop aims to address this need. The workshop  will bring together leading experts from industry and academia to address the following foundational topics: (1) characterizing the hardware security attack surface; (2) identifying formal, quantitative metrics to evaluate and benchmark security solutions; (3) identifying the most promising defense mechanisms and understand how different solutions can work synergistically. The outcomes of the workshop will be of interest to EDA tool developers, fabless semiconductor design companies, silicon foundries, test companies, embedded system companies, computer and communication security companies, and US government agencies, and will eventually benefit trustworthy electronics for healthcare, defense, finance, transportation, and automotive applications.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749175</AwardID>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Garg</LastName>
+<EmailAddress>sg175@nyu.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

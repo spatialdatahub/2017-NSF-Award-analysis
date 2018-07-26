@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Advancing High-Efficiency Nanoscale Antiferromagnetic Spintronics with Two-Dimensional Half Metals</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitris Pavlidis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Antiferromagnets hold promise in spintronics, due to the unique advantages over ferromagnets, such as high phase transition temperatures and null stray field. These characteristics make antiferromagnet appealing for high-density integrated devices, because each magnetic bit is robust against thermal and environmental magnetic field perturbation, and adjacent bits does not interfere mutually. However, zero-magnetization, an intrinsic attribute of antiferromagnet, usually is considered to be a primary factor limiting its applications. Despite of zero-magnetization, the Fermi surface electrons can be 100% spin-polarized, highly desirable for high-efficiency spintronic devices. Through rational material design of antiferromagnetic half metals, a novel type of spin field effect transistor can be realized. The work will fundamentally advance the nanoscale spintronics and the applications in information processing and storage. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project supports the study of a novel type of two-dimensional materials, antiferromagnetic half metals, and the development of spin field effect transistors. The study can fundamentally impact the state of the art spintronics and the related applications in information processing and storage. This work would also provide an excellent platform for education activities. Such an interdisciplinary research brings together researchers from material scientists, physicists, and electronic engineers. It requires concerted efforts to design and synthesize the promising antiferromagnetic materials, fabricate nanoscale transistors, and measure and optimize the device performance.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1753380</AwardID>
+<Investigator>
+<FirstName>Xiang</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>xzhang@me.berkeley.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI SPECIAL STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

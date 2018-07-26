@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Implementing and Evaluating I-Corps Training</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>1286739</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Intellectual Merit:&lt;br/&gt;The United States faces significant challenges in rapidly and efficiently bringing emerging science and engineering innovations to use in industry and commerce. To maintain our world leadership in scientific and engineering research and education, we need processes that enable the practical and scalable application of promising discoveries from research and university laboratories. For university research to achieve greater impact, academic researchers and their students in science, technology, engineering, and mathematics (STEM) need tools and preparation for evaluating whether research discoveries can be readily translated into practical applications and eventual commercialization. For these reasons, NSF established the I-Corps training program in 2011 to support NSF-funded researchers in learning how to evaluate their scientific research for commercial potential. The National Collegiate Inventors and Innovators Alliance, Inc., d/b/a VentureWell, proposes to continue its work with NSF to plan, implement and evaluate five (5) additional I-Corps workshops (National Team Trainings) and two (2) National Faculty Training events.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;The I-Corps program provides NSF-funded principal investigators and their team members with funding&lt;br/&gt;and training enabling them to evaluate their technologies and research discoveries for commercial&lt;br/&gt;feasibility. The ultimate goal of the program is to increase the economic and societal impact of NSF&lt;br/&gt;research funding directly, through commercialization of research, and indirectly, by equipping scientists&lt;br/&gt;and engineers with skills and experience in developing and testing economically scalable models for the&lt;br/&gt;development of a product or technology. By the end of the program, I-Corps grantees are expected to&lt;br/&gt;reach a decision about the commercial readiness of their technology or product and take with them a set&lt;br/&gt;of skills that they can continue to apply in their research careers. Program participants evaluate and&lt;br/&gt;translate their research into applications that have commercial potential and can benefit society. Many&lt;br/&gt;participants will have identified promising commercial pathways that can lead to new high tech ventures&lt;br/&gt;or licensing opportunities. Since the program's inception, I-Corps teams have formed 350 companies that&lt;br/&gt;have attracted over $83 million in follow-on investment and grants. These companies operate in a broad&lt;br/&gt;range of sectors including health, energy, materials, agriculture and information technology and are&lt;br/&gt;geographically distributed across 43 states.</AbstractNarration>
+<MinAmdLetterDate>06/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1724482</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Weilerstein</LastName>
+<EmailAddress>pweilerstein@nciia.org</EmailAddress>
+<StartDate>06/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Collegiate Inventors and Innovators Alliance</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359682</ZipCode>
+<PhoneNumber>4135872172</PhoneNumber>
+<StreetAddress>100 Venture Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8045</Code>
+<Text>I-Corps - Nodes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8045</Code>
+<Text>Cyberlearn &amp; Future Learn Tech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

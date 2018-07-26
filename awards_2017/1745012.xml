@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2017 Midwestern Workshop on Asymptotic Analysis</AwardTitle>
+<AwardEffectiveDate>10/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>17000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding to defray travel related expenses of participants at the conference "Midwestern Workshop on Asymptotic Analysis" that will be held at Indiana University- Purdue University Indianapolis, October 6-8, 2017.&lt;br/&gt;&lt;br/&gt;The conference focuses on recent developments in Analysis, especially in the fields of mathematical physics, approximation theory, and complex analysis. A number of distinguished mathematicians have agreed to attend and speak at this conference.  This award gives early career researchers, members of underrepresented groups, researchers not funded by NSF and the like an opportunity to attend and participate in this conference. The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities. More information will be made available at:&lt;br/&gt; http://mwaa.math.iupui.edu/</AbstractNarration>
+<MinAmdLetterDate>10/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745012</AwardID>
+<Investigator>
+<FirstName>Maxim</FirstName>
+<LastName>Yattselev</LastName>
+<EmailAddress>maxyatts@iupui.edu</EmailAddress>
+<StartDate>10/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

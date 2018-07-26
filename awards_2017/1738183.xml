@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Computer Science Colorado Learning and Identity Collaborative (CS-CLIC)</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>311937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Colorado Education Initiative (CEI), in collaboration with McREL International (McREL), proposes a project -- the Computer Science Colorado Learning and Identity Collaborative (CS-CLIC) -- to work with educators at eight high schools located throughout Colorado on understanding the importance of engaging a diverse audience of students in Advanced Placement Computer Science Principles (APCSP), understanding and using strategies to do so, and improving their use of evidence-based practices for effective student learning in the classroom. CS-CLIC's professional development will dramatically increase equitable access to rigorous computer science (CS) coursework, increasing number and diversity of students who see CS as relevant, possible, and important to them, enroll in APCSP, and earn qualifying scores on the APCSP exam.&lt;br/&gt;&lt;br/&gt;CS-CLIC will employ an iterative Networked Improvement Community (NIC) structure to co-design and refine professional development (PD) and targeted recruiting materials focused on the problem of practice: Students, and, particularly historically underrepresented students, do not perceive rigorous CS coursework as important, possible, or relevant to their lives. Working together with classroom teachers, CS-CLIC researchers will develop, implement, and test strategies to improve recruitment and retention based on the Identity-Based Motivation model, building on an existing Colorado Legacy School effort that attracts historically underrepresented students into AP courses in other STEM fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738183</AwardID>
+<Investigator>
+<FirstName>Katie</FirstName>
+<LastName>Stringer</LastName>
+<EmailAddress>kstringer@mcrel.org</EmailAddress>
+<StartDate>02/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Hessee</LastName>
+<EmailAddress>ghessee@yahoo.com</EmailAddress>
+<StartDate>02/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado Education Initiative</Name>
+<CityName>Denver</CityName>
+<ZipCode>802640000</ZipCode>
+<PhoneNumber>3037366477</PhoneNumber>
+<StreetAddress>1660 Lincoln St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

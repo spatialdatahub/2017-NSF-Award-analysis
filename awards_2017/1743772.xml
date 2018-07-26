@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PIRE: Science of Design for Societal-Scale Cyber-Physical Systems</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>4000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cassandra M. Dudka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>PI: Janos Sztipanovits, Vanderbilt University&lt;br/&gt;Co-PIs: Shankar Sastry, UC Berkeley, Alexanmder Pretschner, Technical University of Munich and Werner Damm, University of Oldenburg&lt;br/&gt;&lt;br/&gt;This project aims to develop a new Science of Design for societal-scale Cyber- Physical Systems (CPS). Emerging industrial platforms such as the Internet of Things (IoT), Industrial Internet (II) in the US and Industrie 4.0 in Europe have tremendously accelerated the development of new generations of CPS that integrate humans and human organizations with physical and computation processes (H-CPS) and extend to societal-scale systems such as traffic networks, electric grids, or networks of autonomous systems (self-driving cars, unmanned air vehicles) where control is dynamically shifted between humans and machines. Societal-scale systems are motivated by societal needs, but must conform to social norms and respond to expectations. If these systems evolve independently in the US and other countries, they will "hard-wire" the social context in which they are created, making interoperation hard or impossible, decreasing reusability of results, and narrowing markets for products and services. While impacts of new technology trends on social policies have received attention, the other side of the coin - to make systems adaptable to social policies - is nearly absent from engineering and computer science curricula and design practice. The project brings together a large, interdisciplinary group of researchers from Vanderbilt University, UC Berkeley, Technical University of Munich and University of Oldenburg working on integrated dynamics of humans, human organizations and networked CPS components, systems science foundations for resilient H-CPS, high-confidence design of H-CPS with learning enabled components, and social science. The goal of the project is to develop technologies that can be adapted to varying public policies. The international collaboration exposes students to H-CPS design which is strongly contextual and provides practical experience with the required scientific and technical foundations.  The education goal is to lay the foundation for and collect experience with new engineering and computer science education constructs that prepares students for the design and operation of a new generation of policy-aware H-CPS applications. The experience gained via the joint US and German research collaboration will be generalized and extended to broader international context.&lt;br/&gt;The central technical goal of this joint research activity is to establish foundations for constructing H-CPS systems that can be parameterized by social context.  Our technical approach is three-fold: (1) Understand and compare the nature, scope, and evolution of policies and societal expectations in the operation of societal-scale H-CPS in the US and in Europe. The purpose of the analysis is not to shape social policies, but to determine which factors have the greatest influence on technical solutions. (2) Investigate methods for the explicit and formal representation of societal context (operational, privacy, safety, security policies, incentives, pricing and market policies) that are machine interpretable and impact the structure and behavior of H-CPS. (3) Develop policy-aware architectures that guarantee the enforcement of policy requirements during the operation of a new generation of H-CPS. The expected outcomes of the proposed research program are: (1) H-CPS architecture specifications that can be ?parameterized? by operational, safety and security policies, and by constraints emerging from societal expectations, (2) policy model repositories, (3) design tool chains, and (4) test beds. The international project team will evaluate research results in low-altitude air traffic control, smart-grid and intelligent transportation system testbeds.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743772</AwardID>
+<Investigator>
+<FirstName>S. Shankar</FirstName>
+<LastName>Sastry</LastName>
+<EmailAddress>sastry@eecs.berkeley.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Tomlin</LastName>
+<EmailAddress>tomlin@eecs.berkeley.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Hess</LastName>
+<EmailAddress>david.j.hess@vanderbilt.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xenofon</FirstName>
+<LastName>Koutsoukos</LastName>
+<EmailAddress>xenofon.koutsoukos@vanderbilt.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janos</FirstName>
+<LastName>Sztipanovits</LastName>
+<EmailAddress>Janos.Sztipanovits@Vanderbilt.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7742</Code>
+<Text>PIRE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

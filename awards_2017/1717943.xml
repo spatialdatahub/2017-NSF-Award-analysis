@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF: Small: Distributed Statistical Inference with Compressed Data</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>449996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Due to the rapid growth of size and scale of datasets and desire to harnessing parallel processing capabilities of multiple machines, distributed statistical inference and machine learning, in which available data are stored in multiple machines who are allowed to communicate with each other with limited communication budgets, have attracted significant research interests. There are two basic scenarios for the distributed setting: sample partition and feature partition. Although there have been many recent work on the design of inference algorithms for the sample partition scenario, there has been limited work on the feature partition scenario. The focus of this project is to characterize the fundamental limits and develop distributed statistical algorithms for the feature partition scenario from information theoretic perspective.&lt;br/&gt;&lt;br/&gt;Compared with the sample partition scenario, the feature partition scenario is significantly more challenging. This research addresses these challenges by focusing on two research thrusts. Thrust 1 focuses on designing interactive encoding schemes for inference. The main idea is that, by interacting with each other, the terminals can coordinate their compression so that the decision maker can obtain more information about the parameter while using the same communication resources, which will lead to a better inference performance. Thrust 2 designs function computing schemes for inference, in which the machines compute a function of observations without recovering them first and then perform inference from this function. The main motivation for this idea is that recovering observations or a compressed version of them is not necessary in the distributed inference setup, as the final goal of the distributed inference is to infer the value of the unknown parameter.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717943</AwardID>
+<Investigator>
+<FirstName>Lifeng</FirstName>
+<LastName>Lai</LastName>
+<EmailAddress>lflai@ucdavis.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

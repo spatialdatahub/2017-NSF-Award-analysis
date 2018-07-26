@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: A Distributed REU in the Mathematical Biosciences</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>116031</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthias Gobbert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports the multi-institution REU program in the mathematical biosciences, facilitated by the Mathematical Biosciences Institute (MBI). The objectives of the program are: (1) to introduce a diverse cohort of undergraduate students to the field of mathematical biology, broadly interpreted to include areas such as biostatistics, bioinformatics, and computational biology, in addition to biologically-inspired mathematical modeling; (2) to encourage students to pursue graduate study in the mathematical biosciences; and (3) to increase the number of students who enter the workforce with training in this field. The infrastructure provided by the MBI gives the necessary resources to accomplish these goals by providing both an authentic research experience as well as exposure to the field of mathematical biology broadly.  &lt;br/&gt;&lt;br/&gt;REU participants will work on projects in areas such as molecular evolution, neuronal oscillatory patterning, cancer genetics, epidemics and vaccination strategies, and animal movement.  Participants will work individually or in pairs under the guidance of expert mentors to make specific research contributions in these areas, often leading to a peer-reviewed publication and conference presentations. The REU program will incorporate various professional and research-skills development activities throughout the summer to help ensure the participants' success in completing their summer project and to prepare them for graduate study or entering the workforce. The Distributed REU Program in the Mathematical Biosciences will have the following broader impacts. First, the program will increase the number of trained students who ultimately enter the workforce in the area of mathematical biology. Second, online materials developed as part of the program will be archived and made available on the MBI website for free use by others. In particular, MBI will record the lecture sessions in the one-week bootcamp session, the weekly seminars during the REU segment, and the oral presentations at the Capstone Conference. Finally, dissemination of research findings of the participants in the REU program will contribute to a cohesive and vertically integrated national research community in the mathematical biosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757423</AwardID>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Calder</LastName>
+<EmailAddress>calder.13@osu.edu</EmailAddress>
+<StartDate>02/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grzegorz</FirstName>
+<LastName>Rempala</LastName>
+<EmailAddress>rempala.3@osu.edu</EmailAddress>
+<StartDate>02/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

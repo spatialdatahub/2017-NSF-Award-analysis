@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nanosecond Laser-Based High-Throughput Surface Nanostructuring (nHSN) and Process Mechanisms</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>425794</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven R. Schmid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project will study the fundamentals of laser and chemical processing methods to create functional surface textures on metal alloys. The fabricated surfaces have random micro- and nanoscale surface structures that promote superhydrophobic (repels water), and highly anti-reflective characteristics that are favorable for drag reduction, anti-icing, self-cleaning, and light absorption applications. The processing method can both be applied to many critical engineering materials including steel, aluminum, titanium and magnesium alloys, and offer a high-throughput process chain capable of treating large surface areas. By this method, the laser processing time will be significantly reduced from hundreds of minutes per 6.5 cm^2 (square inch), as currently required, to a few seconds. Realization of these potential manufacturing gains will advance the national prosperity and welfare by increasing U.S. advanced manufacturing competitiveness, and will find application across many manufacturing sectors including aerospace, energy, and defense. The award will also facilitate training of the future workforce as students across all levels will gain experience in advanced manufacturing and surface science fundamentals. Additional educational opportunities will be made available for underrepresented freshman from rural areas of Iowa through the Rural Scholar Research Program.&lt;br/&gt;&lt;br/&gt;The research objective of this project is to understand the underlying fundamental mechanisms driving the nanosecond Laser-based High-throughput Surface Nanostructuring process. The process comprises two steps: (1) water-confined Nanosecond Laser Texturing, during which a high-energy, nanosecond pulse laser scans a metal surface submerged in water, using a large spatial increment and a fast processing speed: and (2) Chemical Immersion Treatment, during which the laser-textured surface is further treated by immersion in a chlorosilane reagent. Specific tasks are aimed at the following; 1) verifying that the increased laser power intensity generates the desired surfaces via surface chemistry and microstructural changes, 2) verifying that the competing mechanisms of chemical etching, and surface silianization occurring during the chemical immersion treatment drive the formation of the nanostructures, 3) determining the long-term endurance of surface attributes in high-temperature, corrosive, and/or abrasive environments, and 4) identification of the functional effects of random surface nanostructure size, shape and variation on superhydrophobicity, capillary adhesive forces, and anti-reflection characteristics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762353</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Shaw</LastName>
+<EmailAddress>scott-k-shaw@uiowa.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hongtao</FirstName>
+<LastName>Ding</LastName>
+<EmailAddress>hongtao-ding@uiowa.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaoping</FirstName>
+<LastName>Xiao</LastName>
+<EmailAddress>shaoping-xiao@uiowa.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1468</Code>
+<Text>Manufacturing Machines &amp; Equip</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

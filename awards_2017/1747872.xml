@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Global Perspectives in Convergence Education</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>49060</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Earnestine P. Easter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of Southern California will hold an international workshop focused on convergence education where representatives from multiple stakeholder communities will share insights about the impact of the evolving nature of STEM education and workforce development.  The workshop will assess the status and importance of convergence education on all levels globally, describe how convergence and responsible science are being developed in other countries, propose strategies to address emerging convergence education topics and changing workforce needs, and discuss how convergence education can broaden participation in the Stem workforce. The workshop will be used to produce a report with actionable recommendations and prioritization for stakeholder responses that respond to recent national policy and research reports. The workshop supports the National Science Foundation Big Idea "Growing Convergent Research".</AbstractNarration>
+<MinAmdLetterDate>07/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747872</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Murday</LastName>
+<EmailAddress>murday@usc.edu</EmailAddress>
+<StartDate>07/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI SPECIAL STUDIES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7980</Code>
+<Text>Core R&amp;D Programs</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8816</Code>
+<Text>Workforce Development</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF:Small: Accelerating Graph Analytics Through Coordinated Storage, Memory and Computing Advances</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Graphs represent the relationship between different entities and are the representation of choice in diverse domains, such as web page ranking, social networks, drug interactions, and communicable disease spreading. Due to the sheer size of graphs in these important domains, billions of vertices with tens of billions of edges, graph processing is a data intensive task. The size of the graphs is expected to far exceed the size of the main memory available in many computer systems. As such graph analytics will be hobbled by their inability to quickly access graph vertices and edges from computer storage. Current storage systems are mostly block based and hence treat graph data as a collection of bytes organized into pages. The advent of affordable solid state drives (SSDs) allows one to envision a future where SSDs can be made semantically aware of the underlying graph storage. Rather than treating storage as a collection of blocks, semantic awareness enables SSDs to consider graph structure while deciding on how vertices and edges are laid out, and how to access the graph elements efficiently. &lt;br/&gt;&lt;br/&gt;This research advances the vision of semantic graph storage by proposing to make the SSD controller treat graph vertices and edges as first class objects.  In particular,  this research  will design and implement a set of application programming interfaces (APIs)  that allow application developers and algorithmic designers to specify graph layout and query storage systems using graph-oriented access requests, such as finding all the neighbors of a given vertex. A new runtime layer for SSDs will also be developed to exploit the semantic awareness to improve SSD endurance, garbage collection and caching. The benefits of semantic graph storage will be demonstrated by rethinking the implementation of  graph signal processing algorithms  to achieve an order magnitude improvement in performance. Such dramatic performance improvements in turn will enable a variety of compelling societal benefits such as accelerated drug discovery.  This research also provides opportunities for a new generation of students to study, implement and optimize graph analytics on experimental SSD platforms and to study the tradeoffs between clean abstractions and the performance impact of abstractions.</AbstractNarration>
+<MinAmdLetterDate>09/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719074</AwardID>
+<Investigator>
+<FirstName>Murali</FirstName>
+<LastName>Annavaram</LastName>
+<EmailAddress>annavara@usc.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Ortega</LastName>
+<EmailAddress>ortega@sipi.usc.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

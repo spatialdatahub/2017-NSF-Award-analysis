@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: High Performance Digital Pathology Using Big Data and Machine Learning</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rita V. Rodriguez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project, developing a digital imaging system, aims to automatically characterize an enormous archive of digital images from a pathology lab. Based on open source programming language packages and using deep learning technologies, the effort entails developing software that will automatically annotate and classify these images. Thus the system consists of an annotated archive tool for high performance digital pathology involving digital images from pathology slides produced in clinical operations. This tool, presently unavailable, enables observation, annotation, and classification of images from tissues in pathology slides in order to create a very large data base that may be analyzed with algorithms that are designed to process and interpret the image data. By applying state of the art machine learning, the effort is expected to generate a sustainable facility to rapidly collect large amounts of data automatically. This facility enables deep learning systems to systematically address many operational challenges, such as ingestion of large, complex images.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;The instrumentation provides a useful technology capability.  The work builds on the researchers' history of providing unencumbered resources for fields including human language technology and neuroscience. Several large, comprehensive databases of pathology slides will be released in an unencumbered manner; no comparable databases currently exist in terms of the quantity of data proposed. The urban setting of the project, as well as the diverse nature of the institution's client population, make it ideal for collecting this type of clinical data.  A new generation of healthcare professionals will be trained using these resources to validate their knowledge in the longer term.</AbstractNarration>
+<MinAmdLetterDate>09/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726188</AwardID>
+<Investigator>
+<FirstName>Iyad</FirstName>
+<LastName>Obeid</LastName>
+<EmailAddress>iobeid@temple.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tunde</FirstName>
+<LastName>Farkas</LastName>
+<EmailAddress>tunde.farkas@temple.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuri</FirstName>
+<LastName>Persidsky</LastName>
+<EmailAddress>yuri.persidsky@temple.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Picone</LastName>
+<EmailAddress>joseph.picone@gmail.com</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

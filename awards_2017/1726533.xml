@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an Atomic Layer Deposition Tool for Research, Education, and Outreach at Vanderbilt University</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>416623</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Z. Charles Ying</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Atomic layer deposition (ALD) is a core processing technique in nanoscale science and engineering and is used for a wide variety of materials and devices ranging from electronics to biomaterials. An ALD reactor acquired through this Major Research Instrumentation award provides this capability as a shared-user facility in the Vanderbilt Institute for Nanoscale Science and Engineering, enabling innovative research, education, and outreach throughout Middle Tennessee. Vanderbilt researchers come from a wide variety of disciplines including physics, chemistry, materials science, and engineering. Furthermore, the ALD tool is accessible by students and researchers at nearby universities such as Tennessee State University, Fisk University, Belmont University, Middle Tennessee State University, University of Tennessee, and Austin Peay State University. Research enabled by the tool includes nanophotonics and optoelectronics, biomaterials and biosensors, as well as energy storage and conversion. The scientific research is tightly integrated with education, including hands-on training for undergraduate and graduate students on this state-of-the-art instrument. In addition, leveraging various outreach programs at Vanderbilt University, the impact of this project is extended to high-school students through demonstrations of fabrication of nanostructures. Moreover, the close collaboration between Vanderbilt and Tennessee State University, a historically black university, facilitates participation of underrepresented groups.&lt;br/&gt;&lt;br/&gt;The ALD tool, installed as a shared user facility in the Vanderbilt Institute of Science and Engineering, catalyzes new collaborations among nanoscience researchers at Vanderbilt University and across Middle Tennessee. The tool is capable of deposition of atomically thin and dense metal and dielectric films as well as coating of nanoparticles. This capability enables transformative research activities addressing a broad range of nanoscience and nanoengineering areas including nanophotonics, optoelectronics, biomaterials, biosensors, solar energy conversion, and next-generation energy storage systems. In particular, the ALD enables fabrication of ultra-thin gate dielectrics as well as phase-change optics at the nanoscale. In the area of biomaterials and biosensors, the ALD enables new biocompatible coatings for both nanoscale materials as well as macroscale medical devices. In energy research, the ALD allows researchers to explore novel battery and solar cell materials as well as thermal systems and coatings.</AbstractNarration>
+<MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726533</AwardID>
+<Investigator>
+<FirstName>Frances</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>frwilliams@tnstate.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cary</FirstName>
+<LastName>Pint</LastName>
+<EmailAddress>cary.l.pint@Vanderbilt.Edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>King</LastName>
+<EmailAddress>mike.king@vanderbilt.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Valentine</LastName>
+<EmailAddress>jason.g.valentine@vanderbilt.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yaqiong</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>yaqiong.xu@vanderbilt.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

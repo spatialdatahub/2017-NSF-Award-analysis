@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NRT: Interdisciplinary Training in Complex Networks and Systems</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>2999845</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Laura Regassa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding complex networked systems is key to solving some of the most vexing problems confronting humankind, from discovering how dynamic brain connections give rise to thoughts and behaviors, to detecting and preventing the spread of misinformation or unhealthy behaviors across a population. Graduate training, however, typically occurs in one of two dimensions: experimental and observational methods in a specific area such as biology and sociology, or in general methodologies such as machine learning and data science.  With more and more students seeking to gain sufficient expertise in mathematical and computational methods on top of domain-specific laboratory and social analysis methodologies, a greater demand for more efficient training is emerging. This National Science Foundation Research Traineeship (NRT) award to Indiana University will address this growing need with an integrated dual PhD program that trains students to be "bidisciplinary" in Complex Networks and Systems (CNS) and another discipline of their choosing from the natural and social sciences. It will seamlessly integrate traditional education with interdisciplinary hands-on research in a culture of academic and human diversity. This program will provide unique interdisciplinary training for thirty-four (34) PhD students, including twenty-two (22) funded trainees. The program will provide additional training experience to 40 summer affiliate students and a population of more than 300 participants across the participating PhD programs.&lt;br/&gt;&lt;br/&gt;The training program capitalizes on the new Indiana University Network Science Institute (IUNI). The Institute's 165+ faculty members will serve in interdisciplinary PhD program committees to be co-chaired by research mentors from both CNS and the target empirical domain. Project-driven, team-based research at IUNI will seamlessly integrate academic education with interdisciplinary hands-on scientific and industrial research. Trainees will learn to connect the general-purpose, computational expertise of CNS to the deep, domain-specific research methodologies of the natural, behavioral, and social sciences thus bridging the gap between distinct training cultures. They will be a new breed of STEM scientists that escapes the silos of disciplinary training to address the complex problems of the 21st century. Specifically, the four goals of training activity are: 1) provide dual research proficiency; 2) develop collaborative skills via early integration into problem-driven, interdisciplinary research; 3) produce a diverse workforce by recruiting student cohorts from a broad set of disciplines and varied backgrounds to be trained within a team culture; 4) establish a sustainable interdisciplinary training model by enlarging the institutional channels created between informatics and natural and social sciences to other Indiana University departments and institutions. A science-of-science study conducted throughout the NRT project will evaluate the efficacy of interdisciplinary training of the students in this program. This project will develop a flexible dual PhD program and best-practices to allow additional departments at Indiana University to join the program in the future, as well as other institutions to develop similar programs.&lt;br/&gt;&lt;br/&gt;The NSF Research Traineeship (NRT) Program is designed to encourage the development and implementation of bold, new potentially transformative models for STEM graduate education training. The Traineeship Track is dedicated to effective training of STEM graduate students in high priority interdisciplinary research areas, through comprehensive traineeship models that are innovative, evidence-based, and aligned with changing workforce and research needs.</AbstractNarration>
+<MinAmdLetterDate>07/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1735095</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Rocha</LastName>
+<EmailAddress>rocha@indiana.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Armando</FirstName>
+<LastName>Razo</LastName>
+<EmailAddress>arazo@indiana.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bernice</FirstName>
+<LastName>Pescosolido</LastName>
+<EmailAddress>pescosol@indiana.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katy</FirstName>
+<LastName>Borner</LastName>
+<EmailAddress>katy@indiana.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Olaf</FirstName>
+<LastName>Sporns</LastName>
+<EmailAddress>osporns@indiana.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1997</Code>
+<Text>NSF Research Traineeship (NRT)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7261</Code>
+<Text>PROGRAM EVALUATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1371</Code>
+<Text>POLITICAL SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

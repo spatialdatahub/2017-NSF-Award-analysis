@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Chemical and Microbiological Quality of Floodwaters in Houston Following Hurricane Harvey</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>181801</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hurricane Harvey landed in Texas as a Saffir-Simpson Category 4 hurricane at 10 p.m. CST on August 25, 2017. Harvey stalled over Texas for several days and brought an unprecedented amount of rainfall into Houston that exceeded 50 inches over some parts of the Greater Metro area. Such unprecedented flooding in an urban area with abundant industrial activity has the potential to produce widespread contamination of waterways, soils and sediment by chemical pollutants and microbiological pathogens. A major issue with understanding the potential impact of such events is that they occur relatively infrequently and are of too short duration to allow for data collection and scientific evaluation using the traditional proposal evaluation and funding processes. This proposal seeks to remedy that problem by rapidly characterizing the chemical pollution and microbiological contamination in Houston waterways post-Harvey to provide both an understanding of the extent of pollution, as well as to provide a base of comparison for subsequent studies of the recovery of the environment over time to support future decision making.&lt;br/&gt;&lt;br/&gt;The specific project objectives are to: (i) understand the spatial distribution of various contaminants in Houston water systems post-Harvey; (ii) collect a one-of-its-kind dataset to understand the recovery of the system after such a catastrophic event; and (iii) use state-of-the-art metagenomics techniques to define the microbiological condition of Houston waterways post-disaster and relationship to community health. Four waterways will be studied: Brays, Buffalo, and Greens and Peach Creek represent different flow and land use/land cover regimes, and pollutant sources. Sample collection will encompass the water column, and soil and sediment samples from inundated areas and in-stream locations. Chemical analyses of metals, organic pollutants, and both state-of-the-art and more conventional microbiological assessment techniques will enable detailed investigation of the health hazards to surrounding communities in the wake of Harvey. These data will support decision-making, building capacity and increasing resilience within metropolitan urban water infrastructure in the face of extreme weather events.</AbstractNarration>
+<MinAmdLetterDate>09/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1759440</AwardID>
+<Investigator>
+<FirstName>Hanadi</FirstName>
+<LastName>Rifai</LastName>
+<EmailAddress>rifai@uh.edu</EmailAddress>
+<StartDate>09/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Willson</LastName>
+<EmailAddress>willson@uh.edu</EmailAddress>
+<StartDate>09/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>Houston</CityName>
+<ZipCode>772042015</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4800 Calhoun Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

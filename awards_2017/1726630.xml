@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an X-ray Diffractometer for Research and Training in Chemical Structure-Function Studies</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>216979</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) Program, the Chemistry Research Instrumentation Program and the Experimental Program to Stimulate Competitive Research (EPSCoR). Professor George Richter-Addo from the University of Oklahoma and colleagues Daniel Glatzhofer, Robert Cichewicz, Indrajeet Sharma and Bayrammurad Saparov are acquiring a single crystal X-ray diffractometer.  X-ray diffraction is a powerful tool to investigate the atomic structure of solid materials. It is used to understand how the atoms are arranged and bonded to each other in a material.  The knowledge of the atomic structures of materials is fundamental to understanding their properties and developing improvements. The applications of microscopic structural knowledge ranges from chemistry to biology, materials and medicine, to applications such as developing better agrochemicals, electronic devices or pharmaceuticals. The instrument advances the training of students in research and is also employed in the annual Sooner Upward Bound program each summer that brings in inner-city (OKC) high school students at high risk for academic failure. This acquisition also assists research and training at five other partner Oklahoma institutions: Oklahoma State University, Northeastern State University, Southeastern State University, University of Science and Arts and Southwestern Oklahoma State University.&lt;br/&gt;&lt;br/&gt;This diffractometer advances research and education at the University of Oklahoma and surrounding area. It helps in identifying reactive molecular-level, metallo-intermediates in the global nitrogen cycle and developing new families of semiconductor materials and photovoltaics. The instrumentation is also used to characterize intermediates for organic transformations and applications in asymmetric synthesis.  Researchers are developing semi- and total-synthesis methodologies and determining the absolute stereochemistry of natural products. This diffractometer is essential to determine the crystal structures of solid-state metal oxides/sulfides and organoactinide complexes.</AbstractNarration>
+<MinAmdLetterDate>08/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726630</AwardID>
+<Investigator>
+<FirstName>Indrajeet</FirstName>
+<LastName>Sharma</LastName>
+<EmailAddress>isharma@ou.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bayrammurad</FirstName>
+<LastName>Saparov</LastName>
+<EmailAddress>saparov@ou.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Glatzhofer</LastName>
+<EmailAddress>dtglatzhofer@ou.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Cichewicz</LastName>
+<EmailAddress>rhcichewicz@ou.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Richter-Addo</LastName>
+<EmailAddress>grichteraddo@ou.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730199705</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>201 Stephenson Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

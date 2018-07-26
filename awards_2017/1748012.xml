@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:   Cloud Microphysics Measurements Using Unmanned Aircraft Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>51466</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Small unmanned aircraft systems offer unique possibilities in areas of atmospheric research.  One of the compelling uses for these systems is to fill in gaps in measurements in places where it is too expensive or too dangerous for other aircraft to regularly sample.  This award will provide funding for a proof-of-concept system to measure cloud properties.  The overall concept behind the work is that UAS measurements of precipitation and cloud particles will help to better inform weather models and improve radar observations, with an end goal of improving weather forecasts for the benefit of society.  Several students will be trained and the instruments will be used in outreach efforts.&lt;br/&gt;&lt;br/&gt;This award is for the acquisition, development, and testing of instrumentation that will be used to enhance studies of cloud and precipitation physics.  Three new instruments will be incorporated onto a small unmanned aircraft system (SUAS):  1) a condensation particle counter for the measurement of the number count of cloud condensation nuclei in the vicinity of convective clouds, 2) a disdrometer for the drop size distribution of liquid hydrometeors, and 3) a liquid water content sensor for the estimation of the third moment of the drop size distribution.  The main tasks include initial testing of the instruments, the development of methods to get each sensor airborne, and then up to 12 deployments in varying types of cloud and precipitation events.  The in-situ measurements of cloud properties can be used to elucidate microphysical processes within precipitation systems, to provide validation for radar observations and modeling studies, and to develop new methods of estimating radar variables at low levels for cloud models.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748012</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Van Den Broeke</LastName>
+<EmailAddress>mvandenbroeke2@unl.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

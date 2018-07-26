@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RII Track-2 FEC: Advanced Biomanufacturing: Catalyzing Improved Host Development and High Quality Medicines through Genome to Phenome Predictions</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>3000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeanne Small</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description&lt;br/&gt;&lt;br/&gt;This Research Infrastructure Improvement Track-2 Focused EPSCoR Collaborations (RII Track-2 FEC) award brings together Clemson University, University of Delaware, Tulane University, and Delaware State University to develop new biological approaches to better understand the Chinese hamster ovary (CHO) cell line, which is used to manufacture most biopharmaceuticals.  For example, CHO cells are used to manufacture more than 50% of biopharmaceuticals, and products from CHO cells have global sales over $70 billion per year.   A lack of understanding of the fundamental link between genome stability and the phenome significantly limits the ability to improve cell lines and ultimately increase product yields. This project will provide foundational knowledge linking the genome (what is in the chromosome or DNA) to what is observed (the phenome).  This award provides the opportunity for investigators with complementary expertise to collaborate in advance of developing bio-manufacturing knowledge.  Additionally, this project will mentor four early-career tenure-track underrepresented minority (URM) faculty and train postdoctoral scholars and graduate and undergraduate students.  The project?s vision is to create a sustainable, high impact, collaborative research team from three EPSCoR jurisdictions that innovates fundamental genome-phenome knowledge and solves biopharmaceutical manufacturing challenges to: 1) improve patient access to medicines; 2) develop a highly skilled, diverse, and inclusive workforce; and 3) acquire fundamental genome to phenome knowledge applicable to any biological system.&lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;&lt;br/&gt;Chinese hamster ovary (CHO) cells are the most widely used mammalian host cell line to manufacture biopharmaceuticals, including infliximab to treat Crohn's disease and erythropoietin (EPO) to treat severe anemia. These cell lines provide a unique opportunity to quantitatively address the complex interactions between the genome and phenome because these cells can be cultured in very tightly controlled environments (bioreactors) to generate variable phenomes due to genome instability. This project focuses on studying the basis for genomic instability in CHO cells and aims to expand the quantitative understanding of the complex interactions between the genome and environment that generates the variable phenotypes. This project will strengthen existing collaborations among academics and provide mentoring for URM tenure-track faculty members at four institutions in South Carolina, Delaware, and Louisiana.  Together, these researchers will develop systems biology approaches to understand and re-engineer the genome-phenome relationship and apply this knowledge to advance the ability to manufacture biopharmaceuticals. The project will: 1) expand the research infrastructure in participating institutions; 2) build individual and collective competence graduate students in genome-phenome knowledge and CHO cell cultivation and engineering; 3) share genome-phenome knowledge and tools that could be applicable to any other organism whether or not it has issues with genome stability;  4) broaden and foster the participation of tenure-track early-career underrepresented minority (URM) faculty members; and 5) provide research experiences for URM students and establish students exchanges among the participating EPSCoR jurisdictions.</AbstractNarration>
+<MinAmdLetterDate>08/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1736123</AwardID>
+<Investigator>
+<FirstName>Kelvin</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>KHL@udel.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Robinson</LastName>
+<EmailAddress>asr@tulane.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Harcum</LastName>
+<EmailAddress>harcum@clemson.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296345701</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7217</Code>
+<Text>EPSCoR Research Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

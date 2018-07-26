@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Regulation of nutrient homeostasis by the CBL-CIPK calcium-based sensor-kinase network in plants</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Clouse</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To grow, plants require a balanced supply of mineral nutrients, but today's soil is often deficient in essential minerals such as nitrogen, phosphorus, and potassium. To overcome this deficiency, crop production in the U.S. relies heavily on use of fertilizers, but this practice is costly, endangers environmental health and is not sustainable, because some essential minerals (e.g., potash and phosphorus rock) are limited natural resources.  An alternative and more sustainable agricultural strategy is to breed plants with new traits that allow them to grow in nutrient-imbalanced soils. To achieve this goal requires better understanding of the molecular networks that allow plants to respond and adapt to the constantly changing status of mineral nutrients in the soil.  This project addresses this need by studying how plants maintain the proper balance of mineral nutrients when the soil contains too much or too little of specific minerals, thus establishing the knowledgebase for breeding crops with little need of fertilizers, thereby supporting sustainable agriculture.   The project will have educational benefits by providing opportunities for undergraduate and graduate students to engage in research and by reaching out to high school students, including those from underrepresented groups, through workshops and other activities aimed at promoting interest in biology research.  &lt;br/&gt;&lt;br/&gt;Plants constantly monitor nutrient status in the soil and maintain nutrient homeostasis by controlling ion transport across the plasma membrane (for uptake) and tonoplast (for storage). However, the signaling mechanism linking nutrient status in the soil and membrane transport in plants is largely unknown. The principal investigator's laboratory discovered the CBL-CIPK calcium signaling network that functions in a number of cellular pathways including nutrient sensing. In addition to the CBL-CIPK pathway that targets a voltage-gated potassium channel in response to low-potassium status, their recent studies further identified a complex CBL-CIPK network that regulates vacuolar transport of a number of mineral nutrients. The findings have thus connected the CBL-CIPK signaling mechanism to the regulation of transport activities at the plasma membrane and vacuolar membrane, the two most important sites for nutrient homeostasis in plant cells. The proposed research will test the major hypothesis that a large network of "CBL-CIPK-ion channel" interactions couples the environmental signals, e.g., changes in nutrient status, to the regulation of membrane transport and nutrient homeostasis in plant cells. A combination of approaches, including genetic, biochemical, and electrophysiological tools, will be used to address connections of the CBL-CIPK network to potassium and magnesium homeostasis with a focus on understanding the coordination between the plasma membrane and vacuolar pathways in the regulation of nutrient balance.</AbstractNarration>
+<MinAmdLetterDate>08/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714795</AwardID>
+<Investigator>
+<FirstName>Sheng</FirstName>
+<LastName>Luan</LastName>
+<EmailAddress>sluan@berkeley.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: Mm-Wave Reconfigurable Additive Manufactured Packaging Systems (RAMPS) using Pulsed Picosecond Laser Processing</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>359768</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitris Pavlidis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The aim of this project is to investigate packaging technologies for high frequency microelectronic circuits that will provide critical performance enhancements for next generation wireless systems. The approach is based on the use of low cost additive manufacturing or 3D printing processes, and will require advances in areas such as minimum feature size, reconfigurable electronic and mechanical structures, and millimeter-wave frequency circuit design.  The proposed approach of integrating the functionality needed to dynamically reconfigure a mm-wave system directly into the 3D-printed packaging is a new concept, since current packaging technologies predominantly serve only to provide environmental protection with no electronic purpose.  The new structural electronic packaging concept could therefore significantly disrupt the microelectronics packaging industry, as the functional packaging would provide the ability to perform actions such as changing operating frequencies and steering antenna beams in real-time.  The technology could impact important emerging applications such as 5G wireless, the internet of things and autonomous and connected vehicles.  It could also expand into fields such as wearable electronics, bio-electronic devices, and artificial organs. &lt;br/&gt;&lt;br/&gt;In addition to training graduate students the project will impact K-12 education by offering training opportunities to high school teachers and students.  Undergraduate students will also be involved through Research Experience for Undergraduates projects and multi-disciplinary Senior Capstone Design projects that are outlined by the industry partner. The principal investigators will continue to emphasize the participation of students from diverse backgrounds and underrepresented groups in engineering, and include a focus on the attainment of global perspectives and leadership skills as part of their training.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The technical goal of the project is to advance the state of the art in millimeter wave packaging technology by demonstrating new approaches for direct integration of low temperature on-package and on-chip structural electronics. The aim is to study concepts for reconfigurable packaging using dynamic structures that are fabricated using additive manufacturing. Specifically, the research will involve a hybrid, direct print additive manufacturing strategy that combines fused filament fabrication and micro-dispensing to form the package foundation in a conformal manner directly onto the microelectronic device or component. The critical electronic and mechanical features will be defined using pulsed picosecond laser machining with a targeted minimum feature size of 3-5 microns.  Performance goals include variable reactance devices with greater than 5:1 tuning in the upper Ka-band and interconnects with less than 0.7 dB/cm loss in the V-band.  &lt;br/&gt;&lt;br/&gt;The proposed work has potential to make significant contributions in the area of functional electronic packaging, which may prove to be one of the most economically and technically important applications of direct print additive manufacturing. To date, no additive manufactured tunable devices have been demonstrated at millimeter wave frequencies. Furthermore, there are no existing packaging technologies that can combine the advantages of low temperature processing, conformal integration and dynamic real-time reconfigurability.  Finally, since the proposed approach is generic in nature it will be broadly applicable to a wide range of microwave/mm-wave communications and sensing systems. The project's industry partner brings expertise in microwave packaging and manufacturing and will play a critical role in steering the investigations to maximize future commercial impact.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711790</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Mamazza</LastName>
+<EmailAddress>rmamazza@mtronpti.com</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jing</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>jingw@eng.usf.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Weller</LastName>
+<EmailAddress>tom.weller@oregonstate.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336129446</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

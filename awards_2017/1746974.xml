@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Shower Stream: An IoT Smart Shower for Hotels</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to prevent over $50 billion in wasted building utility costs annually across the US by increasing domestic shower efficiency.  Commercial adoption of this technology at scale will save 200 billion gallons of water and at least 1 trillion kWh of energy in the U.S. every year.  Reducing waste water and energy use decreases the strain on municipal water and energy infrastructure.  Lower energy use will also have a significant impact on carbon emissions associated with electric generation.  The innovation will enhance scientific and technological understanding by developing a highly-accurate novel sensing technology that works in hot and humid conditions.  Moreover, the occupancy detection technology can be used for other applications where difficult ambient conditions prevent the use of conventional sensors.  The IoT device will generate valuable end-user utility use behavior data which public institutions and private industry will use to design better policies and best practices.  In addition to the economic, technological and environmental benefits, this research also promotes jobs by providing enough utility savings to commercial buildings for them to increase their staff.&lt;br/&gt;&lt;br/&gt;The proposed project will eliminate behavioral water waste which occurs when a bather leaves a shower unoccupied even after the water has warmed-up.  Developing the technology requires: (1) a device that can accurately sense shower occupancy, (2) a compact enclosure resilient to a shower?s hot and humid environment and, (3) low energy circuitry and algorithms for long battery life.  Methods to achieve the project objectives include acoustic signal analysis for sensor accuracy, in-situ pilot testing, CAD design and prototyping to achieve device size constraints, and accelerated aging tests to ensure reliability and durability.  The overarching goal of this phase I feasibility effort is to validate the novel utility savings methodology, occupancy sensor accuracy and calibration over at least 5 years, and a device battery life of at least 2 years.  This project will be deemed successful if the following key technical objectives are met: (1) The sensor performs within at least a 1% error margin after relevant nondestructive, accelerated aging tests, (2) The amount of water and energy saved is at least 20% when compared to baseline during live hotel pilot tests, and (3) The device?s battery life is at least 2 years.</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746974</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Floyd</LastName>
+<EmailAddress>greg.floyd@showerstream.net</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Abstract Engineering LLC</Name>
+<CityName>Austin</CityName>
+<ZipCode>787598950</ZipCode>
+<PhoneNumber>7138767726</PhoneNumber>
+<StreetAddress>8200 Neely Dr. Apt 151</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

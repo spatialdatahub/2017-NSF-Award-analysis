@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Development of an Instrument for Deep Learning Research</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>2721983</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefan Robila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop and deploy a novel instrument for accelerating deep learning research at the University of Illinois (UI). The instrument will integrate the latest computing, storage, and interconnect technologies in a purpose-built shared-use system. This Instrument will deliver unprecedented performance levels for extreme data intensive emerging fields of research with far-reaching impacts in many areas, such as computer vision, natural language processing, artificial intelligence, healthcare and education. The instrument development will be driven by the UI deep learning (DL) community needs and will be carried out in collaboration with IBM and Nvidia. The instrument will serve as a focal point for the rapidly growing DL research community at UI, enable expansion of several research programs at UI, and contribute to STEM education and training.&lt;br/&gt;&lt;br/&gt;Specifically, the proposed instrument is a far-reaching cyberinfrastructure development for the research community and industry engaged with deep learning. The work will result in an advanced high-performing scalable instrument with capabilities far beyond those currently deployed in academia or industry to tackle large-scale deep learning projects. This instrument will serve as a focal point for a community-driven effort to advance the field of DL, integrating the work of computer scientists, systems engineers, and software developers. This project is transformative both in the systems architecture and domain science fields it will imbue, with new knowledge to be developed via new interactions and synergies that will emerge as part of this effort.&lt;br/&gt;&lt;br/&gt;The proposed development of this well-integrated instrument will improve the quality and expand the scope of research and training, provide inter- and intra-organizational use amongst many disciplines, and engage private sector partners. The work will have deep and long-lasting effects on future computer architectures for compute- and data-intensive applications by making the blueprints of the novel system architecture of the instrument publically available. Access to the high-performance software developed through this project will aid numerous science domains that utilize DL frameworks. The unprecedented computational capabilities of many applications will make it possible to tackle complex science, engineering and societal problems in many important fields ranging from education, to healthcare, to artificial intelligence (AI). This project will strive to include participants from under-represented minority and female students, to make new discoveries, train, and educate a new generation of users fluent with DL tools and methodologies, contributing to the development of a highly educated, and diverse workforce with specialized skillsets. Finally, the work will enable new industry-academic collaborations benefiting both the scientific community and industry nationwide.</AbstractNarration>
+<MinAmdLetterDate>09/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725729</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Gropp</LastName>
+<EmailAddress>wgropp@illinois.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roy</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress>rhc@illinois.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Volodymyr</FirstName>
+<LastName>Kindratenko</LastName>
+<EmailAddress>kindr@ncsa.uiuc.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Peng</LastName>
+<EmailAddress>jianpeng@illinois.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

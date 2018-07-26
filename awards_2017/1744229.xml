@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Physics Research and Education Gordon Research Conference and Gordon Research Symposium</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>49500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Turley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The significance of this conference is to provide a forum for presentation and discussion of the latest research in emerging energy topics and the teaching and learning of energy. This award will support participation of a diverse group of graduate students, postdoctoral researchers and early career investigators to attend the 2018 Gordon Research Conference (GRC) and the preceding Gordon Research Symposium (GRS) in Physics Research and Education.  The teaching of energy is considered by physicists to be an important core concept to understand the material world, and by inviting cutting-edge scientists to speak on topics in energy research -- from energy harvesting to energy flow modeling -- transformative topics in energy research are made available for use as application examples in the teaching of undergraduate physics students and the general public. &lt;br/&gt;&lt;br/&gt;Within the theme of "Energy as a Subtle Concept", workshop topics are broken into fundamental and contemporary groups and each session is represented by both a physics education and scientific researcher. The conference goals are as follows: a) introduce participants to cutting edge research in the field of physics and education related to the theme of energy,  b) foster knowledge of new methods of energy research and pedagogical research on energy in order to provide new models for use in teaching by conference participants, c) encourage discussions and potential collaborations between conference participants in order to broaden the energy ecosystem to include scientists, educational researchers, and instructors, d) provide mentorship opportunities for conference participants, and e) create a community of practice around the teaching and learning about energy.  The conference will be preceded by a two-day Gordon Research Symposium entirely planned and executed by a group of post-docs and graduate students who are rising leaders in energy related research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744229</AwardID>
+<Investigator>
+<FirstName>Dawn</FirstName>
+<LastName>Meredith</LastName>
+<EmailAddress>dawn.meredith@unh.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Ruzycki</LastName>
+<EmailAddress>nruzycki@mse.ufl.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Serena</FirstName>
+<LastName>Eley</LastName>
+<EmailAddress>seley@lanl.gov</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8238</Code>
+<Text>DCLS-Hispanic Serving Inst</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

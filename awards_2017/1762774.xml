@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Multiple Scale Biomechanics of Tissue Damage in the White Matter of the Human Central Nervous System</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>291506</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michele Grimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The debilitating long-term consequences of traumatic brain injury (TBI) caused by head impacts in sports or blast effects in war are now generally recognized as dangerous.  Even milder head impacts require patient monitoring, though for how long is not completely known.  To care for people with less obvious injuries and to measure whether a patient has healed, new approaches to brain imaging are needed.  This research is targeted at improving the prediction and monitoring of brain injuries.  A loss of white matter is one of the changes in brain tissue after injury. How the head impact is distributed as stress in the brain is not known, nor do we know the tolerance of brain cells to stress. This research project will use fast confocal microscopy and Magnetic Resonance Imaging (MRI) techniques to develop and validate a multiscale mechanical model for brain white matter that can predict cell injury.  This validated model will be used to estimate axonal injury in the brain using impact models of the whole brain.  The research will be used in the education of undergraduate and graduate students.  The PI instituted the GirlsConnect club in Mechanical and Aerospace Engineering to increase the participation and retention of women in this field.&lt;br/&gt;&lt;br/&gt;This project will focus on identifying the injury thresholds for individual axons within white matter when the tissue is exposed to dynamic, mechanical stretch. This interdisciplinary research builds on the innovative experimental approaches to understand axon kinematics and novel multi-scale computational models of the collaborative team to introduce: (i) Analysis of axon-level displacements and sub-failure axonal damage following clinically-relevant, dynamic loading of white matter; (ii) Computational incorporation of the composite mechanics of axon and glial matrix interaction, including damage, into the global (macro) response of the white matter following tissue-scale loading; (iii) Quantitative prediction of stress concentrations at the axon-level from the computational models; and (iv) Integration of clinical imaging (MRI and Magnetic Resonance Elastography) and subsequent histopathology and correlation of mechanical properties to axonal damage. The multi-scale model will enable the prediction of changes in bulk mechanical properties from damage to the axonal microstructure and from myelin degeneration. It is anticipated that this model can be easily integrated into advanced imaging modalities to predict and monitor brain injury and disease.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762774</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Georgiadis</LastName>
+<EmailAddress>jgeorgia@iit.edu</EmailAddress>
+<StartDate>05/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Konstantinos</FirstName>
+<LastName>Arfanakis</LastName>
+<EmailAddress>arfanakis@iit.edu</EmailAddress>
+<StartDate>05/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Institute of Technology</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress>10 West 35th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7479</Code>
+<Text>Biomechanics &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>070E</Code>
+<Text>INTEG OF HUMAN &amp; COGNITIVE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>070Z</Code>
+<Text>MB-Mechanobiology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE: A Phase Separation Model for Transcriptional Control in Mammals</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan B. Blagoev</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The main goal of this RAISE Award project is to discover fundamental aspects of gene regulation in mammals. Many diseased cellular states (including cancer and autoimmunity) are associated with aberrant regulation of transcription of genes regulated by super-enhancers (SEs), large clusters of enhancers that regulate the transcription of genes important for cell type specific processes in both healthy and diseased (e.g., cancer) states.. Therefore, the proposed fundamental studies are of significance to the design of therapies for diseases that have a large toll on human health. The immediate potential impact of the studies concerns inhibitors of SEs that are currently being tested in clinical trials to treat cancer and other diseases. This effort also has an important training component.  Undergraduate research is an integral part of labs at MIT. Formal mechanisms such as the MIT Undergraduate Opportunities Program (UROP), the MIT Summer Research Program and Amgen Scholars Program for underrepresented minorities, will be used to recruit undergraduates to the PI's laboratories. One PI will also participate in ACCESS, a weekend at MIT for underrepresented minority students designed to make them aware of opportunities for graduate study. The impact of this research on science and technology will be disseminated to the broader scientific community through the production of a video learning module targeted at both the broad community of citizens and specifically the K-12 educational audience.  MIT has been at the epicenter of research at the convergence of the physical, life, and engineering sciences. The PIs will teach courses wherein this interdisciplinary work will be highlighted.&lt;br/&gt;&lt;br/&gt;Super-enhancers are occupied by an unusually high density of interacting molecules, and are able to drive higher levels of transcription than typical enhancers. Several lines of evidence suggest that they form via cooperative processes, and SEs are far more vulnerable than typical enhancers to perturbation of components that are commonly associated with most enhancers. Recently, the PIs proposed that a phase separated multi-molecular assembly regulates the formation and function of SEs (Cell, 2017). They suggested that some puzzles associated with SE function are consistent with such a model. These results provide just a starting point to explore the role of phase separation in gene control in mammals. By bringing together sophisticated theoretical studies (rooted in statistical physics) and biological experiments, the PIs now aim to study their novel proposal with the goal of developing a conceptual framework for understanding gene regulation in mammals, and why SEs evolved to regulate key genes. The mechanistic insights thus gleaned will also apply to diverse processes in eukaryotic cells that are mediated by phase separated membraneless organelles. By bringing together approaches rooted in physics and biology, the PIs aim to address the following significant questions: 1] What are the fundamental physical and biological principles that determine how SEs form and function to regulate gene transcription in mammals? 2] Why have genes with the most prominent roles in cell identity evolved to be regulated by SEs? 3] Why do cancer cells have SE-regulated oncogenes, and why are these so vulnerable to drugs that inhibit certain transcriptional regulators? In order to take steps toward answering these questions, the PIs propose to study two major topics: 1] Understanding the nature of the phase transition and its implications for gene regulation. 2] Understanding how super-enhancers nucleate and form.&lt;br/&gt;&lt;br/&gt;This RAISE project is being jointly funded by the Physics of Living Systems program in the Division of Physics in the Mathematical and Physical Sciences Directorate, by the Cellular Cluster in the Division of Molecular and Cellular Biosciences in the Biosciences Directorate, and by the Office of Integrative Activities.</AbstractNarration>
+<MinAmdLetterDate>07/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743900</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Young</LastName>
+<EmailAddress>young@wi.mit.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Phillip</FirstName>
+<LastName>Sharp</LastName>
+<EmailAddress>sharppa@mit.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arup</FirstName>
+<LastName>Chakraborty</LastName>
+<EmailAddress>arupc@mit.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8078</Code>
+<Text>INSPIRE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

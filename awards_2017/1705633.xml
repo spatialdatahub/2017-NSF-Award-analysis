@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EPRI: Collaborative Research: Hydrogen Production via Electrochemical Reforming of Ethanol in a Proton Exchange Membrane Cell</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>269793</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Production of hydrogen from biomass and/or biofuels has been proposed as an interim method between the current hydrogen production from fossil fuels, such as methane and coal, and hydrogen production using renewable sources (e.g., solar and wind).  This project aims to develop a highly energy-efficient process for hydrogen production in a proton exchange membrane (PEM) cell via the ethanol electrochemical reforming reaction (EER).  Ethanol is an attractive feedstock for hydrogen production because of the existing infrastructure for its large-scale production from biomass. The proposed work will investigate the use of partially oxidized noble metal catalysts as a new group of anode catalysts enabling fast reaction kinetics (rapid charge transfer) and high efficiency.&lt;br/&gt;&lt;br/&gt;The production of hydrogen by the EER process will be studied in a PEM cell, where the hydrogen evolution reaction happens at the cathode and the rate-limiting ethanol oxidation reaction happens at the anode.  The hypotheses are: (1) Lattice oxygen from partially oxidized noble metals (MOx) will be more active to remove poisoning species than adsorbed OH (the dissociative product of water acting as a common oxidant in electro-catalysis); (2) The ensemble effect, associated with particular arrangements of the noble metal (M) and O constituents, may play an important role towards the C-C splitting of ethanol.  The hypotheses will be tested by a combination of theoretical and experimental investigations: Density  functional theory (DFT) calculations will be performed to study the stability and reactivity towards C-C splitting on partially oxidized noble metals (MOx, M: Pt, Rh, Ir, Pd and Ru) in slab and nanoparticle forms. Solution phase synthesis of MOx clusters, predicted by DFT calculations to have high effectiveness for complete oxidation of ethanol, will be performed. Structural characterization of the clusters will be performed using a variety of techniques, including aberration-corrected scanning transmission electronic microscopy and X-ray absorption spectroscopy (XAS) at National Laboratories.  EER kinetics will be evaluated in both half-cells and single-cells, from which energy efficiency, hydrogen and carbon dioxide generation rates, and selectivity will be calculated and used to evaluate the performance of the proposed MOx catalysts.</AbstractNarration>
+<MinAmdLetterDate>06/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1705633</AwardID>
+<Investigator>
+<FirstName>Xiaowei</FirstName>
+<LastName>Teng</LastName>
+<EmailAddress>xw.teng@unh.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Hampshire</Name>
+<CityName>Durham</CityName>
+<ZipCode>038243585</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

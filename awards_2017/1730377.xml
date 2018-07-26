@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CI-NEW: NIEUW: Novel Incentives and Workflows in Linguistic Data Collection and Annotation</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>1218465</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald T. Langendoen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Language touches every aspect of human life. People speak and write in order to manage relationships from the personal to the international, to gather and provide information, to negotiate, influence and inspire. Scientists use language to communicate their findings regardless of their field of study. Although researchers have been working for six decades to process language via computer, only in the past several years have their efforts have produced technologies of sufficient maturity that they can affect the lives of the average citizen. Today, some of the most fortunate use computers to search the vast archives of the Internet, to translate material from languages they do not understand into languages they do and to interact with smart devices by giving them natural language commands and queries and receive responses in kind. Despite the growth and promise of human language technologies, they are in fact available for only a tiny portion of the world's approximately 7000 languages and, even then, for only a limited range of situations. This is the case because the approaches that have proven most successful in developing human language technologies require vast amounts of spoken or written language material that have been augmented by human judgment as to their interpretation, but such resources are lacking for most languages and for many types of situations, even for languages of international importance, including English. This Research Infrastructure project will address this shortage of language resources by supporting the language technology research community to employ novel incentives and alternate workflows to greatly expand the methods that have been used to date for collecting and annotating language data. The resulting resources will support research and development on an expanded range of language technologies, leading to the creation and deployment of applications for an increasingly broad range of languages and situations. &lt;br/&gt;&lt;br/&gt;Even a brief observation of user behavior on social media, online games, citizen science and public good initiatives demonstrates that many people around the world are willing to devote collectively vast amounts of effort when given appropriate motivation and effective tools. This project will harness some of the immense people-power that drives such activities and focus it on problems of developing language resources that help computers learn to process language. Specifically, the project will create a software toolkit to be developed by the project team in response to the needs of language technology researchers to create online activities that yield language resources. The activities will include games, citizen science and tools for language professionals, clustered into a series of portals that appeal to different populations of users. The project will build and maintain the database and web servers, with redundancy, load balancing and fail over, to run the principal instance of all of the activities, and an open-source release of the software will enable other researchers to build their own instances independently. Finally, the data resulting from this project will be shared with the least restrictive terms possible to further support language technology research and development activities worldwide.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730377</AwardID>
+<Investigator>
+<FirstName>MARK</FirstName>
+<LastName>LIBERMAN</LastName>
+<EmailAddress>MYL@CIS.UPENN.EDU</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Cieri</LastName>
+<EmailAddress>ccieri@ldc.upenn.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Callison-Burch</LastName>
+<EmailAddress>ccb@cis.upenn.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

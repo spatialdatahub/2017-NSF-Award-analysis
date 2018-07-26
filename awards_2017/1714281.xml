@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI:   Completing Studies of Supernova Remnants and the Interstellar Medium</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>64760</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glen Langston</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Massive stars end their lives in catastrophic supernova explosions, releasing as much energy as the Sun will expend throughout its entire 10-billion-year lifetime.  Such an enormous energy release has profound effects on the galaxies where supernovae occur.  For example, the shock waves can trigger bursts of star formation when they encounter dense interstellar clouds.  Supernovae are also responsible for the production and distribution of most of the heavy elements in the Universe.  Virtually all elements from carbon to iron on the periodic table were forged in the cores of massive stars and distributed around the cosmos through supernova explosions.  The central themes of this research are to better understand (1) how supernovae explode, (2) how their huge energy release affects their host galaxies, and (3) how supernovae contribute to the chemical changes in the Universe.  The investigator and their students will focus on selected bright supernova remnants in the Milky Way.  Also, they will study the average effect of supernova remnants in the nearby galaxies.  The investigator is at Middlebury College, an ethnically diverse college in rural Vermont.  The investigator will work with undergraduate students and help them publish their research results.  The investigator will also reach out to the public via the striking images from the Emission Line Atlas to be published in popular literature and on the web.&lt;br/&gt;&lt;br/&gt;This project will concentrate especially on young supernova remnants (SNRs), where observations made over three decades reveal significant expansion.  In young core-collapse SNRs, where uncontaminated ejecta fragments are freely expanding, image and spectroscopy data will be used to obtain proper motions and Doppler velocities for dozens of surviving ejecta knots to obtain 3-dimensional models and explore possible asymmetries.  Chemical abundances inferred from spectra can tie present knots to their origin in specific core layers of the progenitor stars.  In young Type Ia SNRs, specifically Tycho (SN1572) and RCW86 (SN185), proper motions of Balmer-dominated filaments that delineate their outer shells will be measured to gauge their expansion.  High signal-to-noise spectra of numerous filaments in both objects will enable determination of the shock velocities, which together with proper motions can yield the first precise distances to these key objects.  The investigator will also statistically investigate the properties of large SNR populations in an entire galaxy, where SNRs can be seen unimpeded by the foreground dust that hides from view most SNRs in the Milky Way.  The investigator and collaborators will identify the SNR populations in the two nearby galaxies which had the most supernovae in the past century.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714281</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Winkler</LastName>
+<EmailAddress>winkler@middlebury.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Middlebury College</Name>
+<CityName>MIDDLEBURY</CityName>
+<ZipCode>057536000</ZipCode>
+<PhoneNumber>8024435000</PhoneNumber>
+<StreetAddress>14 OLD CHAPEL ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1216</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

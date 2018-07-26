@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Physiological and molecular mechanisms that explain reproductive-female-specific skeletal growth in a highly cooperative mammal, the Damaraland mole rat</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>108853</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Dickson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This RAPID award takes advantage of an ongoing experiment in the Kalahari Desert of South Africa on the Damaraland mole rat, a highly social mammal that cooperatively raises its young. The goal is to test hypotheses about how breeding drives bone growth and remodeling in females. Two bones that do and do not elongate in reproductive female mole rats (lumbar vertebrae and femur, respectively), and the same bones in nonreproductive females, will be compared for bone growth and bone-derived stem cell activity, mineralization potential, gene expression, and responsiveness to hormonal signals. The project will provide new information about how hormonal signals and hormonally-mediated gene expression changes result in bone growth that is related to fitness in this unusually cooperative mammal. Results will be broadly applicable to understanding the control of skeletal remodeling and growth in mammals. The project involves training of a postdoctoral fellow and volunteers at the Kalahari Research Centre in South Africa, and public education at the North Carolina Museum of Natural Sciences. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project will provide novel insight into the physiological and genomic targets of social evolution in the Damaraland mole rat. In females of this eusocial species, secondary skeletal growth (lumbar vertebrae elongation and widening of the pelvic girdle) is a function of reproductive activity and results in increased litter sizes. The project will investigate gene regulatory differences in bone-forming mesenchymal stem cells that explain this breeding female-specific growth phenotype. It will test the hypothesis that estrogen and insulin-like growth factor signaling differentiate reproductive females and non-breeders, and bones that experience secondary growth from those that do not. Differences in stem cell gene expression and chromatin accessibility at estrogen-receptor transcription-factor binding sites will be quantified. By elucidating the physiological mechanisms underlying permanent, secondary skeletal growth in mole rat females, the results will lead to a better understanding of how skeletal growth in adult mammals, including humans, is controlled.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749419</AwardID>
+<Investigator>
+<FirstName>Jenny</FirstName>
+<LastName>Tung</LastName>
+<EmailAddress>jt5@duke.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiolg Mechansms&amp;Biomechancs</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

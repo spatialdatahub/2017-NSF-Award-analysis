@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data-constrained Numerical Modeling of the Distribution and Kinetics of Hydrogen (H) Atoms in the Terrestrial Atmosphere</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>99594</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth S. Lieberman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Atomic hydrogen (H) dominates the composition of Earth's atmosphere above 500 km (aka the exosphere, or geocorona). Knowledge of H is important for mesospheric and lower thermospheric heating, and for plasmaspheric and magnetospheric charging following geomagnetic storms. As the lightest neutral species in the atmosphere, H requires the lowest energy to overcome the Earth's gravitational force and escape into interplanetary space. Permanent loss of H has a significant impact on long-term atmospheric evolution.&lt;br/&gt;&lt;br/&gt;Numerical models of exospheric H assume a population of collisional atoms. However, this assumption has long been known to be oversimplified. Recent measurements made by the PIs of non-thermal, high-energy H atoms in the upper thermosphere bear this out. The goals of this proposal are to refine the PI's radiative transfer models to reflect non-collisional H physics, and to identify the mechanisms that control the distribution and dynamical transport of H atoms in the terrestrial thermosphere and exosphere. The efforts will lead to further understanding of the structure, chemical coupling and energetics of the space-atmosphere interaction region. The work also sheds light on the evolution of the exosphere due to H escape. The new modeling capabilities and inversion techniques can be easily generalized for the study of other planetary atmospheres, particularly that of Mars. The PI is early career scientists, and will train a graduate student in inverse theory, data analysis, and radiative transfer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1733946</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Hodges</LastName>
+<EmailAddress>richard.hodges@lasp.colorado.edu</EmailAddress>
+<StartDate>03/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jianqi</FirstName>
+<LastName>Qin</LastName>
+<EmailAddress>jianqi@illinois.edu</EmailAddress>
+<StartDate>03/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lara</FirstName>
+<LastName>Waldrop</LastName>
+<EmailAddress>lwaldrop@illinois.edu</EmailAddress>
+<StartDate>03/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

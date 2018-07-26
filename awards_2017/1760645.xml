@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Discovering Crises Within Crises - Real-Time Detection, Tracking and Visualization of Emergent Crises in Hurricanes</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>187739</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hurricanes are a devastating natural disaster.  Forecasters at the NOAA Climate Prediction Center have predicted an above-normal hurricane season this year. This prediction is already proving accurate as evidenced by the two massive and devastating recent hurricanes: Hurricane Harvey and Hurricane Irma.  It is urgent and time critical to develop, refine and test systems that can improve the ability of first responders and emergency management agencies to identify emergent crises before, during and after hurricanes.  The research objective of this Rapid Response Research (RAPID) is to develop a crisis detection, tracking and visualization system.  Social media data collected before, during and after Hurricane Harvey and Hurricane Irma will be used to develop and retrospectively validate the system.  &lt;br/&gt;&lt;br/&gt;The results of this research will improve the detection, tracking and visualization of emergent crises in hurricanes and other large scale natural disasters in the future by enabling the pinpointing of extreme crisis areas in the midst of an overall emerging crisis.  This will be accomplished without prior definition of crisis topics to enable the detection of unexpected crises that are clustered in space and time, potentially leading to more lives saved.  It will further provide first responder and emergency management agencies with a new understanding of the role spatially-referenced social media can play in increasing the effectiveness of disaster response efforts. The research findings and the detection, tracking and visualization system will be disseminated in presentations to emergency responders in coastal urban areas to demonstrate the system and encourage its implementation in future tropical cyclone seasons.</AbstractNarration>
+<MinAmdLetterDate>09/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1760645</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>jet@gatech.edu</EmailAddress>
+<StartDate>09/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

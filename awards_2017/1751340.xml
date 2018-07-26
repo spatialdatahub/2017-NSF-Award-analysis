@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop : Summer School on Decision-Making in Design and Systems Engineering; University of Southern California, Los Angeles, California; June 18-22, 2018</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>49990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Malak</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides partial support for a summer school that will provide an intensive and interactive educational experience to graduate students who are interested in studying decision making in the context of engineering design and systems engineering.  It is specifically intended to provide educational opportunities for students from graduate programs that do not have appropriate coursework in this area. The summer school will cover theoretical and practical issues. It will provide students with foundational understanding about how to conduct research about decision making in design and systems engineering, create a network of peers who are studying these issues, and advance community research standards. It is anticipated that the summer school will have a broad impact in the research community, including other NSF-supported research projects, by advancing training and standards in this area of research. Travel and participation scholarships will serve to ensure a broad participation that maximizes community impact.&lt;br/&gt;&lt;br/&gt;The summer school will be held during the week of June 18-22, 2018 at the University of Southern California in Los Angeles, CA. Experts from the community will provide instruction and experiential insights on topics that include topics such as probability theory, utility theory, and research methodology. The workshop will combine lectures, in-classroom discussions, out-of-classroom exercises, and student-led research topic discussions. Invited speakers will discuss theoretical and practical considerations as well as future directions in the research area. Scheduled social events will enable students to develop their networking skills. A survey of summer school participants will be conducted to provide information about success and can inform similar efforts on other topic areas within the engineering design and systems engineering research communities.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1751340</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Abbas</LastName>
+<EmailAddress>aliabbas@usc.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1464</Code>
+<Text>ENGINEERING DESIGN AND INNOVAT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068E</Code>
+<Text>DESIGN THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

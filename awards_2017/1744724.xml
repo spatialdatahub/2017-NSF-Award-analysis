@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE: Neighborhood Environments as Socio-Techno-bio Systems</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>999089</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deborah Winslow</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This inter-disciplinary RAISE award is jointly funded by the Cultural Anthropology Program, the Environmental Engineering Program, the Biological Anthropology Program, the Science, Technology, and Society Program, the Office of Integrative Activities, the Social, Behavioral, and Economic Sciences Directorate, and the Engineering Directorate. The overarching goal is to develop methodological tools for understanding complex, dynamic socio-techno-biological systems connected through feedback loops between socio-economic conditions, environments, and human biological trajectories. This will be done by engaging a team of environmental engineers, anthropologists, and epidemiologists in a multi-faceted case study of water trust. The researchers have chosen water trust as a focus for developing these integrative methodologies because environmental engineers have found that the deterioration of trust in water can be as important as water quality in determining whether people access safe water. However, understanding why this is so requires combining environmental, anthropological, and health research. This will model an approach amenable to use in other locations and with other systems, which will contribute to a more general understanding of linked complex systems across engineering and the social and life sciences.  &lt;br/&gt;&lt;br/&gt;The researchers will collect data on linkages between water trust, real-time water quality, neighborhood environments, inequality, and health. The research will be carried out in fifteen neighborhoods in Mexico City, which is an appropriate site for the research because neighborhoods there have distinct identities and the researchers have access to longitudinal data on residents' health trajectories. Also, because it has many water challenges, Mexico City is a good testbed for probing technical, social, and biological interactions and feedbacks at a neighborhood-systems level. The researchers will collect data In a sample of households in 15 neighborhoods. Data will include: qualitative ethnographic data (water use, trust in water quality, water provisioning structures, social cohesion, security, food environments, and built environments); quantitative socio-economic data using a neighborhood assessment scale; environmental engineering data, including, grab sampling to measure water quality characteristics (such as toxicants, viruses, trace organics, and antibiotic resistance genes) that are linked to biological alterations in humans; and real-time high-resolution sensor measurements of basic water quality parameters (temperature, pressure, turbidity, and chlorine residue). They will also collect urine samples from all household residents to monitor movement of contaminants through residents' bodies; engage residents as citizen scientists through text messaging about water quality, system breakdowns, and availability; and leverage existing longitudinal molecular epidemiological data previously collected on mother child/pairs in these neighborhoods. These data will be compiled to model the interlinked and feedback relationships between human behaviors, built environments, and biological processes in the creation of water trust.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744724</AwardID>
+<Investigator>
+<FirstName>Martha</FirstName>
+<LastName>Tellez-Rojo</LastName>
+<EmailAddress>mmtellez@insp.mx</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Branko</FirstName>
+<LastName>Kerkez</LastName>
+<EmailAddress>bkerkez@umich.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brisa</FirstName>
+<LastName>Sanchez</LastName>
+<EmailAddress>brisa@umich.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Roberts</LastName>
+<EmailAddress>lfsrob@umich.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Krista</FirstName>
+<LastName>Wigginton</LastName>
+<EmailAddress>kwigg@umich.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SPECIAL STUDIES AND ANALYSES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1390</Code>
+<Text>CULTURAL ANTHROPOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7603</Code>
+<Text>SCIENCE, TECH &amp; SOCIETY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8078</Code>
+<Text>INSPIRE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1179</Code>
+<Text>ENVIRONMENTAL IMPLICATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1385</Code>
+<Text>SPECIAL STUDIES AND ANALYSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1390</Code>
+<Text>CULTURAL ANTHROPOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5922</Code>
+<Text>MEXICO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7603</Code>
+<Text>SCIENCE, TECH &amp; SOCIETY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

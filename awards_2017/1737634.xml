@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-Planning:  Enhancing Water Resource Management and Infrastructure Improvement through Sensing, Computation, and Community Engagement</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>99940</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Meghan Houghton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Constructing and maintaining an effective water supply and management system is paramount to enhancing the resiliency of our communities, promoting economic growth in agriculture-dominant regions, and ensuring food security locally, nationally, and worldwide. There are four major socio-technical challenges facing our water systems: i) water shortage, ii) lack of technical and infrastructural integration, iii) disconnects in supply and conservation needs, and iv) inefficient resource management strategies.  Stakeholder-driven fundamental research is necessary to overcome these challenges. This interdisciplinary planning project aims to establish a community of stakeholders with the objectives of (1) identifying the grand challenging problems in water supply chain, (2) sharing experiences of modernizing water infrastructures across counties, and (3) addressing the hurdles preventing effective water resource management, especially in the Southwest region of the United States. This capacity building project brings stakeholders including researchers, consumers, water supply companies, and authorities together to share their experience, strengths, and weakness, and to develop a short- and long-term strategic plan for addressing the challenges pertinent to water resource management. The proposed plan will offer a model for states and counties with similar circumstances and thus build a connected community, where stakeholders share their concerns and experiences. &lt;br/&gt;&lt;br/&gt;Specifically, this planning project will hold (1) a focus group-based study to discuss the persisting, urgent problems among water stakeholders, and (2) a workshop where stakeholders will have the opportunity to learn about challenges from a range of perspective, share advances in water technology and infrastructure, and discover potential research opportunities to address the problems exposed. Thus, this planning project will engage a wide range of water-related stakeholders and promote effective water conservation strategies to protect the region's water supply. By improving water use efficiency, the project will support efforts to meet growing water needs and minimize competition between food, energy, and municipal sectors. The resulting water usage model will help communities develop better programs for water conservation and improve water use efficiency. The project will develop a central area of focus in the water community for future research efforts, and lay the groundwork for much more fruitful collaboration between stakeholders.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737634</AwardID>
+<Investigator>
+<FirstName>Rattikorn</FirstName>
+<LastName>Hewett</LastName>
+<EmailAddress>rattikorn.hewett@ttu.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Venkatesh</FirstName>
+<LastName>Uddameri</LastName>
+<EmailAddress>venki.uddameri@ttu.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Akbar</FirstName>
+<LastName>Siami Namin</LastName>
+<EmailAddress>akbar.namin@ttu.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fang</FirstName>
+<LastName>Jin</LastName>
+<EmailAddress>fang.jin@ttu.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

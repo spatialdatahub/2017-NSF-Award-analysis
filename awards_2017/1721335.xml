@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Bridging the Education Gap Between Block-Based Programs and Cryptic C++ Code with an Internet of Things Based Interactive Code Development and Debug Platform</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>224915</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will develop a low cost educational platform which provides students a gateway to understanding and writing software code in modern real-world programming languages. The research addresses a pressing need in the K-12 setting to engage both teachers and students in Coding as a Literacy. Current approaches to teaching computer science and programming principles in K-12 often fail to bridge the gap between block-based graphical representations and text-based programming languages. Strong growth in Maker Spaces within school classrooms and libraries has led to a proliferation of Maker-oriented products in the K-12 setting, but teachers and students alike struggle to understand the software coding required to make meaningful use of them. The project embraces the Maker spirit with an expandable robotics platform that provides fertile ground for lesson development, paired with software that enables step-by-step execution of the student's code over a wireless connection. The commercialization of this technology will augment the effectiveness of STEM initiatives underway in the nation?s schools, keep students engaged in more advanced computer programming as they transition into middle and high school levels, boost the enrollment in technical disciplines at the University level, and ultimately increase the technology-related global competitiveness of the national workforce.&lt;br/&gt;&lt;br/&gt;The goal of this project is to overcome current limitations in microcontroller-based software development, with specific focus on the enablement of interactive debugging capabilities without the use of "target monitor" hardware external to the microcontroller itself. The project includes both software and hardware development efforts, as the research is directed at enabling a highly integrated system through the use of state-of-the-art silicon technology designed for Internet of Things (IoT) applications. The advent of these System on Chip (SoC) integrated circuits brings the potential for a radically lower cost, IP-connected educational technology platform. The hardware aspect of the project will include development of a printed circuit board (PCB) assembly leveraging a wireless SoC to provide a Wi-Fi connected robotic computing platform with an expandable circuit interface and a complement of built-in peripherals designed for educational applications. The software will provide a web-based user interface seamlessly integrated with the hardware platform to enable a level of interactive coding not previously seen on a wireless SoC. The commercialized product resulting from this project will leverage this interactive debugging user experience to teach real-world programming language development skills.</AbstractNarration>
+<MinAmdLetterDate>06/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721335</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Ewing</LastName>
+<EmailAddress>david@firia.com</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Firia, Inc.</Name>
+<CityName>Madison</CityName>
+<ZipCode>357588540</ZipCode>
+<PhoneNumber>2562891567</PhoneNumber>
+<StreetAddress>152 Stoneway Trl</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Effect of Doping and Nanostructuring on Properties of perovskite oxide catalysts for oxygen evolution</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>435599</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette D. Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL DESCRIPTION: Rechargeable metal-air batteries and water splitting systems are the most promising technologies for a clean and secure energy future; the former will be the power source for future electronic devices and electric vehicles while the latter will be the most efficient option for storage of renewable energy. However, the commercialization of these technologies is hindered by the scarcity and high cost of noble metal-based catalysts for oxygen evolution reaction (OER). This project seeks to gain a profound understanding of the effect of doping and nanostructure engineering on OER activity of inexpensive perovskite catalysts. A combination of experimental and computational approaches is used to unravel the mechanisms of OER in order to develop low-cost OER catalysts for a new generation of metal-air batteries and water splitting systems with dramatically enhanced performance. The results of the project are widely disseminated through peer-reviewed publications, and the new scientific knowledge is expected to have a significant impact on the rational design of perovskite electro-catalysts for other chemical and energy transformation processes. The new knowledge is also being incorporated into courses offered at Georgia Tech. Students are being trained in a multidisciplinary environment and graduates typically find employment in the new energy sector.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: Carefully designed in operando Raman spectroscopy is combined with electrochemical measurements, together with DFT-based calculations, to investigate the electrochemical processes at the surfaces of two model oxide catalysts: a single perovskite and a double perovskite. These model materials will then be modified by cation substitution and nanostructure engineering to explore the effect on OER activity and durability. In operando Raman spectroscopy is ideally suited for probing surface chemistry and structure of electro-catalysts under realistic operating conditions. The direct correlation between the surface features and the electrochemical behavior is vital to gaining critical insights into the mechanism and kinetics of OER on perovskite catalysts, providing scientific basis for knowledge-based design and controlled synthesis of highly-efficient and robust OER electro-catalysts for next-generation energy storage and conversion systems. One graduate student and two undergraduate students are working as research assistants on the project; the students are gaining valuable experience with cutting-edge in operando characterization techniques.</AbstractNarration>
+<MinAmdLetterDate>08/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742828</AwardID>
+<Investigator>
+<FirstName>Meilin</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>Meilin.Liu@mse.gatech.edu</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

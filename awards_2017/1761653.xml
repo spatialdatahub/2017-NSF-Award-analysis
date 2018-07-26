@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>From the Fundamental Lemma to Discrete Geometry, to Formal Verification</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>35000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew D. Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>During June 18-22, 2018, the University of Pittsburgh will host an international conference entitled "From the Fundamental Lemma, to Discrete Geometry, to Formal Verification". The conference website can be accessed at http://www.mathematics.pitt.edu/hales60/. The aim of the conference is to explore the interface between the subjects listed in the title, with the primary focus on emphasizing similarities between different fields and finding new applications of existing techniques and methods from different areas. Major experts in each individual field will lecture on the main developments and applications, with the goal of making the ideas accessible to a non-expert audience. By bringing together researchers from the areas of Automorphic Forms, Motivic Integration, Discrete Geometry, and Formal Verification, we hope to highlight and deepen the connections between these areas.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Among other things, the conference will highlight the structural relationship between the classical geometric methods of partitioning space used to prove the Kepler conjecture and the new methods of harmonic analysis used to prove the sphere packing results in higher dimensions.  In addition, the conference will attempt to bring together the Formal Verification community and the community of researchers working on the formal logic-based version of motivic integration. Both fields share similar techniques and the exchange of ideas between the two fields should be very fruitful. Formal verification of (broadly adopted) encryption standards is ultimately an issue pertaining to the foundation of society, and the involvement of the mathematical community in such efforts is absolutely crucial. The conference will feature a session on formal verification of encryption standards, including a public lecture on a recently verified NIST cryptographic standard. The Formal Abstracts project aims to provide a semantic representation of (ultimately all) mathematical knowledge accessible to the society, and many of participants of this conference are active members of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1761653</AwardID>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Ion</LastName>
+<EmailAddress>bion@pitt.edu</EmailAddress>
+<StartDate>05/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1268</Code>
+<Text>FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

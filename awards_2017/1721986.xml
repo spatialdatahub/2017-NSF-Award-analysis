@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Solar Panel Companion Inverter</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project to develop a low-cost photovoltaic (PV) inverter is to reduce the installed cost of solar energy systems by ~10%. This improvement in power electronics has a direct positive commercial impact on the entire solar industry by greatly expanding the addressable market where solar generation is economic. Societal impacts include lowering energy costs, facilitating employment growth, driving economic development, and lowering emissions. The project also supports an enhanced scientific and technological understanding of a class of novel inverter architectures that may find numerous other applications outside of the solar industry. For example, industrial motor drives, wind turbines, battery energy storage, and electric vehicles each make use of DC-AC (direct current ? alternating current) conversion technologies that could benefit from these novel architectures.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses two major problems in the solar PV industry: (1) there is tremendous pressure to reduce costs in the DC-AC inverter, and (2) there is pressure to improve the performance of inverters, both by increasing energy yield under partial shading conditions and by improving the lifetime of inverters. The objectives of the proposed research are to demonstrate maximum power point tracking (MPPT) and grid synchronization for a prototype distributed inverter that can achieve performance comparable to commercial inverters while being mass-produced at a lower cost. The research includes a) refinement and application of a real-time inverter control algorithm to extract the maximum energy from solar panels under dynamic shading conditions, b) establishing robust communications across a network of distributed inverters, and c) fabricating and demonstrating a system with a pathway to performance parity with commercial inverters at a much lower cost. Anticipated technical results include measurement of conversion efficiency, power quality, component count, and bill of material estimates.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721986</AwardID>
+<Investigator>
+<FirstName>Ronak</FirstName>
+<LastName>Bhatt</LastName>
+<EmailAddress>ronak@rivegy.com</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rivegy, LLC</Name>
+<CityName>Charlotte</CityName>
+<ZipCode>282770512</ZipCode>
+<PhoneNumber>7044121746</PhoneNumber>
+<StreetAddress>5803 Summerston Pl</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

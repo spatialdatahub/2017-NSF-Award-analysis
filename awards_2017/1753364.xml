@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Mechanistic Studies of Secondary Organic Aerosol Production from Biomass Burning Derived Precursors</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>103843</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to improve models that predict the formation of secondary organic aerosol (SOA) in the atmosphere.  It is focused on SOA formed from biomass burning emissions.  The project includes experiments conducted in the atmospheric chambers at the University of California, Riverside (UCR) and builds on the historical expertise and the series of aggregated chemical mechanisms produced by the Statewide Air Pollution Research Center (SAPRC) at UCR.  The results of this project will be beneficial to local and regional regulatory agencies (e.g., the California Air Resources Board and the South Coast Air Quality Management District) and fire management communities (e.g., the Joint Fire Science Program).&lt;br/&gt;&lt;br/&gt;The mechanistic understanding and model representation of biomass burning (BB)-SOA will be advanced through conventional and novel chamber studies of recently identified and poorly characterized potential SOA precursors emitted from BB, the evaluation of chamber data and SOA parameterizations using existing approaches; and the development and testing of an innovative SOA model that better integrates gas- and particle-phase chemistry based on the widely-used gas-phase chemical mechanism SAPRC.  The specific objectives of the research are to: (1) Elucidate the secondary organic aerosol (SOA) formation potential for biomass burning (BB) derived hydrocarbon precursors; (2) Evaluate changes in SOA mass formation and properties with changes in chemical conditions; (3) Develop SOA parameterizations using existing two product (2p) and volatility basis set (VBS) model approaches; and (4) Advance an integrated gas- and particle-phase model representation of SOA formation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1753364</AwardID>
+<Investigator>
+<FirstName>Kelley</FirstName>
+<LastName>Barsanti</LastName>
+<EmailAddress>kbarsanti@engr.ucr.edu</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

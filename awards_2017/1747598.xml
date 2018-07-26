@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Designing a Network for Undergraduate Biomimicry Research and Education; October 6-8, 2017, Cleveland/Akron, Ohio</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>19840</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Hoese</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop will launch a network of key stakeholders from the biomimicry community to develop and implement a shared vision for the design of an undergraduate curriculum platform to enhance research and coordinated education and training. This exciting interdisciplinary field is built on the premise that biological systems can inspire new solutions to technical problems in the human built environment which include renewable energy and access to clean water. There are amazing sources of inspiration for design in biology (for example how an octopus can dynamically match the three-dimensional color and texture characteristics of its environment in milliseconds to "disappear" and how a gecko can rapidly stick and unstick to nearly any surface) that could engage all students and attract new talent and ways of thinking, including underrepresented and underserved students. Despite this, current biomimicry research and education is mostly conducted on an ad hoc basis and there is a general lack of collaboration and coordination among sites that have developed formal and informal programs. The interdisciplinary nature of the field (at the intersection of biology, engineering, design, and business) relies on translation and collaboration that is not typically taught in individual disciplines. A successful biomimicry network could leverage a broad array of research platforms at the participating sites (e.g., post-doctoral, industrial, graduate and REU platforms) and help train the next generation of scientists at the multiple interfaces that contribute to biomimicry.&lt;br/&gt;&lt;br/&gt;The workshop will be led by the University of Akron Biomimicry Research and Innovative Center and will include representatives from Great Lakes Biomimicry, Plant Biomechanics Group (Botanic Garden of Freidburg University), NASA Glenn Research Center, Cleveland Institute of Art, the Biomimicry Center (Arizona State University), and the Center for Biologically Inspired Design (Georgia Institute of Technology). The intensive, collaborative 2.5 day workshop will engage participants in a creative design process of brainstorming and presentation sessions addressing research platforms and undergraduate curricula. The discussion will also cover biomimicry education philosophy and standards and the roles of a national network in defining and executing undergraduate training in biomimicry. Outcomes and deliverables of the workshop will immediately inform pedagogy and degree programs poised to advance biomimicry as a scalable and repeatable paradigm for innovation and sustainability.&lt;br/&gt;&lt;br/&gt;This project is being funded by the Directorate for Biological Sciences, Division of Biological Infrastructure as part of their efforts to address the challenges posed in Vision and Change in Undergraduate Biology Education: A Call to Action (http://visionandchange/finalreport/).</AbstractNarration>
+<MinAmdLetterDate>07/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747598</AwardID>
+<Investigator>
+<FirstName>Petra</FirstName>
+<LastName>Gruber</LastName>
+<EmailAddress>pgruber@uakron.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Astley</LastName>
+<EmailAddress>hastley@uakron.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Niewiarowski</LastName>
+<EmailAddress>phn@uakron.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Akron</Name>
+<CityName>Akron</CityName>
+<ZipCode>443250001</ZipCode>
+<PhoneNumber>3309727666</PhoneNumber>
+<StreetAddress>302 Buchtel Common</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>037Y</Code>
+<Text>UBE - Undergraduate Biology Ed</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

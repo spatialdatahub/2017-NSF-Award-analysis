@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>OPUS:   A general, resource-based explanation for density dependence in populations of mammalian herbivores</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>179177</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Cottingham</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A relationship known as density dependence informs wise management of populations of wild and domestic herbivores (for example, deer, elk, cattle, and sheep) throughout the world. This relationship, observed in dozens of species in scores of habitats, consistently shows that the number of surviving offspring produced per female declines as the number of individuals in the population increases. Managing the harvest of these species depends on understanding this relationship because the largest harvests are sustained when populations are neither too big nor too small. Despite the importance of density dependence to hunters, pastoralists, and ranchers worldwide, the mechanism producing this relationship remains poorly understood. The goal of this project is to improve our general understanding of the mechanism causing density dependence in herbivore populations. Achieving this goal could fundamentally change how wildlife, livestock, and rangelands are managed. Impacts of the work will be expanded by summarizing the effects of density dependence on harvest of wild and domestic herbivores in media accessible to managers and policy makers. Recommendations for best practices will be made based on the research.&lt;br/&gt;&lt;br/&gt;A synthesis of thirty years of research on foraging behavior and population dynamics of large mammalian herbivores will support development of new, broadly explanatory mathematical and statistical models showing how nutritional characteristics of plant communities create density dependence. These models will predict how density dependence is altered by animal body mass, the biomass of plants, and the mean and variance of nutrient concentrations in plants, for example protein or metabolizable energy content. The project will demonstrate the feasibility of fitting these models to data using modern Bayesian methods. Evidence in data for competing models will be evaluated. A new, theoretical and empirical framework for understanding how plants mediate herbivore population growth will be produced, thereby motivating new lines of inquiry in ecology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1753860</AwardID>
+<Investigator>
+<FirstName>N. Thompson</FirstName>
+<LastName>Hobbs</LastName>
+<EmailAddress>tom.hobbs@colostate.edu</EmailAddress>
+<StartDate>02/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7565</Code>
+<Text>OPUS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

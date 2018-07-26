@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCI Phase I: NSF Center for Autonomous Chemistry</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>1800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharine J. Covert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There are numerous autonomous or self-governing processes that exist in nature.  One example is the human body's immune response where white blood cells search, sense, and react to disease-causing bacteria or viruses.  Artificial molecular or nanoscale systems with such autonomous capabilities are rare. Inspired by Nature, the NSF Center for Autonomous Chemistry (CAC) identifies the structural and functional signals that are needed to generate autonomously-operating chemical systems. The center develops design guidelines for these new autonomous systems, creating new opportunities in sensing, diagnostics, controlled release, drug delivery, encrypted catalysts, food safety, and self-healing materials. In addition to advanced scientific training of graduate students and postdoctoral researchers, the NSF CAC also trains center students in entrepreneurship and innovation, as well as in the communication of science to non-experts and the engagement of diverse audiences.  &lt;br/&gt;&lt;br/&gt;Autonomous regulation of molecular recognition with recognition-induced chemical events in complex environments is a challenge for chemists.  Biological systems use molecular and supramolecular networks to autonomously regulate recognition-induced chemical transformations. The NSF Center for Autonomous Chemistry (CAC) addresses this challenge by identifying the bio-inspired structural factors and molecular design guidelines that allow for artificial molecular networks that are capable of autonomous operation. The NSF CAC brings together expertise in the design and synthesis of responsive supramolecular assemblies, characterization of assemblies in solution and in surfaces, and transduction of supramolecular events into readable signals. The team also examines logic-gated responsive systems, specific stimulus-induced morphological and phase changes, functionalization of two-dimensional surfaces, and characterization of surfaces and their interaction with three-dimensional molecular assemblies. The resulting design tools enable the next generation systems to be incorporated into diverse applications. Students at the NSF CAC are trained in the theoretical and experimental aspects of the research, and also in meta-skills essential for the 21st century workforce. Students take entrepreneurship training focused on translating basic research for industrial applications.  NSF CAC students also receive training in science communication and serve as Science Ambassadors to diverse audiences.</AbstractNarration>
+<MinAmdLetterDate>08/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740597</AwardID>
+<Investigator>
+<FirstName>Sankaran</FirstName>
+<LastName>Thayumanavan</LastName>
+<EmailAddress>thai@chem.umass.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>035Y</Code>
+<Text>Phase I Ctrs for Chem Innovati</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+</Award>
+</rootTag>

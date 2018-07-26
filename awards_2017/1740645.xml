@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCI Phase I: NSF Center for First Principles Design of Quantum Processes</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>1800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharine J. Covert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Quantum mechanics describes all nature at the most fundamental, smallest-scale level -- sub-atomic particles, atoms and light. Chemical reactions are, at their core, quantum mechanical processes that involve the motion of electrons and nuclei. Understanding the ways that chemical reactions occur is important to being able to predict new reactions. The NSF Center for First Principles Design of Quantum Processes brings together theorists and experimentalists to develop new methods to understand, predict and design quantum mechanical phenomena as they relate to chemical reactions. The research activities have substantial broader impacts in the field since these processes are central to many chemical applications, including the development of new light-harvesting materials (for renewable energy) and improved bio-medical imaging techniques. Broader impacts also result from the development of new theory tools, graduate student training at the interface of theory and experiment, early research opportunities for undergraduates from diverse backgrounds, and the use of visualization devices to convey the complexities of quantum processes to broad audiences.&lt;br/&gt; &lt;br/&gt;The NSF Center for First Principles Design of Quantum Processes is focused on developing fully-predictive theoretical methods for atomistic quantum mechanical molecular dynamics for the rational theory-aided-design of molecules and materials. Strong ties to experimentalists ensure that the methods are well validated. Specific collaborative projects include: (1) tailoring transport and reactivity of proton defects in complicated environments such as metal organic frameworks (MOFs) and interfaces, (2) understanding and manipulating excitation energy transport in natural photosynthetic systems, and (3) elucidating and controlling the factors governing fluorescence vs. photoisomerization in fluorescent proteins. The central theoretical framework is ab initio molecular dynamics (AIMD), including localized and periodic basis sets, ground and excited-state simulations, and efficient dynamics techniques including non-adiabatic and other quantum mechanical effects for large spatial and temporal scales. Broader impacts from the research activities are significant since the enhanced theoretical methods allow for unprecedented insight and control in areas that are difficult to address experimentally. Broader impacts also result from the development of new theory tools, graduate student training at the interface of theory and experiment, early research opportunities for undergraduates from diverse backgrounds, and the use of visualization and haptic devices to convey the complexities of quantum processes to broad audiences. The Center model integrates theory and experiment and provides innovative training of graduate students and postdoctoral researchers. New software tools are also being developed and disseminated to a diverse audience of professional chemists and students.</AbstractNarration>
+<MinAmdLetterDate>08/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740645</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Martinez</LastName>
+<EmailAddress>Todd.Martinez@stanford.edu</EmailAddress>
+<StartDate>08/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>035Y</Code>
+<Text>Phase I Ctrs for Chem Innovati</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+</Award>
+</rootTag>

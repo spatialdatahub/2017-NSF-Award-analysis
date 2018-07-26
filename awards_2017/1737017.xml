@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Microbial activity in the crustal deep biosphere</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>455041</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David L. Garrison</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The marine deep biosphere is the habitat for life existing under the sea floor.  The zone has remarkably low energy sources creating a paradox of how life can persist there. Resolving this energy paradox is a grand challenge in deep biosphere research. The Juan de Fuca Ridge flank off the coast of Washington, USA, is an accessible, low energy environment making it an attractive location for addressing this challenge. A series of experiments will be conducted on the seafloor at the Juan de Fuca Ridge flank, using established subseafloor observatories that access the crustal deep biosphere, to provide the first direct in situ measurement of microbial activity in the crustal subsurface. This project will provide essential information about the ability of life to survive under conditions that we are not able to replicate in the laboratory, but that are increasingly important for understanding microbial community interaction in the environment. This information can then be used in models of global microbial activity for estimating the impact of this biosphere on elemental cycling, transforming our understanding of microbial processes within this vast subseafloor habitat.  To communicate these discoveries to the public, the project will include a ship-to-shore outreach program during the cruise.  In addition public lectures will be presented, and an interactive display of deep-sea video footage will be set up for the annual public Open House at the Bigelow Laboratory for Ocean Sciences in Maine. Diverse undergraduate students and a postdoctoral researcher will be recruited to participate in the research and public outreach activities.&lt;br/&gt;&lt;br/&gt;This project proposes to leverage existing subsurface infrastructure on the eastern flank of the Juan de Fuca Ridge with advances in single-cell based molecular and geochemical approaches to make fundamental new discoveries about the activity of life in the deep crustal biosphere. During a two-week research cruise, the research team will incubate crustal fluids in situ and in the laboratory with labeled substrates for tracking single-cell activity, coupled with radioisotope tracer activity and potentiostat measurements, with the objective of determining in situ and potential rates of activity and cellular physiology. The research will also identify which metabolisms active microorganisms utilize under in situ and laboratory conditions, the rates of these processes, and the microorganisms involved. The results are expected to provide explicit hypothesis testing of microbial activity and in situ microbial growth rates from the crustal deep biosphere to transform understanding of microbial activity in the crustal deep biosphere and generate critical information about the ability of life to survive under low energy conditions.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737017</AwardID>
+<Investigator>
+<FirstName>Beth</FirstName>
+<LastName>Orcutt</LastName>
+<EmailAddress>borcutt@bigelow.org</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bigelow Laboratory for Ocean Sciences</Name>
+<CityName>East Boothbay</CityName>
+<ZipCode>045440380</ZipCode>
+<PhoneNumber>2073152567</PhoneNumber>
+<StreetAddress>60 Bigelow Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7398</Code>
+<Text>OCEAN OBSERVATORY SCI &amp; TECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8565</Code>
+<Text>Deep Biosphere</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8811</Code>
+<Text>Marine Microbial Ecology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

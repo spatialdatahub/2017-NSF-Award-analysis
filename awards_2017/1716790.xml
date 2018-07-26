@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Higher Order Nonlocal Models in Continuum Mechanics</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>290621</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael H. Steuerwalt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>1716790&lt;br/&gt;Radu&lt;br/&gt;&lt;br/&gt;     The investigators conduct an analytical and computational investigation of integro-differential equation models that arise in three applications: dynamic fracture in plates, image processing, and phase transitions.  These are nonlocal models: the model's mathematical description of what happens at any point of the system can depend on what is happening at other points.  This nonlocal dependence complicates the analysis of the models, and the standard analytical tools and results for local models (which are usually systems of partial differential equations, often with derivatives of higher than second order) are not available.  In compensation, the nonlocal models need not require such smoothness of their solutions as differential equation models do.  This can be an advantage in studying fracture and other inherently discontinuous or singular phenomena.  For these applications, the investigators study regularity of solutions, existence and regularity for minimizers of energy functionals (which provide information about the stability of solutions), and asymptotic behavior of the solutions.  These issues are important in local models as well, so advances here help develop a theory for nonlocal models that parallels the theory for classical local models.  Such a theory would have wider consequences, because nonlocal models are being explored in many other applications that involve nonlocal interactions between parts of a system, such as biological aggregation, as well as in applications in manufacturing, energy, and infrastructure that involve fracture, images, or phase transitions.  Graduate students participate in the work of the project.&lt;br/&gt;&lt;br/&gt;     The investigators conduct a mathematical and computational investigation of nonlocal models that arise in dynamic fracture in plates, in image processing, and in phase transitions.  The advantage of working with low-regularity solutions to integro-differential equations is offset by the scarcity of mathematical tools (such as compactness arguments) when working with these non-smoothing operators.  The investigators study the issues of regularity of solutions throughout the damaged and undamaged domain and near the boundary, existence and regularity of minimizers for nonlocal energy functionals, and asymptotic behavior of solutions.  They develop predictive models for dynamic fracture in plates, and they study low-regularity solutions that show jump discontinuities in phase transitions as given by doubly-nonlocal Cahn-Hilliard systems.  To tackle these problems, they adapt existing techniques (multiplier methods, Fourier transform methods, asymptotic expansions, or DiGiorgi-type arguments) from the local theory to the nonlocal framework, and develop new methods that provide theoretical and methodological foundation for the study of nonlocal models.  Graduate students participate in the work of the project.</AbstractNarration>
+<MinAmdLetterDate>08/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716790</AwardID>
+<Investigator>
+<FirstName>Mikil</FirstName>
+<LastName>Foss</LastName>
+<EmailAddress>mfoss@math.unl.edu</EmailAddress>
+<StartDate>08/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petronela</FirstName>
+<LastName>Radu</LastName>
+<EmailAddress>pradu@math.unl.edu</EmailAddress>
+<StartDate>08/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR - TT:  Electroactive Scaffold for Cartilage Regeneration: A Proof of Concept Study</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project focuses on translating the use of a smart biomaterial for the application of cartilage repair.   The project will utilize a piezoelectric material to regenerate cartilage tissue. Piezoelectric materials are capable of converting mechanical deformation into electrical output and have largely been unexplored for cartilage repair. An estimated 49 million Americans suffer from cartilage damage as a result of injury, or wear and tear with aging, which can significantly affect a person's quality of life and can progress to widespread cartilage destruction and disabling arthritis. At present, current repair techniques are unable to restore a normal "hyaline" cartilaginous surface, resulting in fibrous "scars" that do not return the joint to normal function. The project will result in the development of a piezoelectric scaffold prototype for implantation and will determine whether the piezoelectric scaffold will regenerate functional cartilage tissue. Proof-of-concept will be demonstrated. The piezoelectric scaffold has the following unique features: mechanically flexible, biodegradable, porous for tissue ingrowth and cell attachment, and provides electrical stimulation. For treating cartilage defects, the piezoelectric scaffold can be combined with microfracturing, a common surgical procedure that stimulates the bone marrow and provides a source of endogenous stem cells, to promote healing and integration with the native cartilage.&lt;br/&gt;&lt;br/&gt;This project addresses the following technology gap(s) as it translates from research discovery toward commercial application. The piezoelectric scaffold is a composite consisting of zinc oxide, which possesses both piezoelectric and biological growth factor properties. A piezoelectric material acts as a highly sensitive mechano-electrical transducer that generates charges in response to minute mechanical deformations. This project will develop a flexible, piezoelectric fibrous scaffold that can achieve a local electric field mimicking the natural extracellular matrix observed during development and regeneration. This natural extracellular matrix is also rich in growth factors so the bifunctional property of zinc will provide a synergistic benefit to cells to promote repair. The proposed studies will focus on prototype development and establishing proof-of-concept in an in vivo model. Many individuals suffer from osteoarthritis or cartilage damage. Innovative technologies are needed.  &lt;br/&gt;&lt;br/&gt;Personnel involved in this project, both undergraduate and graduate students, and postdocs, will receive entrepreneurship, innovation and technology translation experiences through teaching modules and university programs.</AbstractNarration>
+<MinAmdLetterDate>07/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1700945</AwardID>
+<Investigator>
+<FirstName>Treena</FirstName>
+<LastName>Livingston</LastName>
+<EmailAddress>treena.Arinzeh@njit.edu</EmailAddress>
+<StartDate>07/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021982</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>University Heights</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

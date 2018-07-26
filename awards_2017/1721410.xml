@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Interactive, Combined Circuit &amp; 2D Field Simulator for Educational Mobile Game</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project entails the build out of the simulation engine for a touch-based, mobile game designed to intuitively teach the basics of electricity and magnetism to children aged 5+.  The mobile game gives users a picture of what?s happening inside a circuit, and allows them to play with the charges, electric and magnetic forces, voltage, capacitors, transistors, etc.  The use of funds from this NSF SBIR Grant would include the research and development required to build and incorporate this simulator into the game.  This simulator is novel, is customized for educational use, must be extraordinarily fast, and is based on Maxwell?s Equations, the four equations that govern all of electricity and magnetism.  The successful completion of this project will create a new way of teaching electricity and magnetism to children, giving them a visual understanding of the concepts.  The goal is to make science and engineering more attainable subjects to pursue in higher education.  This will lead to an increase in the number of science and engineering graduates in the US, and help to close the international educational achievement gap, which experts agree represents over a $1T overall opportunity loss.  Besides having a profound effect on the US economy, this also benefits the individual.  In 2014, the DOE reported that the median starting income of a STEM (engineering) graduate was $74,000, almost $25,000 more than a non-STEM graduate.&lt;br/&gt;&lt;br/&gt;The proposed real-time, interactive, multi-touch-based simulator would be the first of its kind; no combined two-dimensional field and circuit simulator exists today, particularly for use in an educational game.  This combined simulator only has 16 milliseconds to update its results, whereas a typical two-dimensional field solver could take minutes to hours to solve.  By using a novel simulator architecture and by focusing on speed and conceptual understanding at the necessary precision, the game simulator will be able to achieve the over 100x speed-up required.  The simulator needs to solve Maxwell?s equations and thus calculate and display the electromagnetic physics behavior at 60 frames per second, the rate required for interactive gaming. Several approaches are used to accomplish this.  This simulator is built from the ground up, with a unique choice of variables that prioritizes qualitative understanding over the circuit size and accuracy requirements of an industrial simulator.  The simulator focuses on components and circuits commonly used in teaching.  The simulator also utilizes the combined central/graphics processing hardware available in modern mobile devices.  With this simulator as the core gaming engine, the company is building a game where children as young as five can experiment with and intuitively understand the basics of electricity, magnetism, and circuits.</AbstractNarration>
+<MinAmdLetterDate>07/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721410</AwardID>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Colleran</LastName>
+<EmailAddress>sara@elloveo.com</EmailAddress>
+<StartDate>07/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Elloveo, Inc</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900124203</ZipCode>
+<PhoneNumber>2105456010</PhoneNumber>
+<StreetAddress>362 E 2nd Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

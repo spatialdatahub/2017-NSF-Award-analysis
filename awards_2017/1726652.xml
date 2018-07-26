@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a Microfocus X-Ray Diffractometer as a Regionwide Resource for Chemistry and Materials Research</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>262689</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation (CRIF) Programs. Professor LeGrande Slaughter from the University of North Texas (UNT) and colleagues Michael Richmond, Francis D'Souza, Mohammad Omary and Hong Wang have acquired a microfocus X-ray diffractometer. In general, an X-ray diffractometer allows accurate and precise measurements of the full three-dimensional structure of a molecule, including bond distances and angles.  The instrument also provides accurate information about the spatial arrangement of a molecule relative to neighboring molecules. The research efforts may impact many areas, including organic and inorganic chemistry, materials chemistry and biochemistry. This instrument is an integral part of the teaching and research activities of undergraduate students at UNT.  Collaborators in chemistry and biochemistry from regional institutions such as the Texas Woman's University, University of Texas at Arlington, Austin College and Miami University of Ohio also share use of the instrument.&lt;br/&gt;&lt;br/&gt;The diffractometer enhances research and education at all levels. It may impacts research on noncovalent influences on catalyst selectivity, artificial photosynthesis, and excitonic solar cells. The instrumentation is also used to investigate multifunctional metal-organic optoelectronic materials, metal cluster chemistry, and materials precursors to organic materials and asymmetric catalysts. The diffractometer benefits research on the structural determinations and computational modeling of metal complexes and small molecule characterization for metabolomics. studies.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726652</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>hong.wang@unt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohammad</FirstName>
+<LastName>Omary</LastName>
+<EmailAddress>omary@unt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>LeGrande</FirstName>
+<LastName>Slaughter</LastName>
+<EmailAddress>legrande@unt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francis</FirstName>
+<LastName>D'Souza</LastName>
+<EmailAddress>Francis.DSouza@unt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Richmond</LastName>
+<EmailAddress>cobalt@unt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>DENTON</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 Union Circle #305250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

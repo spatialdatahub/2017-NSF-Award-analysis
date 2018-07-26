@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  The consequences of rarity for soil microbiome stability in structure and function</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>177537</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Cottingham</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Microorganisms are the smallest life forms and yet they have large and critical roles in maintaining the health of ecosystems. Environmental microbial communities provide essential functions, including the cycling of key resources like carbon and nitrogen. In soils, microorganisms form diverse communities with thousands of distinct species, but the role of most of these species is unknown. In particular, it is not clear how microbial species that are not very abundant (rare) contribute to community functions. However, rare microorganisms are thought to be important when environmental conditions fluctuate because they provide functions that help their ecosystem resist change or to recover quickly. This project will investigate the diversity and functions of rare microorganisms in a soil ecosystem impacted by a long-term disturbance, and determine how they contribute to the system's resilience to this disturbance. The research will provide insights into the critical role of microbial diversity for environmental resilience, which has implications for broad national interests in energy and food security, environmental conservation and remediation, and the management of ecosystem services. The project will advance the fields of ecology and ecosystem science by investigating the links between microbial diversity and functions in the environment. It also will benefit society by providing classroom education in quantitative methods and training members of the scientific workforce in leading-edge technologies used in biology and chemistry.&lt;br/&gt;&lt;br/&gt;The three aims of this research are to: 1) quantify the contributions of rare microbial taxa to community stability after a long-term environmental disturbance; 2) evaluate the abilities of rare microbial taxa to a) persist given disturbance and b) respond to specific environmental changes that result from the disturbance; and 3) determine the impact of competition between rare and abundant microbial taxa on community stability and functions. The Centralia, Pennsylvania soil ecosystem is the site of a long-burning coal seam fire that will serve a model severe disturbance for this work. For Aims 1 and 2, surface soils will be collected annually from established sites along a fire-impact gradient so that community changes over time due to the influence of fire can be quantified. Soil microbial communities will be assessed using genetic markers of phylogenetic and functional diversity obtained from untargeted DNA and RNA sequencing. Rare microbial taxa will be identified using bioinformatics and their contributions to community stability will be quantified with ecological statistics. For Aim 3, bacteria isolated from field soils will be arrayed into synthetic microbial communities to assess outcomes of competition between rare and abundant microorganisms. Microbial community "goods", which include small, excreted molecules like enzymes and antibiotics, will be measured using sensitive mass spectrometry to determine how competition impacts their production. Together, these efforts will provide insights into the ecological roles of rare microbial taxa, and microbial biodiversity more broadly, for community stability and function.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749544</AwardID>
+<Investigator>
+<FirstName>Ashley</FirstName>
+<LastName>Shade</LastName>
+<EmailAddress>shade.ashley@gmail.com</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+</Award>
+</rootTag>

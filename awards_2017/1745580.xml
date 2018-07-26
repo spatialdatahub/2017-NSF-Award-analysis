@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: SSDIM: Superimposed Simulations: Fast Generation of Synthetic Data of Interdependent Critical Infrastructures</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To guide the design, construction, operation and improved understanding of modern interdependent critical infrastructure (ICI) systems, decision-makers require data that capture the interactions among them their actors (i.e., citizens, firms, developers, and governments). Detailed computer simulations are essential to generating such data, particularly when physical implementations of ICI designs do not yet exist. However, generation of data derived from simulations is time consuming due to the complexity of the systems that must be modeled and the large number of computational experiments that are required. To address this challenge new computer algorithms exploiting modern high performance computing technologies will be developed. In this EArly-concept Grant for Exploratory Research (EAGER) project, algorithms will be applied to create data sets for test cases including the interaction of water, energy, transportation infrastructures and people in the city of Atlanta. The new algorithms will provide insights into how to evaluate threats and opportunities within and across ICIs, to analyze strengths and weaknesses, and to design solutions, products, and services that meet societal needs and goals.&lt;br/&gt;&lt;br/&gt;Current computational methods to assess options, various technology combinations, and human interactions within ICIs are time-consuming and computationally intensive. A new approach, termed superimposed simulations, will be developed to rapidly create synthetic data that captures the interdependencies and dynamics of critical infrastructures and people. By exploiting similarities among the many simulation runs in conjunction with parallel computing techniques, the new algorithms aim to accelerate simulations involving multiple interacting and interdependent critical infrastructure systems and human actors by one or two orders of magnitude. These newly developed algorithms will allow the quick generation of large data sets that can be used to determine the effects of ICI combinations, human behaviors, and policy tools on energy, water, carbon emissions, and human health.</AbstractNarration>
+<MinAmdLetterDate>08/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745580</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Fujimoto</LastName>
+<EmailAddress>fujimoto@cc.gatech.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Crittenden</LastName>
+<EmailAddress>john.crittenden@ce.gatech.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>Q231</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

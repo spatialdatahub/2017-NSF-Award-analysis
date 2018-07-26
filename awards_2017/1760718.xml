@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Collaborative: Data Driven Post-Disaster Waste and Debris Volume Predictions using Smartphone Photogrammetry App and Unmanned Aerial Vehicles</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>40097</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this proposal is to leverage photogrammetry from smart phones and unmanned aerial vehicles (UAVs) to automate the quantification of waste debris. In the aftermath of Hurricane Harvey and associated rainfall-induced flooding, a significant volume of waste and debris will be generated, especially in urban areas such as Houston and Beaumont, Texas. The management of post-disaster debris is an important issue faced by local and federal authorities: it contributes a significant portion of disaster management costs, can generate several times the annual waste generation rates of the affected community, and leads to higher expenditures due to error prone initial debris estimations. The current process to predict debris volume is inaccurate and inefficient, as it utilizes qualitative data from visual observation. The results of this study will improve the calibration of the flood debris estimation models by measuring debris generation due to Hurricane Harvey. This will aid in decision-making tools that ultimately will result in faster and more cost-effective debris management operations for future rainfall, tropical storm, and hurricane-induced flood events that continue to impact the Gulf, the US, and elsewhere around the world.&lt;br/&gt;&lt;br/&gt;This RAPID project addresses the lack of post-disaster debris volume dataset by collecting ephemeral data through an automated smartphone photogrammetric app and UAV in Beaumont and other affected regions in Texas, and making the data available through open-source cyber-infrastructure databases. Debris volumes will be quantified by exploring the use of smartphones to automate the quantification of waste debris. In particular, smart phone images captured by the monitor, resident, or local government agency can be processed and scaled to develop a 3-D rendition and an estimate of waste volumes. These estimations will be validated using an unmanned aerial vehicle (UAV) photogrammetry surveys and which in turn can be converted using volumetric studies as well as other available debris volumes documented by monitoring companies. If successful, smartphones and UAVs can be quickly used in future natural disasters to analyze and characterize the digital images and then accurately quantify waste debris volumes.</AbstractNarration>
+<MinAmdLetterDate>09/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1760718</AwardID>
+<Investigator>
+<FirstName>Navid</FirstName>
+<LastName>Jafari</LastName>
+<EmailAddress>njafari@lsu.edu</EmailAddress>
+<StartDate>09/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708032701</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 Himes Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

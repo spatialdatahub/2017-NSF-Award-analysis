@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SpecEES: Intelligent Energy Efficient Spectrum Access for Wireless IoT</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>616000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The future Internet of Things (IoT) will support numerous types of applications producing overwhelming data traffic with highly different Quality-of-Service (QoS) requirements, creating challenges in terms of spectrum scarcity, and prohibitive energy consumption of billions of devices. Cognitive radio (CR) is a promising technology for IoT not only because of its dynamic spectrum access capability, but also due to its potential of providing diverse QoS and energy efficiencies by delivering different types of traffic using different bands. Although dynamic spectrum access to multiple bands can bring various benefits to the IoT, it also introduces significant challenges. This research offers transformative advances in overall network energy efficiencies, by leveraging order-of-magnitude energy efficiencies of low-frequency bands, novel heterogeneous battery management, and spectrum access methods designed to take advantage of these two new advances. This research is truly interdisciplinary covering integrating advances in circuits/hardware design, device battery management, and synergistic energy-efficient networking and spectrum access.  This research will generate innovative techniques to serve numerous applications of IoT technologies, e.g., smart cities and smart homes, mobile health, and intelligent transportation systems. It will also greatly advance the understanding of energy efficiency of IoT devices and networks.&lt;br/&gt; &lt;br/&gt;The research objective of this proposal is to design, analyze, and evaluate transformative intelligent energy-efficient spectrum access technologies for wireless IoT. This research is the first to systematically address the energy efficiency issue in wireless IoT spectrum access through intelligent battery system management of IoT devices and innovative wideband enhancement for electrically-small antennas to unlock order-of-magnitude energy efficiencies of low- frequency bands, and where new intelligent energy-efficient channel rendezvous algorithms are designed to leverage these advantages for IoT spectrum access. The proposed project consists of three main research thrusts: (1) energy-efficient channel rendezvous for enhanced spectrum access with adaptive power management; (2) cognitive battery system to maximize the energy efficiency of each IoT device by optimally integrating heterogeneous batteries in each device and dynamically matching the power consumption and battery characteristics; and (3) digital non-Foster methods to unlock energy efficiencies of low-frequency bands. This project also integrates research findings into related undergraduate and graduate courses and diversity support.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1731675</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Weldon</LastName>
+<EmailAddress>tpweldon@uncc.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tao</FirstName>
+<LastName>Han</LastName>
+<EmailAddress>tao.han@uncc.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiang (Linda)</FirstName>
+<LastName>Xie</LastName>
+<EmailAddress>Linda.Xie@uncc.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>059Y</Code>
+<Text>SpecEES Spectrum Efficiency, E</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Next Generation Ca-P Cements for Treating Vertebral Body Fractures</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>116150</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Award # 1706513&lt;br/&gt;PI: Bhaduri&lt;br/&gt;&lt;br/&gt;This project will develop and characterize a novel material for the treatment of vertebral body compression fractures.  This debilitating condition of the spine causes severe pain, reduced mobility, and potentially compromised organ function in a diverse segment of the population.  The team will develop a next-generation, calcium phosphate-based orthopedic cement composition that, when injected at the fracture site, self-sets and develops strength within a short time without any generation of heat that could damage the surrounding tissue.  Furthermore, the new material will be designed such that it has the ability to induce bone growth at the site of the fracture, which will improve healing.  The innovation in this project is related to both the processing of the material and the choice of compositions.  Working together, these two aspects of biomaterials development will create novel compositions with a diverse range of capabilities.  These newly developed and optimized materials will be tested in a biomechanical model to mimic both normal and osteoporotic bone.  The new material is expected to be cost effective, as the starting materials are simple chemicals.  This project will integrate students of all levels, from high school through graduate students, into the laboratory.  In addition, a mentoring program will be established with inner-city Toledo high schools to excite students about STEM fields, particularly related to bioengineering and manufacturing.  Finally, a co-op program for undergraduate students will be developed in conjunction with the FDA to provide students with experience in medical device regulation.&lt;br/&gt;&lt;br/&gt;The goal of this project is to design, optimize, and fully characterize - including through in vitro testing - novel compositions of a calcium phosphate-based orthopedic cement.  The cement will be predominantly dicalcium phosphate anhydrous (CaHPO4, also known as monetite), which has optimized resorption kinetics and so supports biodegradation of the cement as the natural bone heals.  The particles within the cement will be bonded with nano-silica to provide strength and osteoconductive properties.  Additional osteoconduction can be generated due to the material?s ability to deliver bone morphogenic proteins to the affected site.  The specific scientific objectives will be to: 1) develop, examine, and optimize the physical and mechanical characteristics of this next generation, calcium phosphate-based injectable orthopedic cement; 2) perform experimental studies on spinal models (both normal and osteoporotic) to determine the in vitro performance of the various cement compositions; and 3) evaluate the kinetics of bone morphogenic protein release from the cement as well as its impact on cell attachment and proliferation to the material surface.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1706513</AwardID>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Goel</LastName>
+<EmailAddress>vijay.goel@utoledo.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarit</FirstName>
+<LastName>Bhaduri</LastName>
+<EmailAddress>sarit.bhaduri@utoledo.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Toledo</Name>
+<CityName>TOLEDO</CityName>
+<ZipCode>436063390</ZipCode>
+<PhoneNumber>4195302844</PhoneNumber>
+<StreetAddress>2801 W Bancroft St., MS 218</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7479</Code>
+<Text>NANO AND BIO MECHANICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

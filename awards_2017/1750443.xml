@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Communication, Information, and Interactive Compression</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardAmount>82032</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Information theory had a profound impact on both the practical and theoretical communities, finding application in almost every branch of science and beyond. Information theory is especially relevant today with the rise of the internet and data-intensive applications. Lately, many of these applications are interactive, involving several communicating parties, and the trend for more interaction is growing.&lt;br/&gt;&lt;br/&gt;Interactive information theory is a new field of study at the interface between information theory and computational complexity theory. The key ingredient that sets it apart from classical information theory is that it studies problems where parties are interacting and information flows in more than one direction. The goal of this project is to deepen our understanding of interactive information theory. Specifically, it considers the interactive compression problem, which is the interactive analogue of the data compression problem. Informally, the celebrated data compression theorems imply that every message can be compressed to its information content, measured using the Entropy function. The interactive compression problem asks whether the transcript of every communication protocol between several parties can be compressed to (roughly) its "information content."&lt;br/&gt;&lt;br/&gt;An affirmative answer to this problem would yield a powerful method for proving nearly tight communication complexity lower bounds, and may shed light on other central problems in theoretical computer science that are closely related to it, such as the direct sum and parallel repetition problems for different models, and on the log-rank conjecture. Good compression protocols also suggest a new paradigm in protocol design, where one optimizes over the information revealed by the protocol and then applies a compression scheme to obtain a protocol with low information. The study of interactive compression can also be of interest to the privacy and information theory communities, which have considered similar notions.The PI will mentor students, give tutorials and create a new course on interactive information for Computer Science and Electrical Engineering majors.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>01/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750443</AwardID>
+<Investigator>
+<FirstName>Gillat</FirstName>
+<LastName>Kol</LastName>
+<EmailAddress>gillat.kol@gmail.com</EmailAddress>
+<StartDate>01/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

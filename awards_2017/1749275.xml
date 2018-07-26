@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Advancing Core STEM Research Through Scientific Studies and Capacity Building with Large-Scale Data Resources</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>1898421</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Finbarr Sloane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project was submitted in response to EHR Core Research (ECR) program announcement NSF 15-509. The ECR program of fundamental research in STEM education provides funding in critical research areas that are essential, broad and enduring. EHR seeks proposals that will help synthesize, build and/or expand research foundations in the following focal areas: STEM learning, STEM learning environments, STEM workforce development, and broadening participation in STEM. The ECR program is distinguished by its emphasis on the accumulation of robust evidence to inform efforts to (a) understand, (b) build theory to explain, and (c) suggest interventions (and innovations) to address persistent challenges in STEM interest, education, learning, and participation. &lt;br/&gt;&lt;br/&gt;In line with the goals of the EHR's core research objectives, the American Educational Research Association (AERA) Grants Program will provide competitive research grants to both doctoral students - for dissertation work, and early career education research scientists who conduct secondary analyses of large-scale national and international data sets from the National Center for Education Statistics (NCES). &lt;br/&gt;&lt;br/&gt;The project has three aims: The primary goal of the program will enable a diverse talent pool of new and young scholars to pursue fundamental research of relevance to STEM policy and practice, utilizing large scale databases. Specifically, the program will focus on: 1) enhancement of the current dissertation and research grants program; 2) facilitate linkages among existing datasets and other sources of data; and 3) build capacity for young, diverse scholars to use and share large data sets. Further, the program will allow researchers to link and study these large-scale STEM databases with other sources of Big Data, such as those gathered with personal digital assistants or through social media. Finally, the program will support a strategy that promotes communication to researchers and non-researchers alike.</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749275</AwardID>
+<Investigator>
+<FirstName>Felice</FirstName>
+<LastName>Levine</LastName>
+<EmailAddress>flevine@aera.net</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Wimberly</LastName>
+<EmailAddress>gwimberly@aera.net</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Educational Research Association</Name>
+<CityName>Washington</CityName>
+<ZipCode>200057820</ZipCode>
+<PhoneNumber>2022383200</PhoneNumber>
+<StreetAddress>1430 K Street, NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7980</Code>
+<Text>Core R&amp;D Programs</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8816</Code>
+<Text>Workforce Development</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+</Award>
+</rootTag>

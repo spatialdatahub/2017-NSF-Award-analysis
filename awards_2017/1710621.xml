@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Hybrid Predictive Control for Distributed Multi-agent Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>360447</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan S. Baheti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal presents a research plan to advance the knowledge on the systematic design of algorithms that use prediction and optimization to make distributed decisions in multi-agent systems. Due to the combination of different types of dynamics (continuous and discrete) emerging from the physics laws governing the behavior of the systems, the networks that link them, and their on-board computing systems, the multi-agent systems are modeled as hybrid dynamical systems. The combination of such mixed behavior, both in the system to control and in the algorithms, is embodied in key future networks of multi-agent systems. The future smart grid will have variables that change continuously according to electric circuit laws, exhibit jumps due to controlled switches, failures, and modeling approximations, while the control algorithms require logic to adapt to such abrupt changes. Hybrid behavior will also emerge in other networked multi-agent systems, such as self-driving cars and groups of autonomous aerial vehicles, in particular, due to communication events, abrupt changes in connectivity, and the cyber-physical interaction between agents/robots, their environment, and communication networks. The results from this project will enable the development of such networked multi-agent systems with simultaneous robustness and optimality.&lt;br/&gt;&lt;br/&gt;The impact of the proposed research plan stems from a novel use of hybrid prediction in the controllers, one that guarantees simultaneous robust and optimal behavior of the closed-loop system. The proposed hybrid prediction approach efficiently exploits key robust stabilization capabilities of hybrid feedback control and optimality guarantees of receding horizon control. The design of the control algorithms will employ Lyapunov-based and optimization techniques suitable to deal with the hybrid dynamics emerging from the system to control or the algorithm. The proposed hybrid prediction technique will lead to novel tools for systematic design of control and communication algorithms for distributed hybrid systems prediction is a feature currently lacking in hybrid control theory. These new tools will pave the road for the design of distributed algorithms that operate robustly and optimally when applied to real-world systems. &lt;br/&gt;&lt;br/&gt;The proposed research plan is deeply integrated with teaching and training activities that will significantly impact middle and high school education levels by training students on control engineering, hybrid systems, cyber-physical systems, and applications to networked multi-agent systems. A plan to improve existing courses will incorporate state-of-the-art material on modeling and predictive control in the classroom. Participation in these activities of underrepresented groups will provide significant broad impact to the overall project. Broad dissemination will occur through educational activities, workshops, local industry, and international partnerships.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710621</AwardID>
+<Investigator>
+<FirstName>Ricardo</FirstName>
+<LastName>Sanfelice</LastName>
+<EmailAddress>ricardo@ucsc.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

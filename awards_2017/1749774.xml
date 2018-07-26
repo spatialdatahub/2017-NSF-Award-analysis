@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Novel Magnetic Phases in Spin Orbit Coupled Correlated Electron Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>113734</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Abstract: &lt;br/&gt;The practical applications of magnets date back at least two thousand years to the invention of the compass, and thrive nowadays in the widely used magnetic information coding and storage. These applications are based on materials containing specific elements called 3d transition metals. However, many more types of magnetic phases are predicted to exist and proposed for applications. One exotic example is the quantum spin liquid, where the spins directions are never aligned and always fluctuating, even down to the lowest possible temperature. This could be exploited to make a quantum computer. Another example is the magnetic multipolar phase, where the atomic magnets have a more complex multipole structure than just a simple arrow, that could be used for ultrahigh-speed electronics. This work focuses on a class of oxides, and will lead to unconventional magnetic phases and ways to control them for future applications. The PI collaborates with the University of Michigan Museum of History to perform K-12 education outreach, such as developing table-top demonstrations, setting up research stations, and participating in science communication programs, and she mentors undergraduate and graduate students with twin aims of encouraging broad participation in research and preparing the next generation of scientists.  &lt;br/&gt;&lt;br/&gt;Technical Abstract: &lt;br/&gt;This project is directed at novel magnetic phases in a new class of materials, 5d transition metal oxides, where electron correlations and spin orbit coupling coexist at comparable energy scales. Specifically, the project consists of three closely related research efforts: (1) developing and utilizing a set of symmetry sensitive optical techniques, magneto-optical Kerr effect, nonlinear optical spectroscopy, and Raman spectroscopy, to probe both ground states and excitation of the magnetic phases in spin orbit coupled correlated electron materials; (2) investigating the evolution of these magnetic phases under static controls such as chemical substitution and DC magnetic field, in order to drive quantum phase transitions; (3) exploring dynamic control over these magnetic phases using electromagnetic radiation from modern femtosecond pulsed lasers, and realize thermally inaccessible hidden phases. The discovery of novel magnetic phases in this new interaction regime sheds light on the understanding of physics that has in common strong electron correlations and strong spin orbit coupling, and the successful control over these new magnetic phases guides rational design of new materials for realizing long sought-after quantum phases and novel devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749774</AwardID>
+<Investigator>
+<FirstName>Liuyan</FirstName>
+<LastName>Zhao</LastName>
+<EmailAddress>lyzhao@umich.edu</EmailAddress>
+<StartDate>04/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

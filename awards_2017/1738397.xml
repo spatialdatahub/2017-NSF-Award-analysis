@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Ultra-large and low-cost Electrodynamic Modeling in Commercial Clouds</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>741125</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project will develop novel algorithms for electrodynamic simulations in commercial clouds. Electrodynamic simulation is essential for computational prototyping in optical and radio-frequency devices. Current commercial solutions require significant upfront investment of both software and hardware. They also suffer from low productivity due to limited in-house computing resources. This project will develop a cloud-based simulation service which will provide on-demand, pay-per-use, virtually unlimited simulation capability without requiring users to purchase any hardware or software. This simulation technology will greatly improve productivity, reduce the barrier to entry, and minimize cost in the design of optical and radio-frequency applications. Moreover, it will serve multiple scientific and engineering disciplines and will facilitate the use of high-performance simulation in all phases of scientific discovery and engineering design. It will revolutionize large-scale scientific simulation and allow anyone with internet access to gain unprecedented simulation power. Ultimately, this technology will help accelerate research and development in the health, energy, and defense industries by offering intuitive, on-demand, and practically infinitely scalable scientific software to engineers and scientists at a price-point significantly lower than any other cloud computing service.&lt;br/&gt;&lt;br/&gt;There is currently no electromagnetic simulation software which performs efficiently in commercial clouds, because they were written under the assumption that the underlying computing platform is homogenous and has low inter-CPU communication time, i.e. low latency. Starting from the most fundamental level of space-time discretization, we will develop the first electrodynamic simulation software that is latency-tolerant and cloud-optimized. The work completed in Phase I developed several proof-of-concept cloud-based electrodynamic solvers and demonstrated that commercial cloud computing platform is a viable option for offering extremely low cost computing. The general solver to be developed in Phase II will serve a broad set of applications, and will be commercialized as the electromagnetic simulation service in the cloud, featuring a fully immersive web-based visualization interface.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738397</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Moore</LastName>
+<EmailAddress>johnpmooreiv@gmail.com</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zongfu</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>zyu54@wisc.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>FlexCompute Inc</Name>
+<CityName>Madison</CityName>
+<ZipCode>537054722</ZipCode>
+<PhoneNumber>6507998025</PhoneNumber>
+<StreetAddress>5141 Pepin Pl</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

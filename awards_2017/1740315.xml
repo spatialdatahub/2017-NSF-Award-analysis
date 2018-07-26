@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SI2-SSE: MetPy - A Python GEMPAK Replacement for Meteorological Data Analysis</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>499693</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajiv Ramnath</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The MetPy project aims to make atmospheric science research and teaching easier and more reproducible by providing a set of well-tested and modern software tools. Meteorologists require many specialized calculations and maps in order to understand the weather and make reliable predictions. The tools they use must provide correct results, since lives and property depend on accurate forecasts and research. This project will port the bulk of the functionality from a widely used and trusted -- but aging and minimally supported -- software program called GEMPAK (the GEneral Meteorological PAcKage) into MetPy, developed using the Python programming language, and with a well-designed, new software architecture. Python has been selected as the language of choice because it has become very popular in many scientific communities. MetPy will be the meteorological community's entry into this growing scientific software ecosystem. In addition to making GEMPAK's functionality available in MetPy, this project will implement a better user-interface, which will help students and researchers get started more easily. The software team will use software development best practices in its development of MetPy, and ensure that it can work with all common meteorological data sources. Every relevant aspect of MetPy will be documented in an easy to digest way on the MetPy project webpage. The development team will work with university instructors to help revise their course materials to integrate MetPy. In addition, the team will teach MetPy and Python training workshops each year, allowing university professors, students, and professionals to get hands-on training on how to do their research in a faster and more robust way. &lt;br/&gt;&lt;br/&gt;This project seeks to fill a need within the atmospheric science community by bringing key functional elements of a foundational software program, GEMPAK, to the innovation-rich Python ecosystem. By devoting software development resources to increasing the number of data types and file formats MetPy can work with, improving the underlying data model, and reaching feature parity with GEMPAK, MetPy can be positioned as a community-supported replacement for the older package. This effort leverages the entire Python ecosystem, and supports the movement (already well under way) of the atmospheric science community to Python-driven reproducible workflows. This transition will provide a number of community benefits. By bringing needed functionality from GEMPAK to the Python ecosystem, this project will allow atmospheric scientists to: simplify the process of exploratory analysis, have a cross-platform toolchain that can be carried from the classroom to the workforce, simplify the research workflow to make science easier and more reproducible, provide a tested library of domain-specific calculations with literature references, and create publication-quality data visualizations. Educators and researchers will be able to replace their use of legacy software, which is no longer being developed and is increasingly hard to maintain, with a modern toolkit that allows increased flexibility and reproducibility within atmospheric science research. Sustainability of the atmospheric science software workflow will be enhanced by the inclusion of modern automated software build-and-test tools, robust community-supported documentation and learning materials, and the ability to quickly incorporate new sources of environmental data. Finally, modernizing the atmospheric science toolchain opens the door to the use of innovations like web-based tools (Jupyter notebooks, for example) that would be difficult or impossible to take advantage of when using legacy software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740315</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>May</LastName>
+<EmailAddress>rmay@ucar.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Leeman</LastName>
+<EmailAddress>jleeman@ucar.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Goebbert</LastName>
+<EmailAddress>kevin.goebbert@valpo.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation For Atmospheric Res</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress>3090 Center Green Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8005</Code>
+<Text>Scientific Software Elements</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Undergraduate Research in the Mathematical Sciences and their Applications</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>115729</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anatoly  Libgober</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Led by principal investigators the Mathematics Department at Texas A&amp;M will host a group of 12 talented undergraduates for research training during 8 weeks each summer. The REU faculty will specifically seek strong students who have been isolated from research opportunities at their home institution, be it from prior hardships or lack of resources. Students will have the opportunity to learn cutting-edge mathematical ideas from scratch, and contribute to solving hard problems underlying many real-world problems from biochemistry, engineering, cryptology, and quantum computing. Students will receive free housing, reimbursement for travel, and a stipend. &lt;br/&gt;&lt;br/&gt;Thematically, the REU program will have three research streams per summer. These are chosen on a rotating basis from four choices: (1) Algebraic Methods in Mathematical Biology, (2) Algorithmic Algebraic Geometry, (3) Number Theory, and (4) Quantum Computing. The first stream involves neural codes and biochemical reaction networks. The second stream focuses on A-discriminants, tropical approximation of algebraic sets, and applications to optimization. The third stream investigates questions on zeros of modular forms, L-functions, and class number bounds. The fourth stream focuses on topological approaches to quantum computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757872</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Shiu</LastName>
+<EmailAddress>annejls@math.tamu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Maurice</FirstName>
+<LastName>Rojas</LastName>
+<EmailAddress>rojas@math.tamu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

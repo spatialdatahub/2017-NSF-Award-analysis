@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  PPER Citizen Science-Based Monitoring Framework for Contaminants of Emerging Concern in New York State Lakes</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>111938</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A number of chemicals found in pharmaceuticals and personal care products find their way into waste streams and are becoming contaminants of emerging concern.  This Citizen Science research project aims to develop an educational and training-based framework to facilitate citizen monitors to investigate the prevalence of contaminants of emerging concerns in aquatic environments.  The project researchers are working collaboratively with the Statewide Lake Assessment Program in New York to recruit and train citizens to participate in on-site monitoring a class of chemicals found on the list of contaminants.  The team is also exploring how participation in the citizen science project enhances citizen understanding and engagement with local water quality problems, and the project provides interdisciplinary training and education for citizens and undergraduate and graduate students as well as with other forms of outreach activities&lt;br/&gt;&lt;br/&gt;This research project integrates citizen science into contaminants of emerging concern research in order to collect needed data on the occurrence of these contaminants in New York lakes. This research offers two important insights into citizen science research: 1) answering how established citizen science water-monitoring programs can be scaled up to integrate more challenging forms of data collection and analysis, as in the case of contaminants of emerging concerns, and, 2) a scalable framework for citizen-based contaminant monitoring that can be adopted by other water quality monitoring programs. Overall, this project not only collects vital information on contaminants of emerging concerns but also creates a monitoring methodology that can be used widely to improve lake and watershed management. Results of contaminants of emerging concerns monitoring and risk assessment are being communicated to citizen monitors and project partners in a timely manner to promote effective participation and enable knowledge sharing.</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743988</AwardID>
+<Investigator>
+<FirstName>Teng</FirstName>
+<LastName>Zeng</LastName>
+<EmailAddress>tezeng@syr.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Matthews</LastName>
+<EmailAddress>damatthews@upstatefreshwater.org</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Moran</LastName>
+<EmailAddress>smoran@esf.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132441200</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>043Z</Code>
+<Text>PPSR- Public Participation in Scientific</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Employing a New Class of Chemosensors for Continuous, Real-Time Measurement of Heavy Metals in Wastewater</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>749999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ben Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project uses a new class of chemosensor films to continuously measure the concentration of heavy metals in a flowing stream of industrial wastewater. This will make it possible to know the concentration of several heavy metals at any given time so that treatment chemicals used to remove those metals can be metered precisely.  Current treatment methods typically rely on infrequent sampling of wastewater streams and time-delayed, labor-intensive laboratory measurements. Without the ability to measure continuously, wastewater treatment is adjusted based on periodic averages and estimated peak discharges.  To reduce the risk of regulatory violation, most wastewater treatment systems use twice the volume of treatment chemicals than might otherwise be needed.  With the ability to measure metal concentrations continuously and automatically, wastewater treatment can be controlled in real time, cutting treatment chemical costs, solid waste costs and measurement labor costs by more than 50%.  Continuous measurement also reduces the risk of regulatory violations by &gt; 90%, in turn reducing the potential costs of remediation and compliance as well as improving environmental conditions for the general public.     &lt;br/&gt;&lt;br/&gt;The key outcome of Phase I research was the successful development of 15 new chemosensors permanently bound to a substrate, each with a unique response to zinc, cadmium, cobalt, chromium, lead, copper, iron, magnesium, manganese, mercury, nickel and tin. In Phase II, responses from an array of chemosensors will be fully characterized with a prototype instrument developed for commercial use in different industrial environments.  With that instrument, a mathematical model will be constructed to accurately convert sensor responses into scientific units of measure for multiple dissolved metals. The lower limit of detection for existing sensors ranges from 5 ppb to 50 ppb.  In parallel with analytical modeling work, chemosensor synthesis work continues to lower the limit of detection to 1 ppb, extend sensor life beyond 6 months, and broaden the portfolio of sensors to improve metal selectivity.  In the future, this new class of bonded chemosensors may be extended to determine the concentration of phosphates and many other species that are currently sampled occasionally and measured with lab instruments.  For applications where continuous measurement is important, this unique family of chemosensors offers great potential for real-time process control in a variety of industrial applications.</AbstractNarration>
+<MinAmdLetterDate>02/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758432</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Bathurst</LastName>
+<EmailAddress>aquametalsllc@gmail.com</EmailAddress>
+<StartDate>02/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AquaMetals, LLC</Name>
+<CityName>Wauwatosa</CityName>
+<ZipCode>532264879</ZipCode>
+<PhoneNumber>2623665203</PhoneNumber>
+<StreetAddress>10437 W Innovation Drive Ste 325</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

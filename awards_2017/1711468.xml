@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCSS: Quickest Detection Under Energy Constraints</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Akbar Sayeed</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wireless sensor networks are commonly deployed to monitor abnormal changes in their surrounding environment. These changes typically imply certain activities of severe consequences, such as structure failure or chemical/gas leak, etc. Quickest detection is a framework that focuses on the design of sequential detection algorithms to identify such changes as quickly and reliably as possible so that we can win valuable time to take proper actions. In most of existing works, it is assumed that there is no constraint on how many and when sensors can take samples. This assumption may not hold for many applications in sensor networks whose sensors are powered either by battery with limited energy or renewable energy harvested from the environment. It is important to design novel quickest detection algorithms with energy constraints so that the designed algorithms can be used to detect abnormal activities using sensors powered by battery or renewable energy with a minimal delay. &lt;br/&gt;&lt;br/&gt;The energy constraints present significant challenges and unique features to quickest detection problems. It is crucial to design adaptive sensing strategies that rely on information extracted from samples taken so far and energy level at the battery to make sample and detection decisions. Towards this end, using tools from optimal stopping theory, the project aims to achieve the following goals: 1) to characterize the optimal detection schemes for problems with additional energy constraints; 2) to understand the performance loss associated with these energy constraints; and 3) to design low-complexity but asymptotically optimal detection schemes. To achieve these goals, the project will focus on two research thrusts. In the first research thrust, the project will focus on scenarios with a hard constraint on the total number of observations that the sensor is allowed to take. The designed algorithms in this thrust will be useful for sensors powered by battery with limited energy. In the second research thrust, the project will focus on scenarios with a stochastic energy constraint. The designed algorithms are suitable for sensors powered by renewable energy.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711468</AwardID>
+<Investigator>
+<FirstName>Lifeng</FirstName>
+<LastName>Lai</LastName>
+<EmailAddress>lflai@ucdavis.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

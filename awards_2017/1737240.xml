@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of low Nitrogen:Phosphorus ratios in the euphotic zone - the Phosphorus side of the story</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>1417632</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Simone Metz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will study the processes that cause the relative biological availability of nitrogen (N) and phosphorus (P) in the upper ocean to change as water moves from the coast to offshore in the northern Gulf of Mexico. Both N and P are required nutrients.  Consequently, the ratio of N to P in the upper ocean has important consequences for plant growth and the marine food web structure. Typically, as water moves offshore bioavailable N declines faster than bioavailable P. While processes that alter either element will affect the N to P ratio, previous research has focused mainly on the N side of the relationship, examining cycling and the selective removal of different forms of N from the water by marine microorganisms. This project will focus instead on the less-studied P side of the N to P ratio in the upper ocean. It will use shipboard experiments to quantify microbiological processes that maintain P availability in the upper ocean, even as N availability declines. Given that low N availability relative to P limits plant growth in most of the ocean's sunlit surface waters, understanding how this chemical ratio develops as water moves offshore is of fundamental importance for the study of marine ecosystems worldwide. Educational impact will include at least seven students' direct participation in the research, providing hands-on and cross-disciplinary training, as well as practical experience at sea. Two middle school teachers will also participate in the oceanographic cruises. They will incorporate field results and personal experiences into lesson plans and teachers' workshops. The project will also develop public outreach activities that focus on the unique value of marine ecosystems of the Gulf of Mexico.&lt;br/&gt;&lt;br/&gt;This project will test the hypothesis that the decline in the ratio of bioavailable N to P in surface water as it moves offshore develops from preferential phosphorus retention as opposed to removal of biologically-available forms of nitrogen.  As part of the research associated with this central hypothesis, the project will quantitatively compare the relative importance of different phosphorus-retention mechanisms during two oceanographic cruises in the northern Gulf of Mexico.  Previous observations of spatial changes in N and P availability are common.  The researchers will track discrete water masses with Lagrangian drifters for time course sampling, and use physical oceanographic measurements to quantify potential N to P ratio changes contributed by vertical and horizontal mixing.  Shipboard incubation experiments will quantify and compare rates for the key microbiological processes thought to affect phosphorus retention in the upper ocean. This focus on potential P-retention processes rather than N loss as an explanation of commonly observed declines in surface ocean N to P ratio represents a unique contribution to the complete understanding of the complex feedback mechanisms between nutrient cycles and marine ecosystem function.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737240</AwardID>
+<Investigator>
+<FirstName>Ajit</FirstName>
+<LastName>Subramaniam</LastName>
+<EmailAddress>ajit@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Thurnherr</LastName>
+<EmailAddress>ant@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Juhl</LastName>
+<EmailAddress>andyjuhl@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Solange</FirstName>
+<LastName>Duhamel</LastName>
+<EmailAddress>sduhamel@ldeo.columbia.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8242</Code>
+<Text>Marine Nitrogen Cycle</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9189</Code>
+<Text>WATER RESOURCES/COASTAL &amp; MARINE ENVIRON</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Shape-shifting robots for Disaster Rescue, Monitoring, and Education</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/ commercial potential of this project is to commercialize previous research in tensegrity robots for new markets in disaster rescue, surveillance, scientific monitoring, and STEM (Science, Technology, Engineering and Math) education. Future deaths by both victims and first responders in disaster rescue in unchartered risky environments could be prevented by utilizing semi-autonomous technology to explore the regions of disasters, provide surveillance to inform first responders, and assist in the rescue of victims until human first responders can arrive. Current autonomous vehicles can be ineffective in navigating surface obstacles and climbing steep slopes to reach areas of interest. Aerial operations may be limited to dropping supplies, which may not be beneficial if victims are immobile or unconscious. The goal is to drop the proposed shape-shifting robots from aerial vehicles, so that these mobile robots can reach previously difficult areas for effective emergency response. This proposed technology will have broader impact in use for scientific monitoring and surveillance as well. A secondary market will be for K-12 students, teachers, parents and roboticists with the potential to have large impact in STEM education.  Robot kits will be developed for educational applications that will meet new Next Generation Science Standards.&lt;br/&gt;&lt;br/&gt;The Small Business Innovation Research (SBIR) Phase I project will focus on de-risking prior research in the development of spherical tensegrity structures as a robotic platform for the proposed target applications. To meet market needs, the specifications need to include impact testing from a drop from an aerial vehicle along with ground travel requirements of slope, rubble and speed. New hardware and software will be designed to meet these specifications. The following three control algorithms and actuation schemes will be developed and evaluated for target specifications and tested in simulation and in hardware for locomotion (1) Multi-cable rolling motion on inclined surfaces, (2) Dynamic rolling using Model Predictive Control (MPC), and (3) Deep reinforcement learning. For applications where the terrain has been mapped, a (4) Generative path-planning algorithm will be developed. (5) Control mechanisms for the internal sphere of the robot will be developed so that the tensegrity robot will be able to manipulate and orient a payload of sensing equipment (e.g., camera, ultrasound, infrared, laser, spectrometer) while traveling on rough terrain. (6) Associated sensor validation, fusion and estimation techniques will be developed to meet the specifications. The results will be a proof-of-concept prototype that meets the target specifications.</AbstractNarration>
+<MinAmdLetterDate>12/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747189</AwardID>
+<Investigator>
+<FirstName>Alice</FirstName>
+<LastName>Agogino</LastName>
+<EmailAddress>agogino@berkeley.edu</EmailAddress>
+<StartDate>12/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Squishy Robotics</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947042527</ZipCode>
+<PhoneNumber>5106846685</PhoneNumber>
+<StreetAddress>2150 Shattuck Avenue, SkyDeck, P</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-NERC: Disintegration of Marine Ice-sheets using Novel Optimised Simulations (DOMINOS)</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardAmount>246020</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project contributes to the joint initiative launched by the U.S. National Science Foundation (NSF) and the U.K. Natural Environment Research Council (NERC) to substantially improve decadal and longer-term projections of ice loss and sea-level rise originating from Thwaites Glacier in West Antarctica.  There is growing consensus that Thwaites Glacier is unstable and vulnerable to collapse. However, there is significant disagreement in projections of rates of mass loss, with some studies suggesting century to millennial scale retreat and others forecasting more catastrophic disintegration. These disagreements are significant because rapid disintegration of Thwaites and adjacent glaciers could potentially trigger or accelerate collapse of significant portions of the West Antarctic Ice Sheet with implications for global mean sea-level rise in the coming decades. Predicting rates of ice loss from Thwaites Glacier is currently hampered by a lack of reliable models of ice fracture and breakaway--called iceberg calving--and the interactions between calving and climate change. This study addresses this major knowledge gap, and is motivated by the need to improve sea-level projections critical for policy and planning. Moreover, there is also a gap between what scientists assert about the usefulness of sea-level rise predictions and stakeholder's perceptions of the usability of that work. This project is also geared to address this gap, by identifying the information that is accessible and usable to a broad community of stakeholders whilst proactively engaging with under-represented communities at nearby community colleges and school districts, engaging community college students in research.  &lt;br/&gt;&lt;br/&gt;Projected rates of sea-level rise from the West Antarctic Ice Sheet (and Thwaites Glacier in particular) have large uncertainties due to difficulties in understanding and projecting the calving and dynamic processes that control the ice-sheet stability.  This uncertainty is magnified by the poorly understood connection between calving processes, ice-sheet stability and climate. To address these uncertainties, this project seeks to explicitly resolve the processes that could cause retreat and collapse of Thwaites Glacier using a novel ice-dynamics model suite.  This model suite includes a discrete element model capable of simulating coupled fracture and ice-flow processes, a 3D full Stokes continuum model, and the continental scale ice-dynamics model (BISICLES). Ice-dynamics models will be coupled to an ocean forcing model suite including simple plume models, intermediate complexity 2-layer ocean models and fully 3D regional ocean models. This hierarchical approach will use high-fidelity process models to inform and constrain the sequence of lower-order models needed to extrapolate improved understanding to larger scales and has the potential to radically reduce uncertainty of rates of marine ice-sheet collapse and associated sea-level rise. The large-scale modeling approach will be tested and implemented within the open source BISICLES ice dynamics model and made publicly available to other researchers via a "calving package".&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738896</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Bassis</LastName>
+<EmailAddress>jbassis@umich.edu</EmailAddress>
+<StartDate>03/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5116</Code>
+<Text>ANTARCTIC GLACIOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

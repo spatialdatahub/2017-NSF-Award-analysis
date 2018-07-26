@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSFSaTC-BSF: CORE: Small: Foundations of Lattice-based Cryptography</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susanne Wetzel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Over the last two decades, lattices have emerged as a powerful mathematical basis for cryptography. For one, Lattice-based Cryptography has resisted quantum attacks while conventional crypto systems succumbed to it in the mid-90s. Secondly, Lattice-based Cryptography has been instrumental in realizing new and exciting functionality which is beyond the reach of conventional cryptography. The most notable examples, perhaps, are Fully Homomorphic Encryption (FHE) and general Attribute Based Encryption (ABE) which, respectively, allow us to compute on and achieve expressive access control of encrypted data. Finally, it has also been shown that basic lattice-based constructions such as digital signatures, pseudorandom functions and key exchange can be made very efficient, to the point that we now have growing interest from the government (NSA and NIST) and the industry (Google) in deploying lattice-based cryptographic solutions. Success in our endeavor will have implications beyond the cryptography: enabling new solutions for privacy concerns in a world where data and computations are increasingly being outsourced, as well as providing security in a post-quantum era.&lt;br/&gt;&lt;br/&gt;The goal of this project is three-fold: (a) New Cryptographic Constructions from Lattices: although we have made great strides in constructing advanced cryptographic primitives such as fully homomorphic, attribute based and functional encryption on standard lattice problems such as the learning with errors problem, much is left to be done. Perhaps the most prominent goal is to come up with a construction of program obfuscation (and thus, nearly all of cryptography) based on the hardness of standard lattice problems; (b) Efficient Lattice-based Cryptography: we aim to improve the efficiency of existing cryptographic constructions, starting from pseudorandom functions all the way to homomorphic and attribute-based encryption, an endeavor that is of tremendous importance in translating theoretical advances into practically useful objects; and (c) Foundations of Hardness of Lattice Problems: we aim to advance and deepen our understanding of the hardness of cryptographically relevant lattice problems. The project involves a significant educational component that consists of designing new courses in cryptography, making the lecture notes publicly available, giving expository lectures, writing survey articles and monographs intended for a broad audience, organizing a seminar series and a workshop on lattices, and advising graduate and undergraduate students.</AbstractNarration>
+<MinAmdLetterDate>08/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718161</AwardID>
+<Investigator>
+<FirstName>Vinod</FirstName>
+<LastName>Vaikuntanathan</LastName>
+<EmailAddress>vinodv@mit.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8225</Code>
+<Text>SaTC Special Projects</Text>
+</ProgramReference>
+</Award>
+</rootTag>

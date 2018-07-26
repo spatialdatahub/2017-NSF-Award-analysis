@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Software Safety and Reliability: Research and Application</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>359994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As software safety and reliability are vital for safe and reliable operation of many systems and in reduction of catastrophic accidents, this Research Experiences for Undergraduates (REU) site at the University of Texas at Dallas provides cutting-edge research opportunities on these important topics to students, especially those from&lt;br/&gt;underrepresented groups or universities with limited resources. After gaining skills in critical thinking, oral and written communication, problem solving, and research methods, students will be encouraged and well prepared for graduate education and research careers in science and technology. Their interactions with mentors and other participants will provide avenues to share ideas and results. Research connections will be established with students' home institutions to continue collaboration among multiple institutions in different geographical regions. REU website will publicize research articles, videos and slides of lectures and project presentations, and announcements for effective community outreach.&lt;br/&gt;&lt;br/&gt;The subject of this research is software safety and reliability, with a focus on evaluating the strengths and weaknesses of existing methodologies and current practices for safety assurance and reliability prediction.  Issues to be studied include how the introduction of software safety and reliability requirements may affect the software lifecycle, and studying how software processes, methods and tool support should be adjusted. Further exploration will emphasize how safe software systems can be unreliable; how reliable software systems can be unsafe; and how to make software systems both safe and reliable. Our findings will be compiled to provide a comprehensive picture of how software safety and reliability can be achieved effectively and efficiently. An important aspect of this site is a close collaboration with industry. REU students will take field trips to industry sponsors, allowing them to speak directly with practitioners to better understand how software safety and reliability is applied to real-life applications. Workshops on technical writing and oral presentation will be held to improve students' proficiency in preparing and delivering technical reports. Seminars on ethics and professional responsibility will also be given to ensure REU students behave properly and respectfully.</AbstractNarration>
+<MinAmdLetterDate>01/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757828</AwardID>
+<Investigator>
+<FirstName>Weichen</FirstName>
+<LastName>Wong</LastName>
+<EmailAddress>ewong@utdallas.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gopal</FirstName>
+<LastName>Gupta</LastName>
+<EmailAddress>gupta@utdallas.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

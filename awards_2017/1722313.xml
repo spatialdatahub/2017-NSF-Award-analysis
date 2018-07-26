@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  De Novo Production of Aroma Compounds by Nonconventional Recombinant Yeast</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project is to develop an engineered nonmodel yeast platform for the economical and sustainable production of natural aroma compounds. High quality aroma compounds have a variety of applications, ranging from flavor and fragrance to cosmetics and pharmaceuticals. With the strong consumer demand for more natural alternatives to chemically synthesized ingredients in both food and personal care items, the production of these ingredients by fermentation will add a renewable source to the supply chain and will reduce demand on botanical sources. This work will advance methodologies and knowledge for creating novel microbial cell factories via 13C-metabolite tracing, metabolic flux analysis, fermentation optimization, and kinetic modeling. The lessons from this research will offer general guidelines for overcoming biosynthesis hurdles and optimizing bioprocess operations, and will facilitate the development of transferable technologies for inexpensive production of diverse natural products that are broadly used for human health and wellness.  &lt;br/&gt; &lt;br/&gt;This STTR Phase I project proposes to integrate synthetic biology and bioprocess engineering to optimize the microbial strain for the de novo production of natural aroma compounds. Because plants carry aroma compounds in extremely low amounts, commercial extracts from plants are not economically viable. To overcome these challenges, this project will develop a novel fermentation process for production of these compounds with high product specificity and yields. Specifically, a nonmodel yeast strain will be engineered via PUSH (increase the supply of the precursor acetyl-CoA), PULL (overexpress key biosynthetic pathway genes), POWER (enhance ATP and NADPH generation) strategies. Further, 13C-metabolic flux analysis will be used to rigorously measure in vivo enzyme functions, to delineate acetyl-CoA supply/consumption pathways, and to identify metabolic burdens or bottleneck factors. Meanwhile, novel simultaneous fermentation and product recovery will be built to improve productivity. The fluxome information and fermentation kinetics will offer guidelines for rational genetic modifications and bioprocess optimizations. Ultimately, this environmentally friendly process would provide a new, reliable and natural manufacture scheme to meet the growing demand of consumers for healthier products.</AbstractNarration>
+<MinAmdLetterDate>06/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722313</AwardID>
+<Investigator>
+<FirstName>Yechun</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>mwang@arch-innotek.com</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yinjie</FirstName>
+<LastName>Tang</LastName>
+<EmailAddress>yinjie.tang@seas.wustl.edu</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arch InnoTek, LLC</Name>
+<CityName>St Louis</CityName>
+<ZipCode>631082979</ZipCode>
+<PhoneNumber>3149719836</PhoneNumber>
+<StreetAddress>4320 Forest Park Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

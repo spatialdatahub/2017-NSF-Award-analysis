@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF:Small:Information-theoretic and Computational Thresholds in Statistical Learning</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advanced algorithms are an increasingly powerful tool to extract information from vast amount of data&lt;br/&gt;that are gathered over the Internet, by smartphones, sensors networks, or high-throughput scientific studies.&lt;br/&gt;As these methods become ubiquitous, it is crucial to understand their full potential. What kind of&lt;br/&gt;information can we hope to extract from a certain type of data? Viceversa, how much data should&lt;br/&gt;we accumulate in order to be able to infer a certain piece of information? What is the bottleneck that prevents us from extracting more information? These questions have been studied within classical statistics, but modern applications pose entirely new challenges and classical concepts are only partially useful.&lt;br/&gt;In particular, computational resources become a crucial bottleneck for modern datasets. In many cases,&lt;br/&gt;although the data contain in principle the information of interest, finding it is a needle-in-haystack problem, and cannot be done on human timescales. This project aims at characterizing these fundamental limitations in several central problems, and develop algorithms that can achieve those limits.&lt;br/&gt;&lt;br/&gt;Both information theory and complexity theory fall short of capturing the fundamental limitations to statistical learning tasks. This project follows a different approach which aims at analyzing broad classes of algorithms, and draw connections between their behavior. More precisely, the project considers three such classes that essentially encompass most algorithms used nowadays: empirical risk minimization;&lt;br/&gt;semidefinite programming hierarchies; and local algorithms. The focus is on two concrete statistical estimation problems that are relevant for a number of applications: group synchronization on graphs; non-linear high-dimensional regression and classification.  In these and analogous problems, the behavior of seemingly different types of algorithms is often surprisingly similar.  Understanding the origin of this similarity and its implications is a key focus of this research.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1714305</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Montanari</LastName>
+<EmailAddress>montanari@stanford.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

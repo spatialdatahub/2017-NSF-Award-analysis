@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Molecular Characterization of Motions, Interactions, and Structure of the Lithium Salts in Organic Solvents via Non-Linear Infrared Spectroscopy</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>377485</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby A. Foss</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Chemical Structure Dynamics and Mechanism (CSDM-A) program of the Chemistry Division, Professor Daniel Kuroda of Louisiana State University and his undergraduate and graduate students are using advanced laser methods and computer simulations to study the chemical structure of lithium salts in different organic solvents. Organic solutions of lithium salts have become ubiquitous to science and engineering, through their use in energy storage, pharmaceutical formulations, and industrial chemical processes. Lithium salts contain positively charged lithium ions ("cations") and negatively charged ions ("anions"). How the molecules of the solvent are arranged around the cations and anions of the salt determines the properties of the solution, for instance its electrical conductivity.  Observing such molecular arrangements is difficult because the molecules and ions are always moving quickly throughout the solution.   Professor Kuroda's group uses advanced laser spectroscopies to instantaneously probe the spatial arrangement of the lithium salt components in the liquid. These studies are advancing scientists' general understanding of the structure of ionic solutions, and may ultimately help engineers design lithium salt solutions for different technological applications.&lt;br/&gt; &lt;br/&gt;Prof. Daniel G. Kuroda and his research group utilizes an array of infrared laser spectroscopies, including two dimensional infrared spectroscopy, to obtain dynamics and structural information about lithium salts in the organic solvents. The approach has shown substantial promise on its own, but when combined with well-established theoretical methodologies provides direct molecular insights. Thus, the experimental methodology allows one to obtain a comprehensive molecular picture of lithium salts in different organic solutions, including the formation and dissociation of ion pairs. The research products also serve as guides for the rational design of the lithium salt solutions in applications, such as electrochemical storage systems. All of the students involved in the project receive training in modern ultrafast laser spectroscopies, computer simulations, data analysis, and theoretical modeling. In addition to the higher education component, the outreach part of the award also focuses on helping and assisting high school teachers in preparing curricular and extra-curricular activities, and on giving high school students the opportunity of performing college level chemistry laboratory classes in the university chemistry laboratory environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1751735</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Kuroda</LastName>
+<EmailAddress>dkuroda@lsu.edu</EmailAddress>
+<StartDate>03/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708032701</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 Himes Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9101</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms A</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

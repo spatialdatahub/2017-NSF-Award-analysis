@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAPA: Collaborative Research: A Multi-Paradigm Programming Infrastructure for Heterogeneous Architectures</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>441000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Heterogeneous computing with extensive use of hardware accelerators, such as FPGAs and GPUs, has shown great promise to bring in orders of magnitude improvement in computing efficiency for a wide range of applications. However, such heterogeneous platforms are difficult to program, especially with FPGAs, limiting their use to only a small subset of programmers with specialized hardware knowledge.  The intellectual merits of this research are to develop a highly productive multi-paradigm programming infrastructure for heterogeneous architectures that integrates convenient heterogeneous programming models, automated compilation for high-level domain-specific languages, novel runtime, and debugging support. The project's broader significance and importance are to introduce the latest research into multiple graduate and undergraduate courses and tutorials at major conferences, with the goal of training a new generation of diverse students and professionals to use heterogeneous programming models. These programmers will be able to apply the developed infrastructure effectively to many important compute-intensive applications in our society to further the digital revolution.  &lt;br/&gt;&lt;br/&gt;Specifically, the project has four innovative research components: (1) a new programming model, named HeteroCL, that enables programming of heterogeneous systems in a single unified program, (2) a reusable methodology to efficiently transform high-level DSLs to HeteroCL, (3) an efficient runtime system that support the HeteroCL programming model and high-level DSLs, with unique capability of dynamic and intelligent co-scheduling of workloads to CPUs and accelerators at multiple levels of computing hierarchy,  and (4) novel FPGA performance debugging tools for instrumentation and performance monitoring.</AbstractNarration>
+<MinAmdLetterDate>08/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723715</AwardID>
+<Investigator>
+<FirstName>Adrian</FirstName>
+<LastName>Sampson</LastName>
+<EmailAddress>asampson@cornell.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhiru</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>zhiruz@cornell.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

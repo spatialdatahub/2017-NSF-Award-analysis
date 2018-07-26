@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Biochemical and Molecular Engineering XX Conference</AwardTitle>
+    <AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2018</AwardExpirationDate>
+    <AwardAmount>43000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Peretti</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This 20th occurrence of the Biochemical and Molecular Engineering conference organized under the auspices of the Engineering Conferences International (ECI) will bring together leaders in the field of biochemical engineering and associated fields, both from academia and industry, along with the newest entrants into the field, for a small, focused conference. The objectives of the conference are: 1) to bring together all factions of the biochemical engineering community to consider the newest advances in our field; 2) to provide a forum for the community to exchange ideas that will lead to both advances in science and a culture of cooperation within the community; 3) to address how our science/ technology can be used to address the compelling issues of the day, either in sustainable manufacturing, rapid response to Ebola, or developing new therapeutic modalities to cure disease; 4) to bring together the community to consider how changes in science, technology, funding climate, and the economy are impacting our profession, and how should impact education and other practices. This conference will not only highlight the most noteworthy advances in the field with Keynotes from people like George Georgiou (Texas), Vilhelm Bohr (NIH), Christina Smolke (Stanford), and Jennifer Cochran (Stanford) but will also build the community, provide opportunities for this international audience to exchange ideas, and for the community to set new directions in education and training if needed.</AbstractNarration>
+    <MinAmdLetterDate>06/21/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/21/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1739060</AwardID>
+    <Investigator>
+      <FirstName>Wilfred</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>wilfred@udel.edu</EmailAddress>
+      <StartDate>06/21/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Engineering Conferences International, Inc.</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100041644</ZipCode>
+      <PhoneNumber>2125146760</PhoneNumber>
+      <StreetAddress>32 Broadway</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1491</Code>
+      <Text>Cellular &amp; Biochem Engineering</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8011</Code>
+      <Text>Systems and Synthetic Biology</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7465</Code>
+      <Text>NANOSCALE BIO CORE</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>7556</Code>
+      <Text>CONFERENCE AND WORKSHOPS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8007</Code>
+      <Text>BioMaPS</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

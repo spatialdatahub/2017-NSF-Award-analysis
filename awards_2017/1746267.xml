@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Plant Control - A water engineering simulation and web-accessible water treatment plant for engineering, controls, automation, and data visualization STEM education</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes education of water engineering processes and training for success in the advanced technology economy and workforce. Plant Control will teach students the system that supplies safe drinking water to their schools and homes while applying chemistry and engineering concepts in an engaging format. Student exposure to engineering in high school is correlated to choice of STEM majors in college. The product will introduce students to a wide range of disciplines including civil, electrical, mechanical, biological, and materials to promote student choice of engineering majors. The disruption of clean drinking water in Flint, MI highlights the critical importance of safe drinking water and technical hurdles that an aging utility infrastructure presents. Water quality STEM concepts presented in this product are essential for a voting population to make local and federal decisions related to population growth and aging utility infrastructure. High School STEM classrooms are centers of innovation for students. This product will provide the students a sand-box tool to develop their own control and data acquisition as well as train them in software that is widely used in the controls and data acquisition industry.&lt;br/&gt;&lt;br/&gt;The proposed project will develop a simulation and remote plant model intended to engage students in a new context and compliment STEM engineering curriculum in K-12 environments. The goals of the research are to understand the effect of simulation learning tools on STEM education, to develop a simulator for educational and workforce training purposes, and to develop a programming tool to enable student and maker applications of control and data acquisition systems that is currently lacking in that market. Simulation development technical hurdles include flow modeling in a wide-range of student defined configurations, equipment and filtration media. The simulation developed in this project will be further applied in the water and wastewater market to train plant operators for standard and emergency plant operation conditions. The web-accessible remote plant model component of the project requires connectivity of nationwide users to the remote plant and protection of the physical plant equipment. The development platform used for control of the plant will be available to the students for modification and use in their own projects. The student-version will require a limited and simplified version of the professional platform currently available. Development of the student version will require platform reconfiguration and user capability modification.</AbstractNarration>
+<MinAmdLetterDate>12/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746267</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Rainwater</LastName>
+<EmailAddress>ben.rainwater@brownengineers.net</EmailAddress>
+<StartDate>12/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown Engineers</Name>
+<CityName>Little Rock</CityName>
+<ZipCode>722235965</ZipCode>
+<PhoneNumber>5014480100</PhoneNumber>
+<StreetAddress>17200 Chenal Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+</Award>
+</rootTag>

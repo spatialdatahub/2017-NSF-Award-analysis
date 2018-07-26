@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Menaquinone Physiochemical Properties Alter Energy Metabolism in Actinobacteria</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Max Funk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Chemistry of Life Processes Program in the Chemistry Division funds this award. Professors Debbie Crans and Dean Crick from Colorado State University investigate how a specific molecule plays a crucial part in the generation of energy from nutrients (metabolic energy) in microorganisms. The first step in production of metabolic energy is electron transport- where electrons are passed stepwise through a series of small molecules and proteins embedded in a membrane. One of these molecules is menaquinone. It has been known for a long time that menaquinone is involved in the electron transport steps, but how it participates in the process is still unknown. The structure and reactivity of the menaquinone molecule is investigated in this research. The critical electron transfer reaction is exquisitely sensitive to the structure of menaquinone. The basis for this sensitivity is examined by making small variations in the shape of the molecule and measuring the effects on the metabolic energy generation. These studies allow undergraduate students, graduate students and postdoctoral fellows to acquire specialized training in synthesis, analysis of molecular structures in solution and at the interfaces of artificial membranes, and microbiological methodology. The topic is presented to the public in suitable settings including outreach programs with K-12 students and other community groups.&lt;br/&gt;&lt;br/&gt;The enzyme MenJ (Rv0561c) of Mycobacterium tuberculosis catalyzes the reductive conversion of menaquinone with nine isoprene units (MK-9) to menaquinone with nine isoprene units with the second isoprene unit saturated (MK-9(II-H2)). A subtle variation in the structure of MK-9(II-H2) results in surprisingly dramatic changes in survival and energy metabolism for the organism. How the conversion of a single bond to a double bond (MK-9(II-H2) to MK-9) could have such profound effects on the energy metabolism of mycobacteria is not understood. The current research project seeks to define the biological role of regiospecific saturation in MK derivatives. The physical properties of simple synthetic MK derivatives are investigated with the objective of elucidating the effects of saturation on solution structure, redox potentials, and molecular interactions at water/lipid interfaces. The results from these studies are used to develop an understanding for how these changes can affect MK's biological activities. The current hypothesis is that the shape of the molecule directs the biological responses.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709564</AwardID>
+<Investigator>
+<FirstName>Debbie</FirstName>
+<LastName>Crans</LastName>
+<EmailAddress>debbie.crans@colostate.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Crick</LastName>
+<EmailAddress>Dean.Crick@colostate.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

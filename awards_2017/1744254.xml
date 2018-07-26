@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Emergence in Disordered, Interacting and Living Systems a the Aspen Center August 12, 2017</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2017</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan B. Blagoev</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The meeting on "Emergence in disordered, interacting and living systems" to be held at the Aspen Center for Physics, August 12th, 2017 will bring together world leaders in the area of emergence in disordered, interacting, and living systems to discuss grand challenges in the area that face the community today. The occasion of the conference will also be used to mark the achievements of Professor Elihu Abrahams, whose work has shaped our understanding of this area of science, both in the context of condensed matter physics and in the life sciences. The conference will focus on forward-looking research talks and panel discussions, and will be supplemented with presentations with historical perspective, examining the areas of science where Professor Abrahams has made seminal contributions. This event will provide a unique opportunity to summarize the current status of understanding of emergent behavior in condensed matter and living systems. The presentations and discussions at this event will be published online on the conference web-page. The perspective provided by this meeting will help to frame the big questions and directions for research in this area for future researchers to push back the frontiers of research.&lt;br/&gt;&lt;br/&gt;Disorder and noise in interacting many-body systems are fundamental to areas of science as diverse as quantum computing and in general electronic devises and in biology in cell function and brain neuronal networks. They serve as models for the physical principles and dynamical processes that living systems exploit to perform their functions. Elihu Abrahams is a pioneer in the theoretical foundations of our understanding of disordered and interacting systems, extending the concepts beyond his main specialty of quantum condensed matter physics to areas including spin glasses and neural networks. The conference will focus on these areas and the PI will discuss the latest experimental and theoretical developments. In line with a long-standing tradition of Aspen workshops, a significant fraction of the speakers and participants will be junior scientists. The PI will specifically recruit junior speakers and a diverse group of participants from many universities. The meeting site is accessible for people with disabilities and when registering for the conference such people will be able to identify any special needs so that the conference organizers can accommodate those needs.</AbstractNarration>
+<MinAmdLetterDate>06/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744254</AwardID>
+<Investigator>
+<FirstName>Piers</FirstName>
+<LastName>Coleman</LastName>
+<EmailAddress>coleman@physics.rutgers.edu</EmailAddress>
+<StartDate>06/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

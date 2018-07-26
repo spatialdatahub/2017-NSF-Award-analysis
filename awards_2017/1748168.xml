@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2017 IEEE Cyber Security Development (SecDev)</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2018</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports student attendance to the IEEE Cyber Security Development (SecDev) conference. Research on software security usually focuses on detecting vulnerabilities in software and attacks on resources. However, there is not much attention to how programmers can develop secure software by construction.  This new conference series on Secure Development (SecDev) focuses on this problem area. The support for the conference is important for educating/training the workforce in this area, and to help provide a pathway to research careers. The technical advances presented and nurtured by the conference are important to development of secure software, which is important to society.</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748168</AwardID>
+<Investigator>
+<FirstName>Vineet</FirstName>
+<LastName>Mehta</LastName>
+<EmailAddress>Vineet_Mehta@uml.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kavitha</FirstName>
+<LastName>Chandra</LastName>
+<EmailAddress>kavitha_chandra@uml.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Lowell</Name>
+<CityName>Lowell</CityName>
+<ZipCode>018543643</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress>600 Suffolk Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

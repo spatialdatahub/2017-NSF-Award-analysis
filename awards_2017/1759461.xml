@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Collection and Analysis of Data in Major Landfalling Hurricanes (2017)</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>184777</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The landfall of Hurricane Harvey was the first major hurricane landfall since 2005 in the United States, and one of only a handful of Category 4 or higher hurricane landfalls in the modern weather radar era.  The research team that is funded by this grant made measurements of Harvey from inside the eye, using a Doppler on Wheels radar truck.  An initial look at the data reveals a complex assembly of small scale, intense wind structures.  This award will allow the team to analyze this data and to deploy to the landfall of Hurricane Irma to make measurements to compare and contrast with Harvey.  The impact of the project should be a better understanding of the low-level wind structure in intense hurricanes, which would improve public safety by providing relevant information to forecasters, emergency managers, and engineers.  The project is in response to the NSF Dear Colleague Letter on Hurricane Harvey research (NSF 17-128).&lt;br/&gt;&lt;br/&gt;The research team plans to improve understanding of small-scale flow in landfalling hurricanes, with a focus on quantifying the mean and turbulent properties of the hurricane boundary layer (HBL).  Coherent structures in the HBL such as rolls and streaks were observed in the Hurricane Harvey data, along with mesovortices and tornado-scale circulations in the eyewall.  Analysis of this data, along with potential data from Hurricane Irma, will be used to address the following questions: 1) Are HBL features such as rolls and streaks comparatively more energetic than in weaker storms and hence contribute more to modulating hurricane intensity?  2) What are the characteristics of eyewall circulations?   What type of environment supports these eyewall circulations?  3) How do features such as eyewall mesovortices, tornado-scale circulations and HBL streaks correlate with localized high-end damage?</AbstractNarration>
+<MinAmdLetterDate>09/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1759461</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Kosiba</LastName>
+<EmailAddress>kakosiba@cswr.org</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Wurman</LastName>
+<EmailAddress>jwurman@cswr.org</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The Center for Severe Weather Research</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803055603</ZipCode>
+<PhoneNumber>7203049100</PhoneNumber>
+<StreetAddress>1945 Vassar Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

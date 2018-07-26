@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding Materials and Processing Related Effects in 3D Printing of Sustainable Cementitious Materials</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>325000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Y. Grace Hsuan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>3D printing or digital fabrication of cementitious materials enables automated production of building elements or whole structures in successive layers, directly from digital models. Recent advances in automation and control has enabled maturing of 3D concrete printing technology to make robust construction possible. This process has the potential to reduce on-site labor and energy requirement, speed up the construction process, and reduce construction-related risks. A major advantage of 3D printing in construction, apart from cost reduction and acceleration of construction, is its potential to provide enhancements in building performance through innovative geometries that otherwise cannot be realized. This project builds on the premise that, with wider acceptance of 3D printing of cementitious materials, the emphasis will shift to materials design and processing to ensure performance, long-term durability, and sustainability. Sustainable cement-free binder systems such as alkali-activated binders can be designed to provide advantageous properties for extrusion-based processing (e.g., early stiffening), which will be utilized in this project through targeted experiments and computer simulations. The objective is to link the material design of sustainable binder systems for 3D printing and the process of printing itself. The research outcomes will enable the use of alkali-activated binders in 3D printed concrete elements, and open new avenues for industrial ventures.  &lt;br/&gt;&lt;br/&gt;This project harnesses knowledge from multiple disciplines (chemistry of binding materials, flow of granular media, materials processing, computational modeling) to contribute to the science and engineering of 3D printing of sustainable concrete elements. The research will include compositional manipulations of alkali-activated binders for 3D printing in order to achieve desirable rheological and early-age stiffening response. The influence of paste properties (particle types and their chemistry and sizes, activator chemistry, rheology aids) and extruder characteristics (sizes and geometry, extrusion pressure), including their interactions, will be evaluated to better understand the resulting rheology of the printed material. Discrete element-based numerical models will be used to: (i) elucidate the particle-scale processes influencing flow, (ii) accurately predict the flow behavior, and (iii) establish the link between particle-scale mechanisms and process-level extrusion rheology. This study will also contribute significantly to our understanding and potential mitigation of liquid phase migration, overburden-related instability, and layering effects which are unique to extrusion-based 3D printing. The integrated activities will enhance our fundamental understanding of material design and processing effects in 3D printing of high-performance sustainable concrete binder systems.</AbstractNarration>
+<MinAmdLetterDate>06/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727445</AwardID>
+<Investigator>
+<FirstName>Narayanan</FirstName>
+<LastName>Neithalath</LastName>
+<EmailAddress>Narayanan.Neithalath@asu.edu</EmailAddress>
+<StartDate>06/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

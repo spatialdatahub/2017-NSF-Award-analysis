@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: The Thermosphere-Ionosphere Coupling Using the Low-latitude Ionospheric Sensor Network (LISN) Distributed Observatory</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>239999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth S. Lieberman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project funds continued operations and science investigations associated with the Low-Latitude Ionospheric Sensor Network (LISN). LISN is a distributed array of GPS receivers, magnetometers and ionosondes, that measure  ionospheric parameters in the low-latitude South American sector. The network is on the same continent and within the latitude belt of the Jicamarca observatory, that hosts a suite of thermosphere-ionosphere observing systems. The overarching science goal enabled by the LISN observatory is to understand the complex day-to-day variability and the extreme disturbances that occur in the South American low-latitude ionosphere nearly every day after sunset. These occurrences pose a prominent natural hazard to communication, navigation and high precision pointing systems. &lt;br/&gt;&lt;br/&gt;The projects outlined in this proposal will help to understand the onset of plasma structuring that takes place at low and mid latitudes and that affect communication and navigation systems. LISN real-time data are available to space weather forecasting enterprises that elect to avail themselves of it. LISN is an international collaboration that nurtures new technological expertise and graduate-level aeronomy courses in South American countries.</AbstractNarration>
+<MinAmdLetterDate>09/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1724133</AwardID>
+<Investigator>
+<FirstName>Cesar</FirstName>
+<LastName>Valladares</LastName>
+<EmailAddress>cev160230@utdallas.edu</EmailAddress>
+<StartDate>09/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

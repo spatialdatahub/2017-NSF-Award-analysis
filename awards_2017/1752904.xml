@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Addressing the Challenges of Increasing Interest in Computing at the Undergraduate Level through Institutional Transformation</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>199722</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Carnegie-Mellon University proposes to engage leaders in computer science (CS) education in re-imagining the way CS is taught in response to 21st Century Challenges. Many CS departments are currently facing significant increases in undergraduate enrollment and much of the growth may be attributable to students who are interested not just in CS, but in CS combined with other computing-enabled disciplines. This trend could well accelerate as the national effort to increase access to computing and computational thinking in grades K-12 gains traction.&lt;br/&gt;&lt;br/&gt;The proposed project includes a 2-day workshop that will bring together 100 CS education experts from various colleges including research universities, liberal arts and minority-serving colleges, and community colleges, along with professional computing organizations and leading industry partners. It will focus on a number of key questions that seek to understand growing enrollment pressures in various types of colleges and regions, the need to continue efforts to increase diversity in computing, the readiness of the computing education community to embrace institutional changes that might, for example, provide multiple and/or multi-disciplinary pathways through their programs, and whether it is time for a larger summit of CS education leaders to start to develop a roadmap for broad and sustained change at the undergraduate level.</AbstractNarration>
+<MinAmdLetterDate>09/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1752904</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Cortina</LastName>
+<EmailAddress>tcortina@cs.cmu.edu</EmailAddress>
+<StartDate>09/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

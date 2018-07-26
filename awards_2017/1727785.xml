@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Signatures and Barcodes: Data-driven Understanding of Transportation System Performance during Extreme Events</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on understanding the effects of extreme events such as natural disasters on urban transportation systems necessary for emergency response and recovery services.  Motivated both by continued urbanization and the frequency of extreme weather events, this project will investigate novel methods to quantify infrastructure performance and resilience at city-level scales. Outcomes of the project work will provide data-driven insights relevant to authorities responsible for extreme event mitigation and response.   Seminars will be given to state and local transportation officials on the results of this work.  Parts of the project will be carried out via partnerships with the Illinois Geometry Laboratory to facilitate interdisciplinary undergraduate research experiences for engineering and mathematics students.&lt;br/&gt;&lt;br/&gt;This project centers on the creation of data-driven methods to investigate the effects of extreme events on transportation infrastructure by interpreting citywide and multiyear traffic datasets. Concepts from multilinear algebra and computational topology will be investigated to rigorously quantify the effects of extreme events on the transportation system. The developed methods will be used to construct "signatures," which are interpretable patterns in the congestion level of a citywide road network, and "barcodes," which summarize the network connectivity. The signatures and barcodes will be designed to better quantify the spatiotemporal effects of extreme events as deviations from typical congestion patterns and connectivity structures.   The developed methods will be applied on large publically available mobility datasets in US communities.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727785</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Sowers</LastName>
+<EmailAddress>r-sowers@illinois.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Work</LastName>
+<EmailAddress>dan.work@vanderbilt.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1638</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

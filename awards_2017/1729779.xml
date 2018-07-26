@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DMREF: Collaborative Research: Synthesis, Characterization, and Modeling of Complex Amorphous Semiconductors for Future Device Applications</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>640000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Schlueter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description: By understanding a material's structure, it is possible to predict and design its properties. Whereas crystals are well-understood by their regular pattern of atoms, the structure of amorphous materials with their randomly bonded atoms is extremely challenging to determine. Yet this disorganized structure is exactly what makes these materials advantageous for many technological applications. For example, large-areas can be coated with amorphous materials in smooth layers for application in the next-generation flexible flat panel displays. An important objective of this project is to gather, decipher, integrate, and organize large experimental and computer generated data to accurately describe the structure and properties of a large class of complex amorphous materials. This materials data along with open-source statistical software developed within the project will be made accessible as part of the Global Materials Network to accelerate the discovery of new materials with unique features and performance and to help produce new products at a much faster pace and reduced cost. &lt;br/&gt; &lt;br/&gt;Technical Description: Unlike Si-based semiconductors, amorphous oxide semiconductors exhibit optical, electrical, thermal, and mechanical properties that are comparable or even superior to those possessed by their crystalline counterparts. Most notably, carrier mobility of amorphous oxide semiconductors is an order of magnitude larger than that of amorphous hydrogenated silicon commonly used in solar cells and flat-panel displays. Within unified theoretical and experimental framework, this project aims to establish genomic deposition-structure-property relationships in complex amorphous oxide and chalcogenide semiconductors in order to systematically record and organize the data into a searchable database. The research will integrate controlled synthesis, advanced characterization, multi-scale modeling, time-dependent studies, and accurate first-principles calculations to provide microscopic understanding of the complex interplay between the nanostructure, morphology, and electron transport regimes across the entire crystalline-to-amorphous transition. Development of realistic approaches for non-stoichiometric-melt cooling and time-dependent statistical analysis, will enable studies of defect formation and dynamics, ion diffusion, structural evolution and stretched-exponential relaxation, phase transformation, and crystallization processes, bringing the computer-aided design of amorphous materials to a new level. The PIs plan to release the Amorphous Structure Analysis (AStA) as open source and build a user community around the language by ensuring that interested researchers are able to contribute to AStA codebase. This will allow a wider growth of the project. This aspect is of special interest to the software cluster in the Office of Advanced Cyberinfrastructure, which has provided co-funding for this award.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1729779</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Medvedeva</LastName>
+<EmailAddress>juliaem@mst.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>Rolla</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8292</Code>
+<Text>DMREF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8400</Code>
+<Text>DMREF</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>II-New: Flexible User Interaction Instrumentation for Ubiquitous and Immersive Computing Environments</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>356657</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Smart phones, networked devices, and commercially available augmented and virtual reality kits are making ubiquitous and immersive interactive systems increasingly commonplace. Designing these systems, and the applications that use them, requires the ability to study how system features and human behavior affect each other in natural contexts. This award will provide an interdisciplinary research team with equipment for capturing both individual and small group behavioral data in situ, including body motion, eye gaze, mental workload, and emotion.  The infrastructure will support projects at the team's institution in a number of domains, including autonomous vehicle use by visually impaired users, augmented reality training for emergency medical responders, and collaborative scientific discovery in virtual visualization environments. A doctoral student with related research interests will coordinate management of and training on the infrastructure, developing both technical and research skills. The team will also use the equipment to provide enhanced research opportunities for undergraduates from a number of disciplines, institutions, and backgrounds. &lt;br/&gt; &lt;br/&gt;Much of the planned infrastructure uses next-generation versions of tools that the team already has expertise with. This reduces deployment risks and allows them to augment existing projects with new capabilities while enabling new directions for research. In most cases, this is a transformation from fixed lab-based sensing to unconstrained, mobile data collection in the field. The new capabilities include five main data sources. One is body motion data, which will be collected using an industry standard infrared-based motion capture system that can flexibly capture the movements of individuals or dyads. A second is location and gait capture, for both individuals and groups, through an unobtrusive, configurable system of floor-mounted force plates. A third is eye gaze data, collected through a portable headset that captures eye fixations and pupil dilation to support monitoring visual attention. A fourth is electroencephalogram (EEG) data, collected through a portable dry sensor-based headset, that can monitor workload, affect, and facial features as well as support prototyping of brain-computer interfaces (BCIs). A fifth is physiological data including temperature, pulse, arm motion, and arousal, collected through a inconspicuous wristband that includes photoplethysmography, accelerometer, and electrodermal sensors. Each individual data stream comes with accompanying analytic software; collectively, data will be managed through a commercially available tool for analyzing events synchronized across multiple parallel data streams. Key innovations of this award this award are its novel data integration strategies and cross-disciplinary application areas.</AbstractNarration>
+<MinAmdLetterDate>06/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730033</AwardID>
+<Investigator>
+<FirstName>Anita</FirstName>
+<LastName>Komlodi</LastName>
+<EmailAddress>komlodi@umbc.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Helena</FirstName>
+<LastName>Mentis</LastName>
+<EmailAddress>mentis@umbc.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Lutters</LastName>
+<EmailAddress>lutters@umbc.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Kleinsmith</LastName>
+<EmailAddress>andreak@umbc.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ravi</FirstName>
+<LastName>Kuber</LastName>
+<EmailAddress>rkuber@umbc.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212500002</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 Hilltop Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

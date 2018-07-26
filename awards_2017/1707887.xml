@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Studies in Elementary Particle Physics</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Randal Ruchti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>One of the major intellectual achievements of the 20th century was the development of the Standard Model (SM) of particle physics. This model succeeded in classifying all of the elementary particles known at the time into a hierarchy of groups having similar quantum properties. The validity of this model to date was confirmed by the discovery of the Higgs boson at the Large Hadron Collider (LHC) at CERN. However, the Standard Model as it currently exists leaves open many questions about the universe, including such fundamental questions as to why the Higgs mass has the value it has. This project will continue the pioneering effort that this group did in the discovery of the Higgs by the Compact Muon Solenoid (CMS) experiment at CERN. They have been a leader in the study of Higgs properties, and have developed important tools used by the community as a whole.  The impact of the project reaches beyond the narrow definition of particle physics. The work on active pixel detector technology has application to instrumentation used at synchrotron light sources to study materials and biological systems. This project also has a strong educational component. It provides direct support and training for a number of students. In particular, the testing of prototype detectors for future upgrades would provide a diversity of experiences that are not otherwise available to young scientists working in particle physics. The PI's group is the host of a QuarkNet center that has a current membership of 25 Baltimore area high school teachers. The QuarkNet Center has initiated and helped to organize a very successful series of regional Physics Fairs that have brought science to thousands of area residents.&lt;br/&gt; &lt;br/&gt;The group led the work on the 4-lepton decay channel in the discovery of the Higgs. One of the innovations developed by this group is known as the Matrix Element Likelihood Approach (MELA), an analysis technique that allowed CMS to determine the quantum numbers of the Higgs. This project will expand that technique, applying it to the new higher energy data that is now being delivered by the LHC and use it in new searches for physics beyond the Standard Model. This new data could yield new sources of symmetry violation (called Charged Parity or CP violation) that might be associated with the Higgs boson. This project will also support technical contributions to the operation of the CMS detector and to the study of new detector technology for high luminosity upgrades of the LHC. The operational contributions are based on techniques that are currently in use or are derived from those currently in use. The contributions to the study of detector upgrades are based on tools that were developed to support the present operation.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707887</AwardID>
+<Investigator>
+<FirstName>Barry</FirstName>
+<LastName>Blumenfeld</LastName>
+<EmailAddress>bjb@jhu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Morris</FirstName>
+<LastName>Swartz</LastName>
+<EmailAddress>morris@jhu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petar</FirstName>
+<LastName>Maksimovic</LastName>
+<EmailAddress>petar@jhu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Gritsan</LastName>
+<EmailAddress>gritsan@jhu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1221</Code>
+<Text>ELEMENTARY PARTICLE ACCEL USER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

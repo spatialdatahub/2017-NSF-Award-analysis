@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fast Predictive Medical Image Analysis</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of medical image analysis is to extract quantitative information from images. Image registration is a key image analysis technique to estimate spatial correspondences between images. However, while good results have been obtained, registration methods are typically slow, specifically, when complex deformations are to be captured. This limits the utility of these algorithms (i) for very large-scale imaging studies, (ii) as component algorithms of more advanced analysis algorithms, and (iii) for applications which would benefit from rapid solutions, for example, to facilitate user interaction. Furthermore, registration methods are typically ill-adapted to given tasks, as, for mathematical convenience only, approaches use simple elastic or fluid models from physics. This lack of task-specificity impairs achievable registration accuracy, even for state-of-the-art algorithms.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: This project will therefore further develop, invent, and investigate fast analysis approaches based on replacing costly numerical optimizations by fast, approximate, learned regression models for image registration. Using such learned regression models will facilitate analysis approaches which were previously not easily possible due to computational constraints (for example, general large-scale image analysis or geodesic regression approaches for images which use deformation distances to measure model residuals}. This project will also explore regression models for task-specific registrations (for example, for longitudinal data) and will therefore open up the possibility to achieve registration accuracies beyond the current state-of-the-art. The project results will have immediate impact on current brain imaging studies and will form the basis for advanced analyses of brain and general imaging data.&lt;br/&gt;&lt;br/&gt;Broader Impact: While the proposed methods are motivated by the analysis of brain images, the invented methods will have more general applicability, e.g., to analyze abdominal, lung, or even non-medical image data. For flexibility and to assure utility of the approaches in other application domains, all methods will be made available to the community in open-source form. This will allow others to adapt approaches, to replicate results, and to create customized analysis approaches. To ease interpretability of results we will provide simple visualizations and approaches for uncertainty quantification, thereby facilitating communication between computational analysts and domain experts.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711776</AwardID>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Niethammer</LastName>
+<EmailAddress>mn@cs.unc.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

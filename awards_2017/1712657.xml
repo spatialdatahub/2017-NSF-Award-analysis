@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Level Crossing of Likelihood Functions in Sequential Decision Problems and Statistical Learning</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>128988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor J. Szekely</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The last decade has witnessed remarkable progress in statistical methods for applications arising from various fields including education, psychology, finance, and engineering. The properties of many of these new methods remain unclear, calling for theoretical insights. This research project aims at (1) studying the theoretical underpinning of effective methods in statistical learning and sequential decision making and (2) developing new methods with provably efficiency and reliability.  This research will not only address a class of fundamental problems in statistics but also have a positive impact on scientific research in other disciplines. One important application will be in the adaptive design of educational testing and personalized learning. &lt;br/&gt;&lt;br/&gt;Three types of problems will be considered in the project: information quantification for model selection, measuring the feasibility of classification, and sequential allocation. A common feature of the research problems involves handling the probability that a likelihood function exceeds a high level. The analysis of such a probability is statistically challenging, especially under the asymptotic regime where this probability decays at an exponential rate. Standard numerical evaluation tools, such as Monte Carlo methods, are computationally intensive to achieve a reasonable accuracy level for simulating such a small probability. Novel techniques will be developed to obtain sharp asymptotic approximations as well as provably efficient numerical methods simultaneously.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712657</AwardID>
+<Investigator>
+<FirstName>Xiaoou</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>lixx1766@umn.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

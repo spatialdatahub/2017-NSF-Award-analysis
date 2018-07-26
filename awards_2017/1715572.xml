@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Single Molecule Studies to Dissect Allosteric Communication Networks in Protein Kinase A</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>299622</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wilson Francisco</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Signaling proteins are  the core building blocks in the transmission of biological signals, allowing cells to communicate between the extracellular environment and the cellular interior.  Understanding how signaling proteins operate has important and broad implications, from defining how biological systems detect and transduce signals, to reengineering protein function for biotechnological applications, to identifying new binding sites for allosteric inhibitors.  The cAMP-dependent Protein Kinase A (PKA) is a major signaling protein in all eukaryotic cells that incorporates structural and functional elements seen in most signaling protein complexes, including a modular domain organization, ligand binding cooperativity, signaling through flexible linker domains, and ligand-induced conformational changes.  This protein will be used as a model system to quantitatively define how biological signals are transduced from one domain to another to regulate and activate protein function.  This project will provide research opportunities to undergraduate and graduate students at the interface of biology, physics and computational  modeling.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project will use single-molecule biophysical techniques in combination with molecular dynamic simulations to investigate the mechanism of communication between different structural elements of PKA.  The goal of this project is to determine how such communication mechanisms are established in different biological states (apo, active and  inactive  states), and how cAMP binding activates the protein.  It is expected that the tools and methods developed from these studies will have widespread applications to advance knowledge in a variety of related and unrelated kinases that display modular architectures, such as cGMP-dependent protein kinase involved in vasodilation and  platelet activation, or  protein kinase C involved in cell migration, differentiation, and apoptosis.  Lastly, the interdisciplinary nature of this project will provide unique research opportunities to graduate and undergraduate students from different backgrounds.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715572</AwardID>
+<Investigator>
+<FirstName>Rodrigo</FirstName>
+<LastName>Maillard</LastName>
+<EmailAddress>rodrigo.maillard@georgetown.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgetown University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200571789</ZipCode>
+<PhoneNumber>2026250100</PhoneNumber>
+<StreetAddress>37th &amp; O St N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

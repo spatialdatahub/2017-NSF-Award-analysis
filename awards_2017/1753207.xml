@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Modulating the Cybotactic Region Surrounding Colloidal Liposomes and Nanoparticles</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardAmount>148444</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lin He</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Luis Velarde at The State University of New York at Buffalo is developing spectroscopic techniques to study properties and processes on the curved surface of a nanoparticle in the local environment. The ability to characterize the near-surface region of a nanoparticle becomes critically important in defining how surface treatments and local fields affect a particle's properties and function.  Such particles find applications in chemical sensing, catalysis, energy and biomedical research. In addition, Professor Velarde works with students of diverse backgrounds.  He is developing hands-on experimentation kits that promote interdisciplinary approaches to building educational sensors that involve the use of light, nanomaterials, and basic electronics. This outreach activity is done in partnership with the Buffalo Public School system where high school students and teachers are involved. &lt;br/&gt;&lt;br/&gt;Professor Velarde is developing methods for in-situ spectroscopic measurements which selectively probe the interfacial region of the suspended colloids. These methods are based on coherent nonlinear laser scattering processes that exploit electronic sum frequency generation techniques. He and his students use femtosecond pulses and ultra-broad bandwidth multiplex approaches to directly obtain coupled vibrational and electronic spectra of the colloidal surface with high quality spectral lineshapes. The new spectroscopic data provides unique chemical insights into the effects of electrolytes, pH, and the presence of specific ions on the colloid interfacial structure and dynamics from both the particle and solvent perspective. This research advances basic scientific understanding and expands the ability to discover subtle processes that modulate the interfacial region of soft lipid colloids and nanoparticles. Actively participating in community outreach, Professor Velarde works with students from diverse backgrounds to train them in spectroscopic analysis and in the design of complex experiments.</AbstractNarration>
+<MinAmdLetterDate>02/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1753207</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Velarde</LastName>
+<EmailAddress>lvelarde@buffalo.edu</EmailAddress>
+<StartDate>02/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Amherst</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+</Award>
+</rootTag>

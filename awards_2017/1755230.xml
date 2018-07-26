@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Mechanisms of specificity and tolerance in a nematode-bacterial symbiosis</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardAmount>399156</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Purnima Bhanot</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many organisms form symbiotic relationships. In some symbioses, each partner improves the well-being of the other partner. For example, some bacteria that reside in the human gut provide a benefit to humans through vitamin production, keeping out harmful bacteria, or fortifying the immune system. In turn, humans provide gut bacteria with a place to live and food. Animal-bacterial symbioses are fascinating not only because they are widespread and seem to play critical roles in human biology, but also because these relationships generate tremendous complexity at the molecular level. Each partner must recognize, and then continue to tolerate, a specific associate. How is this delicate balancing act of specificity and tolerance achieved? This award will study the mechanism of this symbiotic balancing act in a model symbiosis, between a nematode (roundworm) and bacteria. To better understand specificity in this symbiosis, researchers will use microscopy and genetics to identify relevant molecules and mechanisms. To better understand tolerance in this system, they will define genes that generate an appropriate response to the partner. Overall, by studying mechanisms that govern specificity and tolerance in a specific symbiosis, the work will generate testable hypotheses for how animal/bacterial relationships are regulated more generally. Finally, because the award funds research at an undergraduate-only institution, it will positively impact many young scientists. They will learn experimental techniques, data analysis and strategies for communicating their results to the public via an online writing program. &lt;br/&gt;&lt;br/&gt;This award studies partner specificity and tolerance mechanisms in the model symbiosis between Heterorhabditis nematodes and Photorhabdus bacteria. Together, these partners infect and kill insect larvae; the nematode serves as a delivery vector while the bacteria produce insecticides and antibiotics. The symbiosis is very specific. Not every Photorhabdus strain can colonize every Heterorhabditis strain. It is also a remarkable example of tolerance. Photorhabdus is a powerful pathogen, capable of killing not only insects but also multiple genera of nematodes while sparing its Heterorhabditis host. At different stages of the nematode life cycle, the bacterial symbiont either stably colonizes, or is digested by, the nematode. The award will determine how specificity and tolerance of the Hetorhabditis/Photorhabdus symbiosis are achieved at a molecular level. Specifically, it will test the hypothesis that genetically encoded regulatory mechanisms, in both symbiont and host, shape the symbiosis at two levels: (1) over evolutionary time - determining which specific relationships endure; (2) over a single host's lifespan - maintaining tolerance without compromising self-defense. The proposed research will identify specificity and tolerance mechanisms in both host and symbiont, using microscopy, forward genetics, gene expression analysis, and nematode lifespan/fitness assays. Projected outcomes include enhanced understanding of regulatory mechanisms in this system and expanded knowledge of nematode-bacterial interactions in general. Furthermore, this work has the potential to improve understanding of how symbiotic/antagonistic relationships evolve and persist. The awards enhances scientific education at an undergraduate institution and promotes both research and scientific communication skills of undergraduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1755230</AwardID>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Wollenberg</LastName>
+<EmailAddress>Amanda.Wollenberg@kzoo.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Wollenberg</LastName>
+<EmailAddress>mwollenb@kzoo.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kalamazoo College</Name>
+<CityName>Kalamazoo</CityName>
+<ZipCode>490063291</ZipCode>
+<PhoneNumber>2693377162</PhoneNumber>
+<StreetAddress>1200 Academy Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7656</Code>
+<Text>SYMBIOSIS DEF &amp; SELF RECOG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

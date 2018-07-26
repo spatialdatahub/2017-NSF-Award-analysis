@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Weather Augmented Risk Determination System</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project includes providing weather-related risk information to construction contracting companies, private farmers, insurance and re-insurance companies, risk management companies, local, federal agencies, state agencies, and any other company that may be impacted by adverse weather. This product provides insight into the impacts of adverse weather conditions, allowing its constituents to plan and prepare. Construction companies need to stay on schedule to avoid liquidated damages, so it is important to determine the impacts of weather on work stoppage, as well as decreased labor productivity.  Insurance and risk management companies need information on the impacts of weather events on their constituents, to be able to competitively price their insurance policies. Furthermore, government agencies, such as the Departments of Transportation and Public Works need information on the impacts of weather on duration of their projects, to determine the best starting date for construction, considering impacts of weather on delays.&lt;br/&gt;&lt;br/&gt;This I-Corps project provides a software tool (Weather Augmented Risk Determination System, WARDS) for estimating probabilities of work stoppage and labor productivity for each hour using long-term observations. WARDS provides both the likeliest delay (e.g., in days or months) and the likelihood that a user-defined addition of time for weather delay will actually occur.  The research potential for this product include analyzing the differences in labor productivity and work stoppage across multiple locations. Furthermore, the technology platform can determine the historical observed changes in labor productivity and work stoppage. The product can determine the monetary impacts of changing labor productivity and work stoppage due to weather.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745784</AwardID>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>AghaKouchak</LastName>
+<EmailAddress>amir.a@uci.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

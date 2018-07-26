@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Impact of Aerosol Viscosity, Phase Separation, and Internal Structure on Isoprene-Derived SOA (Secondary Organic Aerosol) Formation</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>261204</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project strives to minimize the gap between measurements and models that characterize the formation rates, concentrations, and spatial distributions of small organic particles in the atmosphere. Laboratory studies will be conducted in the UNC Environmental Chamber Facility to measure key physicochemical properties of aerosol and gas phase products. The results will be applied to improve models of secondary organic aerosol (SOA) formation to better inform policy decisions about air quality, human health, and climate. &lt;br/&gt;&lt;br/&gt;The PIs will test the hypothesis that higher viscosity and phase-separation will suppress the reactive uptake of isoprene epoxydiols (IEPOX).  The four objectives of the experimental plan to test this hypothesis include the (1) determination of the reactive uptake of IEPOX as a function of particle viscosity; (2) determination of the reactive uptake of IEPOX on particles with complex morphologies; (3) identification of the molecular composition and physicochemical properties of the IEPOX-derived SOA constituents for different viscosities and morphologies; and (4) characterization of volatile products resulting from reactive uptake chemistry of IEPOX.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703019</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Ault</LastName>
+<EmailAddress>aulta@umich.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

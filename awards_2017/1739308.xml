@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Small: Geometric Self-Propelled Articulated Micro-Scale Devices</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>457548</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Sub-millimeter scale cyber-physical systems will have a major impact on future applications.  For example, targeted drug delivery or materials conveyance for micro-scale construction are two important application areas on which small-scale systems will advance the current state of the art.  However, conventional actuator, sensor, and computational units are generally not available at extremely small scales.  This project thus explores the relationships between novel microfabrication, system design for articulated locomotion, and active control of micro, cyber-physical systems.  More specifically, this project develops a common analytical framework to understand, express, and reason about the connections, as well as demonstrate on a novel problem, the benefits of self-propelled articulated micro-scale devices.&lt;br/&gt;&lt;br/&gt;The project is developing elasto-magnetic filaments formed by linked ferromagnetic beads.  These filaments can serve as the basis for functionalized structures, employing protein-coatings, that are flexible and controllable through actively manipulated distributions of magnetic dipole moments.  This approach uses dual laser polymerization to construct templates that enable the magnetization profile of chains composed by single micron diameter ferromagnetic spheres, bonded by DNA origami strands, to be actively programmed.  These elasto-magnetic bodies are then articulated by changes in an externally applied magnetic field, i.e., when subjected to a constant but oscillating weak magnetic field, the local alignment of dipole moments to the field will actively "actuate" the systems.  The analysis, based on a geometric framework, will determine the optimal distribution of magnetization profiles across the filaments; thereby linking fabrication to analysis and the geometry underlying locomotion in dissipative fluids to novel maneuvering capabilities.  Guided by this framework, as a demonstration, microrobots with these magnetized bodies will be designed to achieve specific locomotion objectives in sufficient numbers to be made to move purposefully in uncertain environments.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739308</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Travers</LastName>
+<EmailAddress>mtravers@andrew.cmu.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>bex@andrew.cmu.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

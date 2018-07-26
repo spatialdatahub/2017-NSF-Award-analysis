@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII:OAC: Novel techniques for improving convergence and scalability of a Monte Carlo radiation solver for large-scale combustion simulations</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>174951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Combustion has been an important source of energy for ages and will continue to be so for considerable future.  With the help of high-performance computing (HPC), predictive and accurate combustion simulations have a tremendous potential to emerge as a cost-effective and reliable design, assessment, and decision-making tool for practical systems (e.g., gas turbines, internal combustion engines, furnaces, etc.).  Detailed predictive modeling of combustion system requires, among other things, detailed and accurate modeling of thermal radiation.  However, models for thermal radiation used in combustion simulations are usually over-simplified.  The main bottlenecks in using detailed radiation model are its high computational cost and poor parallel efficiency in HPC.  This project explores several novel ideas to increase efficiency and robustness of a high-fidelity radiation solver in HPC combustion simulations, leading to the possibility of performing predictive and accurate simulations of practical combustion systems in a realistic time-frame.  The ability to perform such large-scale reliable predictive simulation is not only important in the design process of real combustion devices but also essential to further our understanding of fundamentals of combustion processes.  Considering the ever-increasing need for cleaner combustion devices, this predictive capability can potentially have a significant effect in academic research, as well as in energy and transportation industry.  The project will also have an impact in popularizing computer programming in undergraduate students.  Therefore, this research aligns with the NSF's mission to promote the progress of science and to advance the national health, prosperity, and welfare. &lt;br/&gt; &lt;br/&gt;The radiation solver of choice in this project is a Monte-Carlo ray tracing-based (MCRT) solver.  It is one of the most accurate radiation solver available, and typically outshines all other radiation solvers as the complexity of the problem increases.  To achieve improvements in efficiency and scalability of the MCRT solver in HPC simulations of large-scale combustion systems, this research brings together ideas from different disciplines of mathematics, statistical theory, and computer science and applies them to solve an engineering problem.  Considering the fact that the performance of an MCRT solver in HPC primarily depends on the underlying statistical algorithm and computational load-balancing, the current research is divided into three primary tasks.  First, the project is developing new algorithms for improved convergence using special statistical distributions with low discrepancy.  Second, novel strategies for MCRT load management, both in terms of computational time and memory utilization, are being explored to improve scalability of the solver in HPC simulations.  Third, the improved MCRT solver are planned to be created as a modular, platform-independent solver module with standardized interfaces so that it can be used with any combustion and/or CFD solver without significant sacrifice of its performance.  By enhancing efficiency and scalability of MCRT, this work aims to enable more accurate predictive HPC simulations of large-scale combustion systems in a realistic timescale.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1756005</AwardID>
+<Investigator>
+<FirstName>Somesh</FirstName>
+<LastName>Roy</LastName>
+<EmailAddress>somesh.roy@marquette.edu</EmailAddress>
+<StartDate>02/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Marquette University</Name>
+<CityName>Milwaukee</CityName>
+<ZipCode>532011881</ZipCode>
+<PhoneNumber>4142887200</PhoneNumber>
+<StreetAddress>P.O. Box 1881</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

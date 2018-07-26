@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Implementing Techtivities to Promote Students' Covariational Reasoning in College Algebra (ITSCoRe)</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Keene</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Promoting students' opportunities to succeed in gatekeeping, introductory undergraduate mathematics courses, such as college algebra, is of utmost importance for students' graduation from college in general and for persistence in STEM majors specifically. To address this challenge, this project will develop, implement, and study Techtivities: free, web-based, learning experiences that link video animations with dynamic, interactive graphs. These engaging activities will focus on students' covariational reasoning, which involves forming and interpreting relationships between changing quantities. Covariational reasoning is a competency important for students' success in key areas of college mathematics (e.g., functions, rates, and graphs) as well as for critical thinking as an educated citizen. By embedding a professional development intervention, the project will foster college algebra instructors' use of Techtivities with their students. More broadly, the Techtivities will be available in Desmos, a freely available digital mathematics tool, which will promote sharing project products with a wide range of stakeholders, including those invested in both undergraduate and pre-college education.&lt;br/&gt;&lt;br/&gt;The project will accomplish a threefold goal: (1) develop and validate an instrument measuring students' covariational reasoning; (2) improve student outcomes in college algebra by increasing student engagement and enhancing students' covariational reasoning; and (3) promote purposeful, engaged students by drawing connections between students' views of themselves as doers of mathematics, their success in college algebra (as measured by their performance on a common final exam and their final course grade), and their performance on a covariational reasoning instrument. In addition, the project will address three research questions, which are directly aligned with the project's goals: (1) How can students' covariational reasoning be measured? (2) To what degree do student outcomes increase after Techtivities PD intervention? (3) How do students view themselves as doers of mathematics? The mixed-methods study will include analysis of student-level data from sources such as clinical interviews with undergraduates, student performance on a common final exam, and student performance on the covariational reasoning instrument. Instructor-level data will include interviews with participating instructors, a Likert-scale measure of instructors' perceptions of covariational reasoning, and pre-/post-surveys with instructors to gauge their use of Techtivities.</AbstractNarration>
+<MinAmdLetterDate>07/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709903</AwardID>
+<Investigator>
+<FirstName>Jeremiah</FirstName>
+<LastName>Kalir</LastName>
+<EmailAddress>remi.kalir@ucdenver.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Olson</LastName>
+<EmailAddress>gary.olson@ucdenver.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>heather.johnson@ucdenver.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Denver-Downtown Campus</Name>
+<CityName>Aurora</CityName>
+<ZipCode>800452571</ZipCode>
+<PhoneNumber>3037240090</PhoneNumber>
+<StreetAddress>F428, AMC Bldg 500</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

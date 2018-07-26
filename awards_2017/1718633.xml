@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF:Small:Neuromorphic Architectures for On-line Learning</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>439998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the increasingly large volumes of data being generated in all fields, it is difficult to draw meaningful understanding from the information. Deep learning is a collection of new algorithms that have been developed recently to make it easier to understand large volumes of data. These algorithms typically have two phases of operation: training and inference. In the training phase, the algorithms learn how to interpret data, while in the inference phase the trained algorithms process new data based on what they learned earlier. Training generally requires high power computing. This project will develop novel computing systems for training that require low power consumption. This makes them suitable for portable systems, and hence could enable the design of significantly smarter products that learn continuously from their environment and are able to better interact with the environment. The proposed work includes outreach to K-12 students and also training of undergraduate, graduate, and minority students. &lt;br/&gt;&lt;br/&gt;The novel computing systems to be developed will employ memristor circuits to accelerate the training phase of deep learning algorithms. Memristors are nanoscale resistive memory devices. The PIs will develop and characterize the memristors and then design deep learning circuits for training based on the characterized memristor devices. The PIs will also design computing systems based on the training circuits to be developed. These computing systems will have applications in a broad range of fields, including low power consumer products and high power clusters of computers.</AbstractNarration>
+<MinAmdLetterDate>08/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718633</AwardID>
+<Investigator>
+<FirstName>Guru</FirstName>
+<LastName>Subramanyam</LastName>
+<EmailAddress>gsubramanyam@notes.udayton.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tarek</FirstName>
+<LastName>Taha</LastName>
+<EmailAddress>tarek.taha@notes.udayton.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Dayton</Name>
+<CityName>DAYTON</CityName>
+<ZipCode>454690104</ZipCode>
+<PhoneNumber>9372292919</PhoneNumber>
+<StreetAddress>300 COLLEGE PARK AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

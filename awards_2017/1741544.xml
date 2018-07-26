@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Midwestern Graph Theory Conference LVIII</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>6000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the 2017 Midwestern Graph Theory Conference held at Grand Valley State University in Allendale, Michigan, on October 6-7, 2017.  The meeting is the 58th in a longstanding series of conferences dedicated to the dissemination of new ideas and techniques in graph theory and its applications.  The conferences are held nearly every year at various institutions located in the Midwest and the surrounding regions.   Attendees, including undergraduates as well as graduate students and post-doctoral scholars, are drawn from across the country.&lt;br/&gt;&lt;br/&gt;This conference features plenary research talks by two well-known graph theorists, as well as contributed talks on a variety of topics such as graph coloring, structural and extremal problems on graphs and hypergraphs, and applications of graph theory (e.g., to computer science, biological and social networks, etc.). The entirety of the funds from this award will be used to support the travel of participants, including students and early-career mathematicians.  More information about the conference is available at the conference website: http://www.gvsu.edu/math/mighty-lviii/</AbstractNarration>
+<MinAmdLetterDate>07/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741544</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Reiniger</LastName>
+<EmailAddress>breiniger@iit.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taylor</FirstName>
+<LastName>Short</LastName>
+<EmailAddress>shorttay@gvsu.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Keough</LastName>
+<EmailAddress>keoulaur@gvsu.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Santana</LastName>
+<EmailAddress>santanmi@gvsu.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Grand Valley State University</Name>
+<CityName>Allendale</CityName>
+<ZipCode>494019401</ZipCode>
+<PhoneNumber>6163316840</PhoneNumber>
+<StreetAddress>1 Campus Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

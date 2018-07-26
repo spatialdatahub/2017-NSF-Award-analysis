@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Scalable, Practical Deterministic Database Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>320184</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James French</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The database system was one of the first highly concurrent systems ever designed, and has served as a blueprint for the design of many subsequent concurrent computing systems. The decision to allow the system to process concurrent transactions nondeterministically has led to countless headaches from bugs (and debugging), security, replication, and general code complexity. The research funded by this grant will investigate the development of a fundamentally different design for concurrent execution of transactions in database systems that guarantees that the final state of the database is deterministically prescribed from the input to the system. Such databases have the potential to significantly improve the throughput, latency, fault tolerance, and general robustness of database systems. In addition to performing fundamental research on deterministic database systems, we plan to develop open source code for the different components of the system including transaction management, concurrency control, and log management. We expect this code will be useful both for development of other database systems, and also as pedagogical tools for database systems courses. We plan heavy undergraduate involvement in the research, including contributions from women and underrepresented minorities.&lt;br/&gt;&lt;br/&gt;Key research areas within the project include automatic read/write-set detection (a key requirement to making deterministic database systems practical and widely adopted), leveraging the active replication enabled by determinism to accelerate distributed read-only queries, building a deterministic system out of nondeterministic components, and worker thread scheduling within the database system. These research topics will enable a high-throughput ACID-compliant database system that can scale commit protocols for distributed transactions, the support of performant transactions and queries within the same system, and the ability to handle wild fluctuations in server performance (especially virtual servers in the cloud) and fluctuations in offered workload (including unexpected load spikes). For further information see the project web site at: http://db.cs.yale.edu/calvin.</AbstractNarration>
+<MinAmdLetterDate>10/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1763797</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Abadi</LastName>
+<EmailAddress>abadi@umd.edu</EmailAddress>
+<StartDate>10/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

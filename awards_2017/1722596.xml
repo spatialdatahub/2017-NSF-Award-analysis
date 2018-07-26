@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCH: INT: Collaborative Research:  Smart Wearable Systems to Support and Measure Movement in Children With and Without Mobility Impairments</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>537101</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Brassil</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on the development of wearable technologies to measure and assist upper-limb mobility in children with mobility impairments. Because mobility impairments in early life can have long-term effects on psychological as well as physical development, it is important both to help children overcome these impairments through assistive technologies and to be able to measure the effect of interventions in everyday movements over long periods of time. However, most assistive and sensing technologies are bulky and uncomfortable. The project team will develop soft, low-profile sensing and actuating technologies that look and feel like everyday clothing. The wearable systems will be developed and evaluated with a group of 3-12 year old children and their caregivers. This work will contribute to the development of technologies that enable understanding and effects of interventions on mobility impairments, and contribute to the burgeoning smart textiles and clothing industry in the USA.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The approach relies on stitched, textile-based sensing and a hybrid approach of soft inflatable structures and shape-memory fibers to assist limb movements. Learning based activity recognition algorithms will be developed that are robust to differences in body shape and garment-movement error. The atypical movements performed by children with mobility impairments will be recognized, enabling assessment of clinical indicators like range of movement. The actuating component of the proposed system uses soft pneumatic structures to provide counter-gravitational (lift) forces, and Shape Memory Alloy (SMA) spring-type actuators to provide directional control. The system will be developed in two phases: initially, the sensing component and the passive lift (inflatable abduction support) will be developed using typically-developing children, and tested in 4-week in-home trials with 15 children with mobility impairments. The active actuated system will be developed and deployed in collaboration with 5-10 families with children with mobility impairments over a period of one year. The effects of both systems on user?s upper-limb mobility as well as the usability and social acceptability of the systems will be evaluated.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722596</AwardID>
+<Investigator>
+<FirstName>Michele</FirstName>
+<LastName>Lobo</LastName>
+<EmailAddress>malobo@UDel.Edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197162553</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8062</Code>
+<Text>SCH Type II: INT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

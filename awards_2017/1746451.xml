@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FOCS Conference Student and Postdoc Travel Support</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will help to support student attendance at the 58th IEEE Annual Symposium on the Foundations of Computer Science (FOCS) in Berkeley, CA on October 15 through October 17, 2017, as well as to support attendance by some qualified postdoctoral fellows who do not have other sources of travel funding. FOCS and its sister conference, the ACM STOC meeting, are the premier broad-based conferences on the Theory of Computing. FOCS has a record of strongly encouraging participation by students, for whom the conference serves as a valuable educational experience, both for the technical content of the talks and for the opportunities for networking that it provides. In recent years, the annual FOCS conference has been attended by eighty to one hundred students who have comprised more than a third of all attendees. This award will provide partial support to fifteen or more students.</AbstractNarration>
+<MinAmdLetterDate>06/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746451</AwardID>
+<Investigator>
+<FirstName>Aravind</FirstName>
+<LastName>Srinivasan</LastName>
+<EmailAddress>srin@cs.umd.edu</EmailAddress>
+<StartDate>06/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

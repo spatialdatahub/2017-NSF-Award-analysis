@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Digitization of Skeletal Evaluations for Developmental and Reproductive Toxicology (DART) Studies.</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of a digital skeletal evaluation workflow for reproductive toxicology studies that will better ensure that potential therapeutics with teratogenic effects will not make it to the marketplace, and at reduced time and cost. The current approach for characterizing the impact of new therapeutics and chemicals on skeletal development relies upon human-based qualitative characterization, while the goal for this digital and quantitative approach will be to more accurately characterize the effect of therapeutics. An improved skeletal characterization workflow in this $2.5 billion toxicology market also will allow for the reduced usage of animals. The imaging and characterization platform developed through this project will be commercialized as a service where contract research organizations or pharmaceutical companies may send fetal skeletons for analysis.  Alternatively, customers may purchase the platform. This biphasic business model will allow small contract research organizations to outsource labor intensive characterization and large contract research organizations to switch to this new digital approach. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to optimize a prototype optical coherence tomography (CT) scanner for the 3D digitization of rodent skeletons at high resolution.  Using this system, rodent skeletons will be transformed into three-dimensional data matrices that can be evaluated digitally by a fetal pathologist or characterized quantitively by a computer for defects. The illumination and imaging parameters of the optical scanner will be systematically optimized to reduce noise and to enable the clear differentiation between different skeletal features. Once rodent skeletons can be imaged in a reproducible manner to create three-dimensional data sets, these data sets will be compared quantitatively side-by-side to data sets acquired from the same animals using more expensive X-ray CT imaging. Following imaging optimization and validation, a digital analysis program will be developed that will determine if bones in a rodent model deviate from control samples. This program will begin to allow for the complete digital evaluation of rodent skeletons for developmental and reproductive toxicology studies.</AbstractNarration>
+<MinAmdLetterDate>12/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745650</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>michael.johnson@visikol.com</EmailAddress>
+<StartDate>12/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Visikol, Inc.</Name>
+<CityName>New Brunswick</CityName>
+<ZipCode>089012126</ZipCode>
+<PhoneNumber>7329938005</PhoneNumber>
+<StreetAddress>120 Albany St Ste 850</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

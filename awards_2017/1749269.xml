@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Linguistic Computation Electrified</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>47340</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William J. Badecker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Psycholinguistic and linguistic theories have yielded testable hypotheses about language mechanisms, but revealing how these mechanisms are implemented in the biology of the brain remains a central challenge. This project will support a workshop bringing together leading scientists of brain and language to advance the understanding of the brain mechanisms of language from a cross-disciplinary viewpoint, focusing on the novel use of electrical brain recording methods in humans. Understanding language processes from their computational to their neural bases is essential for advancing critical national goals in education, in the medical treatment of language disorders and hearing loss, and in the creation of analytic approaches that will boost U.S. competitiveness in science and engineering, public and private sector research and development, and national security.&lt;br/&gt;&lt;br/&gt;The project will connect electrophysiological and computational approaches for understanding human brain language processing. A first aim is to advance the effectiveness of electrophysiological tools for investigating language computations in the brain during comprehension. Language processes unfold rapidly, on a time scale of fractions of a second, and electrical recordings of brain activity are able to track this fast time course. A second aim is to develop frameworks for creating novel applications and approaches, such as the integration of machine learning methods with measures of brain electrical activity to obtain highly selective views of brain processes supporting specific aspects of language understanding. A third aim is to evaluate three main functions in linguistic computation that are being shown to be amenable to study using electrophysiological recordings, namely combinatorial processing, bilingualism, and predictive processing during language comprehension and production. The project will also provide training in leading-edge methods, thus supporting national efforts to develop the work force, and enhance science education and scientific rigor.</AbstractNarration>
+<MinAmdLetterDate>02/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749269</AwardID>
+<Investigator>
+<FirstName>Tamara</FirstName>
+<LastName>Swaab</LastName>
+<EmailAddress>swaab@ucdavis.edu</EmailAddress>
+<StartDate>02/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Traxler</LastName>
+<EmailAddress>mjtraxler@ucdavis.edu</EmailAddress>
+<StartDate>02/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fernanda</FirstName>
+<LastName>Ferreira</LastName>
+<EmailAddress>fferreira@ucdavis.edu</EmailAddress>
+<StartDate>02/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Henderson</LastName>
+<EmailAddress>johnhenderson@ucdavis.edu</EmailAddress>
+<StartDate>02/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

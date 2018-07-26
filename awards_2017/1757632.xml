@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Undergraduate Research in Smart Environments</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates site will enable 10 undergraduates each year to conduct hands-on research in the field of smart environments for a period of 10 weeks each summer. Research participants from a wide variety of institutions and demographic backgrounds will explore the links between multiple applications including artificial intelligence, machine learning, data mining, high-performance computing, pervasive computing, networking, distributed systems, health, medicine, psychology, gerontechnology, and energy sustainability. Within this context, participants will gain an appreciation for how to collect large amounts of data from these environments, analyze the data for new knowledge, and take actions to effect changes in the environments in order to improve health, security, efficiency and sustainability. &lt;br/&gt;&lt;br/&gt;This REU site facilitates research and training in multiple complementary disciplines including computer science, electrical engineering, psychology, and health care. The team partners with other REU programs on campus, and participants will interact regularly with other REU students from around the country, with faculty from multiple REU programs, and with graduate students from the related ongoing research programs in smart environments. The program will enable interdisciplinary research that links design of technology with health-based sustainable energy applications, and creates new opportunities for undergraduates to study health, energy and human behavior using the technology. Results of this program, including descriptions of student projects, lessons learned, and quantitative and qualitative feedback, will be disseminated via the program website. This program will also make a contribution to a generation whose workforce is trained in multiple, complementary disciplines. Finally, our planned recruitment effort and strong mentoring component will spread knowledge of the benefits of the REU program among the targeted populations, resulting in broadening participation in engineering and related disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757632</AwardID>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Holder</LastName>
+<EmailAddress>holder@eecs.wsu.edu</EmailAddress>
+<StartDate>01/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991641060</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>280 Lighty</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

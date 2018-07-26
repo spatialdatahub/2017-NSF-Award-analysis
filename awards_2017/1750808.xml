@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: A Theory of Error Correction for Interactive Communication</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardAmount>106427</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims at developing a theory and methods for correcting errors in interactive communications. Shannon's influential "A Mathematical Theory of Communication" established such a theory for one-way communications. Coding theory has subsequently produced computationally efficient methods for reliable data transmissions over unreliable channels. While error correcting codes have transformed communication technologies over the decades, modern communication settings often go beyond one-way transmissions and instead require many interleaved rounds of interactive communication. The development of interactive equivalents of good error correcting codes for such modern systems is a much harder task, which has attracted attention recently and witnessed encouraging initial successes. This project will further advance the fundamental questions underlying possibilities, limitations, and theoretical underpinnings of reliable interactive communication in the presence of noise, and thus contribute to a solid mathematical and computational theory of reliable interactive communication. The project also has a strong educational component which supports several initiatives to stimulate undergraduates, graduate students, the scientific community, and the general public through education and outreach.&lt;br/&gt;&lt;br/&gt;The project attacks a diverse set of "classical" questions, such as determining the fundamental communication rate limits for error correction in interactive communications, and explicit constructions of tree codes, a powerful but elusive type of online code. The project also considers the broader context of interactive coding schemes and their wide ranging applicability in other areas of theoretical computer science, including cryptography, privacy, and memory efficient error resilient computations.</AbstractNarration>
+<MinAmdLetterDate>02/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750808</AwardID>
+<Investigator>
+<FirstName>Bernhard</FirstName>
+<LastName>Haeupler</LastName>
+<EmailAddress>haeupler@cs.cmu.edu</EmailAddress>
+<StartDate>02/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7934</Code>
+<Text>PARAL/DISTRIBUTED ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

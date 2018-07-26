@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Effect of Variability on Fall Risk and Energetic Cost in Biped Walking</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>344679</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Atul G. Kelkar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When both people and biped robots walk, they move through approximately the same motion at every step, but not exactly the same motion. The differences in their motions appear to contribute to the risk of falling. The exact relationship between this variability (differences in motion) and falling events is unknown. Variability may also affect how much energy is required to walk but again the relationship between variability and energy required is unknown. The robustness is defined as achieving a reduced risk of falling and also requiring minimum energy in spite of the presence of variability. This project will determine which aspects of variability decrease robustness. The project will also investigate if increasing the duration of the double support period of gait (the period when both feet are on the ground) increases robustness. The research will lead to a diagnostic tool to determine likelihood of biped falling. This tool can provide clinicians with valuable insights into how changes in walking gaits affect the fall risk. This work will also lead to improved capabilities for biped robots, which in turn will significantly increase their utility. The fall risk diagnostic tool will be adapted into an experimental activity for middle and high schoolers to introduce the concepts of diagnostics and estimation. The research is expected to broaden participation by strengthening the connection between engineering and people's wellbeing. &lt;br/&gt;&lt;br/&gt;The project will involve theoretical- and simulation-based work that will consider how a novel combination of the double support controller and joint variability alters robustness. This study will develop multiple double support controllers and prove both theoretically and through simulation that increasing the duration of the double support period increases robustness. Different double support control formulations will be compared, and the formulation that results in the most robust gait will be determined. Using simulations, the role of the magnitude, frequency, and continuity in joint variability at each joint will be analyzed by systematically altering the modeled variability and simulating the gait until the model falls. Because variability at one joint is likely to interact with variability at other joints, it will be altered using a fractional factorial experimental design paradigm. This study will use the simulations to determine which easily measurable gait characteristics are correlated with robustness. These measurements will be combined to form a diagnostic tool that can accurately predict gait robustness using a computationally realistic number of steps. The diagnostic tool will be used to design new gaits that are optimized for robustness.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727540</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Martin</LastName>
+<EmailAddress>AEM34@psu.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Hill</LastName>
+<EmailAddress>kathyhill@psu.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>072E</Code>
+<Text>NETWORKS &amp; QUEUING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

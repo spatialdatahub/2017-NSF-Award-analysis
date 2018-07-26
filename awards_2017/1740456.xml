@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Proposal for Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing (ICCAC)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is to support the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing (ICCAC) in Tucson, AZ, September 18-22, 2017. The doctoral symposium is meant to engage PhD students attending the symposium with interactions that provide the attendees with research and career mentoring. The primary objectives of the doctoral symposium are:&lt;br/&gt;   *Provide a venue for PhD students to present their research and obtain feedback from experts in the area. Students will be given the opportunity to present their research even if they did not have a paper in the main conference.&lt;br/&gt;   *Allow PhD students to present their work at the main conference's poster session. This will enable students to receive further mentoring about their research. &lt;br/&gt;   *Mentor PhD students by providing sound career advice from representatives in industry as well as academia.&lt;br/&gt;&lt;br/&gt;The overall impact that such a meeting can have on PhD students, both early and late in their studies, can be invaluable. The findings at the Doctoral Symposium will be made publicly available to increase the dissemination of the keynotes and the results of the Q&amp;A session on career mentoring.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740456</AwardID>
+<Investigator>
+<FirstName>Salim</FirstName>
+<LastName>Hariri</LastName>
+<EmailAddress>hariri@ece.arizona.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Ditzler</LastName>
+<EmailAddress>ditzler@email.arizona.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

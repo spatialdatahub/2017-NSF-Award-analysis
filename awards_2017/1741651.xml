@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EFRI ACQUIRE: Development of scalable quantum networks using ion chips and integrated photonics</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>2000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kerstin Mukerji</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract title: EFRI ACQUIRE: Development of scalable quantum networks using ion chips and integrated photonics&lt;br/&gt;&lt;br/&gt;Abstract:&lt;br/&gt;&lt;br/&gt;Nontechnical description: Utilizing quantum mechanical systems to transmit and process information provides a fundamental advantage over classical approaches, with foundational impact on the fields of communication, networking, computer science, and fundamental quantum physics. A seminal example is the quantum network. In contrast to a classical communication networks, a quantum network stores and transmits information using quantum objects such as single atoms and single photons. By doing so, a quantum network can communicate with unconditional security and anonymity, and can also interconnect quantum computers to form a quantum internet. But realizing these technological capabilities requires the ability to store and transmit quantum information while preserving the delicate quantum state of the system. Ions trapped in electric fields constitute the best quantum memory to date. They can store quantum information for times exceeding tens of minutes, and can also emit single photons, the ideal carriers of quantum information that are entangled with quantum memory. But a number of significant challenges remain before a trapped-ion quantum network can become a reality. Ions emit visible- and ultraviolet-wavelength photons that are not compatible with fiber-optic networks. These photons must also be processed with high efficiency without destroying the delicate quantum signals that they carry.  In this program, we will combine silicon-chip traps and integrated photonics to overcome these challenges.  If successful, this project will provide the core hardware for a scalable and efficient quantum network that can process and transmit quantum information with unprecedented speed and distance.&lt;br/&gt;&lt;br/&gt;Technical abstract: By combining integrated photonics with silicon-based ion-chip traps, we will develop the technology for scalable quantum networks based on compact, chip-integrated quantum hardware operating at room temperature. Trapped ions are currently the leading platform for quantum information processing, with coherence times exceeding tens of minutes. They are also one of the few room-temperature sources of indistinguishable single photons that can exhibit the two-photon interference effects required for photon-mediated quantum interactions. The program will utilize micro-fabricated ion-chip traps to assemble and manipulate atomic ion chains on a silicon chip that serve as both efficient room-temperature single-photon sources and long-lived quantum memories. Integrated photonic structures will process photons originating from multiple ion traps to mediate long-distance quantum interactions at unprecedented efficiencies and fidelities. Integrated nonlinear photonic devices will furthermore convert photons emitted by trapped ions to telecom wavelengths for long-distance fiber propagation. The project will deploy and demonstrate compact quantum devices in a practical optical network. This highly multi-disciplinary program ultimately aims to demonstrate the fundamental operations of a quantum network, which can be used for entanglement distribution, quantum error correction, and distribution of quantum information and quantum keys.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741651</AwardID>
+<Investigator>
+<FirstName>Mario</FirstName>
+<LastName>Dagenais</LastName>
+<EmailAddress>dage@eng.umd.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Fejer</LastName>
+<EmailAddress>fejer@ee.stanford.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Monroe</LastName>
+<EmailAddress>monroe@umd.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jungsang</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>jungsang@ee.duke.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edo</FirstName>
+<LastName>Waks</LastName>
+<EmailAddress>edowaks@umd.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Toward Commercialization of the Carbon Dots Technology</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to enable the commercialization of the carbon dots technology, with the initial focus on uses in high-performance sensors for water and food analyses and in imaging techniques for the early detection of cancers and other biomedical applications. Carbon dots have been developed as nontoxic and environmentally benign alternatives to the commercially available semiconductor quantum dots, which are nanomaterials of excellent optical properties but mostly containing highly toxic heavy metals in order to achieve the desired properties and performance levels. With similarly excellent properties and high performance, carbon dots as carbon-based nanomaterials can be produced from abundant and environmentally friendly precursors. They are benign and nontoxic.  Because of the low-cost nature, the carbon dots technology is also expected to have broader applications beyond the initial focus for many other societal needs.&lt;br/&gt;&lt;br/&gt;This I-Corps project assesses the market potential and the likely customer base for a carbon dots technology. Carbon dots have emerged as a rapidly advancing and expanding field of research and development. Under the umbrella of the carbon dots technology, significant applications in a number of technological areas have been explored, including carbon dots as extremely sensitive, yet benign and nontoxic, optical probes, potent photocatalysts, photodynamic agents for therapy and other purposes, antibacterial and antiviral agents, and materials and components in various renewable energy and energy conversion devices. The focus of this project is on the technology for imaging and sensing to take advantage of the most important and uniquely advantageous characteristics and properties of carbon dots, specifically on several high-value uses for immediate commercial development.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749313</AwardID>
+<Investigator>
+<FirstName>Ya-Ping</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>syaping@clemson.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296345701</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

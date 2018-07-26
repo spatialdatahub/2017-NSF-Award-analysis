@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Researching Equity, Access, &amp; Learning in CS Education (REAL-CS): Scaling and Sustainability in High School Computer Science</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>1874878</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of California Los Angeles, in collaboration with the University of Oregon, is working to assure that equity remains central to the growing Exploring Computer Science (ECS) program and larger CSforAll movement. Over the last five years, broadening participation in computing efforts have ignited a national movement to bring computer science (CS) education to schools across the U.S. As school districts and entire states rush to get CS teachers and curricula in place, it is critically important to retain the focus on equity.&lt;br/&gt;&lt;br/&gt;This project -- Researching Equity, Access, &amp; Learning in CS Education (REAL-CS) -- has three principal strands of work, each guided by an overarching research agenda that focuses on the experiences and perspectives of students, teachers, and grassroots and policy makers across varied settings. The three strands are:&lt;br/&gt;&lt;br/&gt;(1) ECS Program Support, Outreach, and Research Nationwide which will continue to scale the ECS program, increasing the number and capacity of inquiry and equity-based ECS teachers, and deepening the learning and collaboration between ECS projects in varied settings.&lt;br/&gt;&lt;br/&gt;(2) Sustaining and Building Capacity for Computer Science Education Through Public Engagement which will support active public engagement from the grassroots, such as parent organizations, to policy and governing bodies that have jurisdiction over issues of issues of equity and CS education.&lt;br/&gt;&lt;br/&gt;(3) CS Educational Equity Research which will do qualitative research (interviews, classroom observations, focus groups) across a set of different educational contexts (e.g., urban vs. rural classrooms) and CSforAll professional development opportunities in order to document the impacts of recent CS reform efforts on broadening participation. The engagement, learning, and sense of belonging (or not) of students of color and females -- groups traditionally marginalized by the CS field -- will be given special emphasis.</AbstractNarration>
+<MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743195</AwardID>
+<Investigator>
+<FirstName>Joanna</FirstName>
+<LastName>Goode</LastName>
+<EmailAddress>goodej@uoregon.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

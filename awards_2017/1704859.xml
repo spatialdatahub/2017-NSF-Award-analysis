@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Medium: Conquering MPSoC Complexity with Principles of a Self-Aware Information Processing Factory</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Self-aware systems are reactive and  proactive, and capable of thinking outside the box, thereby coping with unforeseen situations in a dependable manner, unlike existing systems  that are designed subject to deterministic procedural specifications. Self-awareness is a critical feature for future cyber-physical systems which must cope with scenarios that were not conceived when they were developed. This project will explore directions for overhead-efficient self-aware HW/SW systems while guaranteeing critical properties such as real-time behaviors, resilience, security, and energy efficiency.  The project's study of self-awareness principles to enable autonomy in the face of dynamic and unforeseen changes will significantly impact a wide range of cyber physical application domains that critically depend on high-performance, low power and dependable computing. These systems play a pivotal role for conquering key societal challenges in healthcare, safety, transportation and industrial automation. The parallel collaborative nature of this project with German partners at TU Braunschweig and TU Munich  will train a diverse group of students and researchers and enrich their learning experiences by exposing them to the challenges of delivering autonomous IT services in different societal and international contexts.  The project will also motivate  undergraduate and underrepresented students to pursue research and graduate studies.  Students will benefit tremendously from exposure to and involvement in the design of new design and development paradigms for introducing cognition into a multi-tiered CPS and IoT infrastructure.&lt;br/&gt;&lt;br/&gt;The project introduces the notion of a self-aware Information Processing Factory (IPF) as a step towards autonomous Multi-Processor System-on-Chip (MPSoC) platforms in Cyber-Physical Systems (CPS) and the Internet of Things (IoT).  The objective is to synergistically merge the situational flexibility of self-aware/self-organizing emergence with the predictability of hierarchical top-down control in a holistic multi-layer approach, resembling an Information Processing Factory. Sensory information at multiple scales -- on-chip, run-time systems, applications -- will be monitored, fused, and interpreted intelligently to assess health status, mitigate adverse effects, and optimize system goals of the MPSoC using a novel hierarchy of self-aware control loops that can both manage complexity, as well as achieve guarantees.  Additionally, a unique scalable distributed run-time verification architecture will enable hardware-supported cross-layer monitoring of parametric specifications. The resulting approach synergistically covers the multi-tiered abstraction hierarchy from low-level VLSI circuits to runtime OS and dynamic application software. The  project complements efforts at TU Braunschweig and TU Munich in Germany, and leverages research efforts on self-awareness and self-organization at the hardware and software layers of cyber physical multicore platforms.</AbstractNarration>
+<MinAmdLetterDate>09/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704859</AwardID>
+<Investigator>
+<FirstName>Nikil</FirstName>
+<LastName>Dutt</LastName>
+<EmailAddress>dutt@uci.edu</EmailAddress>
+<StartDate>09/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fadi</FirstName>
+<LastName>Kurdahi</LastName>
+<EmailAddress>kurdahi@uci.edu</EmailAddress>
+<StartDate>09/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Lipid Bilayers and Membrane Active Peptides</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical:&lt;br/&gt;The work under this award will reveal the fundamental principles of sequence and structure for pH-triggered and pH-insensitive peptides that cause macromolecule-sized destabilization of membranes, allowing passage of macromolecules at very low concentrations. This basic knowledge is currently lacking, and is a roadblock in the design of membrane-active peptides with broad applicability. The basic knowledge that will be gained through this work will be a significant advancement in the field of membrane-active peptides. The activity that will be studied here with this award, macromolecular-sized pore formation, has not been explored thus far and its fundamental principles and mechanism of actions are unknown. Yet, it has many potential applications in biotechnology and medicine. Success in this work may enable the rational design and preparation of membrane active peptides for drug delivery and biosensing, as well as for cancer therapies, anti-viral and anti-bacterial treatments, and in agriculture for the controlled and effective release of insecticides and fungicides at very low doses.  The proposed research and outreach activities will promote interest in science, exchange of knowledge, and create synergistic interactions between students and researchers at different levels in different disciplines.&lt;br/&gt; &lt;br/&gt;Technical:&lt;br/&gt;The goal of this project is to characterize peptides that enable macromolecules to bypass the barrier of the plasma membrane. This collaborative effort by three investigators, an engineer, a physicist and a biochemist, will delineate the sequence-structure-function relationships of two families of peptides that form large macromolecule-sized pores in bilayers at low concentrations, one of which is triggered to act only at pH less than 6.0. While such behavior is extremely rare, or perhaps non-existent in nature, the investigators have discovered, by high-throughput screening, peptides with these properties. By comparing the sequences, functions and structures of these peptides, they will uncover the fundamental principles behind the unique activity of these families. The researchers will characterize the macromolecular permeabilization by pH-insensitive and pH sensitive pore formers by performing circular dichroism, fluorescence, and atomic force microscopy measurements.  They will learn how the physical properties of the lipid bilayer affect the function of the two classes of peptides, and will test specific mechanistic hypotheses with sequence variations. The work will provide many research and outreach opportunities for graduate, undergraduate and high school students, launching many new careers in science. This award by the Biomaterials Program of the Division of Materials Research in the Directorate for Physical and Mathematical Sciences (the managing program), is co-funded by the Molecular Biophysics Cluster of the Molecular and Cellular Biosciences Division in the Directorate for Biological Sciences.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709792</AwardID>
+<Investigator>
+<FirstName>Gavin</FirstName>
+<LastName>King</LastName>
+<EmailAddress>kinggm@missouri.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652110001</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>115 Business Loop 70 W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1711</Code>
+<Text>MATERIALS EDUCATION AND RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

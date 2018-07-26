@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-Planning:  Defining Research and Education Challenges in IoT for Neighborhoods with Significant Numbers of Small-to-Mid-Sized Manufacturers</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>99987</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Smart and connected systems are changing communities, work, and the home profoundly.  Automation over the past few decades has radically reshaped manufacturing, employment in manufacturing industries, and their local communities. The Internet of Things (IoT) will likely accelerate change, opening new opportunities and presenting new challenges. This grant brings together academic researchers in science, engineering, and business management at two universities, educators, community members and city leaders, and small-to-mid-sized manufacturers (SMM), all within a neighborhood of Cleveland, Ohio, to plan for research, education, and workforce development in their community.&lt;br/&gt;&lt;br/&gt;This project develops action plans for research, education, and policy recommendations to benefit SMMs and the local community.  The plans reflect an understanding of the investment in time and resources required to leverage IoT in order for the SMMs to transform themselves into "smart" manufacturers with increased productivity and energy efficiency to better capitalize on new markets.  Within the local community, the plans reflect an understanding of the potential role of IoT in workforce education, recruitment, and retention. IoT has the potential to improve the quality of life of a community.  This project brings these different perspectives together, creating a new language for engagement among stakeholders and creating new opportunities in a community for public-private investment in IoT-enabled technologies and applications. This project in a neighborhood of Ohio may serve as a model for small towns and communities to work and plan with their local universities and manufacturers to achieve the societal benefits from leveraging IoT technologies.</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737612</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Loparo</LastName>
+<EmailAddress>kal4@cwru.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Gao</LastName>
+<EmailAddress>Robert.Gao@case.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kalle</FirstName>
+<LastName>Lyytinen</LastName>
+<EmailAddress>kalle@po.cwru.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Helper</LastName>
+<EmailAddress>susan.helper@case.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Case Western Reserve University</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441064901</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress>Nord Hall, Suite 615</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

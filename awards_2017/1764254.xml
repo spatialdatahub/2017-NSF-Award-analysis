@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Variational Problems, Stability and Dynamics</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>90000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project is aimed at solving mathematical problems that are not only significant as mathematics, but that have been suggested by problems arising in physics, quantum information theory and biology. The analysis of the equations governing physical  processes often requires a precise quantitative understanding of the relative sizes of various quantities involved in these processes, and this is provided by mathematical inequalities. An example familiar to the general public can be paraphrased as saying that ``entropy never decreases'' in physical processes;  the inequality in question says that the entropy at a later time is at least as large as the entropy at an earlier time. For more specific physical systems one can say much more, and the search for a better understanding of physical processes, and the evolution equations that govern them,  is in part a quest for new and more precise mathematical inequalities governing these processes. &lt;br/&gt;&lt;br/&gt;The connection between mathematical inequalities and physical processes runs both ways, so that in trying to prove  such an inequality, one may try to relate it to a simple and well understood evolution equation. This area of research has been fruitful not only in producing results that are of interest to a wider scientific community, but also in engaging the interest of Ph.D. students. The intellectual merit of the research is that it will produce not only significant new mathematics, but results that are relevant to the physical  sciences and engineering  as well. This applicability in other fields guarantee a broad impact of the work, which is further enhanced by the involvement of students, contributing to training of the next generation of researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764254</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Carlen</LastName>
+<EmailAddress>carlen@math.rutgers.edu</EmailAddress>
+<StartDate>03/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

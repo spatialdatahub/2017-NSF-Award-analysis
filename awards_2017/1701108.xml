@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR - TT:  Achromatic lenses with an unprecedented spectral range</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project enables the translation of an optical lens that provides achromatic focusing of light over an extended wavelength range, from the visible to the mid-infrared range.  Achromatic focusing allows different wavelengths of light, for example red and blue, to be brought into focus at the same focal length, enabling a clearer image.  It is useful for a wide range of optics applications, from microscopy to photography to hyperspectral imaging. Previous achromatic lenses have been limited in their wavelength range, whereas other broadband achromatic lenses use materials and production techniques that are expensive. The product to be developed in this project offers a combination of materials that are not only affordable but also production friendly, resulting in the fabrication of a relatively inexpensive optic with superior achromatic properties. The project will result in a prototype lens that can be readily used in optical microscopy applications, providing imaging opportunities from the visible to the mid-infrared. &lt;br/&gt;&lt;br/&gt;Discovered during a research-oriented project, the proposed achromat is composed of calcium fluoride and sapphire. Initial simulations have confirmed that the combination of these two materials produces achromatic lenses over an extended range. The project will further fine-tune the material parameters before the components are fabricated and the lenses are assembled with high precision. The prototype will be extensively tested before copies are disseminated for purchase to users in the field. &lt;br/&gt;&lt;br/&gt;The project will form an extensive training experience for a graduate and an undergraduate student, who will be involved with the engineering, testing and commercial decision making process. The project also engages engineers and business development personnel from the Zygo, a market leader in custom optics fabrication, to drive this technology translation effort from research discovery toward commercial reality.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701108</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Potma</LastName>
+<EmailAddress>epotma@uci.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-IRG Track 2: Community on Multimodality: Participatory Action, Service, and Support (COMPASS)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>996740</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Those in need of help often do not know how to locate or access service providers. Likewise, service-providing agencies often work in silos. The lack of communication also applies to volunteers; people do not know who to help and how they can be resourceful. Response becomes even more problematic when a problem demands the coordination of service providers, volunteers, and government structures, and after business hours, when the communication channels that can aid people in need become sparse. This project will (i) simplify the discovery and use of services, (ii) enable two-way communication between stakeholders (e.g., residents and service providers), (iii) deploy resources more efficiently, and (iv) assist stakeholders in assessing and promoting the wellbeing of their communities. The end result will be directly applicable to communities across the US, and has the potential to be influential beyond the human and physical services domain. It will advance computer science, electrical and computer engineering, and social and behavioral sciences to collectively address the challenges associated with this problem, and will create educational opportunities to encourage students to cross disciplinary boundaries. Women and underrepresented groups will be encouraged to participate in this project by collaborating with community-based organizations, and via programs at the University at Albany.&lt;br/&gt;&lt;br/&gt;This multidisciplinary project takes a community-wide approach that will integrate people and data with analytics and engineering using social and behavioral sciences to maximize the efficiency of delivering human and physical services, and also improve the sense of connectedness of residents with service providers and government structures. The project will study the limitations of extant services, which will in turn inform the development of novel decision-making mechanisms with sufficient behavioral realism. The outcome will be an integrated "one-stop" service of services. This project will (i) develop new data mining methods for uncovering complex interdependencies within a dynamic sociotechnical system, (ii) devise novel information processing, machine learning, and control methods to dynamically optimize delivery of human and physical services under uncertainty with humans in the decision-making loop, and (iii) shed light on the ability of communities to integrate emerging technologies to become more connected in human interactions.</AbstractNarration>
+<MinAmdLetterDate>09/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737443</AwardID>
+<Investigator>
+<FirstName>Wonhyung</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>whlee@albany.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charalampos</FirstName>
+<LastName>Chelmis</LastName>
+<EmailAddress>cchelmis@albany.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daphney-Stavrou</FirstName>
+<LastName>Zois</LastName>
+<EmailAddress>dzois@albany.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Albany</Name>
+<CityName>Albany</CityName>
+<ZipCode>122220100</ZipCode>
+<PhoneNumber>5184374550</PhoneNumber>
+<StreetAddress>1400 WASHINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

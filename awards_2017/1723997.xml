@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS: FND: Real-Time Self-Diagnosis and  Correction in  Linear and Nonlinear Control of Autonomous Systems Using Encoded State Space  Error Signatures</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>499022</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Next generation autonomous systems that can perform societal functions without human intervention (such as intelligent buildings, robots, drones and self-driven cars) will need to be aware of the health of the core electro-mechanical subsystems of which they are composed. Such self-awareness will dictate how they respond to different workload demands so that the general public can depend on these systems for reliable execution of designated tasks irrespective of how much wear and tear these systems have experienced through field use. The goal of this project is to enable the design of such self-aware autonomous systems of the future.&lt;br/&gt;&lt;br/&gt;Linear and nonlinear control systems can be described using state-space representations that are encoded with redundant "check states" that bear a known relationship with the observable states of the system in the absence of failures.  The difference between the check state value and its value as predicted by the known relationship above, results in a time-varying error signal that can be used for the first time to detect, diagnose and compensate for parametric failures in the electro-mechanical system components in real-time with the least amount of computational overhead and detection latency for a wide class of such systems. The project will train graduate students to develop new mathematical techniques, simulation tools and algorithms across diverse domains of electrical engineering and computer science. The students will work closely with industry, facilitating technology transfer through summer internships and co-ops. The research findings will be integrated into a class on fault-tolerant computing. Key research aspects will be incorporated into senior year undergraduate design projects while engaging students from the summer undergraduate research experience program for minorities at Georgia Tech. K-12 education program engagements relevant to this project will be pursued through the course of this research.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723997</AwardID>
+<Investigator>
+<FirstName>Abhijit</FirstName>
+<LastName>Chatterjee</LastName>
+<EmailAddress>chat@ece.gatech.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

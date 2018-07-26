@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Place-Based Research and Training in Biology and Environmental Science on the Colorado Plateau</AwardTitle>
+    <AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2020</AwardExpirationDate>
+    <AwardAmount>176186</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08080000</Code>
+      <Directorate>
+        <LongName>Direct For Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Biological Infrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ann Sakai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This REU Site award to Northern Arizona University, located in Flagstaff, Arizona, will support the training of 8 students for 10 weeks during the summers of 2018- 2019. The research theme is place-based and utilizes the unique ecology and cultural diversity of the Colorado Plateau and Four Corners region. Recruitment targets students from tribal colleges and community colleges, with special emphasis on Native American and Hispanic students. Students will have research projects that are relevant to the local ecology and cultures (e.g., research questions involving climate change, fish populations, mate recognition among ecologically similar species). The primary goal of the program is to enhance the scientific and critical thinking skills of students and encourage continued studies in the sciences. Each student will conduct all phases of scientific research, including scientific literature review, experimentation, data analysis and interpretation, and paper and poster presentations of their results. The program includes seminars on career options, developing research skills, responsible conduct in research, Native American and western science perspectives, and cohort-building activities. Mentors have extensive experience mentoring undergraduates in research. Students will be selected from the applicant pool by PIs Holeski and Martinez.&lt;br/&gt;&lt;br/&gt;It is anticipated that a total of 16 students, primarily from schools with limited research opportunities, will be trained in the program. Students will be selected primarily from tribal and community colleges and other institutions where students may not have considered continuing on to four-year or graduate degrees in the sciences. Students will learn how research is conducted, and many will present the results of their work at scientific conferences.&lt;br/&gt;&lt;br/&gt;A common web-based assessment tool used by all REU Site programs funded by the Division of Biological Infrastructure will be used to determine the effectiveness of the training program. Students will be tracked after the program to determine their career paths. Students will be asked to respond to an automatic email sent via the NSF reporting system. More information about the program is available by visiting https://nau.edu/Merriam-Powell/Research-Experience, or by contacting the PI (Dr. Holeski at liza.holeski@nau.edu) or the co-PI (Dr. Martinez at ted.martinez@nau.edu).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+    <MinAmdLetterDate>05/15/2018</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/15/2018</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1757626</AwardID>
+    <Investigator>
+      <FirstName>Liza</FirstName>
+      <LastName>Holeski</LastName>
+      <EmailAddress>liza.holeski@nau.edu</EmailAddress>
+      <StartDate>05/15/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Theodore</FirstName>
+      <LastName>Martinez</LastName>
+      <EmailAddress>theodore.martinez@nau.edu</EmailAddress>
+      <StartDate>05/15/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Northern Arizona University</Name>
+      <CityName>Flagstaff</CityName>
+      <ZipCode>860110001</ZipCode>
+      <PhoneNumber>9285230886</PhoneNumber>
+      <StreetAddress>ARD Building #56, Suite 240</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>9250</Code>
+      <Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

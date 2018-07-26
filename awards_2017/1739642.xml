@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Small: Statistical Performance Analysis and Resource Management for Cyber-Physical Internet of Things Systems</AwardTitle>
+<AwardEffectiveDate>01/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Realizing the vision of pervasive Internet of Things (IoT) that will endow a myriad of physical objects that include sensors, wearables, mundane objects, and connected vehicles, with cyber capabilities, is contingent upon effectively managing the interwoven synergies across its cyber and physical realms. The overarching goal of this project is to develop a novel cyber-physical system (CPS) science that can enable effective modeling, optimization, and management of the IoT as a fully-fledged CPS. Developing this science will, in turn, catalyze the deployment of the IoT and its numerous services that range from smart healthcare, to smart buildings and intelligent transportation, thus having a broad societal impact. Enabling the IoT will also expedite the transformation of cities and communities, into truly smart environments thus enhancing the quality of life of their residents. The proposed research is coupled with an educational plan that includes substantial involvement of graduate and undergraduate students in cross-cutting CPS research, as well as IoT-centric outreach activities targeted at local high school students from the under-represented groups. This synergistic integration of research and education will contribute to training a new workforce that is equipped with the necessary CPS skills needed to work in the emerging IoT domains.&lt;br/&gt;&lt;br/&gt;The proposed research will develop a foundational framework for the modeling and performance analysis of the IoT that will facilitate the management of resources, such as energy and computation, jointly across its cyber and physical realms. By leveraging interdisciplinary tools from stochastic geometry, distributed optimization, and operations research, the proposed framework will yield a number of results that include new statistical models and CPS performance metrics for characterizing the cyber-physical operation of  IoT as well as novel distributed optimization algorithms that will adapt the cyber-physical operational state of the IoT devices to the dynamics of the CPS environment, while being cognizant of their stringent resource constraints. The developed theory will be validated using extensive simulations as well as basic experiments. The ensuing outcomes are expected to yield a fundamentally new CPS science that will transform the way in which the IoT is modeled, analyzed, and optimized. The foundational nature of this research will further ensure that its impacts will cut across multiple CPS domains, ranging from energy to transportation and healthcare.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739642</AwardID>
+<Investigator>
+<FirstName>Walid</FirstName>
+<LastName>Saad</LastName>
+<EmailAddress>walids@vt.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harpreet</FirstName>
+<LastName>Dhillon</LastName>
+<EmailAddress>hdhillon@vt.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

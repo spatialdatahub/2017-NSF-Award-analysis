@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Standard Grant: Geometric Approaches to Representing the Observable</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>193141</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frederick M Kronz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports a project in the history and philosophy of physics. The PI will generate a new historical narrative that corrects the standard but flawed historical account of Pascual Jordan's approach to observables (measurable physical quantities) in quantum theory, and thereby illuminate the significance and legacy of his approach. The PI will show not only that Jordan's approach has the same expressive capacity as quantum theory, it also provides novel conceptual insights for constructing geometric models for quantum phenomena in a way that connects more readily with common sense ideas about observables. The PI, who has an impressive track record of dedicated and successful outreach, has concrete plans for outreach to audiences at the graduate, undergraduate, and high-school levels, as well as the general public, with explicit emphasis on promoting diversity. The PI will also organize a workshop with plans to recruit both junior scholars and members of underrepresented groups, who are to engage in various training efforts.&lt;br/&gt;&lt;br/&gt;The PI will show that the historical development of Jordan's approach led to a new algebraic theory that has the same expressive capacities as standard quantum theory. That account will then be used to provide a new perspective on the role of observables in the philosophy of representation. He will use Jordan's account as a case study for understanding the significance of representation theorems, and for establishing a deep new connection between Jordan observables and the expression of quantum theory in geometric language. He will also explore the philosophy of geometry as it applies to quantum theory, and clarify the metaphysical and pragmatic significance of reformulating a physical theory in geometric language. Implications will be developed to offer insight into recent philosophical debates on theoretical equivalence, and to explore possible ways to connect with other non-standard approaches to quantum observables. This project lays the groundwork for a novel analysis of observable quantities in science that will provide a potentially transformative impact on history and philosophy of science, as well as an opportunity for both fields to engage meaningfully with contemporary physics.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734155</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Teh</LastName>
+<EmailAddress>nteh@nd.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7603</Code>
+<Text>SCIENCE, TECH &amp; SOCIETY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1353</Code>
+<Text>Hist &amp; Philosophy of SET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

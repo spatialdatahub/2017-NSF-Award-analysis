@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Light-enabled gene control for cardiac applications</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>360923</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will demonstrate that light-enabled gene patterning can control the human cardiac pacemaker region. Light-enabled inhibition of key culprit regions implicated in atrial fibrillation will be investigated. Exciting preliminary results on automated high-throughput all optical cardiac electrophysiology platforms using optogenetics was demonstrated and will be employed. &lt;br/&gt;&lt;br/&gt;This project builds upon the PI's optogenetic work in optical control of cardiomyocyte function by incorporating gene editing tools (CRISPR) to allow optical manipulation of gene expression. The optical localization, using CRISPR action, will be used to modify local gene expression in cardiac tissue constructs. The proposal covers unexplored territory in cardiac pacing and has significant transformative potential.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1705645</AwardID>
+<Investigator>
+<FirstName>Emilia</FirstName>
+<LastName>Entcheva</LastName>
+<EmailAddress>entcheva@gwu.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200522000</ZipCode>
+<PhoneNumber>2029946255</PhoneNumber>
+<StreetAddress>2121 Eye Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

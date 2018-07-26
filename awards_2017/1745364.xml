@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Monolithic Integration of 1000-ch Neural Interface System on a Single Silicon Die</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>79532</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shubhra Gangopadhyay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The parallel recordings from large neuron populations in the sensory cortex and primary motor cortex reveal the rich information encoded into neural signals, and guide research in restoring cognitive and motor behaviors. In such devices, the quality of information relies on the density of neural signals being recorded. The recording density in the current brain-machine interface remains insufficient to be clinically relevant and significant improvements are required to help severely disabled patients to fully regain mobility or other impaired functions. However, the lack of technology to accommodate the massive wire counts between electrode-amplifier pairs and the complexity in the hermetic packaging in implant devices present large challenges in moving forward beyond 1000 channels to be clinically relevant. This Early-concept Grant for Exploratory Research (EAGER) project will investigate a transformative approach to design a wireless neural interface system by integrating the entire wireless neural system into a thin silicon substrate, and, thus, introduce an avenue for developing a scalable neural interface system for future brain-machine interface research and clinical use. The success of this exploratory study will transform the design approach taken by brain-machine interface developers, which involves the use of external wires for interconnections and thus complicates the packaging, and will have an immediate impact in research studies focused on cognitive and motor behaviors that demands the extraction of high density neural recordings directly from the cortex to guide the neural prosthetics. It will also significantly lower the manufacturing cost by fabricating the device using common semiconductor fabrication methods, which may result in more affordable neural prosthetics for patients in need.&lt;br/&gt;&lt;br/&gt;Fully-implantable neural interface systems are designed with a complex integration of many components including: electrode arrays, amplifiers, processors, wireless transmitters, and a battery. Every existing system uses wire feedthroughs to establish electrical connections between the components, and the connections are insulated with casing/packaging to prevent leakage during implant. This method presents many limitations: the scalability is severely limited by the number of feedthroughs available, the runtime is limited to the battery capacity, the metal casing can impede wireless transmissions, the long-term durability is questionable with non-metallic packaging, and the bulky implant device complicates the surgical procedure and introduces discomfort/risks to patients. Thus, the development of a new brain-machine interface with large-scale recording capability are needed to advance basic brain research, large-scale brain mapping and clinical translations of brain-machine interface. This project aims to monolithically integrate a 1000-ch neural interface system in a silicon substrate. The monolithic integration of every component into a single silicon die enables high-density recordings by eliminating external wires and linking all the electronic interconnections using sub-micron interconnects in integrated circuits. This approach yields unprecedented advantages, compared to the conventional approach, including the design simplicity and the elimination of complex packaging. The study is composed of the following efforts: (1) On-chip integration of the pillar electrode array, (2) Backplane integration of RF planar coils and capacitors, and (3) Design of low-power small footprint amplifier array and peripheral circuitries for high-throughput neural recordings.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745364</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>Brian.Kim@ucf.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

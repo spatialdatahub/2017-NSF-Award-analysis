@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:Maker: Making Inspired by Nature: Digital Tools and Activities for Supporting Pre-service Elementary Teachers in Applying Biomimicry in a Maker-centered Classroom</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>257793</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandra Richardson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of Louisiana at Lafayette seeks to improve the effectiveness of preparing elementary pre-service teachers to engage children in maker-centered learning and design thinking through the lens of biomimicry. To achieve this, the project will (a) build and evaluate digital resources and engaging experiential lessons in innovation through the application of biomimicry and design thinking in a maker-centered context for underrepresented and underserved elementary children, and (b) develop and evaluate models for deepening pre-service teachers' pedagogical knowledge for supporting student learning in maker-centered classrooms.  Pre-service teachers participating in these model programs will gain valuable experience in modeling and developing maker-centered learning dispositions for community children participating in after-school programs as well as for the future students they will serve in their own classrooms.&lt;br/&gt;&lt;br/&gt;The intellectual merit is in the development and evaluation of the project model which consists of two primary components: (a) a two semester scaffolded sequence of Making and biomimicry experiences for elementary pre-service teachers and (b) an elementary grades maker-centered learning curriculum, Making Inspired by Nature.  The project will introduce pre-service teachers to innovative pedagogies such as systems thinking, inquiry, biomimicry, innovation, and sharing work in a showcase. These activities will follow a progression from Making as playful and experimental to using the engineering design process of think, make, improve to take maker projects through multiple iterations. Supported by examples of how nature functions, each unit will culminate with an opportunity to apply biomimicry and the maker ideals to solve a real world issue. These experiences will be extended into practice as pre-service teachers mentor small groups of children during weekend and summer programs for approximately 80 community children as they engage in the Making Inspired by Nature curriculum to solve their own identified Making challenge.  This project is a part of NSF's Maker Dear Colleague Letter (DCL) portfolio (NSF 15-086), a collaborative investment of Directorates for Computer &amp; Information Science &amp; Engineering (CISE), Education and Human Resources (EHR) and Engineering (ENG).</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723677</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Sheppard</LastName>
+<EmailAddress>psheppard@louisiana.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aimee</FirstName>
+<LastName>Barber</LastName>
+<EmailAddress>ach1110@louisiana.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>dwilliams@louisiana.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Louisiana at Lafayette</Name>
+<CityName>Lafayette</CityName>
+<ZipCode>705032701</ZipCode>
+<PhoneNumber>3374826203</PhoneNumber>
+<StreetAddress>104 University Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>058Z</Code>
+<Text>EAGER: MAKER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

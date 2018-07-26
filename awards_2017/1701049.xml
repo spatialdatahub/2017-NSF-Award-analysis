@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR-TT: From Lab to Market - Transcranial Focal Electrical Stimulation (TFS) for Epilepsy</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>227953</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project focuses on translating non-invasive transcranial focal electrical stimulation (TFS) to fill the need for the treatment of refractory epilepsy.   The TFS technology is important because it will provide a powerful tool that is accessible to the research and medical community for understanding and modulating brain activities and has extensive applicability in the broad space of technologies to aid persons with epilepsy and other neurological and psychiatric disorders in general.  The project will result in a robust and easy-to-use clinical TFS prototype.  TFS has the following unique features: it is non-invasive, focal, and allows recording and stimulation from the same electrodes. These features will help simplify and advance the therapeutic modality for epilepsy and avoid the risks involved with implantable stimulators or the side effects of antiepileptic drugs.  &lt;br/&gt;&lt;br/&gt;This project addresses the following technology gaps as it translates from research discovery toward commercial application.  First, the design of the TFS prototype will be improved to meet the safety and operational requirements of the clinical environment.  Second, the safety and tolerability of TFS will be established through first-in-human testing.  This innovative clinical TFS prototype will be fully programmable with current intensity (0 to 100 mA) in increments of 2 mA, pulse width (50 to 500 micro-sec) in increments of 10 micro-sec, frequency (0 to 500 Hz) in increments of 5 Hz, and duration of pulses (30 seconds to 30 minutes) in increments of 30 seconds.  The controller will assure the stimulation parameters selected are below the energy density factor, 0.92 A2/cm4-sec-1, which was found to be safe with electrical-thermal coupled field analysis and preliminary animal experiments. In addition, the graduate student directly involved in this project will receive innovation and technology translation experiences through the design and testing of the TFS prototype. &lt;br/&gt;&lt;br/&gt;This project engages business development and intellectual property professionals to help achieve the commercialization goal in this technology translation effort from research discovery toward commercial reality.</AbstractNarration>
+<MinAmdLetterDate>07/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701049</AwardID>
+<Investigator>
+<FirstName>Walter</FirstName>
+<LastName>Besio</LastName>
+<EmailAddress>besio@uri.edu</EmailAddress>
+<StartDate>07/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rhode Island</Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811967</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress>RESEARCH OFFICE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

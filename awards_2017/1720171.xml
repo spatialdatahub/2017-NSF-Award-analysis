@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Extensions of Boundary Integro-Differential Operators and the Associated Computational Methods</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>209807</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland M. Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project will advance computer-based simulations for better process control and prediction in a wide range of applications; these include seismic imaging, petroleum engineering, electromagnetism in domains containing thin-wires, and molecular biology applications where molecular electrostatics energies are needed to understand the structure-function relations of proteins. The training of students in the proposed research areas, both through direct supervision of the PI or through the new graduate course to be developed, will allow them to conduct research in highly inter-disciplinary projects and bring state-of-the-art numerical analysis and computational algorithms to the related areas.&lt;br/&gt;&lt;br/&gt;This research project will develop a general framework for formulating extension of a class of boundary integro-differential operators for numerical computation. The main advantage of the framework is that simple and accurate numerical algorithms can easily be designed on a variety of grid geometries and computational methodologies. The research will concentrate on (i) boundary integro-differential equations that arise from wave scattering problems in unbounded domains containing irregularly shaped scattering surfaces, and (ii) calculus of variation problems posed on manifolds of different codimensions. Regarding to (ii), minimization of convex energies and least-action principles defined on the manifolds will be considered. The minimization problems lead to elliptic equations on surfaces while the least-action principles lead to hyperbolic equations. A major focus will be on deriving extensions of these boundary operators "to the bulk", while preserving as much analytical properties (of the operators and of the solutions) as possible, using the additional degrees of freedom that come from the codimensions of the boundary. Concrete applications involving electromagnetic wave propagation coupled with thin-wires in space will be studied and simulated under the framework.</AbstractNarration>
+<MinAmdLetterDate>07/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720171</AwardID>
+<Investigator>
+<FirstName>Yen-Hsi</FirstName>
+<LastName>Tsai</LastName>
+<EmailAddress>ytsai@math.utexas.edu</EmailAddress>
+<StartDate>07/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

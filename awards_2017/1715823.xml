@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nature's Rotary Molecular Dynamos: A Systematic Modeling Framework</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>749998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wilson Francisco</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The workings of every biological cell are carried out by "molecular machines" made up of proteins, RNA or combinations of these. This project will investigate how such machines function using physics-based computational methods.  The project's focus will be the "rotary ATPases", which can convert one type of chemical energy into another - from a transmembrane pH difference into ATP, the well-known "molecular fuel" of the cell.  The project will develop mathematical models of the machines in order to: (i) understand the biophysics of how these machines function (and malfunction) over a wide range of conditions encountered by the cell; and (ii) develop more powerful modeling approaches that are transferable to the study of other machines.  The project will also continue development of an online textbook covering the biophysics of the cell's molecular machines.&lt;br/&gt;&lt;br/&gt;The work will enhance physics-based strategies for modeling molecular machines. Novel elements include systematic exploration of alternative mechanisms, evolution-motivated constrained optimization in place of parameter fitting, examination of reversibility, and consideration of a wide range of conditions and stoichiometries. Biologically, the work can provide optimal and limiting ranges for many uncertain parameters, and explicitly disentangle adaptations in the wide range of species-specific stoichiometries and organelle-specific directionality (synthesis vs. pumping). The consideration of alternative and hypothetical mechanisms could also contribute to understanding the evolutionary history of ATP synthesis, prior to the advent of the rotary synthase, as well as aiding the study of other families of molecular machines.  The project will also lead to further development of a free online cell biophysics book (PhysicalLensOnTheCell.org), expanding the topics covered and adding interactive numerical models, based in part on the research to be performed.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715823</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Zuckerman</LastName>
+<EmailAddress>zuckermd@ohsu.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon Health and Science University</Name>
+<CityName>Portland</CityName>
+<ZipCode>972393098</ZipCode>
+<PhoneNumber>5034947784</PhoneNumber>
+<StreetAddress>3181 S W Sam Jackson Park Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

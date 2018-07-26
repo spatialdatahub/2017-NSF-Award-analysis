@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dimensions: Collaborative Research: Assembly and function of nectar microbial communities</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>1450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Douglas Levey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to study the ecology of micro-organisms (life too small to be easily seen, like yeast and bacteria) that live in the nectar of flowers. Nectar is an interesting place for such organisms to live because it doesn't last long -- most flowers last only a few days.  Yet, each flower can be home to a complex and changing "community" of yeast and bacteria; they are miniature ecosystems. Scientists will conduct experiments to explore how those micro-organisms get into nectar and whether the order in which they arrive determines the final set that end up living there.  Because each flower contains its own separate ecosystem that can be easily tweaked by scientists, this study system is a good one for understanding how ecosystems of all sizes may develop.  Such understanding is important when trying to help preserve rare species and to keep ecosystems functioning in ways that benefit both humans and wildlife.  In this project, for example, the particular set of yeast and bacteria that end up in flowers may have a large impact on what pollinators visit flowers and thus on how effectively the flowers are pollinated.  Given that a lot of what humans eat depends on pollination of crops, understanding what can lead to more effective pollination has both economic and social relevance.  High-school students will be mentored in research through a 7-week summer research internship. Graduate students and postdoctoral fellows will help mentor those high school students and be mentored, themselves.  Workshops on bioinformatics will be offered to train students in essential skills of data analysis.&lt;br/&gt;&lt;br/&gt;A combination of field observations, field experiments, and laboratory experiments will be conducted on nectar microbes associated with a hummingbird-pollinated shrub in California. Data will be integrated through construction of a simulation model of plant-hummingbird-nectar microbe interactions, providing tests of community assembly theory. Researchers will integrate genetic, phylogenetic and functional dimensions of biodiversity by studying how (1) yeast genetic diversity and bacterial phylogenetic diversity are influenced by flowering phenology, (2) yeast genetic diversity and bacterial phylogenetic diversity suppress each other through antagonistic priority effects within floral nectar, (3) yeast genetic diversity and bacterial phylogenetic diversity alter hummingbirds' foraging preference by modifying nectar chemistry as a result of growth in nectar, thereby affecting functional diversity of flowers in terms of nectar chemistry, pollination success, and seed production, and (4) how functional diversity of flowers feeds back to affect yeast genetic diversity and bacterial phylogenetic diversity via altered dispersal of yeast and bacteria across flowers.</AbstractNarration>
+<MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737758</AwardID>
+<Investigator>
+<FirstName>Tadashi</FirstName>
+<LastName>Fukami</LastName>
+<EmailAddress>fukamit@stanford.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7968</Code>
+<Text>Dimensions of Biodiversity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7744</Code>
+<Text>RAHSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9261</Code>
+<Text>RESRCH ASSIST-MINORITY H.S. ST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

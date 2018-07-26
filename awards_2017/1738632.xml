@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RII Track-4: The distribution and origin of deep level charge trapping centers in large size high-purity germanium crystals</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>155558</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Uma D Venkateswaran</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description&lt;br/&gt;Recent discoveries in astrophysics have revolutionized our understanding of the fundamental nature of matter and the cosmos, yet many mysteries remain. Astronomical observations of gravitational phenomena indicate that 80% of the matter in the universe is composed of dark matter (DM); however, this proposed material has not yet been directly observed. Current approaches to the study of DM rely on sophisticated analyses of the fundamental structure of atoms; however, these analyses are hindered by inherent limitations of the instruments that are currently available. Through a collaboration with the University of Tennessee, the PI will have access to instrumentation that will provide a greater understanding of these limitations, and it is expected that this will lead to significant advancements in development of instruments capable of observing DM. This project will provide training for the PI, establish needed collaborations for future development of his career, and will strengthen the partnership between the PI's home institution of the University of South Dakota and the University of Tennessee in research on semiconductor materials. &lt;br/&gt;&lt;br/&gt;Technical Description      &lt;br/&gt;High-Purity Germanium (HPGe) crystals have larger volume-to-surface ratios for collecting signal, in particular from DM and 0&amp;#957;&amp;#946;&amp;#946; decay. Up to now, deep-level charge-trapping centers have not been well studied in large diameter (&gt;10 cm) HPGe crystals. Due to charge trapping by deep-level impurities in the HPGe crystals, the degradation of energy resolution of HPGe detectors is a large obstacle for germanium-based DM and 0&amp;#957;&amp;#946;&amp;#946; decay search experiments. The goal of this proposal is to study the distribution and origin of deep-level charge-trapping centers in large size HPGe crystals grown by the University of South Dakota for future ton-scale 0&amp;#957;&amp;#946;&amp;#946; decay search experiments. With the collaboration of the University of Tennessee, the PI will study the distribution and origin of charge-trapping centers in HPGe crystals, which include copper, copper-hydrogen complexes, di-vacancy hydrogen and unknown defects, by Deep Level Transient Spectroscopy (DLTS). The results will help the PI to design appropriate methods of reducing the level of charge-trapping centers in purification and crystal growth beyond the award period. The resulting large size HPGe crystals with lower charge-trapping centers will be an ideal material for low background experiments, especially those searching for DM and 0&amp;#957;&amp;#946;&amp;#946; decay.</AbstractNarration>
+<MinAmdLetterDate>09/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738632</AwardID>
+<Investigator>
+<FirstName>Guojian</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>Guojian.Wang@usd.edu</EmailAddress>
+<StartDate>09/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Dakota Main Campus</Name>
+<CityName>Vermillion</CityName>
+<ZipCode>570692307</ZipCode>
+<PhoneNumber>6056775370</PhoneNumber>
+<StreetAddress>414 E CLARK ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7217</Code>
+<Text>EPSCoR Research Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:   How do host and pathogen diversity interact to shape disease ecology?</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>309423</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cesar Nufio</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An important goal in ecology is understanding the ways that biological diversity influences the functioning of ecosystems. One aspect of biodiversity that directly impacts human health is its importance in mitigating risk of disease transmission from wildlife.  A prominent theory in ecology is that greater diversity of species reduces the risk of disease transmission, through an effect called dilution. Evidence for the dilution effect has been found in several disease systems, including Lyme disease.  Greater species diversity of small mammals that serve as hosts for Lyme disease result in less transmission of the disease.  However, even in this well-studied system, there is little research on the importance of genetic variation within the Lyme disease pathogen. This project focuses on the Lyme disease system, to address a critical question in disease ecology: how does species diversity of hosts influence pathogen genetic diversity and what does the culmination of these interactions mean for disease risk? This project also will provide research training to undergraduate and graduate students, will develop active learning focused courses on disease ecology, and will engage the public in tick-borne disease biology through citizen science opportunities. This research has clear public health implications as Lyme disease is the most reported tick transmitted disease in the United States&lt;br/&gt;&lt;br/&gt;This study will incorporate empirical field studies and mathematical modeling to characterize and predict the relationship between host diversity and pathogen genetic diversity in the Lyme disease system in the western United States. Pathogen genotypic diversity will be characterized using novel microfluidics technology and next generation genetic approaches. A stage structured continuous time model approach will be used to characterize and predict the impacts of host diversity on pathogen genotype diversity and disease risk. This study's emphasis on host and pathogen diversity will have important consequences for understanding the community level impacts of diversity on disease ecology in both natural and human systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750037</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Swei</LastName>
+<EmailAddress>aswei@sfsu.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Francisco State University</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941321722</ZipCode>
+<PhoneNumber>4153387090</PhoneNumber>
+<StreetAddress>1600 Holloway Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

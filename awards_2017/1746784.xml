@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Conversion of food waste to biofuels using an anaerobic membrane bioreractor</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project will be a cost-effective, commercially viable, alternative process for on-site treatment of food waste and energy recovery.  In the U.S., nearly 40% of food is wasted with $165 billion equivalent loss of food plus associated water, energy, chemicals, and labor used in food production.  Disposal of the food waste involves additional costs and causes environmental pollution, e.g. rotting food waste in landfills accounts for a large portion of U.S. methane emissions, a powerful greenhouse gas.  Moreover, food waste streams contain a substantial amount of chemical energy that also is lost by its disposal.  Recovering energy in food waste in the form of biofuel and chemicals, as proposed in this project, will provide efficient management of food waste problem reducing food waste disposal costs while producing useful products.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to develop and demonstrate the performance of a novel, immobilized clostridia cell membrane bioreactor-based continuous process to convert food waste to butanol.  The conventional stirred-tank fermentation reactor-based food waste conversion process exhibits low butanol concentration as well as productivity.  The proposed process will address the technical barriers of the conventional process by immobilizing the clostridia cells on porous media to dramatically increase cell culture density, and, consequently, butanol productivity and conversion efficiency.  In addition, by separating butanol from the reaction media, recycled butanol concentration is minimized in the reactor, which alleviates butanol toxicity.  The membrane fouling issues in biomass separation will be addressed by an "open channel" membrane module design to separate and recycle biomass to the bioreactor.  The energy requirement for recovery of butanol from dilute reactor effluent will be reduced by an order of magnitude over the conventional distillation by using a pervaporation membrane.  The objective of the proposed effort is to demonstrate a steady state continuous integrated process for converting food waste to butanol after optimizing individual components.</AbstractNarration>
+<MinAmdLetterDate>12/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746784</AwardID>
+<Investigator>
+<FirstName>Ashok</FirstName>
+<LastName>Damle</LastName>
+<EmailAddress>techverse@hotmail.com</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haibo</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>huang151@vt.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Techverse, Inc.</Name>
+<CityName>Cary</CityName>
+<ZipCode>275197368</ZipCode>
+<PhoneNumber>9194548461</PhoneNumber>
+<StreetAddress>124 Goldenthal Court</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

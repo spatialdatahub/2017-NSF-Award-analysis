@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-RCN: Developing an Informational Infrastructure for Building Smart Regional Foodsheds</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to build a transdisciplinary research coordination network (RCN) bringing together researchers and community stakeholders to build a general informatics framework for understanding and optimizing the food system. While food production currently generates enough calories to feed the world's population, disparities and failures in the food system lead to negative health effects within the U.S. and across the world. Mitigating these food and nutrition failures can help to meet the goal of creating smart, connected, and healthy sustainable communities. A key goal of this project is to allow community members (including those from diverse populations) to inform the research network of their needs. It will do so through work on three integrated objectives: (1) improve understanding of the interrelated components and actors in the food system; (2) developing prototype information technologies to capture these relationships and to enable information sharing and analysis; and (3) organizing and coordinating food system stakeholders in two key agricultural regions of the United States to determine ways this information can be used to strengthen their regional food systems (referred to hereafter as "foodsheds") and those of other communities. The primary focus of this project is on foodsheds in the Sacramento, California and Columbus, Ohio regions, with subsequent efforts to expand participation in the network to other regions.&lt;br/&gt;&lt;br/&gt;Research undertaken through this project will contribute to a addressing the problem of  lack of information flow among researchers, policymakers, and diverse food system stakeholders. Developing novel methods for bringing together diverse data streams (climatic, environmental, genetic/genomic, product composition, production, importation, processing, distribution, marketing, food policy, health and healthcare) will allow researchers to better characterize the food system, enabling communities to address food system failures, inequities and other challenges. These activities will be coordinated by a steering committee of researchers and community members with expertise in computer science, economics, medicine, food science, sustainable agriculture, data analytics, engineering, public policy, and public health.</AbstractNarration>
+<MinAmdLetterDate>09/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737573</AwardID>
+<Investigator>
+<FirstName>Suzanna</FirstName>
+<LastName>Lewis</LastName>
+<EmailAddress>SELewis@lbl.gov</EmailAddress>
+<StartDate>09/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Lange</LastName>
+<EmailAddress>mclange@ucdavis.edu</EmailAddress>
+<StartDate>09/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Tomich</LastName>
+<EmailAddress>tptomich@ucdavis.edu</EmailAddress>
+<StartDate>09/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ayaz</FirstName>
+<LastName>Hyder</LastName>
+<EmailAddress>hyder.22@osu.edu</EmailAddress>
+<StartDate>09/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Casey</FirstName>
+<LastName>Hoy</LastName>
+<EmailAddress>hoy.1@osu.edu</EmailAddress>
+<StartDate>09/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

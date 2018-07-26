@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CQIS: RUI: Entanglement and Applications via Local and Permutational Symmetry</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>174999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Cronin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The prospect of harnessing quantum mechanical systems to process information promises spectacular applications. These include encrypted communication with fundamentally new levels of security, computing machines that will outperform existing supercomputers, and improved measurement devices that will probe new physical realms. The "quantum advantage" at the heart of these revolutionary technologies arises from exploiting entanglement and other nonlocal properties that are easy to define but difficult to analyze. This project will study quantum entanglement in order to design useful applications for a future with quantum computers and quantum communication networks. In addition to achieving scientific progress through new results, a major project component is scientific development of undergraduate students through participation in real research.&lt;br/&gt;&lt;br/&gt;This project will implement a systematic framework studying local unitary and permutational symmetries to probe multiparticle quantum entanglement and to develop applications for quantum protocols. Methodology will utilize the theory of Lie groups and Lie algebras, including representation theory and Schur-Weyl duality. Achievements will contribute novel techniques, theoretical results, and applications in areas of mainstream Quantum Information Science.</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713868</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Lyons</LastName>
+<EmailAddress>lyons@lvc.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lebanon Valley College</Name>
+<CityName>Annville</CityName>
+<ZipCode>170031400</ZipCode>
+<PhoneNumber>7178676100</PhoneNumber>
+<StreetAddress>101 N. College Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

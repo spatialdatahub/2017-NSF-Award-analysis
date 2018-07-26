@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: New Algorithms for Submodular Optimization</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardAmount>99138</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Submodular optimization provides general solutions to a wide range of applications from monitoring water distribution networks to summarizing large corpora of documents and speech recognition. Most of the existing submodular optimization algorithms are not suitable for modern datasets, since they are designed for worst-case instances and they suffer from prohibitive running times and poor empirical performance. This project aims to develop scalable algorithmic approaches with improved empirical performance for submodular optimization and to transfer theoretical insights to applications. The proposed research brings together insights from computer science, mathematics and optimization, and strengthens connections among these fields. The project will involve training the next wave of students and equipping them with technical tools to work in all these fields.&lt;br/&gt;&lt;br/&gt;The project focuses on three inter-related research directions in submodular function optimization: (a) Design faster algorithms for minimizing submodular functions with a decomposable or sum structure. The approach is to build on a rich set of tools from both discrete and continuous optimization. (b) Design algorithms for constrained submodular maximization problems with improved approximation guarantees and faster running times. The focus is on settling the approximability of constrained submodular maximization problems with a non-monotone objective and on designing faster algorithms for central families of constraints. (c) Design algorithms and frameworks for allocation or labeling problems with submodular costs. The main goal is to obtain more expressive algorithmic frameworks and efficient algorithms.</AbstractNarration>
+<MinAmdLetterDate>01/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750333</AwardID>
+<Investigator>
+<FirstName>Alina</FirstName>
+<LastName>Ene</LastName>
+<EmailAddress>aene@bu.edu</EmailAddress>
+<StartDate>01/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

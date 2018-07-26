@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geometric and Arithmetic Hyperbolicity in Moduli Spaces</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>137724</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anatoly  Libgober</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Algebraic geometry is concerned with geometrically understanding algebraic varieties -- the spaces of solutions to polynomial equations -- in order to solve algebraic equations.  Abelian varieties are especially interesting because these spaces possess the structure of an Abelian group, that is, the points of the space can be added to each other to produce other points.  Abelian varieties appear ubiquitously in mathematics as important invariants of more complicated varieties and are therefore a crucial tool in algebraic geometry, number theory, representation theory, and complex analysis.  This research project aims to understand how algebraic varieties vary in families by studying the geometry of the moduli spaces that parametrize abelian varieties and related objects.&lt;br/&gt;&lt;br/&gt;More specifically, the project is concerned with hyperbolicity phenomena in locally symmetric varieties.  Some such varieties can be interpreted as moduli spaces of Hodge structures, and in those cases hyperboliciity relates to the fact that the existence of variations of those Hodge structures (for example the periods of abelian varieties or hyperkähler varieties) over a base B imposes strong conditions on the birational geometry of B.  This is closely related to conjectural uniform boundedness properties of such variations over varying bases B, which in turn strongly parallel conjectural boundedness properties exhibited by Galois representations coming from geometry over arithmetic bases.  The project aims to expand upon new techniques recently developed by the investigator and collaborators to explore such phenomena, both in the geometric and arithmetic contexts.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702149</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Bakker</LastName>
+<EmailAddress>bakker@math.uga.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 East Campus Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

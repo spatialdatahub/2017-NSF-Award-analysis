@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Measuring R&amp;D knowledge diffusion through large databases</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>147642</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>cassidy sugimoto</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research increases understanding of the impact of federal research funding on economic outputs by developing a new data source that enables new analyses of science, engineering, and innovation. The project will improve the measurement of R&amp;D knowledge diffusion by collecting and linking three types of public data: federal government grants and contracts, U.S. patents, and licensing agreements.  This project assists the federal government in communicating the impact of public R&amp;D investments to policy makers, stakeholders and citizens. By understanding the factors that lead to commercial licensing of federal government research, the federal government can invest its funds more strategically and increase the productivity of R&amp;D investment, accelerate innovation and increase the United States? economic competitiveness.  In addition, this project directly addresses the goal to create a federal government that is responsive and accountable to its citizens.&lt;br/&gt; &lt;br/&gt;The project builds a data platform on an extensible, common data schema shared by all data types, including patents, publications, and awards. Collecting and combining these data will create a unique, novel, big data set. The government interest section of a U.S. patent will be used to link patents and federal government investments, which can be found in grant databases and the federal procurement data system. Patent licensing is opaque and not generally available; however, reports of technology licensing agreements are filed with the U.S. Securities and Exchange Commission, providing a rich public dataset on technology development. This project will use machine learning to extract these mentions, building a licensing agreement database. Specifically, this database will then be combined with the limited information available in the USPTO's licensing database, and linked to types of federal investment. This approach represents a new way to measure R&amp;D impact by tracing knowledge flows through multiple sources and points in time. The project will demonstrate the viability of collecting licensing data on a large scale and linking the data back to the supporting federal government investments. The resulting data set will be made publicly available.</AbstractNarration>
+<MinAmdLetterDate>06/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1735756</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Freyman</LastName>
+<EmailAddress>christina.freyman@sri.com</EmailAddress>
+<StartDate>06/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SRI International</Name>
+<CityName>Menlo Park</CityName>
+<ZipCode>940253493</ZipCode>
+<PhoneNumber>6508592651</PhoneNumber>
+<StreetAddress>333 RAVENSWOOD AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Bright and responsive fluorescent nucleosides from structure-photophysics relationships</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>130000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Chemical Structure, Dynamics and Mechanisms B Program of the Chemistry Division, Professor Byron Purse of the Department of Chemistry and Biochemistry at San Diego State University is developing next-generation fluorescent nucleosides as tools for studying nucleic acids. In addition to storing the genetic code, nucleic acids have many important regulatory roles in gene expression and metabolism. Fluorescent nucleosides are chemically modified building blocks of nucleic acids that are widely used in biophysical studies aimed at understanding the regulation of gene expression. This project aims to enhance the understanding of the relationship between structure and fluorescence properties of these nucleoside probes, and to use this knowledge to add new capabilities to the toolkit of fluorescent nucleoside analogues. Integral to the research plan is the studying of the fluorescence properties of these new nucleoside analogues in the Physical Chemistry teaching laboratory of San Diego State University and an outreach program targeting high school and community college students in the computational work.&lt;br/&gt;&lt;br/&gt;The rational design of fluorescent nucleoside analogues with specifically targeted properties is a great challenge because predicting photo-physical properties based on structure, especially in a complex environment like a nucleic acid duplex, is difficult to achieve.  In this project, photophysical studies coupled with density functional theory methods are being used to establish structure-photophysics relationships, in order to develop next-generation fluorescent nucleosides with desired fluorescence properties. The desired fluorescence properties include: (a) large fluorescence turn-on responses to base stacking (i.e. &gt; 100-fold), (b) brightness matching conventional fluorophores, sufficient to enable single-molecule biophysics and tracking of labeled nucleic acids by fluorescence microscopy, and (c) analogues that absorb and emit at the red end of the visible spectrum.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1709796</AwardID>
+<Investigator>
+<FirstName>Byron</FirstName>
+<LastName>Purse</LastName>
+<EmailAddress>bpurse@mail.sdsu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Diego State University Foundation</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921822190</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress>5250 Campanile Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>083P</Code>
+<Text>NEUROSCIENCE ACTIVITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

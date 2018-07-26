@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSforAll Knowledge Forum x CSNYC: Engaging Research for Practice in CS Education</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>89840</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The New York City Foundation for Computer Science Education (CSNYC) proposes to engage prominent researchers, practitioners, and funders of CS education in discussions on how best to use and to conduct research in support of the implementation of CS education for every child. In 2016, CSNYC held a similar event -- a Knowledge Forum focused on defining the initial agenda for the research and evaluation for New York City's implementation of CS4All. That Forum had two findings: implementation should be a priority for K-12 CS research, and the K-12 CS research community values opportunities to learn directly from decision-makers and practitioners. Here, CSNYC proposes the 2nd Annual Knowledge Forum to build on the experiences and insights from 2016, and to leverage the knowledge of the wider, national  community being developed through the recently launched CSforAll Consortium (csforall.org). &lt;br/&gt;&lt;br/&gt;This year, the Knowledge Forum will focus on how best to use and to conduct research in support of the implementation of CS education for every child. The agenda will include short talks and panel discussions featuring key representatives from the both the CS and wider K-12 education communities, as well as small-group breakout sessions to surface and prioritize specific issues related to using research for designing and conducting formative reviews of K-12 CS implementation in practice. Throughout the day CSNYC representatives will document conversations, elicit questions and priorities, facilitate connections and identify how best to support both the work through greater engagement and transparency among researchers, system-leaders and school-level practitioners. The outcomes from the workshop will focus on research-practice partnerships for the sustainable implementation of K-12 CS education.  They will result in a report that provides principles for forming and sustaining partnerships, and describes models and mechanisms for conducting research for improving implementation. The report will delineate implementation research priorities to guide the design, organization and delivery of K-12 CS education in diverse settings, and define ways the research community can be supported in building partnerships with practitioners that promote the implementation of CS education.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723399</AwardID>
+<Investigator>
+<FirstName>Leigh</FirstName>
+<LastName>DeLyser</LastName>
+<EmailAddress>leighann@csnyc.org</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kelsey</FirstName>
+<LastName>Finkel</LastName>
+<EmailAddress>kelsey.finkel@gmail.com</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The New York City Foundation for Computer Science Education</Name>
+<CityName>New York</CityName>
+<ZipCode>100107108</ZipCode>
+<PhoneNumber>2126745831</PhoneNumber>
+<StreetAddress>915 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

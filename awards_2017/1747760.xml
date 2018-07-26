@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>IUCRC Phase I GWU: Center for High Pressure Plasma Energy, Agriculture, and Biomedical Technologies (PEAB)</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advances in the science of atmospheric pressure plasmas have enabled breakthrough opportunities to improve our Nation's healthcare, economic prosperity and defense.  These science breakthroughs have resulted in the development of new technologies in energy, environmental remediation, water treatment and cleaning, medicine, food processing, and agriculture. These are the core fundamental areas of science and technology to be addressed by the Center for High Pressure Plasma Energy, Agriculture, and Biomedical Technologies (C-PEAB).  Drexel University (DU), University of Michigan (UM), and George Washington University (GWU), leading institutions in the scientific subject area, are synergistically collaborating with each other and with their industrial partners as the founding members of the C-PEAB.  This effort will support STEM education with focused recruitment of women and underrepresented minorities, produce an interdisciplinary workforce, and integrate novel breakthrough technologies with industry. Building upon long-term collaborations in plasma science with DU and UM, GWU's unique contribution to the C-PEAB team stems from our expertise in plasma-based cancer therapy and adaptive plasma technologies.&lt;br/&gt;&lt;br/&gt;Low Temperature non-equilibrium Plasma (LTP) science is the base upon which many modern in-dustries such as microelectronics and micro-fabrication have been built. Current breakthroughs in plasma-generating electronics have made it possible to widen the area of LTP applications to atmospheric and higher pressures. These developments have stimulated new plasma applications in industries such as food processing, agriculture, fuel conversion, medicine, water treatment, and pharmaceuticals. These application areas are the focus of the Center for High Pressure Plasma Energy, Agriculture, and Biomedical Technologies (C-PEAB). The C-PEAB will translate science breakthroughs in diagnostics, pulse power and modeling to optimizing industrial applications in energy, environmental remediation, food safety and food processing, and medical and bioengineering. C-PEAB will initially consist of a three-site IUCRC between Drexel University (DU), University of Michigan (UM), and the George Washington University (GWU) with subsequent addition of new member universities who have strong industry collaborations in high-pressure plasma applications pertinent to the C-PEAB. In particular the GWU C-PEAB site will focus on efficacy and safety of plasma in biological processes and on development of novel adaptive and controllable plasma technologies. These problems will be addressed by experimental and theoretical efforts.</AbstractNarration>
+<MinAmdLetterDate>02/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747760</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Sherman</LastName>
+<EmailAddress>jsherman@mfa.gwu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taeyoung</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>tylee@gwu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Keidar</LastName>
+<EmailAddress>keidar@gwu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lijie Grace</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>lgzhang@gwu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Plesniak</LastName>
+<EmailAddress>plesniak@gwu.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200522000</ZipCode>
+<PhoneNumber>2029946255</PhoneNumber>
+<StreetAddress>2121 Eye Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8041</Code>
+<Text>Fabrications and Processing Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

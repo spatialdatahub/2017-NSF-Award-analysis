@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Biogeochemical Processes along the Lower Amazon River Continuum</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>277267</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kendra McLauchlan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research addresses the movement of CO2 from rivers to the atmosphere, a phenomenon referred to as outgassing. Recently revised estimates of riverine outgassing suggest that it is a significant component of the global carbon cycle. But precisely how much outgassing occurs and what factors control the rates of outgassing remain poorly understood, especially in the lower, tidal reaches of large tropical rivers. Most measurements of outgassing are made far upstream of the ocean, and oceanography studies are restricted to zones that are offshore. This leaves a major knowledge gap, with little or no data available for extensive river reaches between upstream gauging station and offshore sites where oceanographic research vessels pick up the signal at sea. This project, with a focus on the Amazon River, will provide greater insights into how riverine carbon cycles function, and ultimately their influence on global cycles. The coupled models developed for the project will be available to policy makers for use in evaluating broader water resource issues of the changing Amazon basin.  The project will support the training of one graduate student and an undergraduate student recruited from an underrepresented minority. &lt;br/&gt;   &lt;br/&gt;This research will use a combination of river boat expeditions, remote sensing, and modeling to test the hypothesis that dissolved CO2 levels remain above atmospheric saturation along the entire lower river and in the inner reaches of the plume. Under those conditions the Amazon River plume would act as a net source of CO2 to the atmosphere when freshwaters and low salinity waters are fully considered. The hypothesis that gaseous, dissolved, and particulate concentrations of carbon vary consistently with the tide will be evaluated through detailed measurements over tidal cycles. To obtain insights into the biological mechanisms regulating organic matter decomposition and energy production a combination of proteomic signatures of microbial metabolism and dissolved organic matter characterization by ultra-high-resolution mass spectrometry will be employed. Finally, a detailed hydrodynamic model, that includes biological processes and inputs from a basin hydrology model, will be used to provide synthesis across the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1754317</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Ward</LastName>
+<EmailAddress>nicholas.ward@pnnl.gov</EmailAddress>
+<StartDate>04/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Keil</LastName>
+<EmailAddress>rickkeil@u.washington.edu</EmailAddress>
+<StartDate>04/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Richey</LastName>
+<EmailAddress>jrichey@u.washington.edu</EmailAddress>
+<StartDate>04/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

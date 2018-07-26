@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Autonomous, Reliable and Advanced Perceptive Navigation of Drones for Precise Asset Inspection</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>224837</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to enable drones to autonomously fly close to both outdoor and indoor infrastructure and assets, such as bridges, tunnels, buildings and warehouse goods, and to inspect them without relying on human pilots, external markers, and availability and reliability of data from a Global Positioning System (GPS). Many assets, such as bridges and warehouses, require drones to fly in GPS-denied environments making it impossible for existing systems to do localization and perform autonomous flights. The proposed technology will allow for faster, more frequent and thorough, less expensive and safer inspections, enhancing public confidence in the use of transportation assets. The proposed technology will also reduce the number of injuries caused by manual inspections, because of personnel having to access hard-to-reach or dangerous locations, lowering insurance and health care costs. Federal and state resources that would have been spent on inspection and maintenance could then be reallocated to other initiatives. In the case of bridge inspection, the proposed technology will eliminate the need for costly lane and bridge closures. The global opportunity to create savings, enhance safety and reduce externalities in infrastructure and warehouse inspection markets by using autonomous drone technology is substantial.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will involve developing an onboard, autonomous and reliable Advanced Perceptive Navigation system for drones to perform bridge, warehouse and other infrastructure and asset inspection by flying close to assets under challenging conditions including GPS-denied environments. Existing drone technology heavily relies on GPS data and drones can only be safely flown tens, if not hundreds, of meters away from the asset due to lack of precise control by human pilots and lack of positional accuracy of commercial autopilots. Such distances are inadequate for many situations, which require high-resolution imagery. The proposed solution will not rely on a global geographic frame of reference, but instead sense and perceive features of the asset that will allow the drone to navigate and optimally position itself with respect to the asset to collect images. Robust and computationally efficient algorithms will be developed, to be run onboard in real-time, for object detection, feature extraction and reliable tracking of points of interest from cameras and depth sensors mounted on drones. Developed algorithms will be integrated with the actual drone platform, and indoor test flights as well as field testing will be performed.</AbstractNarration>
+<MinAmdLetterDate>12/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746729</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Koch</LastName>
+<EmailAddress>ed@automodality.com</EmailAddress>
+<StartDate>12/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Automodality Inc.</Name>
+<CityName>Syracuse</CityName>
+<ZipCode>132023023</ZipCode>
+<PhoneNumber>4159484680</PhoneNumber>
+<StreetAddress>235 Harrison St., md 8</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

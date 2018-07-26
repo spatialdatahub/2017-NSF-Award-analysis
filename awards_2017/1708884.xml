@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Symposium on Symbolic and Algebraic Computation</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The International Symposium on Symbolic and Algebraic Computation (ISSAC) is the premier annual conference to present and discuss new developments and original research results in all areas of symbolic mathematical computation.  In July 2018, ISSAC will be held at the CUNY Graduate Center in July 2018.   This travel award can defray travel and registration costs for selected US-based students and post-docs to participate, and for 3 eminent researchers to present educational tutorials.  Selection criteria can be found via http://www.issac-symposium.org/ several months before the event. The aim is to support junior researchers, especially researchers who are members of under-represented groups, to present their innovative ideas and research results and to interact with their peers, senior colleagues, and researchers from institutions inside and outside of the U.S. &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1708884</AwardID>
+<Investigator>
+<FirstName>Alexey</FirstName>
+<LastName>Ovchinnikov</LastName>
+<EmailAddress>aovchinnikov@qc.cuny.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Queens College</Name>
+<CityName>Flushing</CityName>
+<ZipCode>113671575</ZipCode>
+<PhoneNumber>7189975400</PhoneNumber>
+<StreetAddress>65 30 Kissena Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7933</Code>
+<Text>NUM, SYMBOL, &amp; ALGEBRA COMPUT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

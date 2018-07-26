@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A high throughput platform for the selective generation of neurons from stem cells</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Human induced pluripotent stem cells (iPSCs) can grow indefinitely in culture and be specified to almost any cell type found in the human body. As such, they represent an attractive avenue for tissue engineering and cell replacement therapy. However, it remains difficult to convert iPSCs into sspecific cell types, which hinders their applications. This project uses a unique engineered device to simultaneously examine the effects of many different chemical cues on iPSC specification. The model system to be studied involves the generation of a subtype of neurons whose loss causes Parkinson's Disease (PD). Thus, the immediate outcomes of this project will have positive impacts on PD patients, and potential long-term implications for using iPSCs to replace other diseased tissues. The project will also support research experiences for undergraduates and for high school students through an existing outreach program with the Nashville public school system.&lt;br/&gt;&lt;br/&gt;Human induced pluripotent stem cells (iPSCs) have the potential to revolutionize personalized medicine by serving as an unlimited source of patient-derived material for disease modeling, drug screening, and tissue engineering. A key challenge remaining is the reproducible differentiation of individual iPSC lines to homogeneous populations of the desired cell type. A majority of iPSC differentiation procedures yield heterogeneous cell mixtures, and differentiation conditions identified for one iPSC line often do not translate to other lines. Whereas in vivo development relies on diverse spatiotemporal cues, where subtle differences in growth factor concentrations can alter lineage trajectories, standard iPSC differentiation procedures utilize static cultures with infrequent media changes that lack continuous control over soluble protein and small molecule concentrations. As such, the objective of this proposal is utilize a unique microformulator platform, which permits independent media delivery to each well of a standard 96-well plate, for iPSC differentiations. The proposal's specific aims will be focused on producing A9 midbrain dopaminergic (DA) neurons, which are the cell type lost in Parkinson's Disease (PD). DA neurons have been previously differentiated from iPSCs but with heterogeneous identity and line-to-line variability. Thus, the utility and significance of the microformulator will be demonstrated by: 1) iterative screening of differentiation conditions that yield highly pure midbrain DA progenitors from a single iPSC line; 2) iterative screening of differentiation conditions that favor high purity A9 midbrain DA neurons over other DA subtypes; and 3) demonstration of rapid optimization of differentiation conditions to multiple iPSC lines.</AbstractNarration>
+<MinAmdLetterDate>06/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1706155</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Wikswo</LastName>
+<EmailAddress>john.p.wikswo@vanderbilt.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ethan</FirstName>
+<LastName>Lippmann</LastName>
+<EmailAddress>ethan.s.lippmann@vanderbilt.edu</EmailAddress>
+<StartDate>06/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

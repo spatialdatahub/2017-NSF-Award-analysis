@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  P2C2--ICECAP (Ice Age Chemistry and Proxies) Phase 3: Investigating Fire Activity and its Implications for Climate Across Multiple Timescales</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>264845</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David J. Verardo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to examine the disparate records of past fire activity as a means to improve the understanding of variation in fire activity over time and climatic conditions. Wildfires have a large influence on regional and global climate change. Fires affect carbon storage, biogeochemical cycling, local hydrology, land albedo, ocean fertilization, and emissions of radiatively important gases and aerosols. Deposition of fire black carbon (BC) on snow and ice covered surfaces, for example, decreases albedo and leads to snow- and ice-melt, further loss of albedo, and subsequent warming. &lt;br/&gt;&lt;br/&gt;Despite the importance of fires to the earth-atmosphere system, knowledge of past fire activity is relatively scant. Ice-core records of carbon monoxide (CO) and BC in Antarctic ice cores do not show consistent trends over the last150 years, while trends in charcoal records and ice-core BC are sometimes at odds over longer timescales. Charcoal and BC records from the last glacial period reveal large variations tied to Dansgaard/Oeschger (D-O) events, but the climate implications of these variations are unknown.&lt;br/&gt;&lt;br/&gt;The first phase of the project involves the rigorous validation of a 250-year simulation of wildfire activity and climate feedbacks since 1750.  After gaining confidence in model performance, the researchers will simulate wildfire activity and subsequent radiative forcing during selected phases of an idealized D-O event.  The second phase of the project includes analyzing the variability in BC size distributions as a potential marker of BC sources and transport processes in existing ice cores from Greenland and Antarctica. &lt;br/&gt;&lt;br/&gt;The main objectives of the project are: 1) Validate model simulations of wildfire activity in the last glacial and preindustrial eras; 2) Quantify the impacts of wildfires on regional and global climate on glacial-to-interglacial and preindustrial-to-present-day timescales. The researchers aim to calculate the effects of changing fires on aerosol radiative forcing, snow/ice albedo effects, ocean fertilization, and the atmospheric oxidative capacity; and 3) Examine observed trends in BC particle size in the ice core record to assess changes in transport processes and hence large-scale meteorological processes over abrupt climate change during the glacial period.   The main tool for this analysis will be the Ice-age Chemistry And Proxies (ICECAP) model, which was developed with prior NSF funding.&lt;br/&gt;&lt;br/&gt;The potential broader impacts include an enhanced understanding of fire activity in warm climates to help reduce uncertainties in future climate trajectory predictions. The project will support high school teachers during two summers at Harvard through the NSF Research Experience for Teachers (RET).  Participants in RET will develop a hands-on curriculum on wildfires and climate. The project will also support a graduate student and a postdoctoral fellow.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702830</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>McConnell</LastName>
+<EmailAddress>jmcconn@dri.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nevada System of Higher Education, Desert Research Institute</Name>
+<CityName>Reno</CityName>
+<ZipCode>895121095</ZipCode>
+<PhoneNumber>7756737444</PhoneNumber>
+<StreetAddress>2215 Raggio Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1530</Code>
+<Text>PALEOCLIMATE PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7754</Code>
+<Text>CLIMATE VARIABILITY &amp; CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8070</Code>
+<Text>P2C2 Proposals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

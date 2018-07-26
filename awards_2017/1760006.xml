@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Capturing the Signature of Hurricane Harvey on Texas Coastal Lagoons</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>182790</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henrietta N. Edmonds</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hurricane Harvey made landfall Friday 25 August 2017 about 30 miles northeast of Corpus Christi, Texas as a Category 4 hurricane with winds up to 130 mph. This is the strongest hurricane to hit the middle Texas coast since Carla in 1961. After the wind storm and storm surge, coastal flooding occurred due to the storm lingering over Texas for four more days, dumping as much as 50 inches of rain near Houston. This will produce one of the largest floods ever to hit the Texas coast, and it is estimated that the flood will be a one in a thousand year event. The Texas coast is characterized by lagoons behind barrier islands, and their ecology and biogeochemistry are strongly influenced by coastal hydrology. Because this coastline is dominated by open water systems and productivity is driven by the amount of freshwater inflow, Hurricane Harvey represents a massive inflow event that will likely cause tremendous changes to the coastal environments. Therefore, questions arise regarding how biogeochemical cycles of carbon, nutrients, and oxygen will be altered, whether massive phytoplankton blooms will occur, whether estuarine species will die when these systems turn into lakes, and how long recovery will take? The investigators are uniquely situated to mount this study not only because of their location, just south of the path of the storm, but most importantly because the lead investigator has conducted sampling of these bays regularly for the past thirty years, providing a tremendous context in which to interpret the new data gathered. The knowledge gained from this study will provide a broader understanding of the effects of similar high intensity rainfall events, which are expected to increase in frequency and/or intensity in the future. &lt;br/&gt;&lt;br/&gt;The primary research hypothesis is that: Increased inflows to estuaries will cause increased loads of inorganic and organic matter, which will in turn drive primary production and biological responses, and at the same time significantly enhance respiration of coastal blue carbon. A secondary hypothesis is that: The large change in salinity and dissolved oxygen deficits will kill or stress many estuarine and marine organisms. To test these hypotheses it is necessary to measure the temporal change in key indicators of biogeochemical processes, and biodiversity shifts. Thus, changes to the carbon, nitrogen and oxygen cycles, and the diversity of benthic organisms will be measured and compared to existing baselines. The PIs propose to sample the Lavaca-Colorado, Guadalupe, Nueces, and Laguna Madre estuaries as follows: 1) continuous sampling (via autonomous instruments) of salinity, temperature, pH, dissolved oxygen, and depth (i.e. tidal elevation); 2) bi-weekly to monthly sampling for dissolved and total organic carbon and organic nitrogen, carbonate system parameters, nutrients, and phytoplankton community composition; 3) quarterly measurements of sediment characteristics and benthic infauna. The project will support two graduate students. The PIs will communicate results to the public and to state agencies through existing collaborations.</AbstractNarration>
+<MinAmdLetterDate>09/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1760006</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Montagna</LastName>
+<EmailAddress>paul.montagna@tamucc.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xinping</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>xinping.hu@tamucc.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Wetz</LastName>
+<EmailAddress>michael.wetz@tamucc.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Corpus Christi</Name>
+<CityName>Corpus Christi</CityName>
+<ZipCode>784125844</ZipCode>
+<PhoneNumber>3618253882</PhoneNumber>
+<StreetAddress>6300 Ocean Drive, Unit 5844</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9189</Code>
+<Text>WATER RESOURCES/COASTAL &amp; MARINE ENVIRON</Text>
+</ProgramReference>
+</Award>
+</rootTag>

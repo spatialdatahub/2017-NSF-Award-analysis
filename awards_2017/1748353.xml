@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Airborne Chemical Sensing Platform for Remote and Hazardous Environments</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will further develop new digitized manufacturing schemes, new materials and structures to construct compact laser photonic systems. It will open new innovation and product opportunities. The technology has potentials to yield robust and ultra-lightweight laser photonic systems with superior thermal management performance, which can be digitally manufactured at much lower cost than conventional means.  The innovation in manufacturing digitization and utilization of new materials and structures will allow rapid design modification and radical design innovation in developing laser and photonic systems for wider deployments on mobile drone platforms for a wide array of industrial, consumer, environmental, and military applications.&lt;br/&gt;&lt;br/&gt;This I-Corps project will evaluate several additive manufacturing process using both ceramic and metal powder feedstocks to build laser systems. The technology exploits the flexibility of the bottom-up manufacturing schemes to produce entire laser photonic systems made of flexure, cellular structures with embedded cooling and sensing functions. It will lead to drastic reduction on labor cost in manual assembly and alignments. Through combined optical, mechanic, and thermal design optimizations, we intend to completely digitize the manufacturing of laser photonic systems with advantages in weight, size, thermal, mechanic performance, manufacturing costs, which are unattainable by current commercial products.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748353</AwardID>
+<Investigator>
+<FirstName>Kevin Peng</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>kchen@engr.pitt.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

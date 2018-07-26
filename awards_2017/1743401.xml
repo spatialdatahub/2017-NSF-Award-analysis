@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding Photochemistry and Export of Ozone and Its Precursors from China</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>284884</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project includes measurements and modeling to improve understanding of the key processes and atmospheric emissions that result in regional ozone formation in the North China Plain (NCP), and the transport of pollution out of China with resulting implications for air quality in the United States.  The project includes a collaboration with Chinese scientists and with a German aircraft campaign (EMeRGe-Asia) that will track pollution outflow from the region.&lt;br/&gt;&lt;br/&gt;US Scientists will participate in the Ozone Photochemistry and Export from China Experiment (OPECE), that includes in-situ observations at Tuoji Island downwind from the polluted North China Plain (NCP) region. Measurements at Mount Tai in the NCP and at an urban site in Shanghai will be made by collaborators in China. The specific research objectives of the project are as follows: (1) Extend the EMeRGe-Asia aircraft dataset with in-situ observations in the outflow pathway at Tuoji Island, on Mount Tai, and at an urban site in Shanghai. Assess the 3-D modeling capability using in-situ and satellite observations; (2) Examine radical and ozone photochemistry in China using CAREBEIJNG 2014 (Wangdu), OPECE, and EMeRGe-Asia observations; (3) Improve the emission inventories of NOx, aromatics, and other VOCs, and quantify the effects of key photochemical processes and precursor emissions on regional ozone formation and export; and (4) Understand the export processes in the boundary layer and free troposphere during spring and investigate large-scale atmospheric systems affecting springtime pollution export from China.</AbstractNarration>
+<MinAmdLetterDate>02/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743401</AwardID>
+<Investigator>
+<FirstName>Yuhang</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>ywang@eas.gatech.edu</EmailAddress>
+<StartDate>02/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>L.</FirstName>
+<LastName>Huey</LastName>
+<EmailAddress>greg.huey@eas.gatech.edu</EmailAddress>
+<StartDate>02/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

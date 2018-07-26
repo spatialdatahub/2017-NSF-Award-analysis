@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Rational Points on Curves and Iterated p-adic Integrals</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>181730</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Hodges</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The modern study of rational points on curves has its origins in the mathematics of the ancient Greeks, who studied whole number solutions to polynomial equations. These equations can turn out to be tremendously tricky to solve, sometimes resisting efforts for centuries.  A numerical invariant -- the genus -- of the curve can reveal quite a bit about the fundamental nature of its set of rational points.  Indeed, in 1922, Mordell conjectured that the set of rational points on curves of genus at least 2 is finite. This was proved nearly 60 years later by Faltings. However, Faltings' proof does not explicitly construct the finite set of rational points for these curves. Producing a constructive, algorithmic version of Faltings' theorem remains a challenging open problem in number theory. &lt;br/&gt;&lt;br/&gt;The main aim of this project is to address this problem by giving new algorithms for explicitly finding rational points on certain higher genus curves via tools in iterated p-adic integration.  The PI will combine theoretical machinery and explicit computational techniques to prove results conjectured by the nonabelian Chabauty program.  Specifically, the PI will study methods situating the finite set of rational points in a slightly larger finite set of p-adic points coming from nonabelian Chabauty and will give practical algorithms for computing the p-adic functions cutting out these p-adic points. To facilitate this, the PI will use ideas from p-adic cohomology to produce fast algorithms for iterated p-adic integration.</AbstractNarration>
+<MinAmdLetterDate>07/06/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702196</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Balakrishnan</LastName>
+<EmailAddress>jbala@bu.edu</EmailAddress>
+<StartDate>07/06/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

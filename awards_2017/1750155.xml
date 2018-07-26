@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Software Adaptation and Synthesis Techniques for Internet of Things Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>99825</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wearable Internet-of-Things (IoT) devices, such as smart watches, smart glasses, and cloud-enabled hearing aids promise to improve our everyday lives. However, developing such systems is challenging. System developers must account for the differences in users and hardware platforms, and anticipate how a system will respond to the changing operating conditions. For example, a hearing aid may use its onboard processor to augment speech in relatively quiet surroundings but rely on more powerful cloud computing resources to enhance speech as users encounters more noisy environments. Today, developers lack effective programming languages and tools to help them create and improve such IoT systems.&lt;br/&gt;&lt;br/&gt;This project investigates how adaptive IoT systems may be developed using policy-driven software adaptation and synthesis.  Central to our approach is to separate the functionality of a system (encapsulated in software components) from its run-time adaptation (specified as a policy).  Developers will be provided with a language to write policies that control when components are executed, their concurrency, and dynamically selects which alternate component implementation should be used. The policy language will be combined with data-driven techniques that integrate simulation, program analysis, and machine learning techniques to configure the parameters of a policy as well as synthesize new policies.&lt;br/&gt;&lt;br/&gt;The research undertaken as part of this proposal will provide a solid foundation for building adaptive IoT systems. The primary research activities will help reduce the development time and improve the robustness of IoT systems, bringing this technology closer to fruition.  The primary educational activities include incorporating new topics on IoT systems into the Operating Systems curriculum and topics on software adaptation and synthesis into the Mobile Computing curriculum. These efforts will create a pipeline of undergraduate and graduate students that are broadly interested in systems research. &lt;br/&gt;&lt;br/&gt;The publications, educational materials, software artifacts, and results obtained as part of this project will be made publically available at http://cs.uiowa.edu/~ochipara/career for five years following the completion of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1750155</AwardID>
+<Investigator>
+<FirstName>Octav</FirstName>
+<LastName>Chipara</LastName>
+<EmailAddress>octav-chipara@uiowa.edu</EmailAddress>
+<StartDate>02/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

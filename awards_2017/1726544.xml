@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Circular Dichroism Spectropolarimeter</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>139643</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Emory University to fund the acquisition of a circular dichroism spectropolarimeter. This instrument will support the research of a broad-based and cross-disciplinary group of investigators in the chemical, biological and physical sciences and will enhance student training in the application of advanced biophysical techniques for the characterization of biomolecules (proteins and nucleic acids). This new instrument will allow the Emory community, including graduate and undergraduate students, postdoctoral associates and research faculty, to conduct advanced research into the fundamental structural and dynamic properties of biomolecules of relevance to basic biology, human health and of biocatalysts of potential industrial significance. This instrument will also advance the teaching mission of Emory University by providing access and hands-on experience in application of state-of-the-art bio-analytical methods, which will be conducted in an instructional setting in core academic courses for graduate and undergraduate students that will be administered through the Chemistry Department. &lt;br/&gt;&lt;br/&gt;The circular dichroism spectropolarimeter will have a significant and lasting impact on research activities at Emory University including the following areas: a.) structural investigation self-assembled protein, peptide, and nucleic acid nanostructures using circular dichroism and linear dichroism (LD) methods of analysis, b.) structural characterization of engineered proteins, facilitated by circular dichroism and fluorescence measurements, as well as stopped-flow methods and variable temperature studies, c.) analysis of the conformational properties of biomolecules within hybrid biotic/abiotic materials, d.)  interrogation of metal ion binding sites within metallo-enzymes, utilizing the circular dichroism and magnetic circular dichroism capabilities of the instrument, and e.) determination of the mode of interaction between RNA and proteins in ribonucleo-protein complexes, such as the ribosome.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726544</AwardID>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Lutz</LastName>
+<EmailAddress>sal2@emory.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Dyer</LastName>
+<EmailAddress>briandyer@emory.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Khalid</FirstName>
+<LastName>Salaita</LastName>
+<EmailAddress>k.salaita@emory.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Weinert</LastName>
+<EmailAddress>emily.weinert@emory.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vincent</FirstName>
+<LastName>Conticello</LastName>
+<EmailAddress>vcontic@emory.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emory University</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303224250</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress>1599 Clifton Rd NE, 4th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

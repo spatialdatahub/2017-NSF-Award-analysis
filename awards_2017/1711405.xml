@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Character Varieties and Cluster Mutations</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>186064</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Every surface can be approximated by a space obtained by gluing together triangles. This fact is used, for example, in computer graphics where animated figures are represented by moving polyhedra. Similarly, curved spaces in three dimensions, which are important in Einstein's relativity theory, can be represented by spaces obtained by gluing together tetrahedra. This project will study abstract properties of a space by using the concrete combinatorics of the gluing pattern. This approach is well suited for computer experimentation, and students participating in the research can perform experiments without fully understanding the abstract theory. The investigator and his students will explore new structures, derive new formulas for invariants, perform extensive computer experiments, and extend the underlying theory to higher dimensions.&lt;br/&gt;&lt;br/&gt;The project will study certain configuration spaces of flags introduced by Fock and Goncharov. These configuration spaces have concrete coordinates and very interesting structures. The coordinates give rise to explicit coordinates on higher Teichmuller spaces for triangulated surfaces, and to coordinates on the (decorated) character variety of triangulated 3-manifolds. The cluster structure of the coordinates also gives rise to explicit formulas for invariants such as the Chern-Simons invariant. The work will investigate the structure of the configuration spaces and explore their relationship to polylogarithms.  The project aims to derive new formulas for invariants and extend the theory to higher dimensions.</AbstractNarration>
+<MinAmdLetterDate>06/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711405</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Zickert</LastName>
+<EmailAddress>zickert@umd.edu</EmailAddress>
+<StartDate>06/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Investigation of Magnetic Skyrmions and Magnetic Polarons in Oxygen Deficient EuO(1-x)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>198549</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract:&lt;br/&gt;This project investigates novel magnetic states in a unique magnetic semiconductor - oxygen deficient europium monoxide EuO(1-x).  These novel magnetic states found in EuO(1-x) have promising applications as next generation small magnetic memories with topologically protected stability and minimal energy dissipation.  Revealing and understanding the atomic-scale as well as macroscopic features of these magnetic states advance the sciences in an area of technological importance.  The physics pursued here also provides significant insight into the roles of the oxygen vacancies as oxygen vacancy engineering is becoming an attractive way to realize practical devices using various types of oxide materials.  The project offers unique research and educational experiences for students in condensed matter and materials physics and trains students in a collaborative learning environment.  Students visit high schools in Wyoming and partner with high school teachers to integrate new knowledge of research into the current standard science curriculum. &lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;There are undeniable signs that suggest magnetic skyrmions may exist in oxygen deficient EuO(1-x).  It is hypothesized that the observed magnetic ordering above 69 K is due to the formation of magnetic polarons (magnetic ordering in a paramagnetic environment), which transitions to magnetic skyrmions (nontrivial spin texture in a ferromagnetic host) when T &lt; 69 K.  The goal of this project is to take several novel approaches to probe the potential skyrmion formation and investigate the mechanisms for their formation.  This is achieved by a combination of material synthesis and oxygen vacancy control followed by direct observation via spin-polarized scanning tunneling microscopy and characterization with transport measurements that aim to detect topological Hall effect.  In addition, the experimental studies are aided by computational investigations.  Three specific approaches are taken: 1) probing magnetic polarons and skyrmions and determining their correlation with the oxygen vacancies; 2) testing magnetic skyrmion and polaron formation mechanisms across the first Curie temperature (69 K); and 3) establishing the magnetic phase diagram for EuO(1-x).</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710512</AwardID>
+<Investigator>
+<FirstName>TeYu</FirstName>
+<LastName>Chien</LastName>
+<EmailAddress>tchien@uwyo.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jinke</FirstName>
+<LastName>Tang</LastName>
+<EmailAddress>jtang2@uwyo.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuri</FirstName>
+<LastName>Dahnovsky</LastName>
+<EmailAddress>yurid@uwyo.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wyoming</Name>
+<CityName>Laramie</CityName>
+<ZipCode>820712000</ZipCode>
+<PhoneNumber>3077665320</PhoneNumber>
+<StreetAddress>1000 E. University Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

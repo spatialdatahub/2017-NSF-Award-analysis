@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SPX: Collaborative Research: Dependence Programming and Optimization of Scalable Irregular Numerical Applications</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Dynamic and irregular applications, such as in the Multiresolution Adaptive Numerical Environment for Scientific Simulation framework, are notoriously hard to implement efficiently, especially on emerging complex and heterogeneous high-performance computing platforms. This is further compounded by the lack of suitable programming models capable of expressing these kinds of applications, while at the same time allowing the tools to efficiently map the applications on a variety of hardware. The intellectual merits of this project are in advancing the state of the art in dependence-based programming models, compiler technologies and runtime techniques that address these issues.  The project's broader significance and importance are in laying down the intellectual foundations for the composition and optimization of irregular scalable algorithms, focusing on challenging and highly-significant spatial-tree algorithms.  This project enables design and implementation of high-performance, portable irregular applications, as well as training of the future employees of companies and government who work in these domains.&lt;br/&gt;&lt;br/&gt;This project redefines the prevailing abstractions by unifying and extending the Concurrent Collections (CnC) dependence-based programming model with novel compiler and runtime techniques, and applying these to a very important class of dynamic, irregular numerical computations such as the ones found in the above simulation framework. Innovations in the programming model allow the programmers to separate the specification of the algorithm from a specification of how to efficiently map the application on a variety of different platforms with a variety of different tuning goals. Compiler innovations enable previously elusive optimizations of irregular applications, while runtime techniques enable efficient execution on modern, heterogeneous and distributed machines.</AbstractNarration>
+<MinAmdLetterDate>08/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725611</AwardID>
+<Investigator>
+<FirstName>Louis-Noel</FirstName>
+<LastName>Pouchet</LastName>
+<EmailAddress>pouchet@cs.colostate.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>SPX: Scalable Parallelism in t</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+</Award>
+</rootTag>

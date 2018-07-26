@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBP: Network Connections in Formal Hiring Processes</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>709515</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project looks at how network effects may bias the apparent qualifications of applicants and thereby may affect hiring outcomes. It goes beyond, therefore, well-known direct effects of attributes of applicants irrelevant to their merit on hiring processes. This project looks at specific demographic attributes in the STEM faculty hiring process at the University of California, but the results will apply to hiring more broadly, both within and outside of the academy.  Finding the hypothesized effect of networks will constitute an important advance because this is a hidden source of bias that would be present even if more direct biases could be eliminated.  Results of the study will have clear implications for hiring practices that will help to make hiring in STEM more meritocratic and, therefore, broaden participation in STEM. This project was supported jointly by the Education and Human Resources Core Research Program, the Sociology Program, and Science of Broadening Participation.&lt;br/&gt;&lt;br/&gt;The study develops indicators of individual-level network connections among actors involved in STEM faculty hiring processes at research intensive universities.  It uses these data to test hypotheses about the influence of network connections on hiring processes and how networks work to reinforce inequalities by key demographic attributes in the academic labor market.  To accomplish these goals the researchers will enhance the Evaluating Equity in Faculty Recruitment (EEFR) data, which includes detailed measures of the faculty hiring process, by adding multiple measures of the person-to-person ties between individuals involved in the faculty hiring processes. Three kinds of individual-level network connections between the actors in the hiring network are measured, those indicated by co-authorship relationships, by direct citation of scholar's work, and by indirect citation, i.e., the extent to which the authors cite similar bodies of literature. Multivariate statistical analyses examine the effects of network connections in formal hiring processes by testing the presence, extent, and correlates of differences by demographic attribute in professional networks and by identifying the influence of network connections on individual outcomes in STEM faculty hiring. The result will be the first systematic analysis of how inequalities according to demographic attribute are influenced by network connections in the STEM faculty hiring process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1756691</AwardID>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Albiston</LastName>
+<EmailAddress>calbiston@law.berkeley.edu</EmailAddress>
+<StartDate>05/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Victoria C</FirstName>
+<LastName>Plaut</LastName>
+<EmailAddress>vplaut@law.berkeley.edu</EmailAddress>
+<StartDate>05/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Carlson</LastName>
+<EmailAddress>susan.carlson@ucop.edu</EmailAddress>
+<StartDate>05/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kimberlee</FirstName>
+<LastName>Shauman</LastName>
+<EmailAddress>kashauman@ucdavis.edu</EmailAddress>
+<StartDate>05/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7980</Code>
+<Text>Core R&amp;D Programs</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8050</Code>
+<Text>Science of Broadening Participation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Materials Research Science and Engineering Center at UCSB</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardAmount>3681000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniele Finotello</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL: The Materials Research Science and Engineering Center at the University of California, Santa Barbara develops and sustains the necessary human and physical infrastructure to advance materials research, education, and training in an integrative manner. The project involves a dynamic team of investigators from six different departments whose interdisciplinary research contributes to advancing three different topical areas within the three Interdisciplinary Research Groups (IRGs). Research in IRG-1 focuses on understanding interactions within novel magnetic materials to advance a plethora of applications including refrigeration and fine-scale motion control. Research in IRG-2 advances plastic materials with potential impact on chemical separations and energy storage. Inspired by nature, IRG-3 establishes the foundational design rules for creating materials for applications such as self-healing materials and materials for biological tissue replacement. The research in the different IRGs integrates the preparation of new materials with the development of forefront theories to understand them, and advanced tools to measure materials properties. In parallel, seed projects allow new researchers, venturing in exciting research directions, to join the Center. Shared experimental facilities are leveraged to support the project and strengthen interactions with industry. Developing job creation through start-ups and impacting work-force preparedness through enhancing education and outreach is a goal that threads through all of the activities of the Center.&lt;br/&gt;&lt;br/&gt;TECHNICAL: The Materials Research Science and Engineering Center at the University of California, Santa Barbara includes three IRGs. The three IRGs address fundamental problems in materials research that cannot be advanced without contributions from a team of interdisciplinary and collaborative-domain experts. The research in each IRG integrates synthesis with characterization and property measurement, accompanied by theoretical and computational efforts, to advance fundamental understanding and develop promising materials classes for a range of applications. IRG-1 aims to understand and develop unprecedented control over the couplings between strain, magnetization, and temperature in single- and multiphase intermetallic compounds to advance technologies including actuation and solid-state refrigeration. IRG-2 plans to develop novel polymeric ionic liquid chemistries, understand self-assembly and ion transport in these materials, and develop applications that incorporate the emergent properties of multi-valent ion conductivity, light-driven adaptive mechanics, switchable redox activity, and magnetic response. Inspired by natural marine materials, IRG-3 aims to discover how material assembly and innovative processing can help establish the foundational design rules for creating versatile, graded, multiphase soft materials for eventual use  in applications such as advanced fabrics, packaging, additive manufacturing, and tissue replacements, as well as self-shaping, self-healing, and reconfigurable materials platforms. Alongside the research, MRSEC scientists and education staff are dedicated to improving access to science and to building a dynamic and inclusive workforce of scientists and engineers. The portfolio of education programs has a core focus on undergraduate research opportunities. Outreach activities also involve K-12 students, support of teachers to create relevant curricula, and the broader lay public, to share current excitement in materials research.</AbstractNarration>
+<MinAmdLetterDate>09/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720256</AwardID>
+<Investigator>
+<FirstName>Ram</FirstName>
+<LastName>Seshadri</LastName>
+<EmailAddress>seshadri@mrl.ucsb.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ania</FirstName>
+<LastName>Bleszynski Jayich</LastName>
+<EmailAddress>ania@physics.ucsb.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1735</Code>
+<Text>MATERIALS RSCH SCI &amp; ENG CENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1711</Code>
+<Text>MATERIALS EDUCATION AND RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8611</Code>
+<Text>Energy Efficiency and End Use</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Upgrade of a 500 MHz Nuclear Magnetic Resonance (NMR) Spectrometer</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>470548</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation Programs. Professor Kerney Glover from Lehigh University and colleagues Bryan Berger and Damien Thevenin are upgrading a console for a 500 MHz Nuclear Magnetic Resonance (NMR) spectrometer and also have equipped the spectrometer with a cryoprobe. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as studies of biologically-relevant species. In general, NMR spectroscopy is a powerful tools available to chemists for the structural study of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the changing interactions between molecules in solution.  The results from these NMR studies may have an impact in synthetic organic/inorganic chemistry, materials chemistry, and biochemistry. This instrument is an integral part of teaching as well as research performed by graduate and undergraduate students via independent student research and traditional academic coursework. The spectrometer is used to support academic institutions members of the Lehigh Valley Association of Independent Colleges such as Lafayette College, Kutztown University, Cedar Crest College, DeSales University, Moravian College and Muhlenberg College.  Students from these institutions can enroll in an advanced laboratory class that utilizes the instrument.&lt;br/&gt;&lt;br/&gt;This NMR spectrometer enhances research and education at all levels. It aids researchers studying the molecular determinants for the homodimerization of the receptor protein-tyrosine phosphatase J and the structure and topology of the protein caveolin-1 (as well as mutants of caveolin-1.) The spectrometer is also used for the determination of the structure of the RAMP1 transmembrane domain.</AbstractNarration>
+<MinAmdLetterDate>08/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725883</AwardID>
+<Investigator>
+<FirstName>Kerney</FirstName>
+<LastName>Glover</LastName>
+<EmailAddress>kjg206@lehigh.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Damien</FirstName>
+<LastName>Thevenin</LastName>
+<EmailAddress>dat311@lehigh.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bryan</FirstName>
+<LastName>Berger</LastName>
+<EmailAddress>bwb2k@virginia.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>Bethlehem</CityName>
+<ZipCode>180153005</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>Alumni Building 27</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRSEC: UW Molecular Engineering Materials Center</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardAmount>2600000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniele Finotello</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: The University of Washington Molecular Engineering Materials Center (UW MEM-C) addresses fundamental problems in materials research that push the frontiers of science, accelerate the development of future advanced technologies, and address challenges of broad national and societal importance. MEM-C's research activities stress innovation in the design, discovery, and application of complex electronic and photonic inorganic materials with low dimensionality. MEM-C also spearheads education, training, and outreach programs to prepare tomorrow's leaders in science and technology, with signature programs focusing on promotion of (re)entry of veterans into science/technology/engineering/mathematics (STEM) career tracks, and early recruitment/mentorship of students to STEM from underrepresented/underserved regional high schools. Additional activities include REU/RET/REM programs, regional K-20 outreach, regional partnerships for public engagement, and interdisciplinary curriculum development. MEM-C further strengthens ties between UW and industrial, international, and National Laboratory partners through sponsored internships and collaborations. MEM-C shared facilities provide lasting infrastructure that promotes the activities of the Center as well as of the broader campus and regional materials science communities.&lt;br/&gt;&lt;br/&gt;Technical Abstract: MEM-C's research involves two interdisciplinary research groups (IRGs): IRG-1: Defects in Nanostructures addresses the scientific challenge of engineering unprecedented physical properties into inorganic nanostructures by controlling defect formation and doping, and exploits these emergent properties to develop new technologies ranging from laser cooling to solar concentration; IRG-2: Layered Quantum Materials creates and studies new forms of quantum matter in atomically layered materials, emphasizing phase transitions in these materials, with potentially disruptive impact on energy and information technologies. Both IRGs integrate materials innovations with theory/computation at the interface of materials science, chemistry, physics, and engineering to identify and explore fundamentally new physical phenomena and to advance these scientific frontiers toward new applications. A competitive seed program supports high-risk high-reward projects in emerging areas. These activities are developing the materials underpinnings of future advanced technologies and simultaneously providing interdisciplinary education and training of the nation's future leaders in science and technology. Participants in the Center include 15 senior investigators, 5 postdoctoral associates, and 14 graduate students from 5 departments and 1 National Laboratory.</AbstractNarration>
+<MinAmdLetterDate>09/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1719797</AwardID>
+<Investigator>
+<FirstName>Kai-Mei</FirstName>
+<LastName>Fu</LastName>
+<EmailAddress>kaimeifu@uw.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaodong</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>xuxd@u.washington.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Gamelin</LastName>
+<EmailAddress>gamelin@chem.washington.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Ginger</LastName>
+<EmailAddress>ginger@chem.washington.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate>11/16/2017</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Luscombe</LastName>
+<EmailAddress>luscombe@u.washington.edu</EmailAddress>
+<StartDate>09/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1735</Code>
+<Text>MATERIALS RSCH SCI &amp; ENG CENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1711</Code>
+<Text>MATERIALS EDUCATION AND RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

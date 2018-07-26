@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>TRIPODS: Institute for Foundations of Data Science</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>1499523</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As data continues to accumulate at an ever-increasing rate, so does the need for powerful and novel methods to extract information from data, in a form that is useful to individuals, society, researchers,and commerce. This project establishes a new entity at the University of Wisconsin-Madison: the Institute for Foundations of Data Science (IFDS). Building on the foundational work of earlier generations of researchers, IFDS will serve as a hub for people across campus with expertise in mathematics, statistics, and computer science to explore new approaches to the formulation and solution of problems in data analysis, as well as to epitomize the possibilities of a collaborative approach to investigating fundamental issues in data science. IFDS will integrate with the broader UW-Madison agenda for data science research, creating a new home for research of a fundamental, theoretical nature.  It will play a vital role in establishing graduate degree programs in data science and in outreach to industrial partners with interests in fundamental data science research.&lt;br/&gt;&lt;br/&gt;The new Institute for Foundations of Data Science will bring together researchers across the UW-Madison campus in mathematics, statistics, and theoretical computer science for a transdisciplinary effort organized around three themes: Algebra and Optimization in Data Science, Graphs and Networks in Data Science, and Data Acquisition Theory and Methods. All topics represent areas of significant current interest in data science due to their intrinsic fundamental import and their wide applicability. The collaborations within these themes will involve fourteen senior researchers, together with postdoctoral and graduate student researchers. The IFDS will lay the foundations for a larger future effort in transdisciplinary data science research, possibly involving other universities and institutes.  Funds for the project come from CISE Computing and Communications Foundations, MPS Division of Mathematical Sciences, MPS Office of Multidisciplinary Activities, and Growing Convergent Research. (Convergence can be characterized as the deep integration of knowledge, techniques, and expertise from multiple fields to form new and expanded frameworks for addressing scientific and societal challenges and opportunities. This project promotes convergence by developing transdisciplinary data science solutions to problems in important application domains such as functional brain networks in cognitive neuroscience, understanding causal effects in gene regulatory networks, phylogenetic reconstruction in computational evolutionary biology, and the spread of information or disease across a network.)</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740707</AwardID>
+<Investigator>
+<FirstName>Sebastien</FirstName>
+<LastName>Roch</LastName>
+<EmailAddress>roch@math.wisc.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Wright</LastName>
+<EmailAddress>swright@cs.wisc.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Nowak</LastName>
+<EmailAddress>rdnowak@wisc.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Newton</LastName>
+<EmailAddress>newton@biostat.wisc.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Willett</LastName>
+<EmailAddress>becca.lu.willett@gmail.com</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>041Y</Code>
+<Text>TRIPODS Transdisciplinary Rese</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8078</Code>
+<Text>INSPIRE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>047Z</Code>
+<Text>TRIPODS Phase 1</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>060Z</Code>
+<Text>Convergent Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+</Award>
+</rootTag>

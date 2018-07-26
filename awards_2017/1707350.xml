@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeuroNex Innovation Award: Chemical and Genetic Methods to Measure and Manipulate Neurons with Light</AwardTitle>
+<AwardEffectiveDate>12/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2020</AwardExpirationDate>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080200</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding the human brain remains one of the great challenges of modern science. The scope of disciplines required to understand brain structure and function - chemistry, molecular biology, structural biology, biophysics, electrical engineering, computational science, cognitive science and psychology - to say nothing of the fields of inquiry and exploration that are influenced by this understanding, such as religion, art, music, philosophy, sociology and literature, is far-reaching. The sheer scale of the cells contained in the human brain, in contemplating the vast number of neurons, some 80 billion, and the hundreds to thousands of connections that each neuron forms with other neurons, along with the additional 80 billion non-neuronal support cells, makes for a daunting parts list to catalog. And yet, beyond just a static picture of the arrangement of these various cells into ensembles and networks, the dynamic information flow between these cells, the electrical and chemical impulses that underpin the very essence of human existence - sensation, thought, emotion, cognition - represent not just an additional layer of complexity, but, at its core, a deep mystery to be unraveled and explored. To push back at this frontier requires new thoughts, new tools, new techniques, and new interpretations that will almost certainly come from teams of scientists working across disciplines to bring new approaches that are more than the sum of their parts. This project will develop and apply new methods for non-invasively measuring electrical signals underlying brain cell communication.&lt;br/&gt;&lt;br/&gt;This award establishes a NeuroNex Innovation Project at the University of California, Berkeley, which will develop chemical-genetic methods to measure neuronal activity in a non-invasive, high-throughput, high-fidelity manner across multiple length scales, at high speed, and in multiple species with molecular precision.  The team will optically read-out neuronal activity by directly imaging changes in membrane voltage with bright, sensitive, chemically-synthesized voltage-sensitive fluorophores. The voltage-sensitive fluorophore make use of photoinduced electron transfer (PeT) as a voltage-sensing trigger to provide fast, sensitive, non-disruptive optical recordings in neurons. In this project, pairing of PeT-based voltage-sensitive dyes with genetic targeting methods to enable optical voltage sensing with sub-cellular and sub-millisecond resolution in intact animal brains will be conducted. This NeuroNex Innovation Award is part of the BRAIN Initiative and NSF's Understanding the Brain activities.</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707350</AwardID>
+<Investigator>
+<FirstName>Ehud</FirstName>
+<LastName>Isacoff</LastName>
+<EmailAddress>ehud@berkeley.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristin</FirstName>
+<LastName>Scott</LastName>
+<EmailAddress>ks465@columbia.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Kramer</LastName>
+<EmailAddress>rhkramer@berkeley.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hillel</FirstName>
+<LastName>Adesnik</LastName>
+<EmailAddress>hadesnik@berkely.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Evan</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>evanwmiller@berkeley.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

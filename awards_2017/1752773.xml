@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: A Wastewater-Based-Epidemiology System for Early Detection of Viral Outbreaks in Detroit, MI</AwardTitle>
+    <AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2019</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Georgia-Ann Klutke</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Infectious disease outbreaks due to waterborne pathogens present a widespread health hazard, particularly in densely populated urban areas and among vulnerable populations. Viruses are among the most hazardous of these pathogens because of their ability to mutate and their high survivability in water and waste. Traditionally, disease detection and management has been accomplished through analysis of clinical samples from affected individuals who have sought medical treatment. Such detection may be slow, allowing an epidemic to emerge before effective public health measures can be taken. The objective of this EArly-concept Grant for Exploratory Research (EAGER) project is to determine whether wastewater sampling for viral and other biomarkers provides effective prediction for water-related disease outbreaks. The research will provide the basis for a transformative new paradigm for early detection and prediction of disease outbreaks through smart monitoring of wastewater at a community level. This approach has the potential to be much faster than an approach based on clinical diagnostics alone, which is inherently limited to an after analysis of an outbreak. The project will provide opportunities for engineering students to develop research capabilities in addressing important public health issues&lt;br/&gt;&lt;br/&gt;The research objective will be accomplished by integrating viral load and metabolic biomarker measurements from community wastewater samples with public health monitoring of disease. Data from a community wastewater treatment facility will be used to characterize the spatiotemporal distribution of viruses and other biomarkers within the sewer pipe network. Data from the county public health departments will be analyzed using epidemiological modeling to predict clinical cases of disease. These predictions, along with the high-dimensional raw data, will be used to create a nonlinear learning model to investigate the complex relationships among variables and to identify significant explanatory variables in order to improve the ability to predict disease outbreaks before they reach a critical stage.</AbstractNarration>
+    <MinAmdLetterDate>09/02/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/02/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1752773</AwardID>
+    <Investigator>
+      <FirstName>Irene</FirstName>
+      <LastName>Xagoraraki</LastName>
+      <EmailAddress>xagorara@egr.msu.edu</EmailAddress>
+      <StartDate>09/02/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Michigan State University</Name>
+      <CityName>East Lansing</CityName>
+      <ZipCode>488242600</ZipCode>
+      <PhoneNumber>5173555040</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>006Y</Code>
+      <Text>OE Operations Engineering</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7916</Code>
+      <Text>EAGER</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8018</Code>
+      <Text>Smart and Connected Health</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8023</Code>
+      <Text>Health Care Enterprise Systems</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9102</Code>
+      <Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

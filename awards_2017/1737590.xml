@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-IRG Track 2: Towards Quality Aware Crowdsourced Road Sensing for Smart Cities</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With nearly a billion automobiles on the road today, the current transportation systems have begun to show signs of serious strain, such as congestions, traffic accidents, road surface defects, and malfunctioning traffic regulation infrastructures. Therefore, it is of great importance to collect and disseminate road/traffic condition information accurately, efficiently, and timely. Traditionally, road and traffic monitoring are conducted through either stationary sensors or instrumented probe vehicles. Unfortunately, the prohibitively high deployment cost of such devices makes it impossible to achieve large-scale deployment, leading to limited road coverage and delayed information update. To mitigate these problems, this project develops QuicRoad, a Quality of Information (QoI) aware crowdsourced road sensing system that can collect road/traffic information from a variety of sources, including smartphones, social media and transportation authorities (as well as future connected vehicles), and then distribute the collected information in real time. The PIs team up with local transportation agencies in the Buffalo-Niagara region on applications related to road surface and traffic condition monitoring, border crossing delay estimation, and incident management.&lt;br/&gt;&lt;br/&gt;This project integrates across both social and technological research dimensions. In the technological dimension, it leads to a novel  Quality of Information (QoI) aware information integration framework that can jointly optimize the estimation of the QoI of various sources, and the information-integration as well as decision-making process. In the social dimension, it answers fundamental questions such as whether and to what degree the road/traffic condition information provided by the proposed QuicRoad system would change the social behavior of the travelers. By seamlessly integrating the technological and social dimensions, the proposed research can not only improve the coverage and quality of assisted driving and road navigation services for travelers, but also support policy-making in traffic planning and operations by transportation authorities. The research will potentially benefit a wide spectrum of real-world road sensing applications aimed at improving road safety, mitigating traffic congestions, and reducing fuel consumption and emissions, and eventually contribute to building a sustainable society.</AbstractNarration>
+<MinAmdLetterDate>08/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737590</AwardID>
+<Investigator>
+<FirstName>Lu</FirstName>
+<LastName>Su</LastName>
+<EmailAddress>lusu@buffalo.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Anas</LastName>
+<EmailAddress>alex.anas@verizon.net</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jing</FirstName>
+<LastName>Gao</LastName>
+<EmailAddress>jing@buffalo.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chunming</FirstName>
+<LastName>Qiao</LastName>
+<EmailAddress>qiao@computer.org</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adel</FirstName>
+<LastName>Sadek</LastName>
+<EmailAddress>asadek@buffalo.edu</EmailAddress>
+<StartDate>08/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Amherst</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

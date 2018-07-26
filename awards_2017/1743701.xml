@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PIRE: High Temperature Ceramic Fibers: Polymer-Based Manufacturing, Nanostructure, and Performance</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardAmount>913751</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cassandra M. Dudka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gurpreet Singh (Kansas State University), Himanshu Jain (Lehigh University), Peter Kroll (University of Texas at Arlington), Alexandra Navrotsky (University of California - Davis), Rishi Raj (University of Colorado Boulder)&lt;br/&gt;&lt;br/&gt;The single crystal superalloy blade for gas turbines may have been the most significant development in energy and transportation sectors in the last century. It empowered our military prowess, and enabled civilian aircraft to fly half way around the world. Further advancement in the operating temperature of gas turbines made with metallic materials, however, is limited by their melting points. So the next phase must be based upon high-temperature ceramics. These high-tech materials for gas turbine engines are composites of ceramic fibers infiltrated with a ceramic matrix, both made of non-oxide ceramics such as silicon carbide. The fibers, which are the foundation of this ceramic matrix composite (CMC) technology, are generally derived through thermal decomposition of organosilicon polymers. The CMCs hold the promise of quantum leaps in the operating temperature of gas turbines, which may increase engine thrust by 25% while decreasing fuel consumption by 10% just within the next few years. Unfortunately, the United States is far behind Japan and Europe that lead the science and technology of processing and innovation in non-oxide fiber fabrication. To make the US competitive this PIRE program will expand research in the basic science and technology and train professionals with expertise in fiber processing and properties. The program will leverage the relationships that researchers in the US have established with their counterparts overseas. Specifically, the US PIRE team members will bring expertise in structure and thermo-chemo-mechanical property characterization of polymer-derived ceramics (PDC), whereas international partners will offer expertise in pre-ceramic polymers and non-oxide ceramic fibers. Together they will train the next generation of students in this crucial area of materials science and engineering. Seven to ten doctoral and twenty undergraduate research scholars from the US will receive training on ceramic fiber research via dual degree programs and exchange visits to PIRE member institutions in Japan and Europe (UK, France, Germany, Italy). The community built under this program will include young researchers comprising of at least 50% female, underrepresented and first-generation-to-attend-college students. They will serve as the backbone for continued innovation and scientific research on ceramic fibers far into the future. The research team foresees that the fiber program will evolve into a full-fledged CMC program, where the matrix and the fibers are manufactured from polymers in the United States, within a decade.&lt;br/&gt;&lt;br/&gt;The research component of this PIRE project will focus on developing the next generation multi-component PDC fibers of carefully selected compositions within the Si/C/N/O systems through systematic understanding of structure-property-processing correlations, leading to superior properties. Key aspects of the project are: (a) design of new pre-ceramic polymers suitable for drawing fibers, (b) thermolysis of pre-ceramic polymers to obtain multi-component ceramic fibers with desired morphology, chemical stability and microstructure, (c) measurements of creep and thermochemical properties, and (d) modeling of the oxidation behavior of ceramic fibers. Ab-initio calculations will be performed to correlate experimental measurements, such as from high temperature calorimetry, to the nanostructure of ceramic fibers. Further, economic evaluation and the impact of PDC fiber manufacture on resources will be assessed to determine the implications and viability of new, science-based technologies at the earliest stages. Successful completion of the project will thus lead to: (i) the creation of new US-based CMC science and technology, (ii) a cadre of undergraduate and graduate students who will implement this know-how in US academia, industry and national laboratories, and (iii) a vibrant international community that through its diversity will greatly accelerate progress in this critical field.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743701</AwardID>
+<Investigator>
+<FirstName>Alexandra</FirstName>
+<LastName>Navrotsky</LastName>
+<EmailAddress>anavrotsky@ucdavis.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rishi</FirstName>
+<LastName>Raj</LastName>
+<EmailAddress>Rishi.Raj@Colorado.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gurpreet</FirstName>
+<LastName>Singh</LastName>
+<EmailAddress>gurpreet@ksu.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Himanshu</FirstName>
+<LastName>Jain</LastName>
+<EmailAddress>hj00@lehigh.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Kroll</LastName>
+<EmailAddress>pkroll@uta.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>Manhattan</CityName>
+<ZipCode>665061100</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>2 FAIRCHILD HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7742</Code>
+<Text>PIRE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8092</Code>
+<Text>Materials Eng. &amp; Processing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5920</Code>
+<Text>ITALY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5983</Code>
+<Text>JAPAN AND KOREA PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:   Acquisition of a Scanning Electron Microscope</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>139965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation (CRIF) Programs. Professor Jacob Ciszek from Loyola University of Chicago and colleagues have acquired a scanning electron microscope (SEM) with energy dispersive X-ray spectroscopy (EDS) capabilities. A SEM/EDS focuses a beam of electrons at a sample. The electrons interact with sample surfaces to produce a visual image of the material and analyze its chemical elements. These images reveal details of a material's structure such as the size and shape of nanoparticles, proteins or organisms.  Such images can help understand the material's properties. This acquisition enhances the training of graduate and undergraduate students in research at three North Chicago institutions: Loyola University, DePaul University and Columbia College. &lt;br/&gt;&lt;br/&gt;This electron microscope enhances research and education at all levels. It impacts research areas which are as diverse as the determination of the spacial location of reaction loci on organic semiconductor surfaces and the analysis of the microarchitecture of lizard toe pads. The instrument is also used in characterizing the diversity of phages, analyzing spatial location of heavy metal environmental bioaccumulation in the retina, and characterizing the small features associated with pharyngeal jaw evolution of goby fish in the Great Lakes. The SEM/EDS capabilities benefits the analysis of self-assembled supramolecular polymers and identification and quantification of carbon fractions from meteorites. The microscope is used in analyzing the morphology of changes associated with thin-films spin coated from electrodes, imaging the mesoscale morphological features of photovoltaic devices, and measuring taxonomic characters used to identify small snails.</AbstractNarration>
+<MinAmdLetterDate>08/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726994</AwardID>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Ciszek</LastName>
+<EmailAddress>jciszek@luc.edu</EmailAddress>
+<StartDate>08/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Loyola University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606601537</ZipCode>
+<PhoneNumber>7735082471</PhoneNumber>
+<StreetAddress>1032 W. Sheridan Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+</Award>
+</rootTag>

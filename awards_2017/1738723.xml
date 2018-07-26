@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase III IUCRC Ohio State University: Center for Smart Vehicle Concepts (SVC)</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>91127</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF Industry University Cooperative Research Center (IUCRC) for Smart Vehicle Concepts (SVC) has earned national visibility and a position of technical leadership in the area of smart materials applied to automobiles and air vehicles. The mission of SVC will focus on: conduct basic and applied research on smart materials in pre-competitive mode for application to vehicles; develop an unmatched base of research, engineering education, and technology transfer considering emerging needs in the industry; and develop engineers and researchers who not only understand theory but have experimental and system integration expertise.  The Center thus creates the science necessary to transition smart materials from the concept stages to vehicle applications, while advancing broader national needs toward promoting diversity in engineering education; advancing U.S.-based expertise, resources, and human capital; and creating and disseminating knowledge at all levels including undergraduate and doctoral students, post-graduate researchers, and practicing engineers.&lt;br/&gt;&lt;br/&gt;The work done in Phase II allowed SVC to formulate critical research questions and identify technical challenges that hinder the implementation of smart materials in vehicle design.  Counting with the enthusiastic support of the Industrial Advisory Board, the Center has formulated a five-pronged strategy for addressing these challenges: (i) expand the SVC faculty base, especially focusing on junior faculty; (ii) attract additional vehicle integrators and suppliers of components and materials; (iii) adapt the Center?s research portfolio on smart materials to evolving needs in the industry; (iv) continue efforts to collaborate with other institutions and attempt to attract additional academic partners. The sponsors have provided ample evidence of how the Center has made contributions of commercial significance to their organizations. During Phase III, the Center will implement a new research roadmap that builds on its existing strengths while also creating a new thrust dedicated to emerging vehicle technologies, namely vehicle electrification, autonomous vehicles, and structural lightweighting. Within the new research matrix, SVC plans to generate scholarly research of common interest, foster cross-pollination across the automotive and aerospace sectors, engage in technology transfer activities, and promote industry-focused student training as a means to build the future employee base of the transportation sector.</AbstractNarration>
+<MinAmdLetterDate>08/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738723</AwardID>
+<Investigator>
+<FirstName>Marcelo</FirstName>
+<LastName>Dapino</LastName>
+<EmailAddress>dapino.1@osu.edu</EmailAddress>
+<StartDate>08/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>R180</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>170E</Code>
+<Text>Interagency Agreements</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

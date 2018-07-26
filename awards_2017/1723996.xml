@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS: FND: Learning-Enabled Autonomous 3D Exploration for Underwater Robots</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>353334</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There are often high costs and safety risks associated with humans performing work underwater, which is frequently required to inspect the health of our subsea infrastructure and environment. This motivates a need for smart and taskable autonomous robots that can monitor and inspect the subsea environment, as well as explore their surroundings when they do not have access to an accurate prior model. Without precise instructions on where and how to explore, the ideal taskable robot should be able to produce comprehensive, accurate maps of its surroundings, make repeated decisions about where to travel next, and ensure that it avoids collisions in the process of doing so. This project will leverage machine learning techniques to produce and deploy new algorithms with the potential to enhance both the speed and efficiency with which underwater robots explore unknown environments, and to enable further gains in performance as the exploring robots gain more experience.&lt;br/&gt;&lt;br/&gt;Specifically, this project will introduce machine learning techniques to (1) build more descriptive occupancy maps from the sparse and noisy sonar data that typifies the subsea domain; (2) to save computational effort in the potentially exhaustive evaluation of many candidate sensing actions; and (3) to learn effective behaviors for exploring complex, unstructured environments that truly require three-dimensional spatial reasoning. The real-time, 3D exploration task will be managed in concert with other relevant objectives, such as minimizing localization and map uncertainty, and the time and energy expenditures associated with travel. A related goal is to develop robot systems whose performance improves with experience, dynamically choosing the most effective decision-making tools in its portfolio and self-parameterizing the most appropriate map representations for the task at hand. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723996</AwardID>
+<Investigator>
+<FirstName>Brendan</FirstName>
+<LastName>Englot</LastName>
+<EmailAddress>brendan.englot@stevens.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>070305991</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>CASTLE POINT ON HUDSON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

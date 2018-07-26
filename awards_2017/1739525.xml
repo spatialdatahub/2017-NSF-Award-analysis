@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Small: Cyber-Physical Communication for Cooperative Human-Robot Mobility</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Human-robot teams engaged in transportation and data collection will often share a common physical workspace. This project will investigate fundamental challenges in human-cyberphysical-systems (h-CPS) for cooperative aerial payload transport.  First, Unmanned Aerial Vehicles (UAVs) cooperatively lift and carry a payload through a cluttered environment under uncertain winds. The multi-UAV system (MUS) functions autonomously to allow human companions to focus attention on their environment while interacting with the MUS. We propose a novel interface where an operator pushes on the slung payload to guide the team and coordinates the mission through a networked tablet.  A novel cooperative control strategy safely guides the MUS while physics-based algorithms distinguish human inputs from environmental disturbances.  Flight tests will demonstrate and validate the h-CPS.  The PI and mentored postdoctoral researcher will involve students from under-represented groups and K-12 students in safe MUS flight demonstrations.&lt;br/&gt;&lt;br/&gt;This project offers three research advances:  MUS scalability and collision avoidance guarantees through continuum deformation cooperative control, safe MUS compensation for vehicle anomalies, and cognitively-tractable user interfaces. Particularly novel to this work is the h-CPS interface in which an operator pushes on the payload to guide the MUS team.  We will apply linear momentum analysis to sense haptic cues and will validate our models in simulation and flight testing. Mission-level decision-making will be performed through system modeling as a Markov game in which game states are de&amp;#64257;ned from human, environment, and aggregate MUS state.  Our method abstracts MUS behaviors to reduce cognitive complexity and real-time network and computational overhead.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739525</AwardID>
+<Investigator>
+<FirstName>Ella</FirstName>
+<LastName>Atkins</LastName>
+<EmailAddress>ematkins@umich.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

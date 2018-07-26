@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Research Experiences for Undergraduates - Emerging Issues in Cybersecurity</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>287984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harriet G. Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This funding establishes a new Research Experiences for Undergraduates (REU) Site at the New Mexico Institute of Mining and Technology.  This REU Site will host a diverse group of undergraduate students who will spend their summer working on research problems dealing with emerging areas of cybersecurity.  Sound approaches to cybersecurity are essential for protecting the computer and communication devices of individual consumers as well as public and private companies and organizations and the government from the increasing threats of cyber attacks while also preserving the privacy concerns of citizens. The projects are led by faculty from the Computer Science and Engineering Department who are actively engaged in cybersecurity research. The university faculty will collaborate with RiskSense, a cybersecurity company, to develop research projects that have real-world relevance and that can impact the practices of the cybersecurity industry. The site will provide mentoring and other professional development opportunities that should impact the future academic and professional careers of the students. The site plans to attract talented undergraduate students from universities in New Mexico and the surrounding southwestern area of the country and target students from groups traditionally under-represented in the computing fields.   &lt;br/&gt;&lt;br/&gt;The research projects in this REU Site address a range of topics including document format malware detection, machine learning for botnet detection, access control for smart grid, privacy-preserving location-based services, secure data logging for mobile devices, and developing user mental models against semantic attacks.  Students will use state-of-the-art facilities and current methods and techniques to develop solutions to fundamental challenges in cybersecurity.  The goals of this site include providing students experience in cutting edge research in cybersecurity, broadening participation in computing, motivating students to pursue graduate studies in computer science, and preparing the future cybersecurity workforce. This site provides an immersive research environment and cutting-edge research projects to undergraduate students who have limited access to research experiences and cybersecurity experts.  The site will be one of the first REU Sites in the southwest region of the country focusing on cybersecurity. The site has the potential to impact the cybersecurity workforce of the region. Through participation in the summer research program, the undergraduate students should acquire skills that will lead to rewarding professional careers in a field of emerging importance and impact.</AbstractNarration>
+<MinAmdLetterDate>01/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757945</AwardID>
+<Investigator>
+<FirstName>Dongwan</FirstName>
+<LastName>Shin</LastName>
+<EmailAddress>doshin@cs.nmt.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Zheng</LastName>
+<EmailAddress>zheng@nmt.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico Institute of Mining and Technology</Name>
+<CityName>Socorro</CityName>
+<ZipCode>878014681</ZipCode>
+<PhoneNumber>5758355496</PhoneNumber>
+<StreetAddress>801 Leroy Place</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

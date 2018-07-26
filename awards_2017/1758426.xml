@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Laboring for Less? Understanding the Micro-Level Anatomy of the Aggregate Labor Share Decline</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>274999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The term labor share is defined as the share of Gross Domestic Product (GDP) that is paid out to workers as salaries and wages. The labor share of US GDP has declined for several decades; this is also true in many other countries around the world. This research project seeks to understand the causes of this decline and the consequences for the well-being of working Americans. Past research on this topic has focused on documenting aggregate patterns in labor share, at the level of an entire economy, an economic sector, or a specific industry. This investigation will use a different approach, and will study the dynamics of labor share by looking at evidence from a large number of individual factories and retail outlets. The research seeks to distinguish between trends that are common across all these establishments and shifts of economic activity from individual factories and stores with relatively high labor share to low labor share establishments. Initial results suggest that this second kind of shift in economic activity is the major driver of the aggregate pattern. These preliminary results also show that individual establishments only maintain a low labor share for a few years; the team will also test hypotheses about why these establishments have a low share and why that share increases after several years. Understanding the causes of labor share decline is important.  We need this information to better target policies encouraging firms to hire and train the U.S. workforce.&lt;br/&gt;&lt;br/&gt;The project will develop new knowledge about the establishment-level factors that are responsible for the aggregate decline in labor share. It will do this by using simple but powerful statistical tools to analyze establishment level data from the U.S. Census of Manufactures and Retail Trade. It will highlight the elements of current economic models that are inconsistent with the data on dynamics at both the establishment and aggregate levels of analysis. The result will be more useful information on establishment-level heterogeneity that can be used to redesign the assumed dynamics of firm behavior in macroeconomic models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758426</AwardID>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Kehrig</LastName>
+<EmailAddress>matthias.kehrig@duke.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning IUCRC University of Connecticut: Center for Hardware and Embedded Systems Security and Trust (CHEST)</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This planning grant award will be used to study the feasibility of establishing a university-industry partnership focusing on hardware and embedded systems security and trust. Pre-competitive research conducted in the proposed Center would be fully supported by the Center's industry members. Integrated circuit and embedded hardware devices are critical to most modern military and industrial systems for defense, energy, healthcare, banking, communication, transportation, and other sectors.  These devices are more vulnerable than ever to malicious tampering by untrusted entities, with threats over a broad range of attack vectors.  Malicious functionality can be added to the devices during the design process, fabrication, or assembly, leading to compromised systems, often without detection.  This collaborative effort seeks to further the national defense by developing novel methodologies and technologies that enhance trust and security of these devices and their respective systems.&lt;br/&gt;&lt;br/&gt;The proposed Center will enable researchers and practitioners from diverse areas -- integrated circuits, design, cryptography, system safety and resilience, etc. -- to position device security as a coherent, collaborative discipline.  It will be a hub for industry-focused research and a repository for related data.  It will foster dialog to promote advances across disciplinary boundaries.  The University of Connecticut site will lead collaborative efforts in counterfeit integrated circuits and secure embedded systems.  It will develop novel hardware authentication technologies; formal verification techniques for secure embedded systems; risk models for the design of secure embedded systems; and methods to design secure embedded processors.&lt;br/&gt;&lt;br/&gt;The proposed Center will influence the design, protection, and resilience of cyber-physical systems from vulnerabilities associated with device security and workforce development needed for industry, government, and military.  The Center will disseminate research results and synthesized theories on device security through multiple channels, including courses taught at the six sites and professional/scholarly activities.  The results bring a significant return on investment, as they improve the readiness of industry for emergent conditions and improve resilience to threats in terms of property loss, lost trust, and system safety with respect to missions, injuries, casualties, cascading effects, etc.&lt;br/&gt;&lt;br/&gt;The collaborative group for the Industry &amp; University Collaborative Research for Hardware and Embedded System Security and Trust is composed of George Mason University, Northeastern University, University of Connecticut, University of Texas at Dallas, University of Virginia, and Wright State University.  The collaborators host a website at https://www.vdl.afrl.af.mil/programs/PG_CHEST_IUCRC with meeting materials, program information, publications, etc. The website is made available indefinitely or until the Center transitions to the next phase.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747754</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Chandy</LastName>
+<EmailAddress>john.chandy@uconn.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

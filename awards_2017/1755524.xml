@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Monitoring and Evaluation of Humanitarian Development Projects</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>9033</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project lies in its ability to identify potential customers for IoT connected sensor technology and monitoring services that provide timely and accurate data regarding the adoption rates and impacts of technologies engineered for humanitarian aid settings. Initially, the focus is toward non-government organizations who fund, manufacture or distribute clean, energy efficient, biomass cookstoves to rural communities who still cook over open fires.  The project will then explore potential customer segments with technologies engineered to improve energy efficient water purification, and food production. The broader impact of providing accurate and timely data will guide and promote aid organizations to improve the design, energy efficiency, and culturally directed marketing efforts thereby improving public health and livelihoods.&lt;br/&gt;&lt;br/&gt;This I-Corps project will enable customer discovery of a Fuel, Usage, and Emissions Logger (FUEL) system. Conceived via a design thinking approach informed by first hand observations of the significant challenges of monitoring development projects, FUEL is one of the first Internet of Things (IoT) connectable sensor specifically engineered to provide accurate time-correlated technology usage and emissions reduction data.  Continuing efforts will develop the transmission hardware and software architecture needed to enable the sensor to become an autonomous IoT and data storage/transfer/analysis device, designed with the users in mind. Detailed customer discovery is essential to informing the objectives, constraints, packaging, and pricing for this technology to be attractive to potential customers as well as identifying potential commercialization partners and competitors.</AbstractNarration>
+<MinAmdLetterDate>11/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1755524</AwardID>
+<Investigator>
+<FirstName>Nordica</FirstName>
+<LastName>MacCarty</LastName>
+<EmailAddress>nordica.maccarty@oregonstate.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

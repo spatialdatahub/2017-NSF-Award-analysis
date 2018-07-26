@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Engineering/NSM Student Success Program Serving Low-Income Academically Talented Students</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>999029</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Talitha Washington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) program, this project will support the success of high-achieving, low-income STEM students with demonstrated financial need at the University of Houston. Over the five years of the award, the project will fund 80 scholarships for students who are pursuing bachelor's degrees in STEM. Four cohorts of 20 first- and second-year students will participate in a comprehensive set of activities that includes orientation to scholarly work, supplemental instruction, and mentored research.  These supports are designed to support timely progress toward graduation. &lt;br/&gt;&lt;br/&gt;Through a comprehensive approach, the project aims to enhance success of low-income, high-achieving students, especially those from groups that have been historically underrepresented in STEM. The research component of the project aims to determine which program activities make a difference in student outcomes, the optimal frequency and intensity of such activities, and which kinds of engagement are most effective at increasing persistence in college and raising graduation rates. To estimate program impacts, the evaluation will use propensity score techniques to match student scholars with a control group of students who did not receive scholarships but who are similar to the scholarship recipients. Descriptive analyses will compare the means and distributions of participation rates between groups, across the College of Engineering and the College of Natural Sciences and Mathematics. Chi-square statistics will also be calculated to determine whether participation differs across program categories. Following data preprocessing, ordinary least squares (OLS) regression will be used to answer research questions related to the outcomes of interest.  The question of engagement by participation rate will use repeated measures analysis of variance (ANOVA), where the dependent variables include measures of engagement obtained from student surveys. Participation (i.e. no-, low-, and high-) will be the repeated measure (within-groups factor) and program activity category (i.e. academic, behavioral, social, affective) will be the between-groups factor.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742579</AwardID>
+<Investigator>
+<FirstName>Stuart</FirstName>
+<LastName>Long</LastName>
+<EmailAddress>long@uh.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jerrod</FirstName>
+<LastName>Henderson</LastName>
+<EmailAddress>jahende6@central.uh.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Diana</FirstName>
+<LastName>de la Rosa-Pohl</LastName>
+<EmailAddress>ddelarosa2@uh.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Hamilton</LastName>
+<EmailAddress>ahamilton@uh.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>Houston</CityName>
+<ZipCode>772042015</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4800 Calhoun Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

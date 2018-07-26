@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Telomerase Regulation in Deep Branching Eukaryotes</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>395091</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on telomerase, the  enzyme that is responsible for making telomeres, structures that protect the ends of all eukaryotic chromosomes, reminiscent of the hard ends of shoelaces. The genetic mechanism of telomere replication by telomerase is better studied in yeast and mammalian cells; as far from each other as those two organisms are, they in fact represent relatively recent branches of eukaryotic phylogeny. In contrast, in this study an ancient, deep branching lineage of eukaryotes, kinetoplastid protists will be examined. The organism of choice, Trypanosoma brucei, has telomerase with unique structural and functional properties, and result should indicate how this enzyme works. The project will encourage full participation from women and underrepresented minorities in science. Apart from training graduate and postdoctoral trainees, this project will also implement a three-year undergraduate program (BIOKEYS) in both PIs' laboratories; the major goal of this program will be to teach undergraduate researchers to value interdisciplinary sciences early in their research careers. In addition to gaining experience from designing experiments and problem solving using high-end technologies, students will be teaching and learning from each other as part of a research group.&lt;br/&gt;&lt;br/&gt;Telomerase, a ribonucleoprotein enzyme, provides the major means for elongation of chromosome ends (telomeres), thus counteracting the loss of linear DNA ends in each cell cycle due to incomplete DNA replication by conventional DNA polymerases. Telomerase has two core components, the Telomerase Reverse Transcriptase (TERT) that catalyzes telomere elongation, and the telomerase RNA (TER), which provides a template for telomere DNA synthesis. The mechanisms of telomere elongation by telomerase are poorly understood in Trypanosoma brucei, a deep branching Kinetoplastid. Therefore, this project dissects structural, biochemical and genetic features of telomerase RNA in T. brucei to understand the mechanism of telomerase regulation in early eukaryotic species. The recent discovery of the T. brucei TER reveals novel features exclusive to deep branching eukaryotes, suggesting mechanistic differences in the process of telomere synthesis between T. brucei and higher eukaryotic organisms. Therefore, this project: (i) investigates telomerase RNA structure at a single nucleotide resolution using NMR and SHAPE chemistry, (ii) defines key TERT contact sites on TER that are essential for telomerase function in T. brucei using HITS-CLIP technology, and (iii) establishes the functional significance of TR domains by genetic manipulations and telomerase functional assays. Overall, this research will allow significant advances in understanding the mechanistic details of telomerase evolution in protists.</AbstractNarration>
+<MinAmdLetterDate>10/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764273</AwardID>
+<Investigator>
+<FirstName>Kausik</FirstName>
+<LastName>Chakrabarti</LastName>
+<EmailAddress>kausik@andrew.cmu.edu</EmailAddress>
+<StartDate>10/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

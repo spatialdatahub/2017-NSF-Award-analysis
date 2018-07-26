@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Versatile Synthesis of Chlorophylls and Bacteriochlorophylls for Fundamental Studies in Photosynthesis</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Moeller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Chemical Synthesis Program of the Chemistry Division supports the project by Professor Jonathan S. Lindsey. Professor Lindsey is a faculty member in the Department of Chemistry at North Carolina State University. He is developing methods to create chlorophylls and bacteriochlorophylls (molecules that nature used to harvest energy from light) in the laboratory from simple starting materials in a straightforward manner. The synthesis of (bacterio)chlorophylls has never been fully accomplished in this manner. The ability to build such molecules along with analogues will afford a much deeper understanding of energy flow in photosynthesis (an area that impacts biophysics, plant sciences, energy generation), the nature of metabolic breakdown products (an area that impacts ecology, global carbon balance), and the chemical properties of such compounds (an area that impacts nutrition, medicine).  The project mainly involves organic chemistry but will also impact diverse areas of science including understanding of photosynthesis. Thus, the project is well suited for the education and training of scientists in a collaborative environment.  Professor Lindsey's group is well-positioned to provide this experience for students underrepresented in science.  In addition, outreach activities involving North Carolina teachers will also be part of the funded project.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Chlorophylls and bacteriochlorophylls are the chief pigments in photosynthetic organisms, including plants, cyanobacteria, and anoxygenic photosynthetic bacteria.  The lack of synthetic methods for preparing (bacterio)chlorophylls and analogues constitutes an intellectual and technical deficit in the photosynthetic sciences.  The Lindsey lab proposes to fill this chasm by developing robust methods for synthesis of such valuable macrocycles.  The particular challenges in synthesizing (bacterio)chlorophylls include (1) the stereochemistry of substituents in the pyrroline ring(s), (2) the fifth (isocyclic) ring, and (3) substituents arrayed about the perimeter of the macrocycle. The intellectual merit of the work concerns the development of routes for the synthesis of the key photosynthetic pigments and analogues; the latter have broad impact (beyond the scope of the present grant) encompassing studies of quantum coherence in photosynthesis and catabolism in ecology.  A key outcome is a methodology in heterocyclic chemistry for preparing pyrroles, pyrrolines, dipyrromethanes, hydrodipyrrins, and phyllobilins relevant to the (bacterio)chlorophylls of photosynthesis.  The broader impacts entail professional development of middle and high school science teachers to improve teaching of photosynthesis (via a chlorophyll-based experiment) in schools and to inspire middle and high school students to STEM, thereby broadening the participation of underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1760839</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Lindsey</LastName>
+<EmailAddress>jlindsey@ncsu.edu</EmailAddress>
+<StartDate>04/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+</Award>
+</rootTag>

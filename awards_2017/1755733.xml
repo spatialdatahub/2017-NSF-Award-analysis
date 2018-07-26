@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SaTC: Robust Design-for-Security (DFS) Architecture for Enabling Trust in Integrated Circuits (IC) Manufacturing and Test</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>168759</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Due to the prohibitive costs of semiconductor manufacturing, most computer chip design companies outsource their production to offshore foundries. As many of these chips may be manufactured in environments of limited trust, problems of the piracy of intellectual property (IP) and the overproduction of integrated circuits (ICs) have emerged in recent years. This project focuses on designing a secure logic locking technique to enable protection against untrusted IC manufacturing. The developed solution is resistant to all known attacks.&lt;br/&gt; &lt;br/&gt;Logic locking is a promising solution for enabling trust in outsourced IC manufacturing, where a design is obfuscated by modifying the functionality. A locked chip will produce incorrect results unless activated by an obfuscation key. However, Boolean satisfiability (SAT)-based algorithms have been shown to effectively determine the obfuscation key and break the locking mechanisms. In this work, a novel secure cell (SC) is designed, which prevents the obfuscation key from being captured in internal flip-flops of a chip and disables scan dump after functional mode. The SC provides a complete protection against SAT-based and other existing attacks that utilize scan data. In addition, SC provides support for commercial tools to generate test patterns without having the obfuscation key. This will help perform the manufacturing test before the activation of chips, and thus preventing IC overproduction.&lt;br/&gt; &lt;br/&gt;The proposed research will serve a critical need for the industry and government by working to support trust in the semiconductor manufacturing and test process. The integration of education and research is a key objective of this project. This research is multidisciplinary, linking the fields of IC design, simulation and test, hardware security, and embedded systems. The graduate and undergraduate students working on this project will receive interdisciplinary training across diverse areas of electrical and computer engineering. A novel upper-division course on hardware security for the graduate and undergraduate students will create a next-generation cybersecurity workforce for the government and commercial sectors.&lt;br/&gt; &lt;br/&gt;The artifacts expected as outcomes from this project will be publicly accessible during the period of performance and afterwards. All peer-reviewed publications will be accessible through the link http://www.eng.auburn.edu/~uguin/publications.html. All raw input data, derived data and code versions needed for reproduction of results will be stored with the sources for the articles, so that third parties can reproduce the results. This will be maintained for all publications. If the data are large, a secure alternative means for sharing will be provided.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1755733</AwardID>
+<Investigator>
+<FirstName>Ujjwal</FirstName>
+<LastName>Guin</LastName>
+<EmailAddress>ujjwal.guin@auburn.edu</EmailAddress>
+<StartDate>03/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Auburn University</Name>
+<CityName>Auburn University</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress>310 Samford Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

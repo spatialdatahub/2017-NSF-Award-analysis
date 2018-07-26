@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Understanding an Active and Beneficial Role for Water  in Solid-Acid Catalyzed Hydrocarbon Chemistry</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>195210</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A need for robust catalysts to transform raw materials to useful chemicals is critical to developing more flexible and less energy intensive processes.  The ability to use raw materials derived from various sources, ranging from petroleum to plant biomass to recycled plastics, is also needed. Catalysts need to be able to perform in realistic reaction conditions, such as in the presence of contaminants.  Many catalysts have been successfully used in industrial processes but require high-temperature and moisture-free conditions.  Drs. White, Resasco, Crossley, and Wang are engaged in an active collaboration that combines synthesis, testing, and computer simulations to help identify new catalysts and new reactions that will work efficiently at lower temperatures and in the presence of moisture.   Understanding how water interacts with catalysts and feedstocks is required to meet these goals.  Through pursuit of these research goals, the team is training students at all university levels. This is enabling undergraduate, graduate, and under-represented groups to be active contributors to the national STEM (science, technology, engineering, and mathematics) infrastructure.  The team is using state-wide media to increase awareness of how fundamental catalysis research impacts economically important industries, both present and future.&lt;br/&gt;&lt;br/&gt; With funding from the Chemical Catalysis Program of the Chemistry Division, a collaborative team from Oklahoma State University and the University of Oklahoma is using an interdisciplinary synthesis, characterization, simulation, and reaction analysis approach to determine to whether or not water actively influences reactions in solid acid catalysts.   Drs. White, Resasco, and Crossley, are engaged in tailored synthesis of zeolites, post-synthetic modifications of zeolites, in-situ spectroscopic NMR measurements, and reactor studies at varying temperature and pressure to determine how catalyst structure responds to the presence of both gas-phase and liquid-phase water.  Dr. Wang is providing DFT (density functional theory) and MD (molecular dynamics) calculations to help the team elucidate probable reaction pathways.  Conversion of both non-polar hydrocarbons derived for traditional petroleum sources as well as oxygenated molecules derived from biomass are under investigation. Also under investigation is the role of small populations of highly-active ?defect? catalytic sites in the absence and presence of water  The team is advancing inclusion of under-represented groups in STEM disciplines through programs on each campus, and increasing public awareness of the benefit of catalysis through public media outlets at the university and state level.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764130</AwardID>
+<Investigator>
+<FirstName>Bin</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>wang_cbme@ou.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Resasco</LastName>
+<EmailAddress>resasco@ou.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Crossley</LastName>
+<EmailAddress>stevencrossley@ou.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730199705</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>201 Stephenson Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

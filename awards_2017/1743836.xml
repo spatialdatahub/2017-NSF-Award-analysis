@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Progress and prospects for neutron scattering in the biological sciences; September, 2017; Washington, D.C.</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>96492</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop will discuss the progress and prospects in the field of neutron scattering as a vital tool in biological research that could provide elusive and critical, unique information about complex biological systems. Special emphasis of the workshop will be on combining high-performance computation with neutron scattering. Education and broader impact activities to enable better access to neutron scattering methodologies will also be a focus of the discussion. The workshop will provide a road-map by defining the scientific, engineering and data challenges required to use neutron scattering as a tool to study biological systems.&lt;br/&gt;&lt;br/&gt;Recent world-wide research and development activities have created an opportunity to use neutron scattering as another vital tool in biological research.  This technology offers excellent potential to provide previously elusive information about complex biological systems unobtainable with other measurement tools. Neutrons are ideal for studying multi-scale phenomena intrinsic to biological processes. With no charge, they cause little radiation damage and are highly penetrating, enabling use of complex sample environments. Also, neutrons have energies similar to atomic motions, and their spin can be coupled to magnetic fields in spin echo measurements, allowing the study of dynamic processes over a wide range of timescales, from picoseconds to microseconds. Moreover, a particularly desirable property of neutrons for biology has to do with hydrogen (H), the most abundant element in biological systems. Photons and electrons interact with the atomic electric field. With just one electron, hydrogen is all but invisible to x-rays or light. Neutrons, on the other hand, interact with nuclei, and protons have a relatively strong and negative scattering length. The isotope deuterium (D) has an even stronger scattering length, which is positive. This different sensitivity of neutrons to H and D allows for enhanced visibility of specific parts of complex biological systems through isotopic substitution. These properties are the foundation by which neutron scattering can be used to obtain precise information on the location and dynamics of H at the atomic level, as well as truly unique information on large, dynamic, multi-domain complexes at longer length and time scales. The workshop will discuss neutron crystallography, small angle scattering, diffraction, reflectometry and imaging for studying soft matter structure from the atomic to micrometer length scales and, via spectroscopic measurements, self and collective motions and excitations from sub-picosecond to microsecond timescales. &lt;br/&gt;&lt;br/&gt;This workshop is co-funded by the Molecular Biophysics Program in the Division of Molecular and Cellular Biosciences in the Biological Sciences Directorate, and by the Chemistry of Life Processes Program in the Division of Chemistry and the Physics of Living Systems Program in the Division of Physics, both in the Mathematical and Physical Sciences Directorate.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743836</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Dadmun</LastName>
+<EmailAddress>Dad@utk.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>jsmit199@utk.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1144</Code>
+<Text>BIOMOLECULAR SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI:AIR - TT:  Molecular Artificial Retina For Vision Restoration After Photoreceptor Loss</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This PFI: AIR Technology Translation project focuses on translating research on light-induced modulation of the activity of electrically excitable cells to fill the need for a treatment for the retinal degenerative diseases retinitis pigmentosa and dry age-related macular degeneration. The molecular artificial retina is important because over a million Americans suffer from advanced vision loss and this research has the potential to restore some level of vision in these patients, significantly improving quality of life. &lt;br/&gt;&lt;br/&gt;The project will confirm efficacy of the lead molecules based on ruthenium nanophotoswitches, evaluate their toxicity and optimize the scale up of the top candidates for pre-clinical and clinical trials of the molecular artificial retina. The nanophotoswitches (NPS) have the following unique features: it is a small molecule that is easily delivered (through injectable solutions or implants) to the eye, where it embeds in the membrane and ambient light activates neurons. The mechanism is universally applicable, both for any type of retinal degenerative disease and for any patient suffering from retinal degeneration. This is important, because many retinal degenerative diseases have multiple genetic components, making gene therapy complex and difficult. The class of molecules currently being investigated for a molecular artificial retina may be catalytic, therefore requiring only small, infrequent doses, and inexpensive, due to the simplicity of the system. These features provide the following advantages restoring vision with infrequent injections when compared to AREDs, a daily dose of vitamins that potentially delays the progression of the disease, the only FDA approved treatment in this market space.&lt;br/&gt;&lt;br/&gt;This project addresses the following technology gaps as it translates from research discovery toward commercial applications: Determine the biosafety of the lead NPS molecules and identify NPSs with low toxicity/ immunogenicity, evaluate therapeutic potential of the lead NPS, scale up the production of NPS to meet the market demand in quantity, and develop the polymer implant for sustained intraocular release of the NPS. In addition, personnel involved in this project, undergraduate students and postdoctoral scholars, will receive entrepreneurship and pharmaceutical/drug development experiences through customer discovery and collaborations with ophthalmologists conducting pre-clinical and clinical trials.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701257</AwardID>
+<Investigator>
+<FirstName>Lan</FirstName>
+<LastName>Yue</LastName>
+<EmailAddress>lyue@usc.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melanie</FirstName>
+<LastName>Yen</LastName>
+<EmailAddress>melaniep@caltech.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Chow</LastName>
+<EmailAddress>rchow@usc.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CI-New: Cognitive Hardware and Software Ecosystem Community Infrastructure (CHASE-CI)</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>1199998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project, called the Cognitive Hardware And Software Ecosystem Community Infrastructure (CHASE-CI), will build a cloud of hundreds of affordable Graphics Processing Units (GPUs), networked together with a variety of neural network machines to facilitate development of next generation cognitive computing. This cloud will be accessible by 30 researchers assembled from 10 universities via the NSF-funded Pacific Research Platform. These researchers will investigate a range of problems from image and video recognition, computer vision, contextual robotics to cognitive neurosciences using the cloud to be purpose-built in this project. &lt;br/&gt;&lt;br/&gt;Training of neural network with large data-sets is best performed on GPUs. Lack of availability of affordable GPUs and lack of easy access to the new generation of Non-von Neumann (NvN) machines with embedded neural networks impede research in cognitive computing. The purpose-built cloud will be available over the network to address this bottleneck. PIs will study various Deep Neural Network, Recurrent Neural Network, and Reinforcement Learning Algorithms on this platform.</AbstractNarration>
+<MinAmdLetterDate>06/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730158</AwardID>
+<Investigator>
+<FirstName>Larry</FirstName>
+<LastName>Smarr</LastName>
+<EmailAddress>lsmarr@ucsd.edu</EmailAddress>
+<StartDate>06/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tajana</FirstName>
+<LastName>Rosing</LastName>
+<EmailAddress>tajana@ucsd.edu</EmailAddress>
+<StartDate>06/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ilkay</FirstName>
+<LastName>Altintas</LastName>
+<EmailAddress>altintas@sdsc.edu</EmailAddress>
+<StartDate>06/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>DeFanti</LastName>
+<EmailAddress>tdefanti@ucsd.edu</EmailAddress>
+<StartDate>06/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Kreutz-Delgado</LastName>
+<EmailAddress>kkreutzdelgado@ucsd.edu</EmailAddress>
+<StartDate>06/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

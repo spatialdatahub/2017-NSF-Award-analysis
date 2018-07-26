@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Antarctic Surface Hydrology and Future Ice-shelf Stability</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>40076</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Ice shelves are the floating portions of glaciers that terminate in the ocean.  They are common around the periphery of Antarctica.  The accumulation of surface meltwater on or near the surface of ice shelves can play a role in ice-shelf collapse, which leads to accelerated loss of grounded ice and sea-level rise. Recent studies have showed that present-day meltwater generation and movement across the surface of Antarctica is more widespread than previously thought and is expected to increase.  Consequently, there is a growing need to address the role of surface water in forecasts of ice-shelf behavior. While much progress has been made, understanding of the role of water in ice-shelf collapse is still in its infancy. This award supports a workshop that will bring together experts from multiple disciplines that, together, can advance understanding of Antarctic surface hydrology and its role in the future stability of ice shelves.  &lt;br/&gt;&lt;br/&gt;This workshop will bring together U.S. and international scientists with expertise in ice-sheet dynamics, glacial hydrology, climatology, and other disciplines to identify critical knowledge gaps and move the community towards answering fundamental questions such as: What climate dynamics are responsible for surface meltwater generation in Antarctica? What controls the spatiotemporal distribution of meltwater ponds on Antarctic ice shelves? Where is meltwater generated, where does it pond today, and how will this change this century? How will meltwater impact ice shelves? How will surface hydrology impact sea-level this century?  The deliberations will be captured in a workshop report and review paper that will be broadly distributed.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743326</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Tedesco</LastName>
+<EmailAddress>mtedesco@ldeo.columbia.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Kingslake</LastName>
+<EmailAddress>j.kingslake@columbia.edu</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5116</Code>
+<Text>ANTARCTIC GLACIOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

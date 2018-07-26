@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Vertebrate food web structure and complexity at predator-derived versus human-derived resource hotspots</AwardTitle>
+<AwardEffectiveDate>08/20/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>94471</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Douglas Levey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Humans have unintentionally supplied food to animal communities for millennia.  Dumps that attract bears and unharvested or spilled crops in agricultural fields are common, modern-day examples. The goal of this project is to determine the ecological consequences of this supplemental food.  The work is important because some types of wildlife may benefit from human-provided food and other types may be harmed. The food may also bring together predators and scavengers in unusual ways, driving interactions that would not otherwise happen. This research serves the national interest because wildlife resources are increasingly valued for both consumptive and non-consumptive recreation; wildlife management is a priority across all 50 states. To detect wildlife around human-provided food sources, this project will use "camera traps" that are automatically triggered by nearby animals. Citizen scientists will be engaged in research by helping with the camera traps, which will provide additional opportunities for education and outreach.&lt;br/&gt;&lt;br/&gt;This project will compare food web structure and complexity at carrion sites produced by predators and at anthropogenic resource hotspots produced by hunters (carrion sites and bait stations, respectively). The overarching goal is to examine how supplemental food affects predator-scavenger interactions. Specific objectives are: (i) assessment of species occurrence at different types of supplemental resource sites through analyses of the relationship between site covariates and occupancy, and of occupancy temporal dynamics, (ii) comparison of food web structure and complexity between site types, using metrics of biodiversity and food web connectance, and (iii) modeling the seasonal resource pulses produced from predation, hunter bait sites, and naturally-occurring die-offs. The analytical approach combines non-invasive survey methods (i.e., camera trapping) with occupancy analysis for objective (i), and ecological modeling techniques for objectives (ii) and (iii).  The Principal Investigator will collaborate with regional, national, and global camera trapping efforts that engage citizen scientists; these include including Snapshot Michigan, eMammal, and Smithsonian WILD.</AbstractNarration>
+<MinAmdLetterDate>08/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748102</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Bump</LastName>
+<EmailAddress>bump@umn.edu</EmailAddress>
+<StartDate>08/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

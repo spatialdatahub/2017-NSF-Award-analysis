@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Division plane orientation in plant cells.</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>870309</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research improves the public well-being through development of critical knowledge using the important crop maize and other plants to understand cell division and its role in development. A critical aspect of cell division is the orientation of the division plane or the axis at which division occurs. When and where the cell positions the division plane has significant impact on the overall organization of the plant. Although the importance of regulated division plane orientation during plant and animal development is well known, the mechanisms that controls this process are not well understood. Understanding how plants regulate division plane orientation will make it possible to harness this feature of plant development for next generation crop improvement.  Broader Impact activities will include providing a research experience to freshman students along with research opportunities to underrepresented minority students. &lt;br/&gt;&lt;br/&gt;Correct division plane orientation, or the establishment of the axis on which a cell divides, is critical for development and growth in many organisms. This research will determine the biochemical and in vivo function of proteins responsible for controlling division plane orientation in the monocot crop maize. The experimental approaches include single-molecule protein and microtubule dynamics, live cell imaging, structure versus function analysis, mathematical modeling, and reverse and forward genetics. The expected outcome of this research is an understanding as to how a protein essential for division plane orientation alters microtubule binding and dynamics, identification of amino acids critical for this protein's function, as well as quantification of the relative contributions of cell shape and local and global interactions to division plane orientation. Finally, new proteins will be identified that promote the proper division plane orientation. Understanding how plants place their division planes may provide insight into controlling division orientation to increase yield of valuable crop plant products.</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716972</AwardID>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Rasmussen</LastName>
+<EmailAddress>carolyn.rasmussen@ucr.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

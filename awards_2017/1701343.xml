@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A New Approach for Experimental Study of Fundamental Combustion Chemistry</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>299830</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Song-Charng Kong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Combustion processes are the foundation of the electric power, transportation, and manufacturing infrastructures in the world. Transitions to new fuel feed stocks and transitions to new engines technologies pose challenges and opportunities to use the fuel properties to improve the combustion applications. This project focuses on experimental studies to identify and quantify fuel reaction chemistry important to successfully integrating new fuels and new engine designs. Pioneering new methods will be developed to isolate fuel chemistry that has not been previously studied. This fuel chemistry remains undiscovered country not due to lack of impact or significance, but due to the lack of experimental protocols and facilities.  &lt;br/&gt;&lt;br/&gt;A technical approach has been designed based on the unique chemical reactor facility (a rapid compression facility, RCF) to isolate fuel reaction chemistry at the particularly challenging conditions required by modern and next-generation combustion systems. The RCF will be used to heat fuel mixtures to temperatures from 600 to 1200 K and pressures from 3 to 30 atm. Fast sampling will be used to acquire small amounts of the gases created while the fuel reacts at these high temperatures and pressures. The gas samples will be analyzed to identify the compounds present and the amounts of each compound as a function of time. From these data, the reaction pathways important to fuel combustion will be determined at relevant conditions. By strategically choosing the cases to demonstrate the approach, the experiments are designed to be extrapolated to similar fuels with high confidence. The project will also set precedence for other research teams to extend the experimental methods to broader classes of fuel compounds, thus benefiting conventional and unconventional fossil fuels as well as first and later generation biofuels.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701343</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Wagnon</LastName>
+<EmailAddress>wagnon1@llnl.gov</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Margaret</FirstName>
+<LastName>Wooldridge</LastName>
+<EmailAddress>mswool@umich.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1407</Code>
+<Text>Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Center for Ultracold Atoms</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>2150000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jean Cottam Allen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding, controlling, and utilizing the quantum world is challenging but holds great potential for designing new forms of matter and new paths for information processing.  Ultracold atoms and atom-like systems provide a promising avenue for pursuing these goals since they can now be controlled and manipulated with unprecedented precision. The Center for Ultracold Atoms (CUA) is a joint effort between Massachusetts Institute of Technology and Harvard University aimed at harnessing the power of quantum mechanics for new physics and new applications. Through this Physics Frontiers Centers award, the CUA will develop a variety of theoretical and experimental tools to study strongly-interacting many-body systems of ultracold atoms and molecules, as well as coherent single or few particle systems.  The CUA will also advance education and outreach, both for the scientific community and general public, with a broad portfolio of activities.  Among these efforts, the CUA will develop new online education programs in partnership with the New Jersey Center for Teaching and Learning.&lt;br/&gt;&lt;br/&gt;The CUA research activities are organized into three areas.  The first focuses on quantum gases of atoms and molecules and will extend the scope of ultracold quantum gas physics with new experiments in areas that are not computationally tractable and new probes and tools that will enable improved levels of control.  The second research area will focus on many-body dynamics in atomic systems that are controlled by, and interact with, light.  The third area focuses on probing many-body phenomena related to the interplay between non-equilibrium properties, entanglement, and topology in the quantum dynamics of controlled solid-state and hybrid systems. &lt;br/&gt;&lt;br/&gt;This Physics Frontiers Centers award is co-funded by the Division of Physics within the Directorate of Mathematical and Physical Sciences, and by the Division of Computing and Communication Foundations within the Directorate for Computer and Information Science and Engineering.</AbstractNarration>
+<MinAmdLetterDate>09/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734011</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Doyle</LastName>
+<EmailAddress>doyle@physics.harvard.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wolfgang</FirstName>
+<LastName>Ketterle</LastName>
+<EmailAddress>ketterle@mit.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1646</Code>
+<Text>PHYSICS FRONTIER CENTER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

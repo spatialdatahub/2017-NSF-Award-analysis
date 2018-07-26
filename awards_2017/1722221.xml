@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Venous Valve Prosthesis as a Cure for Chronic Venous Insufficiency</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of a much-needed novel prosthetic valve that will provide a potential treatment option for the millions of U.S. patients suffering from chronic venous insufficiency (CVI). As people age, valves in the veins of their legs begin to function poorly. This allows blood to build up in the ankles due to gravity, leading to pain/swelling of the feet, skin discoloration, and ultimately open wounds by the ankles. As there is no approved venous valve on the market, current treatment consists of palliative options such as wound care and skin grafts. These treatments can cost tens of thousands of dollars per patient for non-healing venous stasis ulcers. The proposed technology will work to treat CVI while mitigating complications associated with prior attempts at valve prostheses, including formation of blood clots and valve breakdown. The approach described leverages a minimally invasive approach, averting costly expenditure and offering an up to 40% reduction in the cost of care in the first year of treatment.  &lt;br/&gt;&lt;br/&gt;The proposed project aims to develop a novel prosthetic valve technology to treat incompetent veins by targeting the underlying cause of the disease. In order to successfully progress on the path to commercialization, it is necessary to validate technologies such as this on the bench and in long-term animal trials.  These steps provide the foundation for future clinical trials and ultimately use in the broader population. The objectives are to build the device, compare iterations on the bench, and validate the technology in animals. We anticipate selecting an iteration and having successful animal results. The proposed project will allow for further validation of safety and function of the described approach and progress on the path to commercialization.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722221</AwardID>
+<Investigator>
+<FirstName>Austin</FirstName>
+<LastName>Walker</LastName>
+<EmailAddress>Austin@InnoVeinMedical.com</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INNOVEIN, INC</Name>
+<CityName>San Carlos</CityName>
+<ZipCode>940704131</ZipCode>
+<PhoneNumber>6503020847</PhoneNumber>
+<StreetAddress>1100 Industrial Road Suite 16</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>124E</Code>
+<Text>CENTERS: BIOENG &amp; HEALTH CARE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

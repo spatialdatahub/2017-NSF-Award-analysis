@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Research Initiation: The Formation of Engineering Students' Beliefs about Intelligence</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2019</AwardExpirationDate>
+    <AwardAmount>199995</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Julie Martin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>To address the complex problems of our ever-changing world, engineers need to demonstrate resilience and engage in life-long learning. Previous research has shown that people have a wide-range of beliefs regarding intelligence. For example, some people believe intelligence is a static trait that does not change over time, while others believe intelligence can be developed with effort. Research has also shown that these different underlying beliefs about intelligence are strongly tied to behaviors such as how an individual responds to challenges. In this study, both first-year and senior engineering students will be interviewed about their experiences in engineering school with respect to multiple behaviors linked to beliefs about intelligence. This study will provide valuable insight regarding how engineering culture and the undergraduate formation of engineers impacts students' beliefs about intelligence, which is an under-recognized factor in their ability to engage in engineering problem solving. This work is imperative to determine how to shift engineering culture to be more inclusive and form engineers that persist in the face of challenges. Findings will also be leveraged to inform the faculty and graduate students delivering courses and presenting at outreach events, resulting in more effective educational programs. &lt;br/&gt;&lt;br/&gt;This work will provide a rich characterization of students' beliefs about the nature of intelligence, building on prior quantitative studies. The team will utilize Carol Dweck's well-established framework of Mindset to guide their investigation. A cross-sectional study will collect and analyze interview data to characterize and compare student beliefs about the nature of their intelligence in both the first-year and senior year. When completed, the proposed project will provide insight into students' perspectives on engineering undergraduate culture and how it impacts the formation of their beliefs about intelligence, which are tied to resilience and a commitment to life-long learning. This work could be instrumental in transforming engineering culture and undergraduate engineering education to be more inclusive and encouraging towards productive beliefs about the nature of intelligence. Results from this study will be published in peer-reviewed conference proceedings and journals. These publications will engage the engineering education research community in an important discussion about underlying beliefs that impact the formation of engineers. This project will also provide professional development and mentoring for two professionals, to learn how to conduct rigorous engineering education research. As a result, the pool of individuals qualified to submit future education research proposals will be expanded. Finally, the team's plan utilizes qualified evaluators and member checking in order to assess the success of the research.</AbstractNarration>
+    <MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/04/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1738209</AwardID>
+    <Investigator>
+      <FirstName>Amy</FirstName>
+      <LastName>Betz</LastName>
+      <EmailAddress>arbetz@ksu.edu</EmailAddress>
+      <StartDate>08/29/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Emily</FirstName>
+      <LastName>Dringenberg</LastName>
+      <EmailAddress>dringenberg.1@osu.edu</EmailAddress>
+      <StartDate>08/29/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Kansas State University</Name>
+      <CityName>Manhattan</CityName>
+      <ZipCode>665061100</ZipCode>
+      <PhoneNumber>7855326804</PhoneNumber>
+      <StreetAddress>2 FAIRCHILD HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kansas</StateName>
+      <StateCode>KS</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>110E</Code>
+      <Text>EDUCATION RESEARCH</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

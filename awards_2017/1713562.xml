@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Embedded Assessment and Innovation Adoption for SciStarter 2.0: Understanding Participant Dynamics and Outcomes in a Landscape of Citizen Science Projects</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>331085</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Russell</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As part of its overall strategy to enhance learning in informal environments, the Advancing Informal STEM Learning (AISL) program funds innovative research, approaches and resources for use in a variety of settings.The project plans to develop evidence-based principles to guide citizen science project owners in the coordinated management of project participants within the SciStarter landscape. SciStarter is a repository of over 1,500 citizen science (CS) projects. Through prior research, SciStarter 2.0 tools were developed which can be used to study and coordinate recruitment and retention strategies across projects. Coordinated management has the potential to deepen volunteer learning and growth and benefit project goals because it can address across-project skew (CS volunteers involved in multiple projects), evolving motivations, seasonal gaps, untapped synergies across projects, and other unanticipated factors that cannot be addressed via management within project silos. The project will increase the capacity of citizen science projects to achieve their myriad scientific, learning and conservation goals through enhanced coordination of volunteer management, facilitated by evidence-based guidance from the SciStarter's User's Manual for Project Owners. The findings of the research will guide project design and implementation towards synergies that increase the capacity of projects to generate scientific, learning, and conservation outcomes. &lt;br/&gt;&lt;br/&gt;Research about citizen scientists has focused on within-project assessments and comparisons of projects, but few have examined dynamics of recruitment, retention, and movement of individuals across projects. SciStarter is designed for embedded tracking of participation dynamics in a landscape of projects. The project will expand embedded assessment to measure scientific, learning, and conservation outcomes and their links to participation dynamics within and across projects. Through social network analysis, the project will describe patterns of bridges, ties, and distances among projects based on the cross-over of participants. The project will also propose qualitative research to understand project managers' perceptions of SciStarter and the costs and benefits of coordinated management of citizen scientists. The research is designed to provide insights into participation dynamics that will lead to subsequent knowledge building across citizen science projects, and determine whether new evidence about advantages and disadvantages of coordinated management will persuade project owners to rely less on the silo approach to volunteer management.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1713562</AwardID>
+<Investigator>
+<FirstName>Lincoln</FirstName>
+<LastName>Larson</LastName>
+<EmailAddress>lincoln.larson@gmail.com</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caren</FirstName>
+<LastName>Cooper</LastName>
+<EmailAddress>caren.cooper@naturalsciences.org</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7259</Code>
+<Text>AISL</Text>
+</ProgramElement>
+</Award>
+</rootTag>

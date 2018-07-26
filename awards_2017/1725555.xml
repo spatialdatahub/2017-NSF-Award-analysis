@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SPX: Collaborative Research: Asynchronous, Parallel-Adaptive Solution of Extreme Multiscale Problems in Seismology</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>178680</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This collaborative project among scientists at the University of Illinois and the University of Tennessee will develop parallel software for efficient earthquake simulations on exascale supercomputers. State-of-the-art systems now resolve seismic response at frequencies up to 1 Hz, but design engineers require resolution up to 10 Hz. Synchronization barriers may limit performance on exascale systems. This project will develop scalable, barrier-free asynchronous simulation tools and space-time adaptive meshing to meet the seismic resolution requirements on exascale platforms. It will develop improved fault-gouge physics models and extend asynchronous hyperbolic solvers to address elliptic (and eventually parabolic) systems. These extensions will enable the first regional, full-cycle seismic simulations, covering fast earthquake events and much slower crustal motion between earthquakes, as well as the use of asynchronous exascale solvers in most PDE-based scientific and engineering applications. The asynchronous solution technology will support more reliable earthquake hazard maps and the design of safer, more economical earthquake-resistant buildings and infrastructure. In view of its broad applicability, the unprecedented simulation power afforded by this research could trigger numerous breakthroughs in the commercial and defense sectors. Four graduate research assistants will receive cross-disciplinary training, and undergraduate students will participate through the National Center for Supercomputing Application?s SPIN (Students Pushing INnovation) program.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This collaborative project among scientists at the University of Illinois and the University of Tennessee will develop parallel software for efficient earthquake simulations on exascale supercomputers. State-of-the-art systems now resolve seismic response at frequencies up to 1 Hz, but design engineers require resolution up to 10 Hz. Synchronization barriers and load balancing across subdomains may limit performance on exascale systems. This project will replace the standard bulk synchronous parallel model and Domain Decomposition Method (DDM) with scalable, barrier-free asynchronous solvers and space-time adaptive meshing without DDM to meet the seismic resolution requirements on exascale platforms. It will develop Shear Transition Zone models for fault-gouge physics and use pseudo-time methods to extend asynchronous hyperbolic solvers to address elliptic (and eventually parabolic) systems. These extensions will enable the first regional, full-cycle seismic simulations, covering fast earthquake events and much slower crustal motion between earthquakes, as well as the use of asynchronous exascale solvers in most PDE-based scientific and engineering applications. The asynchronous solution technology will support more reliable earthquake hazard maps and the design of safer, more economical earthquake-resistant buildings and infrastructure. In view of its broad applicability, the unprecedented simulation power afforded by this research could trigger numerous breakthroughs in the commercial and defense sectors. Four graduate research assistants will receive cross-disciplinary training, and undergraduate students will participate through the National Center for Supercomputing Application?s SPIN (Students Pushing INnovation) program</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725555</AwardID>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Abedi</LastName>
+<EmailAddress>rabedi@utsi.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Space Institute</Name>
+<CityName>Tullahoma</CityName>
+<ZipCode>373889700</ZipCode>
+<PhoneNumber>9313937212</PhoneNumber>
+<StreetAddress>411 B. H. Goethert Pkwy.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>SPX: Scalable Parallelism in t</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+</Award>
+</rootTag>

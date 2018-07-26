@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Medium: Non-Convex Methods for Discovering High-Dimensional Structures in Big and Corrupted Data</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>1150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Discovering structure in high-dimensional data, such as images, videos and 3D point clouds, has become an essential part of scientific discovery in many disciplines, including machine learning, computer vision, pattern recognition, and signal processing. This has motivated extraordinary advances in the past decade, including various sparse and low-rank modeling methods based on convex optimization with provable theoretical guarantees of correct recovery. However, existing theory and algorithms rely on the assumption that high-dimensional data can be well approximated by low-dimensional structures. While this assumption is adequate for some datasets, e.g., images of faces under varying illumination, it may be violated in many emerging datasets, e.g., 3D point clouds. The goal of this project is to develop a mathematical modeling framework and associated non-convex optimization tools for discovering high-dimensional structures in big and corrupted data.&lt;br/&gt;&lt;br/&gt;This project will develop provably correct and scalable optimization algorithms for learning a union of high-dimensional subspaces from big and corrupted data. The proposed algorithms will be based on a novel framework called Dual Principal Component Pursuit that, instead of learning a basis for each subspace, seeks to learn a basis for their orthogonal complements. In sharp contrast with existing sparse and low-rank methods, which require both the dimensions of the subspaces and the percentage of outliers to be sufficiently small, the proposed framework will lead to results where even subspaces of the highest possible dimension (i.e., hyperplanes) can be correctly recovered from highly corrupted data. This will be achieved by solving a family of non-convex sparse representation problems whose analysis will require the development of novel theoretical results to guarantee the correct recovery of the subspaces from corrupted data. The project will also develop scalable algorithms for solving these non-convex optimization problems and study conditions for their convergence to the global optimum. These algorithms will be evaluated in two major applications in computer vision: segmentation of point clouds and clustering of image categorization datasets.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704458</AwardID>
+<Investigator>
+<FirstName>Rene</FirstName>
+<LastName>Vidal</LastName>
+<EmailAddress>rvidal@cis.jhu.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Robinson</LastName>
+<EmailAddress>daniel.p.robinson@gmail.com</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

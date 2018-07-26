@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:   Acquisition of an X-band Electron Paramagnetic Resonance (EPR) Spectrometer to Enhance the Infrastructure for Research in Redox Processes in Chemistry and Biology</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>274274</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation(CRIF) Programs. Professor Alison Fout from University of Illinois Urbana-Champaign (UIUC) and colleagues Robert Gennis, Yi Lu and Dean Olson have acquired an X-band electron paramagnetic resonance (EPR) spectrometer. This instrument allows research in a variety of fields such as those that provide insight on the behavior of biologically-relevant and environmentally-important species. In general, an EPR spectrometer yields detailed information on the geometric and electronic structures of molecular and solid state materials. It may also be used to obtain information about the lifetimes of short-lived, highly reactive species involved in valuable chemical transformations as well as the initiation of pathological tumor growth. These studies impact several areas, from the synthesis of inorganic and organic molecules to the development of new solid state materials to compounds of magnetic and biological and medical interest. The instrument serves to train the next generation of student researchers both at UIUC and the nearby institution, Eastern Illinois University.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This EPR spectrometer enhances research and education at all levels. It may impact studies linking proton pumping to hydride transfer by studying the mechanism of transhydrogenase, tuning redox potentials of metal centers in a single protein and developing cobalt(I) catalysts featuring strong-field ligands for Carbon-X bond formation. The instrumentation is also used in the studies of compounds prepared by bio-inspired complexes for oxyanion reduction.  Electron transfer in the bc1 complex and investigations of the five catalytic sites of ubisemiquinones are also under consideration. The spectrometer benefits investigations of redox enzymes, advances chemical vapor deposition (CVD), and explores oxidative stress in ROS-sensitive enzymes. In addition, the EPR is used for studies tuning redox potentials of metal centers in a single protein and characterizing intermediate states in P450 catalysis.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726244</AwardID>
+<Investigator>
+<FirstName>Alison</FirstName>
+<LastName>Fout</LastName>
+<EmailAddress>fout@illinois.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Gennis</LastName>
+<EmailAddress>r-gennis@uiuc.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yi</FirstName>
+<LastName>Lu</LastName>
+<EmailAddress>yi-lu@illinois.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Olson</LastName>
+<EmailAddress>dolson@illinois.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

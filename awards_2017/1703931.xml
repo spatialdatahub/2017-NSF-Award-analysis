@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Medium: Optimistic Static Analysis</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1079989</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Programs running on computers have become essential to today's society. They enable commerce, operate machinery, control transportation, enhance social interaction, and perform innumerable other important tasks. This research project examines how to ensure that programs run correctly and securely as they carry out their mission by monitoring their execution efficiently. The intellectual merits are developing a new way to monitor programs as they execute, which incurs far less overhead than prior methods. The project's broader significance and importance are in helping programs programs run more correctly and securely as they perform essential functions in society.&lt;br/&gt;&lt;br/&gt;Static program analysis is a powerful technique for understanding, verifying, optimizing, and transforming programs. Unfortunately, usefulness of those static analyses is greatly hindered by the need to prove their soundness, as soundness requires analysis of all possible executions and sound over-approximations of a program. This research is designing and using optimistic static analyses. They make optimistic assumptions about a program, and are sound only when those assumptions hold true in an execution. The optimistic assumptions, called likely variants, are typically learnt by observing a representative set of executions. At runtime, these assumptions are checked, and if they fail, remedial actions are taken. As optimistic static analysis can prune a large fraction of the state space from consideration, its scalability and precision can be one to two orders of magnitude higher than conventional sound analysis. This project is exploring several applications of optimistic static analysis ranging from security to concurrency to hardware synthesis.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1703931</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>pmchen@umich.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Satish</FirstName>
+<LastName>Narayanasamy</LastName>
+<EmailAddress>nsatish@eecs.umich.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

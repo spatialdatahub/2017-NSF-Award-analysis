@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Precise Near-Infrared Motion Velocities of Stars</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>46191</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Faith Vilas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When planets are discovered around other stars, very precise telescopic observations must be made so that astronomers can learn their size and motion.  These investigators have built instruments and designed techniques that can measure the motions of these planets very precisely; these measurements describe the planets that are orbiting their stars.  This project will improve the investigators' ability to make these precise measurements.  A new, more precise telescopic instrument, called iSHELL, replaced the first instrument that the investigators designed and used to develop these observing methods.  In this project the investigators will develop computer programs and techniques to study the new telescopic data from iSHELL more thoroughly and accurately.  This research serves the national interest as it promotes our progress in understanding the characteristics of planets around other stars.  The principal investigator will include opportunities for undergraduate and graduate students, including underrepresented minorities, to participate in this astronomical research.&lt;br/&gt;&lt;br/&gt;This project will advance the radial velocity (RV) precision obtainable in the near-infrared (NIR) for the RV follow-up of candidate exoplanets identified with the NASA Transiting Exoplanet Survey Satellite mission and ground-based telescopic surveys.  An NIR RV precision of 3 m/s will make it possible to detect 1-10 Earth-mass planets in the habitable zones of M dwarf stars and to evaluate the wavelength dependence of stellar jitter from the visible to the near-infrared for main sequence and young stars.  This project builds on the successful NIR precise RV instrumentation prototyped from 2010- 2015 using the CSHELL instrument at the NASA Infra-Red Telescope Facility.  The collaboration surveyed a sample of young moving group M dwarfs and a sample of nearby M dwarfs that have not been previously monitored, identifying several candidate exoplanets.  The iSHELL replaced CSHELL with first light at IRTF in August 2016.  Owing to the improvements in spectral grasp, resolution, optics, and detector characteristics, the investigators will likely achieve a long-term precision of &lt; 3 m/s with iSHELL.  The investigators will adapt the CSHELL data analysis pipeline for iSHELL data.</AbstractNarration>
+<MinAmdLetterDate>08/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716202</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Plavchan</LastName>
+<EmailAddress>plavchan@gmail.com</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

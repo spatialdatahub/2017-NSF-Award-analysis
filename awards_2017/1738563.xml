@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Microelectromechanical System Radio Transceivers for Low-Power Wireless Networks</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project aims to develop a MicroElectroMechanical System (MEMS)-based radio transceiver providing a steep reduction in operating power for wireless data transmission in battery-powered devices. Conventional technology offerings for such radios are numerous, but with 10's of mW of power consumption they are unable to operate for long periods on batteries or scavenged power. If the low power radio promised by MEMS technology is realized, battery life of consumer products such as wireless headphones can be greatly extended, and battery size reduced, saving money and increasing convenience to the end user. With the spread of compact wearable and consumer devices, battery space is becoming increasingly at a premium, strongly incentivizing lower power electronics. As this technology matures, the expanding interconnection of devices (aka, the Internet of Things) offers yet greater potential. With rapidly expanding market adoption of wireless connectivity for sensing, control, and data collection, power consumption is becoming a major limiter in device deployment. If lower power transceivers are available, wired devices may be replaced by wireless and battery replacement cycles reduced or even done away with altogether, saving time and money, and paving the way to true interconnection of all things. &lt;br/&gt;&lt;br/&gt;The work of this Phase II SBIR project will focus on designing and verifying performance of the MEMS-based radios using fabrication processes suitable for mass production and commercial distribution. By combining MEMS technology with traditional circuit design, the proposed system will enable a 10x reduction in power consumption, low enough that these radios will allow extended operation on battery power alone. In the phase I project, the feasibility of the MEMS-based receiver was tested using resonators compatible with currently available MEMS foundry processes, and power consumption of the core radio-frequency transceiver components was verified at a low 300 mW. In phase II, these results will be expanded upon to add the additional transceiver components and software stack needed for a complete commercial product. The resultant design will be then transferred to the commercial foundry processes needed for mass production. The end goal of this project is to demonstrate a complete MEMS-based radio compatible with the widely-used Bluetooth Low-Energy protocol while operating on a total of only 2 mW in receive-mode.</AbstractNarration>
+<MinAmdLetterDate>08/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738563</AwardID>
+<Investigator>
+<FirstName>Tristan</FirstName>
+<LastName>Rocheleau</LastName>
+<EmailAddress>tristan.rocheleau@gmail.com</EmailAddress>
+<StartDate>08/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MuMec LLC</Name>
+<CityName>Oakland</CityName>
+<ZipCode>946074334</ZipCode>
+<PhoneNumber>6072322162</PhoneNumber>
+<StreetAddress>255 3rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

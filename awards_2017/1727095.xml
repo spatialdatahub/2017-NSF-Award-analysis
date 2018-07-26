@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Development of Mees Massively-multipleXed Coronal Spectropolarimetric Magnetometer (mxCSM) for Ground and Space Coronal Magnetometry</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>2062724</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carrie E. Black</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This 4-year MRI project is to develop high resolution instrumentation at the Mees Solar Observatory in Hawaii, an EPSCoR state, which will measure the magnetic field of the solar corona. The corona, the atmosphere of the sun, is where space weather events originate. Solar eruptions (coronal mass ejections and solar flares), which occur in the corona, are complex electromagnetic events and can have significant impact at Earth and throughout the solar system. In the near-Earth environment, they can adversely impact satellite electronics, cause disruptions to power grids, and harm humans in space. The effects of a 1 in 100 year storm are now the focus of the NSTC subcommittee on Space Weather Research, Operations, and Mitigation. Currently, measurements are of the solar corona modest sensitivity and resolution and from a single vantage point, that of Earth. These single point measurements are complicated to interpret due to the highly 3D nature of the system. This project will both serve as a test for a new paradigm of future high resolution space-borne instruments enabling multi-point measurements and generate unprecedented data that will enable entirely new science. This instrument is designed to work as a system with NSF's Daniel K. Inouye Solar Telescope which will take very high resolution images from a smaller field of view in the low corona. &lt;br/&gt;&lt;br/&gt;The massively-multiplexed Coronal Spectropolarimetric Magnetometer or mxCSM, is a 15-cm hybrid off-axis mirror coronagraph equipped with a six-channel spectropolarimeter to measure the magnetic polarization signals of six coronal emission lines (CELs) simultaneously over a large field of view (FOV). With its high polarization sensitivity and large FOV, mxCSM will be able to observe the evolution of the linear polarization of the whole field with a high temporal resolution sufficient for the study of coronal mass ejections (CMEs) and other solar eruptions. It will also measure the line-of-sight component of coronal magnetic fields in active regions with lower spatial and temporal resolution. Synoptic data from mxCSM can be used to perform tomographic inversion of the magnetic fields of large, long lived coronal structures. These new coronal polarization data will yield stringent observational constraints for coronal model validations, and will help advance our understanding of the processes that heat and structure the corona.</AbstractNarration>
+<MinAmdLetterDate>09/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1727095</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Penn</LastName>
+<EmailAddress>mpenn@nso.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hao Sheng</FirstName>
+<LastName>Lin</LastName>
+<EmailAddress>lin@ifa.hawaii.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shadia</FirstName>
+<LastName>Habbal</LastName>
+<EmailAddress>shadia@ifa.hawaii.edu</EmailAddress>
+<StartDate>09/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7699</Code>
+<Text>ICER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1523</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7699</Code>
+<Text>ICER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

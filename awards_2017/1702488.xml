@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Laboratory Study to Investigate Inorganic and Organic Sulfate Formation in Multiphase Processes Involving Mineral Dust and Other Metal-Containing Aerosols</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>482391</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on laboratory studies to better understand particulate sulfate formation from sulfur dioxide oxidation in the atmosphere.  A major focus of the proposed studies will be to quantify rates and extent of sulfate formation in multiphase pathways involving mineral dust and other metal-containing aerosols as a function of pH, temperature and light.&lt;br/&gt;&lt;br/&gt;The mechanisms for sulfate formation that will be investigated in a series of laboratory studies that include the: (1) catalytic effects of transition metal ions present in mineral and anthropogenic metal-containing dusts; (2) enhanced sulfate formation in the presence of photoactive semiconductor oxides; and (3) role of organic compounds in mineral mediated sulfate processes. In addition, new methods to investigate the chemistry within individual cloud droplets will be developed, including an optical tweezer with cavity enhanced Raman spectroscopy to investigate sulfur oxidation chemistry within micron sized single droplets containing a dust inclusion. The experiments will be done in the presence and absence of atmospherically important organic species that can react to yield organosulfates.  This project will also assess the importance of surface reactivity versus bulk reactivity, important for modeling cloud processes.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1702488</AwardID>
+<Investigator>
+<FirstName>Vicki</FirstName>
+<LastName>Grassian</LastName>
+<EmailAddress>vhgrassian@ucsd.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

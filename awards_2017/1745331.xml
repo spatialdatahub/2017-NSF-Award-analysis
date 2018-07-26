@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Hawaiian Workshop on Parallel Algorithms and Data Structures</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>40346</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support a workshop on the topic of parallel algorithms and data structures to be held at the University of Hawaii at Manoa on December 4-8, 2017.  This workshop will bring together researchers in parallel algorithms and from broader algorithms community to present recent advances in modeling modern parallel systems and to perform research solving open problems in parallel algorithms and data structures. Students will be exposed to the research environment and will have an opportunity to engage in research. The University of Hawaii is a Native Hawaiian-serving institution, and the workshop will promote participation by underrepresented groups in computing.</AbstractNarration>
+<MinAmdLetterDate>07/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745331</AwardID>
+<Investigator>
+<FirstName>Nodari</FirstName>
+<LastName>Sitchinava</LastName>
+<EmailAddress>nodari@hawaii.edu</EmailAddress>
+<StartDate>07/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7934</Code>
+<Text>PARAL/DISTRIBUTED ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

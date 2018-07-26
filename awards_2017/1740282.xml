@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SI2-SSE: Collaborative Research: Integrated Tools for DNA Nanostructure Design and Simulation</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nanotechnology could one day revolutionize several activities of great importance to our national interest, including how we manufacture consumer products, how we diagnose and treat disease, and how we detect and neutralize threats to our defense. One promising approach to atomically precise construction is adapting molecular building blocks from living organisms such as DNA, RNA, and proteins, and repurposing them to self-assemble into prescribed shapes, devices, and materials. A key bottleneck to progress is the complexity of designing, building, and testing nanostructures comprised of thousands or millions of atoms. The goal of this project is to accelerate development of bio-inspired nanostructures by integrating two widely adopted software tools used in bio-nanostructure design and physics-based molecular simulation. The products of this effort will enhance our fundamental capability to understand and precisely engineer self-assembled biomolecular nanostructures, which, when coupled with experimental validation in the laboratory, will enable future demand-meeting applications of bionanotechnology.&lt;br/&gt;&lt;br/&gt;Toward realizing the goal of programming matter with nanoscale precision, this project will develop software interfaces between two classes of molecular design programs that, until now, have been evolving independently from one another. A widely adopted DNA structure design program, Cadnano, will be extended to utilize the results of physics-based microscopic simulations, enabling an iterative structure design process. A leading molecular graphics program, VMD (Visual Molecular Dynamics), will be developed to seamlessly visualize Cadnano designs, provide their structural interpretation, and enable further modification of the structures using an arsenal of computational structural biology and nanotechnology tools. Both developments will utilize recent advances in cloud computing technologies, making the DNA structure design software available anywhere and to anyone in a platform-independent manner.&lt;br/&gt;&lt;br/&gt;This project is supported by the Office of Advanced Cyberinfrastructure in the Directorate for Computer &amp; Information Science &amp; Engineering and the Division of Civil, Mechanical and Manufacturing Innovation in the Directorate of Engineering.</AbstractNarration>
+<MinAmdLetterDate>08/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740282</AwardID>
+<Investigator>
+<FirstName>Shawn</FirstName>
+<LastName>Douglas</LastName>
+<EmailAddress>Shawn.Douglas@ucsf.edu</EmailAddress>
+<StartDate>08/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Francisco</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941034249</ZipCode>
+<PhoneNumber>4154762977</PhoneNumber>
+<StreetAddress>1855 Folsom St Ste 425</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8292</Code>
+<Text>DMREF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8005</Code>
+<Text>Scientific Software Elements</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

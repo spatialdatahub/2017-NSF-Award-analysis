@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD:  Collaborative Research:  Multivariate Quantiles for Rapid Spatio-Temporal Threat Detection</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Lund</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Different kinds of data on societal attributes, observed from multiple sources, at multiple locations, and at different points in time, will be studied in this project. The geometrical properties of such data will be analyzed to quantify and characterize normal patterns in the data, which will then be leveraged to identify sudden departures from normal patterns within societies. Methodology for understanding normal patterns in the data and rapidly detecting change in one or more aspects of the data will be devised in this project. Data from different locations around the world will be analyzed and used to formulate strategies for risk mitigation and emergency responses.&lt;br/&gt;&lt;br/&gt;The geometric properties of high-dimensional spatio-temporal data will be studied in this project to construct a multi-dimensional extremity indicator. This indicator and other statistical and machine learning techniques will be used for rapid spatio-temporal change detection, under a variety of technical conditions and frameworks. Such changes may be towards specific known directions, or generic departures from normal patterns. Methods for detecting changes in extremes and tails of multivariate probability distributions will likewise be developed as part of this project. Social, economic, and supply chain logistics data will then be studied to develop policy and rapid response strategies using data-driven techniques.</AbstractNarration>
+<MinAmdLetterDate>08/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737918</AwardID>
+<Investigator>
+<FirstName>Singdhansu</FirstName>
+<LastName>Chatterjee</LastName>
+<EmailAddress>chatt019@umn.edu</EmailAddress>
+<StartDate>08/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>046Y</Code>
+<Text>ATD-Algorithms for Threat Dete</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

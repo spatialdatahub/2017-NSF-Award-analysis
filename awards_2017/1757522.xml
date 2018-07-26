@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Undergraduate Research in Sustainable Energy (U-RISE)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>359905</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This REU Site: Undergraduate Research in Sustainable Energy (U-RISE) at the University of Michigan Dearborn, is designed to educate a new generation of engineers and scientists by conducting research in sustainable energy-based electric power systems. Student participants work in teams on research projects with a special emphasis on sustainable energy-related technology and engineering that aim to promote economic efficiency; improve social welfare; reduce energy cost; support plug-and-play of distributed sustainable energy; and improve the capability, adaptability, scalability, resiliency, safety, security, and usability that our nation's power grid infrastructure can provide. The program places an emphasis on exposing undergraduates to cutting-edge sustainable energy technology by letting them solve real-world engineering problems together with University of Michigan-Dearborn faculty, graduate students, and local industry mentors.&lt;br/&gt;&lt;br/&gt;The integrated research and educational plan will have significant broader impacts: (1) The University of Michigan Dearborn will host thirty REU students, drawn from diverse backgrounds and experience, who will directly and immediately benefit by participating in a combination of analytic, computational, and experimental projects. (2) The research findings of these projects will contribute to our nation's current and future plans for reconstructing the legacy power grid and accommodating the high participation of sustainable energy sources. (3) This REU site will address the nationwide problem of the underrepresentation of women and minorities in STEM and more specifically in the field of sustainable energy. (4) This REU site will offer research experiences to those who may not normally have such an opportunity, particularly women, underrepresented minorities, participants from non-engineering-college institutions with limited research opportunities, and high-performing low-income students. Having a more diverse engineering and science professoriate will significantly benefit society, not only in Southeast Michigan but nationally, by promoting a more equitable participation of minorities in the engineering and scientific disciplines. (5) This REU will leverage long-term educational and research partnerships with regional and national institutions; and (6) The lessons learned from this REU program will be disseminated in diverse media to reach broader audiences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757522</AwardID>
+<Investigator>
+<FirstName>Wencong</FirstName>
+<LastName>Su</LastName>
+<EmailAddress>wencong@umich.edu</EmailAddress>
+<StartDate>01/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samir</FirstName>
+<LastName>Rawashdeh</LastName>
+<EmailAddress>srawa@umich.edu</EmailAddress>
+<StartDate>01/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

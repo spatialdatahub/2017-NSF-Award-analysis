@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Hybrid Brain-Computer Interface for Virtual and Augmented Reality</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>224915</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project addresses the need for non-invasive brain-computer interfaces (BCIs) and hands-free control of technologies, including artificial and virtual reality (AR/VR) and smart devices. The proposed multi-purposed BCI is expected to have immediate applications for several industries, including manufacturing and medicine. Currently, existing systems are either too expensive or limited for real-time control. The proposed BCI is specifically designed for 3 dimensional environments, and is intended to leverage multiple ('hybrid') signals from the human body to allow increased performance using affordable hardware. It is also designed for and expected to allow AR/VR control, which can enable productivity applications, as well as model BCI use in real-world scenarios. The long term goal is to enable users to scroll menus, select objects, and even type using their brain activity. The platform uses the existing form-factor of AR/VR headsets to incorporate brain-sensing electrodes, and will be compatible with popular devices, independently or in parallel with their existing controllers. The electrodes are designed to be safe, non-invasive, and dry (requiring conductive gel or saline). The high-risk, high-reward research to be conducted under this project will significantly advance the applications of BCI systems in general, with an emphasis on AR/VR technologies.&lt;br/&gt;&lt;br/&gt;The proposed project concerns a novel hybrid BCI by combining oculomotor and electroencephalography (EEG) signals via a custom machine learning platform. BCIs detect and interpret neural signals enabling control over a variety of technologies. However, current BCIs remain extremely limited in their applicability. They either require expensive equipment, invasive surgery, or have too low performance when using affordable noninvasive hardware. This BCI aims to provide real-time control in 3-dimensional scenarios, (e.g., AR/VR/real-world smart devices), while using affordable hardware. This SBIR Phase I project seeks to combine three distinct innovations: high-performance EEG signal analysis, high-speed eye movement classification, and custom multi-signal ensemble classification techniques. Specifically, the project seeks to use a custom machine learning and artificial intelligence approach informed by physiology to combine oculomotor and EEG signals to specifically enable3D AR/VR control. The ultimate goal is to develop a high performance BCI system that affords flexible user control across hardware, software, and mobile applications.</AbstractNarration>
+<MinAmdLetterDate>12/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746232</AwardID>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Jantz</LastName>
+<EmailAddress>jayj@neurable.com</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Neurable Inc.</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021411802</ZipCode>
+<PhoneNumber>9173124551</PhoneNumber>
+<StreetAddress>25 1st Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>108E</Code>
+<Text>Bioelectronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

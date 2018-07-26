@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR: Small: Cost Function Based Management of Computational and Energy Resources in Embedded Controllers</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>300001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In recent years, many embedded applications have emerged where the speed of the computer's response to external demands is as important as the correctness of its output. These are real-time systems, where tasks must meet specified deadlines. Such task deadlines are based on the specific needs of the application, from moment to moment. Typically, applications are served by a cluster of processors, collaborating together on deadline-bound tasks. To do this effectively requires efficient management of the processor and energy resources available to the system. Obtaining application-sensitive resource management techniques is the focus of this proposal.&lt;br/&gt;&lt;br/&gt;The intellectual merit lies in the integrated way in which the individual elements associated with embedded systems are managed. Cost functions are defined that provide an interface between the computer and control domains of the embedded system, conveying the urgency of computational tasks with respect to the control domain. Such cost functions, once defined, can be used by the computational domain to effectively manage computational and energy resources; obtaining them is the first thrust of the project. Using such cost functions to dynamically manage the resources pertinent to the computer domain (so as to optimize control-domain performance over a specified mission) is the second thrust.&lt;br/&gt;&lt;br/&gt;The broader impact of the project arises from the economic and social importance of embedded systems in today's world. Such systems range from small implantable medical devices to country-wide networked systems; their efficient functioning is of great importance. This project occupies an interdisciplinary area involving both computer and control domains. The results of this work, along with associated background material, will be migrated in the form of accessible modules to both the graduate and undergraduate curriculum; these will contribute to the training of a diverse workforce that can work with confidence in the interacting worlds of computation, control and networking.&lt;br/&gt;&lt;br/&gt;A project repository will be maintained containing code, course modules, technical/research documents, and other relevant technical material associated with this project. Its purpose is to make possible a wide and free dissemination of project-generated materials. The University of Massachusetts library system runs a repository (scholarworks@UMassAmherst; URL: http://scholarworks.umass.edu/ece/) that will be used for this purpose. The material will be maintained until, in the judgement of the Principal Investigator, it becomes obsolete. Care will be taken to ensure that there are no privacy or intellectual property violations in making this material widely available.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717262</AwardID>
+<Investigator>
+<FirstName>C.Mani</FirstName>
+<LastName>Krishna</LastName>
+<EmailAddress>krishna@ecs.umass.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

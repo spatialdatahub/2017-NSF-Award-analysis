@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Control and estimation of glycosylation profile via media supplementation based on intracellular models in mammalian cell cultures</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>329525</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Recombinant monoclonal antibodies (mAbs) are effective in curing many diseases, including several types of cancer. The effectiveness of mAbs is closely related to the pattern of decoration of the mAb surface with sugars. This project attempts to understand and ultimately predict how mAbs are decorated with sugars in specific locations on the surface. Such knowledge would fill a significant gap in current industrial practice on mAb quality control and improve the development and manufacturing of such therapeutic molecules. The research team will also provide STEM training opportunities through undergraduate research, recruiting minority students, developing new biomanufacturing courses and lectures, and supporting outreach activities for K-12 students and general public. &lt;br/&gt;&lt;br/&gt;Successful control and optimization of mAb glycosylation is currently hindered by limited understanding of how glycosylation responds in vivo to culture perturbations. This research proposes to tackle the challenge by exploring intracellular metabolic mechanisms that link media supplementation in to glycosylation.This should eventually lead to the establishment of  a model to predict glycosylation variation in cultures and accommodate a control methodology via media supplementation. Mechanistic insights into the cellular physiology critical to glycosylation will be achieved by multi-omics approaches. This will pave the way to developing intracellular metabolic models which connect media supplements, intracellular properties, and glycan profiles, an to developing control strategies for glycan attributes via media supplementation. If successful, these results should enable the reproducible generation of fully active monoclonal antibodies, increasing the efficacy and decreasing the cost of this important human health therapy.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1706731</AwardID>
+<Investigator>
+<FirstName>Dongming</FirstName>
+<LastName>Xie</LastName>
+<EmailAddress>Dongming_Xie@uml.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seongkyu</FirstName>
+<LastName>Yoon</LastName>
+<EmailAddress>seongkyu_yoon@uml.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Lowell</Name>
+<CityName>Lowell</CityName>
+<ZipCode>018543643</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress>600 Suffolk Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

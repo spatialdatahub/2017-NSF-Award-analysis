@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning IUCRC Virginia Tech: Center for Cyber-Physical Systems for the Hospital Operating Room (CyBHOR)</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>14999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The U.S. alone spent $2.6 trillion on healthcare in 2014. This number is likely to increase over the next two decades as Baby Boomers, numbering 76 million, will retire, including many who work in medical professions. This planning grant will lay the foundation to establish a site of the Cyber-physical systems for the Hospital Operating Room (CyBHOR) Industry University Cooperative Research Center at Virginia Tech (VT). As part of this proposed site, the researchers seek to develop healthcare and surgical technologies for our most vulnerable populations: children and older adults.  The site will complement existing sites at Houston Methodist and the University of Florida.   &lt;br/&gt;&lt;br/&gt;Virginia Tech will use this planning grant to refine the vision for the new site in order to address growing biomedical needs complementary to the mission of CyBHOR. To achieve this, an organizational meeting will be held in the Washington, DC area with prospective industry members, secure financial commitments from industry partners, and select initial projects. The planning grant will allow the recruitment and input from multiple industrial partners to investigate six medical device research projects. Initial proposed research projects address areas ranging from training the next generation of healthcare workers via humanoid patient simulation, to treating both pediatric and geriatric surgical and healthcare needs with real-time tissue property monitoring. These projects will be refined with industry partners for the site's initial research efforts that will lead to increased innovation and competitiveness of U.S. industry, specifically providers of healthcare products.</AbstractNarration>
+<MinAmdLetterDate>01/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747768</AwardID>
+<Investigator>
+<FirstName>Shashank</FirstName>
+<LastName>Priya</LastName>
+<EmailAddress>sup103@psu.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Abby</FirstName>
+<LastName>Whittington</LastName>
+<EmailAddress>awhit@mse.vt.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bahareh</FirstName>
+<LastName>Behkam</LastName>
+<EmailAddress>behkam@vt.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Dietrich</LastName>
+<EmailAddress>cdietric@vt.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rafael</FirstName>
+<LastName>Davalos</LastName>
+<EmailAddress>davalos@vt.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Radio Frequency Beamforming for Wireless Drone Charging</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to create wireless chargers, which are necessary for the eventual adoption of programmatic/semi-autonomous commercial drone usage. These chargers directly address the significant challenge of drone battery capacity, and serve in the same capacity as gas stations do for cars and trucks. Given the rapidly growing interest in the use of drone technology for historically dangerous and onerous activities such as oil &amp; gas, telecom, and utility asset inspection, the platform could become a key part of the eventual drone infrastructure. Wireless charging is inherently a clean method of power transmission; by enabling cleaner technologies, such as electric multicopters, rather than fuel-powered fixed-wing drones, our platform will be a major accelerant for energy savings in the future.&lt;br/&gt;&lt;br/&gt;This I-Corps project successfully demonstrates long-distance wireless power transfer using Radio Frequency (RF) beamforming. A working prototype with multiple antennas and an energy harvester that exhibits successful long-range wireless charging using RF beamforming has been developed using software defined radios. In order to scale the system to deliver wireless power to drones, a massive MIMO transmitter with multiple antennas is proposed. Each antenna's signal constructively interferes with the others, providing an efficiently beamformed power gain in the direction of the drone, which is retrofitted with a rectifier to convert the electromagnetic energy to usable direct current to charge the battery. Provided the drones are within line-of-sight, the chargers can deliver power wirelessly from up to 40 to 60 feet, also assuming proper compensation of the mutual coupling from the antennas. The transmitter and receiver architectures at the scale of drones have been fully designed, and require further implementation of the digital signal processing software, system parallelization, and high-power rectifying circuit to realize the full beamforming solution.</AbstractNarration>
+<MinAmdLetterDate>07/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746090</AwardID>
+<Investigator>
+<FirstName>Rhonda</FirstName>
+<LastName>Shrader</LastName>
+<EmailAddress>Rhonda_shrader@berkeley.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Enabling high-throughput computational discovery of stable and active single-site oxidation catalysts</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>317245</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project will advance computational tools for the discovery, design, and mechanistic understanding of factors promoting reactions on catalysts containing a single, highly-specific active site.  Such single-site catalysts offer unique opportunities for improving the activity and product selectivity of a range of catalytic reactions.  The computational tool development will focus on the dehydrogenation of light alkanes that comprise the major component of natural gas.  The abundance of shale gas resources has brought increasing need for more efficient catalysts for transforming the relatively unreactive alkanes to more reactive species of value as intermediates in the manufacture of a wide range of chemicals and fuels.  Development of the new computational tools will hasten the identification of efficient single-site catalysts, thus providing the chemical and petroleum industries with new catalysts needed to maintain our Nation's competitiveness in the chemicals and energy sectors of the economy.  &lt;br/&gt;&lt;br/&gt;Single-site catalysts present unique opportunities for high-selectivity and activity, but challenges remain for their study and design.  Computational catalysis has emerged as a powerful tool - when coupled with experimental studies - to guide the design of catalysts based on fundamental structure-activity relationships rather than the inefficient trial-and-error approach often used.  The project will advance computational tools for discovery, design, and mechanistic study of single-site catalysts.  The computational platform will combine new methodology for catalyst structure building and development, with methods for improving first-principles prediction accuracy.  New iterative screening approaches will impart fundamental understanding to structure-property relationships that give rise to gas phase oxidant activation for selective C-H activation with high stability.  The research efforts will focus on three aims: 1) building high-throughput single-site catalyst structure generation tools; 2) developing robust augmented-DFT (density functional theory) predictions for energetics; and 3) generating iterative design strategies for discovering stable and active single-site catalysts.  These three aims will bring to bear a robust, open-source platform for the discovery of catalysts needed to capitalize on the abundant energy and chemical feedstock reserves found in shale resources.  From a broader perspective, the open-source software tools and structure-property correlations will provide benefit to the computational catalysis community beyond the single-site catalysts studied in this work.  The project integrates the education of graduate and undergraduate students with innovative research in computational catalyst design.  The research will be shared with the community through a hands-on workshop at the Massachusetts Institute of Technology Museum for grades 6-12 students in Boston-area schools, with a special emphasis on engaging female and underrepresented minorities in STEM.  Local efforts will be augmented by online tutorials that teach chemistry, catalysis, and electronic structure to a general audience.</AbstractNarration>
+<MinAmdLetterDate>07/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1704266</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Kulik</LastName>
+<EmailAddress>hjkulik@MIT.EDU</EmailAddress>
+<StartDate>07/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1401</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-NERC: Melting at Thwaites Grounding Zone and its Control on Sea Level  (THWAITES-MELT)</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>412163</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project contributes to the joint initiative launched by the U.S. National Science Foundation (NSF) and the U.K. Natural Environment Research Council (NERC) to substantially improve decadal and longer-term projections of ice loss and sea-level rise originating from Thwaites Glacier in West Antarctica. The fate of the West Antarctic Ice Sheet (WAIS) is one of the largest uncertainties in projections of sea-level change. Thwaites Glacier (TG) is a primary contributor to sea-level rise and its flow is accelerating. This faster flow is a response to reduced buttressing from its thinning, floating ice shelf, and is ultimately caused by ocean-driven melting. The degree to which costly and geopolitically-challenging sea-level rise will occur therefore hangs to a large extent on ice-ocean interactions beneath such Antarctic ice shelves. However, the Thwaites system is not sufficiently well understood, exposing a significant gap in our understanding of WAIS retreat, its ocean-driven forcing, and the consequences for sea level.  The chief regulators of TG's retreat are ice and ocean processes in its grounding zone, the location where the ice flowing from inland goes afloat. Ice and ocean processes at this precise locale are central to our understanding of sea-level rise, yet key variables have not been constrained by observation. Model projections of TG's future display extreme sensitivity to melting in the grounding zone and how that melting is applied. Equally-credible melt rates and grounding-zone glaciological treatments yield divergent trajectories for the future of West Antarctica, ranging from little change to large-scale ice sheet collapse with a half a meter or more of sea-level rise. The enormous uncertainty in outcome stems from the lack of observations in this critical grounding zone region.  The enhanced understanding of melting of TG's ice shelf that will come from this project's focused observational program will be built into state-of-the-art coupled ice-sheet and ocean models. These physics-rich, high-resolution models will allow the potential sea-level contribution of TG to be bounded to an unprecedented degree.&lt;br/&gt;&lt;br/&gt;This project will enable global and regional climate modelers to make a substantial improvement to projections of future ocean conditions over the continental shelf by providing physics-based projections of TG's sea-level contribution. The team proposes a suite of integrated activities: (1) multi-year oceanographic time series from beneath TG's ice shelf to quantify melting processes that need inclusion in ocean models, with a strong focus on the grounding zone, (2) analogous measurements on the glacier to validate processes governing grounding-line retreat, (3) coupling of these in situ measurements with novel, high-resolution space-borne observations, (4) building this new understanding into state-of-the-art ocean (MIT General Circulation Model and Imperial College Ocean Model) and ice sheet (WAVI) models to correctly simulate the TG system, (5) coupling the models and running with realistic present-day ocean forcing to project the state of TG basin over the next hundred years. The international team will use a range of techniques, from the well-established, such as using a hot-water drill to instrument the ice column and water column in the grounding zone, through to the cutting-edge, such as deploying a borehole deployable remotely operated vehicle to survey the grounding zone, and using phase-coherent radar to monitor ice strain and basal melt rates. The outcome of the project will be a more complete understanding of the TG system in the critical zone extending from a few kilometers inland of the grounding line, through the grounding zone, and out under the ice shelf.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739003</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Rignot</LastName>
+<EmailAddress>erignot@uci.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Britney</FirstName>
+<LastName>Schmidt</LastName>
+<EmailAddress>britneys@eas.gatech.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Paden</LastName>
+<EmailAddress>paden@ku.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Holland</LastName>
+<EmailAddress>dmh4@nyu.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sridhar</FirstName>
+<LastName>Anandakrishnan</LastName>
+<EmailAddress>sak@essc.psu.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1647</Code>
+<Text>ANTARCTIC INSTRUM &amp; SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5113</Code>
+<Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5116</Code>
+<Text>ANTARCTIC GLACIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5292</Code>
+<Text>ANTARCTIC INTEGRATED SYS SCI</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:   Large Scale Photonic Molecules and Applications</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric Johnson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Title: EAGER: Realizing light-based photonic molecule circuits and applications.&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;Nontechnical Description&lt;br/&gt; The proposed exploratory research is aimed at realizing devices and functions with photonic molecules, the optical equivalent of electronic molecules. Research in photonics molecules seeks to use optically coupled photonic resonant microstructures to implement functions and behaviors with photons that are analogous to electronic atomic and molecular systems. Optical resonators can be thought of as photonic atoms and collections of photonic resonators can be designed to act like photonic molecules, enabling wide classes of new functions, systems and applications. The research outcome is expected to transform the field of photonic molecule technology by enabling new device functions that can be implemented using large-scale optical resonator arrays compatible with wafer-scale foundry integration.  The ability to engineer molecular behavior based on photons has the potential to impact a wide variety of applications and revolutionize the performance, power, size and scaling of circuits difficult to realize with traditional electronics. &lt;br/&gt;The proposed work combines photonic molecule techniques with a silicon nitride based integrated low-loss optical waveguide technology to demonstrate two transformative functions, a non-magnetic optical isolator and a fast acquisition high quality factor photonic circuit for real-time low-jitter frequency and phase recovery. These functions have proved to be difficult to realize with current integrated photonic technologies. Optical isolators and real-time frequency and phase recovery are both device functions that will impact the development of integrated optical digital and analog circuits and a wide variety of applications. New device simulation and design tools, layout tools, fabrication methods and testing methodologies will be developed. Broader impact of the proposed technology is the potential to decrease size, weight, cost and power of high-speed data communications technologies, special purpose hardware simulations of complex problems out of reach of today's computers include many body physics, economic and transportation modeling, and medical solutions for biological sampling and disease detection.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;In this exploratory research, the PI proposes to study the design and fabrication of photonic molecules utilizing large arrays of optical resonators, ranging from micrometer to millimeters sizes, implemented in ultra-low loss silicon nitride wafer-scale integration technology. Photonic molecules can realize functions and behaviors with photons analogous to electronic atomic and molecular systems. &lt;br/&gt;The goal of this project will be to demonstrate two functions based on photonic molecule technology: (i) a non-magnetic optical isolator and (ii) a fast acquisition high-Q circuit for fast frequency and phase recovery. These functions have proved to be difficult to realize with other device technologies. The approach to non-magnetic optical isolation utilizes discrete coupled-ring resonators whose refractive indices are modulated with a constant phase offset such that temporal spatial modulation imposes an effective angular moment and breaks optical reciprocity. Fast optical signal acquisition with high Q requires overcoming the time bandwidth product limits of passive resonators by implementing optical isolation between coupled low-Q resonators and high-Q resonators. The resonators will be designed and fabricated using deep etched coupled silicon nitride rings controlled with low power piezo electric tuning in a wafer-scale integration platform. The methods used will incorporate detailed numerical simulations, device design and layout techniques, advanced fabrication of low loss optical waveguide coupled resonator arrays and programming interconnects. The proposed work helps to develop new tools to design and fabricate photonic molecule based circuits that can be scaled to very large arrays and used for functions and applications difficult to implement today including digital optical circuits for communications and computation.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745612</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Blumenthal</LastName>
+<EmailAddress>danb@ece.ucsb.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

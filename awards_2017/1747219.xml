@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Programmer-Friendly Automatic Code Fixes</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop and bring to market tools that improve code quality and help avoid dangerous bugs, while also improving programmer productivity. Poor code quality leads to bugs which often translate into financial loses and can even endanger human life. A study by NIST estimated software bugs cost $59 billion annually. The key aspect of this project is a programmer-friendly language for describing software fixes. Successful adoption of the language by the programmer community can have a far-reaching positive impact upon the software community: programmers will have a common, formal, language to discuss ways to fix bugs, and the result of their collaboration could be used to automatically fix software systems.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will address the research and technical challenges in providing programmers with a language to express their knowledge of error patterns and their fixes, and a tool that uses this information to check and fix software systems. The research objective is to refine the language such that it is easy to use by programmers, and to provide a scalable infrastructure. This will be achieved by iteratively improving both the language and the supporting infrastructure with feedback from early users. The anticipated result is that the technology will be applicable to a wide variety of bugs and to large code bases.</AbstractNarration>
+<MinAmdLetterDate>12/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747219</AwardID>
+<Investigator>
+<FirstName>Cosmin</FirstName>
+<LastName>Radoi</LastName>
+<EmailAddress>cosmin.radoi@gmail.com</EmailAddress>
+<StartDate>12/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iuvo AI, Inc.</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606574831</ZipCode>
+<PhoneNumber>2178981773</PhoneNumber>
+<StreetAddress>3180 N Lake Shore Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

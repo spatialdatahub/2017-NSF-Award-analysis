@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR:  Small:  Collaborative Research:  GAMBIT:  Efficient Graph Processing on a Memristor-based Embedded Computing Platform</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Recently, graph processing received intensive interests in light of a wide range of needs to understand relationships. Graph analytics are widely used in key domains in our society, such as cyber security, social media, infrastructure monitoring (e.g., smart building), natural language processing, system biology, recommendation systems. These important applications all fall into fast-growing sectors in computer science and engineering research. On the other hand, in many emerging applications, the graph analytics are ideally performed in the edge (e.g., a mobile or embedded system) in order to allow the relationships between events to be discovered in the field where they are unfold. Unfortunately, the existing embedded systems equipped with conventional computing units like CPU/GPU cannot efficiently process large graphs in real time. Instead, large data centers are required to perform the graph processing, either incurring extra latency and energy due to data communication or only providing forensic (offline) graph analysis. This research aims to effectively enable graph analytics in embedded system with disruptive emerging technology. &lt;br/&gt;&lt;br/&gt;To support graph analytic applications with the limited hardware resources in embedded systems, this project seeks to develop GAMBIT -- a memristor-based embedded computing framework for efficient graph processing. Our research program aims to develop multi-layer techniques to enable highly efficient (e.g., 1000X) and scalable real-time graph analytics in embedded systems (i.e., network edge). It contains research efforts across circuit, architecture, system and vertical integration. (1) At the circuit level, the project proposes a memristor-based graph computing core to enable efficient computations for graph processing. (2) At the architecture level, the project proposes the complete memristor-based graph processing architecture for partitioned graph and various algorithms. (3) At the system level, the project develops a graph analytics framework for embedded systems and integrates it with a popular embedded OS. (4) For integration, the project proposes to develop an emulator of the proposed architecture and cross-layer HW/SW co-design techniques. This project contributes to society through engaging high-school and undergraduate students from minority-serving institutions into research, attracting women and under-represented groups into graduate education, expanding the computer engineering curriculum with graph processing and other emerging applications in embedded systems, disseminating research infrastructure for education and training, and collaborating with the industry.</AbstractNarration>
+<MinAmdLetterDate>08/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717885</AwardID>
+<Investigator>
+<FirstName>Hai</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>hai.li@duke.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

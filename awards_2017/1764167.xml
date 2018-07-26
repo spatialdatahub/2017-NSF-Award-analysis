@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Complex Analysis and Geometry</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>88775</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project studies geometric figures that are given by equations, much like curves in the plane or surfaces in our three dimensional space. However, the figures studied here are higher, sometimes infinite dimensional, and they are given in terms of equations that involve complex numbers, rather than the real numbers that would occur with curves and surfaces. Even if these high dimensional and complex geometric figures are hard to visualize, as they do not fit in the space we are familiar with, they have proved to be most relevant to the description of our physical world, both on the atomic and subatomic levels (quantum theory), and on the astronomical scale (relativity). A central notion in geometry and its applications is that of curvature. A straight line has zero curvature: in general, curvature measures deviation of figures from straight. The project will explore curvature properties of figures that arise in various contexts, and implications that can be drawn if the curvature is known to be positive or negative.&lt;br/&gt;&lt;br/&gt;The project has three parts. The first concerns the space of Kahler metrics on a compact complex manifold, an infinite dimensional space that is known to have non-positive curvature. The goal is to find shortest curves connecting points in this space, symmetries of the space, and investigate how symmetries interact with certain much studied functionals, such as Mabuchi's energy. The second and third parts concern general holomorphic Hilbert or Banach bundles, endowed with metrics. One problem is how curvature properties of the metrics change if the bundle and its metric are subjected to certain transformations. Another is to exploit curvature properties to estimate operators that arise in harmonic and complex analysis, by the technique of extrapolation. The methods will come from complex analysis and geometry, operator theory, and partial differential equations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764167</AwardID>
+<Investigator>
+<FirstName>Laszlo</FirstName>
+<LastName>Lempert</LastName>
+<EmailAddress>lempert@math.purdue.edu</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Retrofit Control: A New, Modular Gyrator Control Approach for Integrating Large-Scale Renewable Power</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>323873</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This 3-year NSF project advocates a power distribution system with ultra-high wind and photovoltaic penetration, whose operation and management are enabled by a smart device called the Solid-State Transformer (SST). The SST is a power electronics-based controllable transformer wherein communications and intelligence can be easily integrated for demand-side management. The bi-directional power flow capability of the SST can feed locally generated power back to the grid in a controlled way, which makes it a tailor-made choice for integrating large-scale wind and solar generation. As renewable installations continue to grow in the United States, multitudes of SSTs will need to be installed as well. This will necessitate advanced, complex and cross-coupled control algorithms spanning hundreds to thousands of SSTs. Our goal in this project is to study different variants of such SST-enabled control applications that can enable renewable integration in a smooth and stable way. We will particularly address two problems, namely, frequency control and voltage control, based on the fundamental question on "how to choose controller set-points for every SST in a distribution grid to ensure stable operation despite high variability in wind and solar generation". Currently, there is no well-defined control algorithm that addresses this question considering the physical constraints from the generation side. Our controllers will respond in real-time to any change in generation and loads, and automatically recalculate the set-points for every SST using a new control approach called retrofit control. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project will be in developing control designs for next-generation power grids, centered on new power electronic converter technologies. Advanced ideas of bifurcation analyses, nonlinear control, moving equilibria systems, and hierarchical control will be applied.  The broader impact will be in bringing together three traditionally distinct research communities - control systems, power systems, and power electronics - to join forces, and resolve emerging issues on stability and dynamics in face of high renewable penetration. Research results will be broadcast through publications, undergraduate and graduate education, and conference tutorials. International collaboration will be fostered through a US-Japan research initiative between NC State University and Tokyo Institute of Technology.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1711004</AwardID>
+<Investigator>
+<FirstName>Aranya</FirstName>
+<LastName>Chakrabortty</LastName>
+<EmailAddress>achakra2@ncsu.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+</Award>
+</rootTag>

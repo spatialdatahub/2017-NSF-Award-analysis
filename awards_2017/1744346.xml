@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Convergence NNA: Preparing for a Northwest Passage, a Workshopon the Role of New England in Navigating the New Arctic</AwardTitle>
+    <AwardEffectiveDate>12/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2018</AwardExpirationDate>
+    <AwardAmount>41958</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06090100</Code>
+      <Directorate>
+        <LongName>Directorate For Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Polar Programs (OPP)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Diane McKnight</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Part 1. The proposed workshop will consider how changes in the Arctic will have regional impacts on New England's economic, environmental, and social dynamics. These impacts could involve changes in trade, fisheries, tourism, coastal ecology, air and water quality, animal migration, and regional communities. Special emphasis will be placed on an eventual ice-free Northwest Passage, which could stimulate new trade markets and increase ship traffic, and drive changes in infrastructure and economic opportunities in the Gulf of Maine. The workshop will bring together researchers and students from many fields, including environmental science, geology, atmospheric science, geography, coastal and marine science and engineering, and policy studies to approach these questions in an integrated manner. The workshop will promote convergence by focusing on the societal issues associated with future changes in the Arctic driving changes in New England and by organizing participants in a manner that will foster new holistic approaches.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Part 2. The proposed workshop will consider how changes in the Arctic will have regional impacts on New England's economic, environmental, and social dynamics - especially as they relate to trade, fisheries, tourism, coastal ecology, air and water quality, animal migration, and human demographics. Special emphasis during the workshop will be placed on an eventual ice-free Northwest Passage and the potential for this to stimulate new trade markets and increase ship traffic. Further, the workshop will consider how these changes could transform the needed infrastructure and economic opportunities in the Gulf of Maine, as well as impact ecosystems. The workshop will provide a forum for researchers and students from diverse disciplines such as environmental science, geology, atmospheric science, geography, coastal and marine science and engineering, and policy studies to forge a new convergent research agenda to address emergent impacts and opportunities Arctic change poses for lower latitude regions.</AbstractNarration>
+    <MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1744346</AwardID>
+    <Investigator>
+      <FirstName>Katharine</FirstName>
+      <LastName>Duderstadt</LastName>
+      <EmailAddress>katharine.duderstadt@unh.edu</EmailAddress>
+      <StartDate>08/23/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Hampshire</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>038243585</ZipCode>
+      <PhoneNumber>6038622172</PhoneNumber>
+      <StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Hampshire</StateName>
+      <StateCode>NH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7699</Code>
+      <Text>ICER</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>060Z</Code>
+      <Text>Convergent Research</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

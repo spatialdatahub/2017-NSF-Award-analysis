@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Approximate-Computing Enabled Robust 3D NAND Flash Memories</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Traditional NAND flash has been prevalently used as the storage for essentially all computer systems. Increasing the NAND flash capacity, to meet the requirement of today's ever increasing data volumes, has been enabled by technology scaling. However, further scaling has come to a screeching halt due to degraded performance and reliability in planar NAND cells. 3D NAND flash memory design thus opens a new  direction for continuous density increase, as capacity can be multiplied by stacking more cells in vertical direction without further shrinking the cell sizes. Nonetheless, 3D NAND also faces new challenges in reliability due to its new architecture. Using strong error correction mechanisms is limited by potential high power consumption, implementation area and long operation latency. On the other hand, there is a trend in relaxing data accuracy during computing and data stores as many of today's applications are tolerant to a small amount of errors.&lt;br/&gt; &lt;br/&gt;This project aims to leverage such approximate storage of data to improve the reliability, performance and endurance of 3D NAND flash memories. The research will first construct reliability models to guide architecture designs. Then, mechanisms for achieving approximate storage through tolerating errors and approximate programming will be developed and evaluated. Finally, new techniques will be developed to exploit approximation for mitigating disturbance, cell-to-cell interference, retention loss, and for improving performance as well as endurance of a 3D flash memory. The success of this project will fuel the continuous scaling of the mainstream storage technology. It will also enable pervasive adoption of 3D NAND flash memories for embedded systems, personal computers and clouds, which will have a tremendous drive for the innovations in storage industry. Trained students will become future taskforce to continue technology innovations in computing.</AbstractNarration>
+<MinAmdLetterDate>08/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718080</AwardID>
+<Investigator>
+<FirstName>Youtao</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>zhangyt@cs.pitt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>juy9@pitt.edu</EmailAddress>
+<StartDate>08/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

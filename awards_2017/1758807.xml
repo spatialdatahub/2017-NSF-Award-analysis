@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Supporting US-Based Students to Participate in the 2017 IEEE International Conference on Data Mining (ICDM 2017)</AwardTitle>
+<AwardEffectiveDate>11/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2018</AwardExpirationDate>
+<AwardAmount>24000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for 16 U.S.-based graduate students to participate in the 2017 International Conference on Data Mining (ICDM 2017), held in New Orleans, LA, November 18th - 21st, 2017 (http://www.icdm2017.bigke.org). The conference attracts new and original research, and some of the top data mining researchers from the U.S., and abroad to discuss their latest. The conference covers advancement in research in many topics relevant to data mining that include statistics, machine learning, pattern recognition, databases, data warehouses, data visualization, knowledge-based systems and high-performance computing. The proceedings of the ICDM conference will be distributed through the IEEE Computer Society and will be available through the IEEE Explore Digital Library.&lt;br/&gt; &lt;br/&gt;Besides having a strong technical program, the conference features workshops in emerging topics on data mining, tutorials, panels, demos, and the PhD Forum. The PhD Forum is designed to provide an interactive environment in which PhD students can meet, exchange their ideas and experiences both with peers and with senior researchers from the data mining community. The ICDM organizers recognize the importance of recruiting, engaging and retaining students in data mining research given the importance of this topic in emerging field of data science. The conference participation enables the students to share their original research results with their peers and experts, learn about new algorithms and tools in the field of data mining, and obtain experience with application of data mining for various transdisciplinary problems. Participation of U.S.-based students is critical to developing U.S. competitiveness of future workforce in science and technology.</AbstractNarration>
+<MinAmdLetterDate>10/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758807</AwardID>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Raghavan</LastName>
+<EmailAddress>raghavan@louisiana.edu</EmailAddress>
+<StartDate>10/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raju</FirstName>
+<LastName>Gottumukkala</LastName>
+<EmailAddress>raju@louisiana.edu</EmailAddress>
+<StartDate>10/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Louisiana at Lafayette</Name>
+<CityName>Lafayette</CityName>
+<ZipCode>705032701</ZipCode>
+<PhoneNumber>3374826203</PhoneNumber>
+<StreetAddress>104 University Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

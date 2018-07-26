@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Investigating the Origin of Molecular Signature Emissions</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professor Alexander Li of the Department of Chemistry at Washington State University is developing new classes of fluorescent molecules with novel optical properties.  These molecules are useful probes and imaging reagents that enable cutting-edge technologies in medical diagnostics and cell imaging.  The project lies at the interface of organic chemistry and photo-physics and is well suited for STEM educations at all levels.  This project closely integrates research and education and provides the highest level of educational training for students ranging from K-12 to post-graduate students, including those underrepresented in sciences.     &lt;br/&gt;&lt;br/&gt;Identifying a single molecule goes beyond single-molecule detection and represents the ultimate limit in chemical analysis.  To analyze a single molecule requires that the signals originated from this molecule must carry enough fingerprint signatures so that its molecular structural identity can be confirmed.  Current fluorescent molecules do not offer fingerprint signatures in their single-molecular data.  As a result, fluorescence can detect a single molecule, but cannot identify its molecular structure or determine whether it is due to positive signal or noise.  To address this problem, this project develops molecules with signature emission by learning the design rules for such molecules, unveiling the role of light-molecule interactions in signature emission, determining the one-photon process or two-photon process for the signature mechanism, and testing signature emission in various environments to reveal the impacts of environmental factors.</AbstractNarration>
+<MinAmdLetterDate>06/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744362</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>dequan@wsu.edu</EmailAddress>
+<StartDate>06/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991641060</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>280 Lighty</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>083P</Code>
+<Text>NEUROSCIENCE ACTIVITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

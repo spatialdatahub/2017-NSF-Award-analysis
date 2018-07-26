@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Long Range 2-way Communications for the Remote IOT</AwardTitle>
+<AwardEffectiveDate>06/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>220484</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will allow highly cost effective, 2-way communications to be delivered to machinery and ?Things? over extremely long distances using underutilized frequencies and new hardware and software techniques. The resulting technologies will provide 2-way connectivity where cellular does not exist and where other techniques (satellite) are too expensive. This will result in near universal availability of the Internet-of-Things at costs superior to legacy approaches and which are appropriate for applications typically seen in Internet-of-Things. &lt;br/&gt;&lt;br/&gt;The proposed project will create a new system of hardware, software, frequency and operating techniques which will allow underutilized spectrum to be used to deliver 2-way communications to very remote machines and things. The work will involve the creation of a small hardware platform, the creation of embedded software and the modification of existing software and the creation of techniques for detecting and avoiding current users of spectrum, Devices will be created and field deployed to assess efficacy. A number of test routines and procedures will be run during the work to assess how well the technology will work, what performance can be expected, how well operations will fit into existing Regulatory frameworks, what sort of capacity can be expected and what the overall economics of the system will be. We expect to build a significant patent position as we pursue the project.</AbstractNarration>
+<MinAmdLetterDate>06/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722414</AwardID>
+<Investigator>
+<FirstName>robert</FirstName>
+<LastName>stevenson</LastName>
+<EmailAddress>rstevenson@rurisond.com</EmailAddress>
+<StartDate>06/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rurisond, Inc</Name>
+<CityName>Redwood City</CityName>
+<ZipCode>940613237</ZipCode>
+<PhoneNumber>6503957136</PhoneNumber>
+<StreetAddress>2725 Ohio Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

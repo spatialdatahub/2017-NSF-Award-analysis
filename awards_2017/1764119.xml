@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Inviscid Limit and Large Time Behavior of Fluid Flows</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>140000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project studies the motion of fluids such as water or air moving past solid objects such as a ship or an airfoil. A particular focus will be on studying the thin layers that emerge near the surface of solid objects. The research will provide a more accurate description of the fluid motion that involves several thin layers with different length scales and a better understanding of the transition from laminar to turbulent flows. The study will help to better calculate the skin friction drag on an airfoil and the heat transfer between a body and the fluid around it. The project will include research activities that train graduate students.  &lt;br/&gt; &lt;br/&gt;The project proves the instability of generic boundary layers, constructs multi-layer solutions to classical Navier-Stokes equations with small viscosity in domains with a boundary, and studies the damping mechanism of fluid flows at the large time. The goal is to elucidate the new understanding of viscous boundary layers. The main approach will involve the spectral analysis and resolvent estimates of linearized Navier-Stokes equations near generic shear flows. The study of fluid damping will make use of techniques that are adapted from dispersive equations and quantum theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764119</AwardID>
+<Investigator>
+<FirstName>Toan</FirstName>
+<LastName>Nguyen</LastName>
+<EmailAddress>nguyen@math.psu.edu</EmailAddress>
+<StartDate>05/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

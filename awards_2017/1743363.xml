@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CloudLab Phase II: Community Infrastructure To Expand the Frontiers of Cloud Computing Research</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>5833587</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Brassil</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to extend the capabilities and capacity of the Cloudlab compute cloud in the second phase of the NSFCloud program. Since CloudLab began service in mid-2015, this experimental research infrastructure has become a critical experimental resource for the computer science research community. CloudLab has served over 2,000 users in over 39,000 experiments spanning more than 400 projects, with experimenters coming from nearly every state. The Cloudlab project continues to increase its support of computing for the domain science research communities, and support of technology transfers to commercial cloud technology providers and users.&lt;br/&gt;&lt;br/&gt;The proposed Phase II activity seeks to expand the testbed capacity and capabilities through 11 enumerated hardware and software extensions to satisfy the growing needs of leading computer science systems researchers.  The three major areas of new technology investments are in 1) new cloud networking technology, 2) support for new cloud architectures, and 3) increased programmability in cloud network data planes.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743363</AwardID>
+<Investigator>
+<FirstName>Glenn</FirstName>
+<LastName>Ricart</LastName>
+<EmailAddress>Glenn.ricart@us-ignite.org</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Zink</LastName>
+<EmailAddress>zink@ecs.umass.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kuang-Ching</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>kwang@clemson.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Ricci</LastName>
+<EmailAddress>ricci@cs.utah.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivasa</FirstName>
+<LastName>Akella</LastName>
+<EmailAddress>akella@cs.wisc.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8002</Code>
+<Text>CISE Research Resources</Text>
+</ProgramReference>
+</Award>
+</rootTag>

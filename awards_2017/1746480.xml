@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Increasing Maker Manufacturing through 3D Printing with Reclaimed Plastic &amp; Direct Drive Pellet Extrusion</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>220549</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I Project will evaluate the ability to directly use local materials, such as plastic recyclables as the consumable input for affordable, industrial 3D printing. This technology will be developed with intent to scale to multiple 3D printer platforms. Hardware will be sold commercially after project completion as a novel 3D printer platform as well as a modular attachment for other 3D printers and 3D motion systems. To broaden the impact of the research, all prototyping will be documented in a series of monthly videos intended for educators, STEM organizations and US makers to witness real-world application of the hardware design process. Additionally, workshops will be held once a quarter where progress to date will be showcased and students will be invited to share feedback. This technology has significant opportunity to expand US in-house manufacturing capability, foster new job creation through enhancing industry and educational ties, stimulate US driven innovation and reduced trade dependence on imports of manufactured products.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;While the Fused Filament Fabrication (FFF) method of additive manufacturing offers tremendous potential for on-site fabrication, the technology is limited by access to extruded feedstock materials. Specifically, the ability to locally source raw material and introduce it directly into a 3D printer via direct drive pellet extrusion is necessary as the focus of industrial additive manufacturing shifts from producing prototypes to manufacturing end-use products. This need is amplified when 3D printing large-scale (defined as &gt; 6 inches cubed) functional objects. Producing larger outputs represents a larger investment of time and material costs with existing FFF systems, which currently constrains the additive manufacturing market. Secondly, a dependence on extruded thermoform plastics limits the available library of materials. This project includes development of novel extrusion feed mechanisms for processing pelletized and non-uniform reclaimed plastic feedstock. Phase I goals include optimization for virgin and recycled polyethylene terephthalate (PET/RPET), Acrylonitrile Butadiene Styrene (ABS), and Polylactic Acid (PLA). This system will be developed for affordability and user experience to allow for easy switching between materials and print speeds 20X faster than FFF methods. Hardware will be sold commercially after project completion as a complete 3D printing system as well as an attachment for 3D printers and 3D motion platforms.</AbstractNarration>
+<MinAmdLetterDate>12/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746480</AwardID>
+<Investigator>
+<FirstName>Samantha</FirstName>
+<LastName>Snabes</LastName>
+<EmailAddress>samantha@re3d.org</EmailAddress>
+<StartDate>12/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>re:3D, Inc</Name>
+<CityName>San Juan</CityName>
+<ZipCode>009071000</ZipCode>
+<PhoneNumber>5127300033</PhoneNumber>
+<StreetAddress>1250 Avenida Juan Ponce de Leon</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

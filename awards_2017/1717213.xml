@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Massively Scalable Secure Computation Infrastructure Using FPGAs</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The statistical analysis of behavioral data collected through clinical trials, surveys, and experimentation, has a long history in academic disciplines like medicine, sociology, and behavioral economics. The privacy risks inherent in such studies are often at odds with the tremendous societal benefits resulting from sharing data among researchers and practitioners. Mining behavioral data at scale is also a ubiquitous practice among Internet companies, giving rise to significant privacy concerns. As the potential benefits to society are enormous, harnessing this data for the better good while protecting privacy is one of the grand challenges faced by our society today. This project addresses this challenge by bringing Secure Function Evaluation (SFE) of practical, real-life data mining and machine learning algorithms into the realm of practicality, through the development of a highly parallel, efficient, scalable computation platform for secure computation operating at a massive scale. &lt;br/&gt; &lt;br/&gt;The project develops a Massively Scalable Secure computation Infrastructure using FPGAs (MaSSIF), accelerating secure computations over a cluster of FPGAs and leveraging benefits of both hardware acceleration and multi-device parallelism. MaSSIF significantly differs from previous implementations of SFE in that it is the first to accelerate secure computation primitives: specifically, Garbled Circuits (GC) with FPGAs on such a massively parallel scale. The algorithms considered are (a) computationally intensive, (b) non-trivial to parallelize under SFE, and (c) of considerable practical importance.  MaSSIF advances the state of the art both through novel SFE algorithms, as well as in the design and optimization of accelerated, scalable systems for SFE.</AbstractNarration>
+<MinAmdLetterDate>07/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717213</AwardID>
+<Investigator>
+<FirstName>Miriam</FirstName>
+<LastName>Leeser</LastName>
+<EmailAddress>mel@ece.neu.edu</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stratis</FirstName>
+<LastName>Ioannidis</LastName>
+<EmailAddress>IOANNIDIS@ECE.NEU.EDU</EmailAddress>
+<StartDate>07/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

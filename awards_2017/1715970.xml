@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AF:   Small:   Collaborative Research:   A Robust Framework for Overcoming the Tangled Mesh Problem</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Engineers rely heavily on computer simulation to design and create products.  A critical part of computer simulation is mesh generation, where a virtual model of, say an aircraft landing-gear, is divided into a large number of simpler shapes, such as triangles, squares, and cubes. Unfortunately, for complex models, these simple shapes can get 'entangled' and overlap, which can lead to erroneous simulation results. This project will address this long-standing problem by developing: (1) new simulation methods that can work with a mildly tangled mesh, and (2) new methods of 'untangling' bad tangles. The project will have a significant impact on simulation in disciplines from biomechanics to manufacturing, and the team will create software for release to the scientific community. The PIs will create teaching modules to excite young students on the interconnectivity between meshes, scientific computing, and engineering.  Both universities will host outreach activities on computer simulation for K-12 students, including underrepresented minority students.&lt;br/&gt;&lt;br/&gt;This project will develop a novel finite-cell simulation method to compute accurate results on tangled meshes that avoid certain types of explicit tangling. Therefore, in parallel, a new class of nonlinear optimization methods will be developed to handle tangling in quadrilateral, hexahedral, and high-order meshes that are significantly more difficult to untangle; the aim is to handle any input mesh by untangling until a numerically correct simulation can be guaranteed.  The viability of this unified and robust framework will be demonstrated through targeted applications.</AbstractNarration>
+<MinAmdLetterDate>08/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715970</AwardID>
+<Investigator>
+<FirstName>Krishnan</FirstName>
+<LastName>Suresh</LastName>
+<EmailAddress>suresh@engr.wisc.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7929</Code>
+<Text>COMPUTATIONAL GEOMETRY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

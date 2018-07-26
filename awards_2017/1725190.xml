@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantifying Entrainment and its Effects in Isolated, Sheared Cumuli and Thunderstorms</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>218390</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Earth's precipitation is primarily produced by deep cumulus clouds.  Many aspects of cumulus convection are affected by entrainment, the process by which turbulent clouds introduce dry air from outside the cloud.  Entrainment results in the dilution of the cloud which decreases the updraft speed and cloud height, and potentially prevents precipitation formation.  This award will provide funding for the systematic investigation of entrainment in storms that occur in regions with environmental wind shear, the conditions that can sustain supercell thunderstorms.  The researcher plans to develop general relationships between wind shear, cumulus entrainment, and convective precipitation which can be used to improve prediction of thunderstorm initiation, and rain, hail and lightning that form within these storms.  In addition, the project will contribute to the development of two early-career researchers who will be trained in atmospheric science and high performance computing.&lt;br/&gt;&lt;br/&gt;Prior research on cumulus entrainment has largely not taken wind shear into consideration.  This project will use the CM1 cloud model to address three main hypotheses:  1) Unidirectional vertical wind shear enhances entrainment (compared to the non-sheared case) into a cloud updraft in its thermal-like stage, but directional vertical wind shear decreases this enhancement, 2) In environments with sufficiently strong vertical wind shear to generate a rotating updraft, the thermal-like initial updraft transforms into a jet-like updraft, decreasing the entrainment into, and dilution of, the rotating updraft, 3) The increased entrainment and dilution into a cloud updraft in its thermal stage, and the decreased entrainment and dilution of the jet stage results in non-negligible (&gt;10%) decreases and increases (respectively) in precipitation production within the storm.</AbstractNarration>
+<MinAmdLetterDate>08/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725190</AwardID>
+<Investigator>
+<FirstName>Sonia</FirstName>
+<LastName>Lasher-Trapp</LastName>
+<EmailAddress>slasher@illinois.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

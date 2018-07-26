@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Brain Organoid Cell Products for Research and Therapeutic Applications</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project derives from its potential applications that enable a better understanding of, and treatments for, brain disorders.  Last year, over 50 million U.S. adults were afflicted by a central nervous system disease such as Alzheimer's disease, Parkinson's disease, Huntington's disease, depression, and autism. Particularly as the population ages, neurodegenerative diseases such as Alzheimer's disease and Parkinson's disease are rapidly increasing. This project further develops an innovative technology that, for the first time, enables scalable, cost-effective, GMP-compliant generation of human brain organoids.  The technology will facilitate the development of applications for human brain organoids both for basic research, including drug discovery and disease-in-the-dish modeling of neurological disorders, and clinical applications, where the human brain organoids may be developed as a source of therapeutic cells for transplantation.  This technological advance, furthermore, promotes the advancement of personalized medicine approaches to both therapeutic development and brain cell transplantation.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on the production of human brain organoids as an enabling technology for advancements in basic science discovery, neuropharmaceutical discovery, and therapeutic cell production for a wide variety of human brain disorders.  The project further develops an improved method for the generation of human brain organoids from induced pluripotent stem cells. The technology has several advantages over previously described methods including improved simplicity and efficiency of organoid production, documented consistency of the product, production method using only a chemically defined hydrogel matrix and cell culture medium, and improved scalability of manufacturing.  Taken together these features enable, for the first time, a commercially viable means of brain organoid production.  The method is also amenable to cGMP-compliant manufacturing which enables the development of therapeutic cell products from the organoids.</AbstractNarration>
+<MinAmdLetterDate>12/04/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/04/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758154</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>O'Brien</LastName>
+<EmailAddress>obrie004@umn.edu</EmailAddress>
+<StartDate>12/04/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

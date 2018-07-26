@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Multi-faceted System for Document and Product Security</AwardTitle>
+<AwardEffectiveDate>06/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This STTR Phase I project will support the development of a powerful new track-and-trace platform in the global fight against counterfeit products in high-risk supply chains. From pharmaceuticals to aviation to defense, many industries now face a growing problem with maintaining visibility to the authentic products in their supply chain, while identifying black market and grey market products that could harm their customers and have serious impacts on national security. This project will build on interdisciplinary research from materials science, photonics and information technology to create an innovative new platform that connects physical supply chains with digital supply chains through the use of covert codes that are placed onto products. These codes are printed using  nanoparticles that are only visible when exposed to a laser with very specific properties. The security platform that this research enables will provide U.S. industry with a robust new system for authenticating genuine products and maintaining visibility throughout the global supply chain. &lt;br/&gt; &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer Phase I project develops a system designed to thwart counterfeiting.  The system is based on 1) covert printed markings, carrying encoded information, that convert near infrared (NIR) excitation either to visible light or to shorter-wavelength NIR light, and 2) a proprietary reader-decoder system that is cyber-enabled to access secure data bases. The two major technical challenges addressed in this project both involve maximizing the overall signal-to-noise ratio of the system.  The first challenge improves the long-term stability and up-converting nanoparticle payload-capacity of a novel, micro-emulsion (aqueous continuous-phase) ink. The second challenge creates micro- or nano-scale substrates that greatly amplify the up-conversion signal. Successfully overcoming these technical hurdles will significantly advance the readiness of the technology for commercialization and Phase II development. It is estimated that reaching the milestones specified within the specific research objectives will lead to a 250x enhancement of up-conversion intensity when using low excitation power densities. Such an enhancement would be transformational to the system and enable the use of lower laser powers in the reader/decoder device which in turn, would lower costs and greatly extend the utility of the system to, for example, a hand held, portable reader.</AbstractNarration>
+<MinAmdLetterDate>06/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1722229</AwardID>
+<Investigator>
+<FirstName>Jeevan</FirstName>
+<LastName>Meruga</LastName>
+<EmailAddress>jeevan.bradley@gmail.com</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Stanton</LastName>
+<EmailAddress>dstanton@securemarking.com</EmailAddress>
+<StartDate>06/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NP SYSTEMS INTEGRATION, LLC</Name>
+<CityName>Rapid City</CityName>
+<ZipCode>577012509</ZipCode>
+<PhoneNumber>6177211685</PhoneNumber>
+<StreetAddress>1314 Quincy St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

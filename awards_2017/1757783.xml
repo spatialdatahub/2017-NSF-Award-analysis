@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Undergraduate Research in Nuclear and Particle Physics at TUNL/Duke University</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>145531</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen V. McCloud</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the Research Experiences for Undergraduates (REU) site in physics at the Triangle Universities Nuclear Laboratory (TUNL) and Duke University.  TUNL is a research consortium consisting of three major universities in the North Carolina Triangle Area, Duke University, North Carolina State University and the University of North Carolina at Chapel Hill.  The award will support twelve undergraduates for ten weeks of summer research on topics in nuclear and particle physics.  Eight students will conduct research at TUNL, and the other four will spend part of their summer at CERN working with the Duke high-energy physics group.  Each student is assigned a faculty mentor and is integrated into a research group consisting of faculty, postdocs, graduate students, and other undergraduate students.  In addition, the students have opportunities to visit the physics departments at the consortium universities to learn about the graduate programs at these institutions and to see the scope of research pursued in each department.&lt;br/&gt;&lt;br/&gt;Through active research, seminars, lab tours, and discussion groups, the students are exposed to various aspects of nuclear and particle physics research and their connections to other science areas. Lecture and seminar topics are chosen to emphasize the nuclear and particle physics research activities at TUNL and CERN, respectively. The students will have opportunities to interact with world-renowned physicists, learn about the most advanced theoretical concepts in the fields, and work with state-of-the-art technologies used in these research areas. Also, professional development activities in scientific writing and oral presentations constitute an important component of the REU program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757783</AwardID>
+<Investigator>
+<FirstName>Ayana</FirstName>
+<LastName>Arce</LastName>
+<EmailAddress>atarce@phy.duke.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Crowell</LastName>
+<EmailAddress>crowell@tunl.duke.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>RES EXPER FOR UNDERGRADS-SITE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

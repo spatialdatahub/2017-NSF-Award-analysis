@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICM Satellite Meeting: A Pan-Hemispheric Celebration of Mathematics</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>35000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This NSF award provides partial travel support to participants of a conference titled "A Pan-Hemispheric Celebration of Mathematics," to be held on the Coral Gables, Florida campus of the University of Miami from July 26-29, 2018.  This conference is the only officially sanctioned satellite meeting in North America associated with the 2018 International Congress of Mathematicians (ICM), which will take place in Rio de Janeiro, Brazil from August 1-9, 2018. Holding a satellite meeting in Miami provides a unique opportunity to advance the 2018 ICM theme of pan-hemispheric cooperation in mathematics and its applications via a highly visible event at a major US research university, thereby enriching mathematical and scientific dialogue between mathematical scientists based in the United States and their counterparts in its Latin American neighbors. Customarily, ICM satellite meetings center on a narrowly focused topic within a particular mathematical sub-discipline and are held in the host country or surrounding region. "A Pan-Hemispheric Celebration of Mathematics" will be broader in scope than most ICM satellite meetings and will highlight four important areas at the forefront of current mathematics: algebraic geometry and topology; combinatorics; differential geometry and geometric analysis; and mathematical biology. The meeting will feature a vibrant mix of pure and applied perspectives with strong interdisciplinary connections, particularly to physics, biology and computer science.&lt;br/&gt;&lt;br/&gt;The meeting will be organized around extended plenary lectures in each of the focal areas, given by leading experts in the field. These plenary lectures will be supplemented by parallel invited special sessions, with the event structured so as to offer participants a dual opportunity to learn broadly about important developments at the frontier of four important areas and to delve more deeply into one of them. Funding from NSF will be used to attract a diverse range of non-speaker participants, with a goal of advancing pan-hemispheric dialogue. The conference is part of ongoing efforts in this direction and draws its organizing committee from faculty at the University of Miami, the Centro de Investigacion y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav) in Mexico and the Instituto de Matemática Pura e Aplicada (IMPA) in Brazil. Details about the meeting can be found at www.math.miami.edu/icm.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1763220</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Cantrell</LastName>
+<EmailAddress>rsc@math.miami.edu</EmailAddress>
+<StartDate>01/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ludmil</FirstName>
+<LastName>Katzarkov</LastName>
+<EmailAddress>l.katzarkov@math.miami.edu</EmailAddress>
+<StartDate>01/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Phillip</FirstName>
+<LastName>Griffiths</LastName>
+<EmailAddress>pg@ias.edu</EmailAddress>
+<StartDate>01/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462926</ZipCode>
+<PhoneNumber>3052843924</PhoneNumber>
+<StreetAddress>1320 S. Dixie Highway Suite 650</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1260</Code>
+<Text>INFRASTRUCTURE PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

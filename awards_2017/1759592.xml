@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Embedded Machine Listening for Smart Acoustic Monitoring</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the use of embedded machine listening as a low-cost, turnkey solution for early detection of machinery malfunction and improve predictive maintenance. In manufacturing, sound-based condition monitoring coupled with data-driven maintenance can help significantly reduce unscheduled work stoppages, faulty products and waste of raw materials. Building management systems can be augmented by integrating real-time condition updates for critical machinery such as HVAC units, elevators, boilers and pumps, minimizing disruption for managers and users of those services. This technology is flexible, accurate and data-driven, potentially providing a low barrier to adoption for prospective customers and adaptability to various markets. Beyond predictive maintenance, applications include noise level monitoring for ensuring compliance in workplaces and airports, home and building security, early alert for traffic accidents, bio-acoustic monitoring of animal species, and outdoor noise monitoring at scale for improved enforcement in smart cities.&lt;br/&gt;&lt;br/&gt;This I-Corps project further develops research at the intersection of artificial intelligence and the internet of things. The technology consists of a calibrated and highly accurate acoustic sensor with embedded sound recognition AI based on deep learning.  Sound conveys critical information about the environment that often cannot be measured by other means. In manufacturing, early stage machinery malfunction can be indicated by abnormal acoustic emissions. In smart homes and buildings, sound can be monitored for signs of alarm, distress or compliance.  Sound sensing is omnidirectional and robust to occlusion and contextual variables such as lightning conditions at different times of the day. Many existing solutions cannot identify different types of sounds or complex acoustic patterns, making them unsuited for these applications. This solution is both low cost and capable of identifying events and sources at the network edge, thus eliminating the need for sensitive audio information to be transmitted.</AbstractNarration>
+<MinAmdLetterDate>11/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1759592</AwardID>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Bello</LastName>
+<EmailAddress>jpbello@nyu.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

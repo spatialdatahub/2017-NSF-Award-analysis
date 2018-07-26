@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC-Planning:  Building resilient coastal cities through smart and connected communities</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>99867</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Coastal communities are particularly vulnerable to increased risk from sea-level rise and coastal, riverine, and urban flooding. An aging urban infrastructure is proving inadequate for protecting communities from the impacts of these events.  Disasters make evident that failures take place not just in the built infrastructure, but also in the information infrastructure that engineers and decision-makers use to prepare and respond. Limitations in information and data systems constrain the ability of cities to learn, adapt, and reduce the vulnerability of their populations to various extreme events. Civic leaders, data scientists, entrepreneurs, and nonprofit organizations increasingly are interested in using "smart city" technologies to optimize city operations; however, their effectiveness depends on multiple technological, cognitive, social, and institutional factors. This SCC Planning Grant will be used to design a research program that advances understanding of the socio-political, ecological, and technological conditions for S&amp;CC that promote coastal resilience and transformation. The team will nurture new, integrative, and interdisciplinary research collaborations, develop research capacity-building activities, and undertake meaningful community engagement in the coastal communities of Miami, San Juan, and Baltimore. Collectively, these coastal communities cover a population of more than a million people that will benefit from this project. Specific objectives are to: 1) develop a diverse research community to advance fundamental understanding of smart and connected communities; 2) engage multiple practitioners and stakeholders to contribute to planning and establishing direction of the research program; and 3) develop and foster research-practitioner interactions and research capacity through Innovation Webinars, Dialogues, and Labs. &lt;br/&gt;&lt;br/&gt;The overall strategy of this SCC Planning Grant consists of bringing together small groups of researchers, subject matter experts, and community stakeholders in a variety of innovative and collaborative activities in each of three coastal cities: Miami, San Juan, and Baltimore. A transdisciplinary team will be assembled that encompasses social science, natural science, and engineering fields, including risk communication, science and technology studies, data and computation science, and communication. Data resources and outputs from the three coastal cities will be used to advance fundamental understanding of smart and connected communities from a social-ecological-technological systems approach. Innovative tools for virtual communication, data sharing, idea nurturing, and product generation will facilitate interaction and underpin communication. Strategies for maximizing participation of students and early-career scientists in each city will be employed to enhance their research capacities on social and technical aspects of the cities' information and technology needs. Researchers and communities will co-develop a vision for an integrated research program for a smart city framework of the future that includes: 1) advances in theories of knowledge co-production by examining social practices that institutions use to produce, share, and use information for envisioning and implementing strategies in their communities; 2) novel methodologies for collecting, managing, analyzing, and visualizing more diverse data to assist communities in exploring their resilience and envisioning sustainable futures from an integrative perspective; 3) understanding of the social, political, ecological, and ethical implications of smart and connected technologies; and, 4) new approaches in the modeling and design of complex infrastructures that take into account the dynamic nature of climate systems and cities.</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1737626</AwardID>
+<Investigator>
+<FirstName>Mathieu</FirstName>
+<LastName>Feagan</LastName>
+<EmailAddress>mfeagan@asu.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Grimm</LastName>
+<EmailAddress>nbgrimm@asu.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tiffany</FirstName>
+<LastName>Troxler</LastName>
+<EmailAddress>troxlert@fiu.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Welty</LastName>
+<EmailAddress>weltyc@umbc.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tischa</FirstName>
+<LastName>Munoz-Erickson</LastName>
+<EmailAddress>tmunozerickson@gmail.com</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

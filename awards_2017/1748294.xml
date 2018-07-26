@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAISE: The Reconfigurable Optical Computer (ROC)</AwardTitle>
+    <AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2021</AwardExpirationDate>
+    <AwardAmount>236988</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dominique M. Dagenais</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The era of observing processor speed and number of transistors doubling every 18-24 months, as noted in the so-called Moore's law is believed to be over, due to the associated increase in power consumption and technology physical limitations. Computers and their applications, however, have been the backbone of modern life and will continue to be so at even a higher rate. The demands for increased computing capabilities will continue to be on the rise due to the increase in data volumes that need to be processed. Further, the increase in demand for higher accuracy will also continue in order to support the rising needs for scientific discoveries and engineering breakthroughs, and the demand for smaller and more energy efficient computing devices is also rapidly growing as we move towards smarter cities and a smarter world. It is therefore imperative to search for game changing computing devices that are orders of magnitude faster, smaller and more energy efficient as opposed to the current digital computer technology that seem to be approaching daunting physical limitations. This proposal introduces a transformative computing device based on analog computing, reconfigurable computing architectures, nanophotonics, and the advances in material science. This new computing device, which is referred to as the reconfigurable optical computer (ROC), aims to achieve a leap forward in processing technology in addition to opening the doors for continued future developments.&lt;br/&gt;This reconfigurable optical processor (ROC) that is capable of performing computations out of first principle by solving those partial differential equations (PDEs) that are used for most simulations in science and engineering in one shot, rather than iteratively as in digital computers. Such PDEs can be realized and directly solved using a network of electric components. Those electric circuit components will be implemented using programmable nanophotonic devices, referred to as the reconfigurable optical elements (ROEs). ROEs can change their optical characteristics under electrical bias to represent different components suitable for solving different problems. ROEs are novel voltage programmable photonic components utilizing electro-optic effects (i.e. modulation) and optical absorption (i.e. photodetection) to mimic electrical circuit elements. The approach includes a risk-tired strategy for ROE design (low-to-high). Supporting programming/reconfiguration memory cells and enabling electronic devices will be explored to form an integrated reconfigurable architecture, the Reconfigurable Optical Computer (ROC). An appropriate software stack including programming and execution modules for such new paradigm will be also investigated to provide a productive platform for domain users. If successful, the ROC system can potentially achieve orders of magnitude improvements in speed, energy consumption and footprint as compared to the modern state-of-the-art processors and potentially simplify software, providing substantial impacts on many domains from the electronic industry to smart life.</AbstractNarration>
+    <MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/15/2017</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1748294</AwardID>
+    <Investigator>
+      <FirstName>Volker</FirstName>
+      <LastName>Sorger</LastName>
+      <EmailAddress>sorger@gwu.edu</EmailAddress>
+      <StartDate>08/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tarek</FirstName>
+      <LastName>El-Ghazawi</LastName>
+      <EmailAddress>tarek@gwu.edu</EmailAddress>
+      <StartDate>08/15/2017</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>George Washington University</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200522000</ZipCode>
+      <PhoneNumber>2029946255</PhoneNumber>
+      <StreetAddress>2121 Eye Street NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1517</Code>
+      <Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7354</Code>
+      <Text>Computer Systems Research (CSR</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>Networking Technology and Syst</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>094E</Code>
+      <Text>Optoelectronic devices</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>097E</Code>
+      <Text>High Freq Devices &amp; Circuits</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>1397</Code>
+      <Text>CROSS-DIRECTORATE ACTIV PROGR</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

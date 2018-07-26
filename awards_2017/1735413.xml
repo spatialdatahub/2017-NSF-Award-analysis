@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Effects of Federal Indirect Cost Recovery on Academic Institutions</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>427892</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>cassidy sugimoto</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>About one-third of the of the approximately $30 billion spent annually by U.S. taxpayers on biomedical research  is used for indirect cost payments to universities and other grant recipients. These overhead costs are meant to help support infrastructure, utilities, and administration. Institutional indirect cost recovery rates are determined through notoriously complex negotiations between grantees and funding agencies and have been the source of significant controversy in science policy for decades. One view is that these rates are too high. This view came into focus during the so-called Stanford scandal in the 1990s, when some private universities were accused of enlarging their indirect cost recovery rates through improper accounting procedures. There are long-standing complaints by scientists that higher indirect cost rates mean less funding for actual research, and  that indirect cost policy creates incentives for universities to over-invest in research capacity, including new building, and hiring of soft money faculty. On the other hand, universities have long argued that indirect costs rates under-compensate universities, and that in effect universities lose money on many grants. Getting the rate and incentive right is important and will help ensure that limited biomedical research funds are used most efficiently and effectively towards advancing knowledge and health. &lt;br/&gt;&lt;br/&gt;There is little empirical evidence to guide the ongoing debate. This project provides new data on indirect cost rates and estimates the impact on academic research. A new open-source dataset on indirect cost rates will be provided along with a statistical overview of how and why rates differ by institution and over time, and how variation influences total funding available for research. The dataset is accompanied by code to allow researchers, journalists, government officials, and other stakeholders to explore the data independently and link to other sources. using these data, the project examines how changes in indirect cost rates affect institutional incentives to seek grants, to grow faculty, build, and make other investments. One challenge is to separate the effects of indirect cost rates from other potentially confounding factors. To ameliorate this, the research exploits various natural experiments in indirect cost policy, providing more confidence in the estimates. Finally, the project also considers the effects of historical changes in indirect cost recovery policy influenced the expansion and productivity of the biomedical research enterprise, and whether it reinforced disparities across research performers.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1735413</AwardID>
+<Investigator>
+<FirstName>Pierre</FirstName>
+<LastName>Azoulay</LastName>
+<EmailAddress>pazoulay@mit.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bhaven</FirstName>
+<LastName>Sampat</LastName>
+<EmailAddress>bns3@columbia.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8800</Code>
+<Text>SCIENCE RESOURCES STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

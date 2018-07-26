@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a High Resolution Mass Spectrometer/UPLC System</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>476424</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to the University of Missouri to acquire a high resolution mass spectrometer coupled with an ultra-high performance liquid chromatography system. The instrument will be used to help further our understanding of proteins in a variety of plants including soybean, corn, and elderberry. It will also be used to examine fertility loss in animals at the protein level in support of agriculture. The University is collaborating with Evans Analytical Group (EAG) Columbia (a GLP and CGMP-compliant product development and analytical testing services company based in Columbia, MO) in a continuing industry internship program for undergraduates. Each spring undergraduate interns participate in an intensive four-week training course. This in-depth course offers a select set of high-caliber undergraduates an opportunity to develop analytical skills, with an emphasis on separations and mass spectrometry, in preparation for being employed by EAG Columbia as summer interns. Biochemistry and Chemistry undergraduate students will also use the instrument in advanced lab classes to further their understanding of modern instrumentation.&lt;br/&gt;&lt;br/&gt;Mass spectrometry is an essential method for determining the structure of large biomolecules such as proteins. It is also possible to use this method to examine modifications to proteins. The acquisition of the high resolution mass spectrometer will allow the investigators of the project to perform quantitative protein analyses, develop new analysis capabilities, and improve instrument access at the University of Missouri. The major users of the instrument have active research programs examining protein changes in a variety of plants and animals.</AbstractNarration>
+<MinAmdLetterDate>08/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726738</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Peck</LastName>
+<EmailAddress>pecks@missouri.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Thelen</LastName>
+<EmailAddress>thelenj@missouri.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Mooney</LastName>
+<EmailAddress>mooneyb@missouri.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Stacey</LastName>
+<EmailAddress>staceyg@missouri.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>C. Michael</FirstName>
+<LastName>Greenlief</LastName>
+<EmailAddress>GreenliefM@missouri.edu</EmailAddress>
+<StartDate>08/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652110001</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>115 Business Loop 70 W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

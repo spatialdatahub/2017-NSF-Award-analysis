@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Ultra-High Resolution Fourier Transform Ion Cyclotron Resonance (FTICR) Mass Spectrometer for the Georgia Institute of Technology Core Facilities</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>1009201</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation  Programs. Professor Facundo Fernandez from Georgia Institute of Technology and colleagues Julia Kubanek, Nga Lee Ng and Matthew Torres are acquiring a high resolution Fourier-transform ion-cyclotron resonance mass spectrometer (HRes FTICR-MS) with ESI (electrospray ionization), MALDI (matrix-assisted laser desorption), ECD and EDT (electron-capture dissociation and electron-transfer dissociation), CID (collision induced dissociation) and imaging capabilities. In general, mass spectrometry (MS) is one of the key analytical methods used to identify and characterize small quantities of chemical species in complex samples. In a typical experiment, the components flow into a mass spectrometer where they are ionized and the ion masses are measured. This highly sensitive technique allows detection of molecules and determination of their structure even when present in a complex mixture.  The acquisition strengthens the research infrastructure at the university and regional area. The instrument broadens participation by involving diverse students in research and training using this modern analytical technique. It also provides training opportunities to many undergraduate, graduate and postdoctoral students as well as high school students through a variety of programs such as Engaging New Generations at Georgia Tech through Engineering and Science (ENGAGES), a  program that is directed towards underrepresented students in the Atlanta area. This advanced mass spectrometer serves as a regional resource through collaborations involving multiple institutions such as Emory University, Spelman College, Morehouse College, Clark Atlanta University, Georgia State University, the Centers for Disease Control and Prevention, and other institutions.&lt;br/&gt;&lt;br/&gt;This mass spectrometer enhances research and education at all levels. It benefits researchers studying proto-peptide evolving systems: post-translational modifications in large, intact, G-protein coupled receptors and their associated G proteins. The instrumentation is also used in investigations of metabolomics and lipidomics, and in developing 3-dimensional surface analysis tools and applications that may be useful to follow brain changes after traumatic brain injuries. The mass spectrometer benefits research in cell manufacturing, synthetic phage modification, nanoparticle metabolomics, and glycoproteomics. In addition, the instrument is used for research studies of photosynthetic electron transfer, quorum sensing, food-disinfection by-products, protein trafficking, and nanomaterials.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726528</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Kubanek</LastName>
+<EmailAddress>kubanekj@uncwil.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nga Lee</FirstName>
+<LastName>Ng</LastName>
+<EmailAddress>ng@chbe.gatech.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Torres</LastName>
+<EmailAddress>matthew.torres@biology.gatech.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Facundo</FirstName>
+<LastName>Fernandez</LastName>
+<EmailAddress>facundo.fernandez@chemistry.gatech.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

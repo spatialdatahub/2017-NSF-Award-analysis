@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SFS@LaTech: Cyber Engineers &amp; Scientists for our Future</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardAmount>1312488</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor P. Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Louisiana Tech University is a Center of Academic Excellence in Cyber Defense Education (CAE-CDE) and Research (CAE-R) and is currently the only university in the state to hold both education and research designations. Louisiana Tech is proposing a CyberCorps(R): Scholarship for Service (SFS) program (SFS@LaTech) to prepare highly-qualified cybersecurity professionals for entry into the government workforce. The program proposes to support 36 SFS@LaTech Scholars to complete either a B.S. degree in Cyber Engineering or Computer Science with Cybersecurity concentration, or obtain an M.S. degree in computer science with an additional focus on information assurance. The program recruitment and selection plans are designed to attract a diverse and inclusive mix of Scholars, targeting awards for 40% of the scholarships to women and underrepresented groups in this field. The overall objective is to use the SFS@LaTech program to produce exceptionally prepared cyber professionals that can help the nation address its critical need for technical leaders in this field and build a pipeline of graduates to enter positions in government service.&lt;br/&gt;&lt;br/&gt;Louisiana Tech has in place a strong set of academic degree programs and proposed activities for the students in the SFS@LaTech program. In 2012, Louisiana Tech University established the first Bachelor of Science in Cyber Engineering degree program in the nation. The SFS@LaTech program will leverage the pioneering courses developed for this program, many of which are also available to the Computer Science majors concentrating in cybersecurity. Curricula include the Introduction to Network Security course, which culminates in an annual day-long cyber security competition called Cyber Storm. In this event, student teams compete in a cyber-ops environment where they test their skills in network defense and attack strategies. The project will also leverage Louisiana Tech's strong relationships, through its Louisiana Tech Research Institute (LTRI) and government agencies. These relationships aim to provide mentored project opportunities for SFS@LaTech scholars as well as connections to internships and full-time employment opportunities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1754048</AwardID>
+<Investigator>
+<FirstName>Sumeet</FirstName>
+<LastName>Dua</LastName>
+<EmailAddress>sdua@latech.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Gourd</LastName>
+<EmailAddress>jgourd@latech.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katie</FirstName>
+<LastName>Evans</LastName>
+<EmailAddress>kevans@latech.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Miguel</FirstName>
+<LastName>Gates</LastName>
+<EmailAddress>mgates@latech.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hisham</FirstName>
+<LastName>Hegab</LastName>
+<EmailAddress>hhegab@latech.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana Tech University</Name>
+<CityName>Ruston</CityName>
+<ZipCode>712723178</ZipCode>
+<PhoneNumber>3182575075</PhoneNumber>
+<StreetAddress>P O BOX 3168 TECH STATION</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

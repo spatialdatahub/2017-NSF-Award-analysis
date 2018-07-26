@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning IUCRC The Ohio State University: Center for Disruptive Musculoskeletal Innovations (CDMI)</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>14996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports a planning workshop towards assessing industrial interest in the research agenda of the Ohio State University (OSU) as a potential site addition to the NSF funded Industry University Cooperative Research Center for Disruptive Musculoskeletal Innovations. The OSU Site's primary goals are to expand the center?s understanding of the causal pathways that result in musculoskeletal disorders (MSDs) and produce recurrent injuries and to translate this knowledge into useful tools that can be easily applied for prevention.  This will be accomplished through multidisciplinary research efforts that use engineering techniques to understand and prevent MSDs, guided by industry advisors, that focus on:  identifying sources of work-related back pain and other MSDs; preventing these injuries through innovative intervention techniques; and evaluating and treating those who have developed an MSD so that they can safely return to work.  The OSU team?s  biomechanical models will enable evaluation of  how physical exposures, individual factors, and psychosocial influences interact to load soft tissues and change biochemical responses within the musculoskeletal system that contribute to employee pain, injury potential, and disability.  These efforts will complement the work of the existing Center for Disruptive Musculoskeletal Innovations and its overall mission to improve MSD therapies and treatments.  This will create a more-holistic, systematic approach to injury prevention (the most cost-effective means to reduce healthcare costs) and assist in improving the management and quality of life of those suffering from low back disorders and other musculoskeletal diseases.&lt;br/&gt;&lt;br/&gt;Treating those suffering from a musculoskeletal disorder (MSD) is costly.  These soft tissue sprains/strains account for about one-third of all workplace injuries or illnesses, more than any other.  Of all MSDs, low back disorders (LBDs) themselves affect 80% of the population and cost society about $100 billion annually.  They are the most disabling type of injury, responsible for approximately 100 million lost workdays, and U.S. employers spend about $30 billion each year just to treat employee back pain.  Thus, preventing these health issues is vital and the logical step to reduce injuries and help solve this nation?s healthcare crisis.  However, the causes of these injuries often are complex, multi-factorial, and poorly understood.  So, researchers at this Site (guided by industry advisors) will address important MSD concerns, by applying our sophisticated analysis techniques to better understand the causal pathways by which individuals become injured.  Our Site will complement an existing Center that focuses on improving MSD treatments, to form a more-comprehensive, systematic injury prevention process.  Researchers and students working within this Site will develop and apply enhanced engineering techniques to improve the health and lives of individuals as well as make companies more prosperous and competitive in the global market.</AbstractNarration>
+<MinAmdLetterDate>07/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1738739</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Marras</LastName>
+<EmailAddress>marras.1@osu.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>W. Gary</FirstName>
+<LastName>Allread</LastName>
+<EmailAddress>allread.1@osu.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Lavender</LastName>
+<EmailAddress>lavender.1@osu.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Sommerich</LastName>
+<EmailAddress>sommerich.1@osu.edu</EmailAddress>
+<StartDate>07/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SHF: Synthesis of Near-Tree Clock Networks with No Short Circuit Current that Can be Reconfigured into a Tree Topology</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>174453</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Y. Chtchelkanova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many very large scale integration circuits deployed in the Internet of Things and in various high performance applications are required to support the use of high performance and low performance modes in order to minimize power consumption. Such circuits are synchronized by a clock signal that is distributed using a clock network. The clock network is required to reliably deliver the clock signal even while the circuit is under the influence of manufacturing and environmental variations. This research project will result in a clock network synthesis tool that is capable of reliably synchronizing components on circuits that operate in multiple modes. Moreover, a course on computer-aided design and research opportunities will be provided to students at the University of Central Florida. &lt;br/&gt;&lt;br/&gt;The robustness and power consumption of a clock network is mainly dependent on the topology of the network. Existing clock networks have a topology in the form of a tree, near-tree, or non-tree. In this project, a synthesis tool that is capable of constructing clock networks with a mode reconfigurable topology will be developed. In high performance modes, the required robustness to variations is provided by reconfiguring the clock network into a near-tree topology. In low-performance modes, the power consumption is reduced by reconfiguring the clock network into a tree topology. Moreover, the proposed clock network structure has no short circuit current, regardless of whether the topology is reconfigured to be in the form of a tree or near-tree. No short circuit current is introduced in the proposed structure because there is only a single gate driving each net of interconnects. In particular, the project involves developing an entire-clock-network-at-the-same-time methodology. Techniques of reconfiguring the topology and improving the robustness of delivering both the rising and falling edge of the clock signal will be explored.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1755825</AwardID>
+<Investigator>
+<FirstName>Rickard</FirstName>
+<LastName>Ewetz</LastName>
+<EmailAddress>rickard.ewetz@ucf.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

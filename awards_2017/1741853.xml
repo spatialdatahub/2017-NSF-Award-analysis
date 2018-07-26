@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Engineering Scholars Program (ESP)</AwardTitle>
+<AwardEffectiveDate>01/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexandra Medina-Borja</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the National Science Foundation's Scholarships in Science, Technology, Engineering and Mathematics (S-STEM) program, the Engineering Scholars Program (ESP) is providing support to low-income students with demonstrated financial need and academic promise to succeed in STEM disciplines at Fort Lewis College (FLC) in Southwest Colorado. This S-STEM Track 2 project is funding 60 annual scholarships of up to $10,000 per year for FLC students who are pursuing bachelor's degrees in Physics and Engineering. The ESP scholars will benefit from a rich ecosystem of support services at FLC. In addition, these talented low-income students will receive direct financial support to allow them to stop working and focus on their studies.  The significance of this award resides in the fact that FLC has the highest percentage of Native American students enrolled in a non-tribal liberal arts institution in the nation and it awards more STEM degrees to Native American students than any other baccalaureate institution in the United States. These scholars will likely represent a significant addition to the national pool of Native American Engineering and Physics graduates, which is extremely small.&lt;br/&gt;&lt;br/&gt;This S-STEM Track 2 project has several distinctive features which reflect its intellectual merit and potential for broader impacts. Each ESP scholar will work with a faculty mentor to set goals, identify required support measures and monitor progress. Scholar selection is based on an innovative two-tiered system that has been successfully vetted during past scholarship programs. The ESP allows students with GPAs less than 3.0, but who demonstrate academic talent based on alternate criteria, a chance to prove themselves. Student performance is closely monitored. In addition to traditional academic support activities (such as near-peer tutoring, tutoring, et cetera) the program focuses on extracurricular high-impact experiences like summer research with faculty, internships, professional development and field trips. Researchers will study the program's high impact experiences and the two-tiered selection process, providing a valuable contribution to the STEM education knowledge base about the various impacts of these interventions on degree attainment by low-income, academically talented students at FLC. Results will be disseminated not only by the principal investigators and their collaborators to local and national STEM education communities but also to local communities through presentations by scholars to their home towns.</AbstractNarration>
+<MinAmdLetterDate>12/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741853</AwardID>
+<Investigator>
+<FirstName>Don</FirstName>
+<LastName>May</LastName>
+<EmailAddress>may_d@fortlewis.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raquel</FirstName>
+<LastName>Harper</LastName>
+<EmailAddress>raquel.harper@colorado.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Holland</LastName>
+<EmailAddress>dana.holland@colorado.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Fort Lewis College</Name>
+<CityName>Durango</CityName>
+<ZipCode>813013999</ZipCode>
+<PhoneNumber>9702477100</PhoneNumber>
+<StreetAddress>President's Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

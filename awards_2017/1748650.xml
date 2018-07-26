@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Exploring Neuromorphic and Spintronic Behaviors in Ternary Transition Metal Dichalcogenide Alloys</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tania Paskova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description: Improving computational technology requires packing increasingly large numbers of transistors into smaller volumes. New approaches are needed as the achievable transistor density is reaching fundamental limits and the energy requirements for computing continue to grow. Next-generation technologies must therefore offer enhanced performance with reduced energy consumption. This project focuses on addressing the challenge of sustainable computing by developing materials capable of neuromorphic and spintronic computing behaviors. Neuromorphic computation mimics the brain by networking solid-state analogues of the neuron, which in turn provides hardware learning capabilities with low energy costs. Spintronics is a radically different field where computing occurs by shifting electron spin rather than charge, yielding speed boosts and improved efficiency over charge-based technology. This research team seeks to develop a material capable of combining these approaches by optimized alloying of transitional metal dichalcogenides, a class of atomically-thin materials, to create a new spintronic material that could mimic the biological neuron. The alloys investigated in the project could serve as the foundation of a neuromorphic-spintronic network that would fundamentally transform computing by combining the benefits of each technology. The research effort includes graduate, undergraduate and high school researchers in these studies and will promote interdisciplinary materials research while mentoring students at the Mason Innovation eXchange.&lt;br/&gt;&lt;br/&gt;Technical Description: 2D transition metal dichalcogenides offer versatile electronic and structural properties based upon the choice of transition metal and chalcogen atoms, making them attractive for next-generation computation technologies. New behaviors can be engineered into these materials by developing ternary alloys, which in turn can enable unconventional device concepts. This project combines the intrinsic versatility of transition metal dichalcogenides with alloy engineering to address the challenge of sustainable computing technology by creating a material that can support both spintronic and neuromorphic behaviors. The primary objectives of this research are: 1) explore the phase diagram of a ternary transition metal dichalcogenide alloy to identify the composition optimal for achieving on-demand structural phase transitions; 2) evaluate the optical and electronic properties of the alloys to understand the impact of chalcogen substitution on spintronic functionality; and 3) trigger structural phase transitions in the alloy using heat, strain, or charge, and confirm the spintronic properties survive multiple switching cycles. Demonstrating these essential behaviors aims to prove the hypothesis that ternary transition metal dichalcogenide alloys are suitable for the future development of a combined neuromorphic-spintronic network.</AbstractNarration>
+<MinAmdLetterDate>08/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1748650</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Vora</LastName>
+<EmailAddress>pvora@gmu.edu</EmailAddress>
+<StartDate>08/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

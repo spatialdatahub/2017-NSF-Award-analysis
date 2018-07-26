@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Stochastic Vestibular Stimulation Wearable</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to increase the applications of wearable sensory modality (vision, vestibular, and/or proprioception) specific devices to encourage mobility and optimize movement for patients suffering from increased disequilibrium symptoms, such as vertigo or dizziness, and other fall risk comorbidity factors. This project will potentially enhance the delivery of rehabilitative care by clinical providers to their patients by simultaneously improving their patients' health outcomes and quantitatively demonstrating value in their treatment plans. Similarly, by serving as a channel to implement balance interventions to mitigate the high rates of falls among older adults, this project will support efforts by health care providers, senior advocacy groups, and hospital facility administrators to reduce the associated treatment costs.&lt;br/&gt;&lt;br/&gt;This I-Corps project enables the ameliorating effects of low random vestibular stimulation on balance coordination during stance and locomotion to be extended during an individual's daily routine in a non-research or clinical setting. The basis for the technique is a wearable device capable of delivering low electrical currents non-invasively to the individual's vestibular system through the mastoids. Sensory reweighting and integration are paramount to sustaining balance control in dynamic environments and deficits in those processes are frequently associated with balance impairments during gait and stance. Therefore, by leveraging the apparent postural responses induced in an individual, the technology has the potential to support a variety of motor adaption or retraining paradigms for balancing training and fall prevention.</AbstractNarration>
+<MinAmdLetterDate>07/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745513</AwardID>
+<Investigator>
+<FirstName>Carole</FirstName>
+<LastName>Tucker</LastName>
+<EmailAddress>tuckerc@temple.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Agada</LastName>
+<EmailAddress>tuf30575@temple.edu</EmailAddress>
+<StartDate>07/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Designing a Middle Grades Spatial Skills Curriculum</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>445499</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margret Hjalmarson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ability to make spatial judgements and visualize has been shown to be a strong indicator of students' future success in STEM-related courses. The project is innovative because it uses a widely available gaming environment, Minecraft, to examine spatial reasoning. Finding learning experiences which support students' spatial reasoning in an authentic and engaging way is a challenge in the field. This project will create a portable training system that can be easily deployed in middle grades (5th - 7th grade) as a prototype for increasing students' spatial reasoning skills. The project will study gender differences in spatial reasoning and examine how learning experiences can be designed to develop spatial skills using Minecraft as a platform. The resources will incorporate hands-on learning and engage students in building virtual structures using spatial reasoning. The curriculum materials are being designed to be useful in other middle grades contexts. The Discovery Research K-12 program (DRK-12) seeks to significantly enhance the learning and teaching of science, technology, engineering and mathematics (STEM) by preK-12 students and teachers, through research and development of innovative resources, models and tools (RMTs). Projects in the DRK-12 program build on fundamental research in STEM education and prior research and development efforts that provide theoretical and empirical justification for proposed projects.&lt;br/&gt;&lt;br/&gt;The study is a design and development study that will design four training modules intended to improve spatial reasoning in the following areas: rotation, mental slicing, 2D to 3D transformation and perspective taking. The research questions are: (1) Does a Minecraft-based intervention that targets specific spatial reasoning tasks improve middle grade learners' spatial ability? (2) Does spatial skills growth differ by gender? The experimental design will compare the influence of the virtual spatial learning environment alone vs. the use of design challenges designed specifically for the spatial skills. The data collected will include assessments of spatial reasoning and feedback from teachers' who use the materials. The spatial skills measures will be administered as a pre-test, post-test, and six-month follow-up assessment to measure long term effects.</AbstractNarration>
+<MinAmdLetterDate>06/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720801</AwardID>
+<Investigator>
+<FirstName>Bryce</FirstName>
+<LastName>Hughes</LastName>
+<EmailAddress>bryce.hughes@montana.edu</EmailAddress>
+<StartDate>06/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Lux</LastName>
+<EmailAddress>nicholas.lux@montana.edu</EmailAddress>
+<StartDate>06/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shannon</FirstName>
+<LastName>Willoughby</LastName>
+<EmailAddress>shannon.willoughby@montana.edu</EmailAddress>
+<StartDate>06/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brock</FirstName>
+<LastName>LaMeres</LastName>
+<EmailAddress>lameres@ece.montana.edu</EmailAddress>
+<StartDate>06/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>597172470</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>309 MONTANA HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7645</Code>
+<Text>DISCOVERY RESEARCH K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

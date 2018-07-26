@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Evacuation Decision-making process of Hospital Administrators in Hurricane Harvey</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardAmount>49301</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hospitals are a critical infrastructure during and after disasters to care for vulnerable populations. The problem is that hospitals are also at risk to the same disasters that the communities they are part of are. Just as hurricanes prompt the evacuation of populations, hospitals also find themselves needing to make decisions about whether to evacuate their patient population prior to landfall or shelter-in-place during the storm. There is little evidence about how hospital administrators make this crucial decision in protecting the health and lives of their patients. This project will interview administrators and emergency managers from a sample of hospitals affected by Hurricane Harvey in Southeast Texas. The research will explore what information was considered in the decision, how was the information obtained, and how are the dangers associated with moving patients balanced against the dangers associated with staying in a hospital that may be flooded or sustain other infrastructure damage. The information gathered in this project will help emergency managers better understand the role of hospitals as a critical infrastructure component during a disaster. &lt;br/&gt;&lt;br/&gt;While there is a significant literature on hospital evacuation, the majority of articles reflect case studies of the evacuation process and do not discuss the decision-making process of whether to evacuate or to shelter-in-place. The research objective of this project is to collect the data needed to understand hospital administrators' decision making processes when deciding to evacuate the hospital or shelter-in-place in advance of or during a hurricane event. Understanding this process is important for planning how communities will respond to disasters and their reliance on hospitals as a critical infrastructure component. The research is guided by the Protective Action Decision Model. The research will explore how the perceptions of the severity of the hazard, the level of preparedness to evacuate or shelter in place, characteristics of the patient load, the perceived net benefit of evacuating over sheltering in place, the presence/absence of evacuation orders, and environmental cues from the storm. The research team will conduct key informant interviews with hospital administrators from a purposive sample of hospitals in Harvey-effected counties. Online news articles suggest that 25 hospitals in the region evacuated at some point of the storm. The sampling methodology will be stratified by hospitals in the coastal region that received hurricane warnings based on predicted storm surge and those inland that were primarily at risk from flooding, and also based on evacuation status (evacuated pre-impact; evacuated post-impact; and did not evacuate). The research team will select 25% of hospitals (42) ensuring that there are hospitals from each of the 6 defined strata. Questions will examine which individuals were included in the decision process; what information was sought; where was the information obtained from; and how did decision makers weigh the risk of evacuation vs. shelter-in-place? Understanding the factors contributing to a hospitals ability to stay open during a disaster is a critical component for the resilience of the community.</AbstractNarration>
+<MinAmdLetterDate>09/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1760653</AwardID>
+<Investigator>
+<FirstName>Kimberley</FirstName>
+<LastName>Shoaf</LastName>
+<EmailAddress>kimberley.shoaf@utah.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Cova</LastName>
+<EmailAddress>cova@geog.utah.edu</EmailAddress>
+<StartDate>09/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of lignin-based biodegradable plastic alloys via solvent free reactive extrusion</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ben Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will demonstrate the ability to create a new family of biobased and biodegradable polymers produced from agricultural and forestry waste streams that have the potential to mitigate landfill-bound, single-use plastics prevalent in agricultural operations. In conventional agricultural operations, farmers use plastic mulch films to block weeds and retain moisture in the soil, ultimately increasing crop yields. Unfortunately, the non-degradable plastics that are used must be removed after harvest and sent to a landfill as they are not recyclable due to contamination by soil and pesticides, leading to significant labor and disposal costs and increasing environmental burden. In this project, lignin polymer alloys are investigated as an innovative biodegradable plastic platform which can be used as an alternative to conventional materials that are not recyclable. Agriculture films represent a global market of $2.5 billion. Other attractive market opportunities include agricultural containers ($5 billion), garbage bags ($10 billion), and packaging ($115 billion). Lignin as a renewable feedstock is an excellent candidate for low cost, biodegradable plastics. Successful demonstration of commercial-scale uses for lignin is vital for the emerging biorefinery industry, and a primary task to secure the energy and materials future for the US.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project addresses the need for low-cost, biobased plastics to replace petroleum derived materials, while ensuring a closed-loop lifecycle that does not generate financial and environmental burden due to waste accumulation. To date, lignin-based polymers have been prohibitively expensive due to the need for extensive solvent-based modification and separations processes. The objective of this research project is to demonstrate the production of lignin-polymer alloys with: 1) unmodified lignin contents of 50% or higher through solvent-free, high shear melt processing; 2) enhanced interfacial surface area for material durability; 3) mechanical properties near or exceeding that of low-density polyethylene; and 4) biodegradability under both ambient soil and thermophilic composting conditions. The expected technical results will be production of at least 1 optimal formulation meeting the above conditions identified as suitable for use in agricultural mulch film applications. If all 4 of these are achieved, further research in a subsequent Phase II award will allow for demonstration of scaled manufacturing of this new family of sustainable biomaterials and has the potential to lead to some of the first commercially viable lignin-based plastics in the US for use in agricultural plastic applications and beyond.</AbstractNarration>
+<MinAmdLetterDate>12/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747887</AwardID>
+<Investigator>
+<FirstName>Tony</FirstName>
+<LastName>Bova</LastName>
+<EmailAddress>tony@growbioplastics.co</EmailAddress>
+<StartDate>12/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Grow Bioplastics, LLC</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379236242</ZipCode>
+<PhoneNumber>4193510174</PhoneNumber>
+<StreetAddress>808 Olde Pioneer Tr Apt 181</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

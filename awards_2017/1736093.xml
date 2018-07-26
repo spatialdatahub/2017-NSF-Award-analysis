@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CREST Center for Innovation Research and Education in Environmental Nanotechnology</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>1350000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor A. Santiago</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Centers of Research Excellence in Science and Technology (CREST) program supports the enhancement of research capabilities of minority-serving institutions through the establishment of centers that effectively integrate education and research. CREST promotes the development of new knowledge, enhancements of the research productivity of individual faculty, and an expanded presence of students historically underrepresented in science, technology, engineering, and mathematics (STEM) disciplines. &lt;br/&gt;&lt;br/&gt;With National Science Foundation support, the University of Puerto Rico - Rio Piedras will establish the Center for Innovation, Research, and Education in Environmental Nanotechnology.  The Center is a strategic effort that involves collaborations with universities, national laboratories and industry to utilize nanomaterials research to address environmental pollution, a topic of local and national importance, while developing the future STEM workforce&lt;br/&gt;&lt;br/&gt;This Center will conduct interdisciplinary research in three areas. (1) The Nanomaterials for Water and Soil Remediation subproject will yield innovative approaches, research and education in the development of nanomaterials for water purification, soil remediation and resource recovery. In particular, these efforts will develop reactive membranes for water purification, heavy metal remediation, and microbial reactors. (2) Sensors for Environmental Monitoring research will develop nanomaterials that enable new, robust and stable devices for physical and chemical sensing of contaminants of environmental concern. The main goal is to develop devices that remain operational under environmental conditions with minimal power consumption. (3) Nanomaterials for Energy Conversion research will focus on energy storage and conversion, with special interest in the development of advanced materials for the recovery of energy from small molecules that are typically encountered in the environment such as: ammonia and urea. Emphasis will be placed on the discovery of nanomaterials for the enhanced operation of ammonia alkaline fuel cells and urea microbial fuel cells.&lt;br/&gt;&lt;br/&gt;Education and training in environmental nanotechnology will support the professional development of undergraduate and graduate students, K-12 teachers, and university faculty. A citizen-based research initiative will be implemented to enable communities to make informed decisions and establish appropriate public policies related to environmental conservation practices and the use of environmental nanotechnology. The Center also addresses the national need to develop a diverse and well-prepared STEM workforce.</AbstractNarration>
+<MinAmdLetterDate>07/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1736093</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Fonseca</LastName>
+<EmailAddress>luis.fonseca@upr.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Cabrera</LastName>
+<EmailAddress>carlos.cabrera2@upr.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elvira</FirstName>
+<LastName>Cuevas</LastName>
+<EmailAddress>epcuevas@gmail.com</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhongfang</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>zhongfangchen@gmail.com</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liz</FirstName>
+<LastName>Diaz-Vazquez</LastName>
+<EmailAddress>lizvazquez8@gmail.com</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico-Rio Piedras</Name>
+<CityName>San Juan</CityName>
+<ZipCode>009311790</ZipCode>
+<PhoneNumber>7877634949</PhoneNumber>
+<StreetAddress>PO Box 21790</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9131</Code>
+<Text>CENTERS FOR RSCH EXCELL IN S&amp;T</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

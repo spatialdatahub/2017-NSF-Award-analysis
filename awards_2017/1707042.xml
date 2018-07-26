@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nutrient dynamics along a river continuum: combining sensor data, experiments, and time series analyses to identify local to watershed scale drivers of nutrient cycling</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>329740</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>PI Name: Ricardo Gonzalez-Pinzon&lt;br/&gt;Proposal Number: 1707042&lt;br/&gt;&lt;br/&gt;The objective of this project is to develop a spatially and temporally holistic, watershed-level understanding of nutrient dynamics in arid land river networks. Excess nutrient loading is one of the most common and disruptive disturbances to river ecosystems, and the negative impacts extend to downstream lakes, aquifers and coastal waters that are highly susceptible to nutrient loading. Results from this project will provide methods to assess the transport and fate of carbon and nutrients in river networks, promote a more complete understanding of the complex connections between water resources, food production, and nutrient cycles, and provide information about ways to reduce pollution and increase nutrient recycling.&lt;br/&gt;&lt;br/&gt;The PIs will leverage existing state-of-the-art sensor technology to continuously monitor water quality parameters, nitrate, phosphate, and dissolved organic carbon for two years along a river continuum that spans four orders of magnitude in mean annual discharge, ~2000 m in altitude, and ~500 km of stream length. Every three weeks during this period a recently developed, high-information-yield field experiment will be conducted at each study site to quantify nutrient uptake parameters at the hourly time scale. A time-series analysis toolbox will then be used to combine the continuous water quality data with the hourly experimental data to quantify how stream metabolism and nutrient uptake dynamics vary along the river continuum at a variety of time scales and to identify the most important factors in creating this variability. This project will advance the current understanding of nutrient dynamics in streams due to the use of: 1) multi-year, all season monitoring, which will expand the traditional trend of collecting data for short time periods, 2) simultaneous monitoring of numerous stream orders, 3) multi-parameter data collection, which will provide necessary context to more fully understand nutrient dynamics considering transport and stoichiometric constraints, and 4) state-of-the-art time-series analyses that enable the construction of parsimonious models capable of representing temporal (multi-season) and spatial (entire continuum) nutrient uptake and transport processes.</AbstractNarration>
+<MinAmdLetterDate>08/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1707042</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Van Horn</LastName>
+<EmailAddress>vanhorn@unm.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ricardo</FirstName>
+<LastName>Gonzalez-Pinzon</LastName>
+<EmailAddress>gonzaric@unm.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>Albuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

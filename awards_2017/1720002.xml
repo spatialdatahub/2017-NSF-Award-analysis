@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Multiscale Modeling and Computation of Nano-Optics</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>147994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland M. Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The main objective of the proposed research is to study robust, efficient and accurate numerical methods for multiscale and multiphysical models of nanoscale optical devices. Nanoscale experimental and manufacturing technologies have proved huge successes and potentials in biomedical engineering and new materials. Quantitative modeling and simulation will not only help to understand the mechanism of these nano devices but also greatly reduce the cost by minimizing trial errors and optimizing the performance. The PI will collaborate with chemists and material scientists on photon driven nano devices and attosciences. Methods developed  for nano-optics will shed light on a wide variety of nanoscale problems. The mathematical analysis of the self-consistent multiscale methods will bring new insights into the field of multiscale modeling and computation. Junior collaborators and graduate students will receive cross disciplinary training on new frontiers of applied mathematics, and will be better prepared to solve realistic problems with a combination of modeling, analytical and computational skills.&lt;br/&gt;&lt;br/&gt;To fully understand photon driven nano and micro devices, the PI will derive multiscale models for interactions between the electromagnetic field, electronic excitations and molecular motions by combining classical electrodynamics, time dependent current density functional theory and Ehrenfest molecular dynamics in the linear response regime. The self-consistent multiscale scheme will be adopted to solve the system efficiently. Metal enhancement will also be investigated. To accurately simulate long time propagations of strong field processes involving nonlinear higher order interactions, the PI will adopt adaptive numerical strategies. Multiscale schemes will be designed for the concurrent simulation of electrodynamics and quantum mechanical processes on the time domain. The PI will also conduct a thorough analysis of the algorithms in terms of convergence and stability.</AbstractNarration>
+<MinAmdLetterDate>08/03/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1720002</AwardID>
+<Investigator>
+<FirstName>Di</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>richardl@math.msu.edu</EmailAddress>
+<StartDate>08/03/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The role of protein specificity in the evolution of regulatory RNAs</AwardTitle>
+<AwardEffectiveDate>07/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>676755</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Ribonucleic acids (RNA) play many roles in the cell, and one of such roles that became clear only in the recent years is to control production of metabolites and to respond to stresses. RNA regulators are often very different in different organisms; it is thought that they are more diverse, or at least harder to recognize, than protein regulators. This research will study how similar ribosomal proteins in different bacterial species have evolved to recognize different RNA regulators. This project will provide numerous training opportunities for undergraduate and graduate students, and the project team will continue their work in introducing school girls in the at-risk communities in Boston area to science.&lt;br/&gt;&lt;br/&gt;The objective of this project is to examine the relationship between protein specificity and the diversity of RNA gene regulators observed in nature. The model systems used in this project are the bacterial RNA regulators of ribosomal protein synthesis and their protein interaction partners. Some of these regulators are conserved in most bacteria; in other cases there is extraordinary diversity across different bacterial phyla. We hypothesize that proteins interacting with several diverse natural regulators are likely to have larger pools of RNA partners compared to proteins that interact with conserved regulators. To investigate this we will first use in vitro approaches to compare the RNA interaction pools of ribosomal proteins from different organisms. The protein-interacting RNAs that are derived from this approach will then be assessed to determine what additional features are necessary to allow regulation in response to protein over-expression within cells. By comparing the results from proteins that have many natural RNA-binding partners with those from proteins that have a single conserved RNA partner, we will determine the role that protein specificity plays in driving diversity of regulatory RNAs observed in nature.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715440</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Meyer</LastName>
+<EmailAddress>m.meyer@bc.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Boston College</Name>
+<CityName>Chestnut Hill</CityName>
+<ZipCode>024673800</ZipCode>
+<PhoneNumber>6175528000</PhoneNumber>
+<StreetAddress>140 Commonwealth Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

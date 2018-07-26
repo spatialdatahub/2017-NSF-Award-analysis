@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: L1 Biases in Learning Root-and-Pattern Morphology</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>15489</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Maling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>How does the knowledge of our first language affect our ability to learn other languages? This dissertation examines how the rules we already know help or hinder our efforts to learn rules in a new language. Semitic languages like Arabic and Maltese employ root-and-pattern morphology to form words. Unlike in English, where meaningful pieces of words are usually tacked onto the ends of words (dis-em-bowel-ment), Semitic languages tend to change the vowels in the middle of the words for the same effect (kitaab 'book' --&gt; kutub 'books'). Though most of the previous research shows that learning how to correctly interweave consonants and vowels like this is very difficult for English speakers, recent research shows that this task is easier if you speak a language that uses similar rules. To carry out this research, an artificial language is created that mimics Arabic plural pairs like kitaab and kutub, and is taught to English speakers, students learning Arabic, Arabic speakers, and Maltese speakers.&lt;br/&gt;&lt;br/&gt;This research uses two psycholinguistic methods to investigate the effects of linguistic biases on learning rules in new languages: a segmentation task and a Wug Test. The segmentation task allows for direct comparison to previous studies, and the Wug Test is more sensitive to how well participants have learned the artificial language. In the segmentation task, participants listen to a randomized string of nonsense words, then must select the words that they heard as well as possible words based on the rule that they were able to extrapolate. In the Wug Test, participants are briefly shown how to create the plural in an "alien language", then are asked to provide the plurals for each item following the rules that they learned. Participant groups were selected on the basis of their exposure to root-and-pattern morphology, as linguistic biases may depend on learning a language natively or may be developed while learning another language. This research has implications not only for theories of language acquisition and mental representation of morphology, but also for Arabic language pedagogy, especially for heritage learners.</AbstractNarration>
+<MinAmdLetterDate>06/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1732190</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Ussishkin</LastName>
+<EmailAddress>adam.ussishkin@gmail.com</EmailAddress>
+<StartDate>06/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shiloh</FirstName>
+<LastName>Drake</LastName>
+<EmailAddress>sndrake@email.arizona.edu</EmailAddress>
+<StartDate>06/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

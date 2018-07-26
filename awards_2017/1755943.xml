@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: RI: Subevent Acquisition and Analysis</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>173140</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana D. Korelsky</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Subevents that describe physical actions composing an event, widely exist in event descriptions and provide the evidence that an event is occurring. For example, if a person were to explain how he knew that the crowd gathered in the street was rioting, he might point to the shouting of political slogans or tires lit on fire. In this instance, the riot would be the event. The slogan-shouting and tire-burning would be the subevents. Knowledge of subevents provides important information for characterizing events, and has great potential to benefit various event oriented applications, such as event detection, event visualization, event summarization and extreme event management. This project aims to acquire subevents from text corpora by recognizing various contextual patterns that contain subevents. This research on subevent identification will bring us one step closer to automatic event ontology construction, which organizes events based on their relations (subevent, precursor, consequence, cause, condition and purpose, etc.) with a central type of event. This project will integrate research with education, train and prepare the future NLP researchers as well as expose early undergraduate students and high school students to NLP research, with a focus on broadening participation of underrepresented groups.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;An initial subevent extractor has been developed that leverages a specific type of sentential and local context to recognize subevents. This project will extend the approach to explore diverse types of contexts that suggest subevents, by incorporating event coreference resolution into the learning loop. The task of event coreference resolution aims to identify event mentions that refer to the same real world event, and coreferential event mentions can appear in distinct contexts from the same document or from multiple documents. In the proposed research, new contexts identified through event coreference resolution that contain subevents will be used to acquire more subevents from a text corpus. In addition, this project will conduct extensive analysis of learned subevents. The project will apply clustering algorithms as well as analyze document samples to understand the usefulness of subevents in categorizing and identifying properties of the parent event as well as in identifying causal relations involving the parent event.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1755943</AwardID>
+<Investigator>
+<FirstName>Ruihong</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>huangrh@cse.tamu.edu</EmailAddress>
+<StartDate>03/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

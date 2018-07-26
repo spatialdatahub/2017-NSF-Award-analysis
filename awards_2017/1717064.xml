@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR:Small: Enabling Sensor-Rich Vehicular Applications with Edge Computing</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>499387</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is developing methodologies and systems that support sensor-rich vehicular applications by offloading computation to edge compute resources located at roadside and embedded within cellular networks.  The modern vehicle has cameras, microphones, location and positioning sensors that all supplement detailed monitoring of vehicle motion and operation.  These sensors can supply data for advanced applications, such as personal driving assistants, automated road hazard detection, and augmented display of driving data (e.g., highlighting turn-by-turn directions or available parking on the vehicle windshield).  However, sensor-rich applications also require substantial computing power that is unavailable in the vehicle.   These applications cannot leverage cloud resources because the latency of communicating with remote data centers is too high and the bandwidth available over wide-area networks is too limited.   Instead, this project is supporting sensor-rich applications by offloading their computation to nearby servers located at the network edge. This work has the potential to enable applications with great societal benefit. Sensor-rich vehicular applications promise to improve driving efficiency; for example, by reducing congestion and idling time by guiding drivers directly to available parking spots.  These applications can also substantially improve road safety; for example, by providing automated, crowd-sourced road hazard detection.  The project is prototyping these applications and developing the infrastructure required for their deployment.  The research results, traces of vehicular applications and environments, and open-source software artifacts developed by this project are available at: http://pervasive.eecs.umich.edu/vehicular-edge.html.&lt;br/&gt;&lt;br/&gt;Since vehicles will remain near edge resources for only limited periods of time, the project is creating methods for fast handover of state and computation from one edge resource to another. Vehicle mobility introduces considerable variability in network and service performance, so the project is investigating how the principled use of redundancy can improve average and worst-case response time.  Finally, to support applications with extremely tight time bounds, the project is using speculative execution to hypothesize multiple possible futures that depend on vehicle speed and direction, calculate results based on those futures, and then select the appropriate response based upon actual vehicle motion during the time when calculations were made.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717064</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Flinn</LastName>
+<EmailAddress>jflinn@umich.edu</EmailAddress>
+<StartDate>08/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planets around evolved binary stars</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>400483</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Faith Vilas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Exoplanets are found around many different types and ages of stars.  Many planets circle closer to their host stars than the distance from our Sun to its closest planet, Mercury.  Older stars, however, can have many planets but very few planets located close to the star itself.  This research addresses the question of how planets in systems having two stars that orbit each other, or binary stars, survive.  The Principal Investigator will organize a program for pre-college students with an interest in astronomy who are diagnosed with dyslexia, ADHD, and/or autism spectrum disorder. The goal of the program is to encourage these high schoolers to pursue higher education and to help them overcome obstacles that they could encounter on their way. &lt;br/&gt;&lt;br/&gt;This research will utilize the hierarchical secular three body approximation and will include relevant physical processes, such as general relativity, tides and stellar evolution. The investigators will link their work to astronomical observations by providing specific predictions that are testable when compared to current and future observations. This research expands our knowledge of interactions taking place beyond the limits of our solar system, the regime from which astrodynamics theory originated. Since every star will undergo various post main sequence evolutionary stages this study will provide a detailed analysis of the fate of planetary systems in evolved stellar binaries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739160</AwardID>
+<Investigator>
+<FirstName>Smadar</FirstName>
+<LastName>Naoz</LastName>
+<EmailAddress>snaoz@astro.ucla.edu</EmailAddress>
+<StartDate>02/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

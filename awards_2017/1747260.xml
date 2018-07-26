@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Developing a Technological Intervention to Improve Adolescent Executive Functioning</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer Phase I Projects intends to promote academic achievement, high school graduation and college and life preparedness for adolescents (middle through college students) with Executive Function (EF) deficits.  EF deficits are found in a variety of neurodevelopmental and medical disorders including Traumatic Brain Injury, Epilepsy, Attention Deficit Hyperactivity Disorder (ADHD), the most common childhood behavioral disorder affecting up to 10% of youth as well as Autism Spectrum Disorder.  Youth with EF deficits struggle to get things done and have high school graduation, college matriculation and college graduation rates well below national norms.  In addition, these adolescents suffer from anxiety, depression, job loss, substance use and suicide at higher rates than their peers without EF deficits.  Research supports incentive-based behavioral EF remediation for deficient populations.  But availability of research-based EF remediation support is limited.  The proposed technology aims at enabling students to develop the EF skills needed to reach their academic potential and improve their life outcomes. The broader impact of this research is to gather rich data that will advance the scientific and public understanding of technology as a means of facilitating EF skills development in adolescent populations with Executive Function deficits.   &lt;br/&gt;&lt;br/&gt;The proposed Phase I project aims to iteratively develop an app-based EF technological intervention using user-centered design principals.  This technology innovation is in the form of a smart phone based app that uses gamification and automation to motivate students to make structured behavior change to learn the time and materials management, planning, organizational and motivation skills to get their work done with help of their support team. This Phase I project will focus on 3 Aims.  First, we will assess users' current context (EF remediation approaches and challenges) to validate user relevance of our approach and refine where necessary for optimal usability (Aim 1).  We will then systematically evaluate the features, usability and feasibility of the technology intervention?and make additional software design revisions as needed to promote successful uptake (Aim 2).  And we will develop a functional prototype of the app innovation (Aim 3) tailored to the $2.3 B Special Education software market.</AbstractNarration>
+<MinAmdLetterDate>12/21/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747260</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Nassisi</LastName>
+<EmailAddress>amy@addtivity.com</EmailAddress>
+<StartDate>12/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erin</FirstName>
+<LastName>Schoenfelder</LastName>
+<EmailAddress>Erin.Schoenfelder@seattlechildrens.org</EmailAddress>
+<StartDate>12/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Studentivity Inc.</Name>
+<CityName>Bellevue</CityName>
+<ZipCode>980045771</ZipCode>
+<PhoneNumber>4257613357</PhoneNumber>
+<StreetAddress>10415 SE 29th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+</Award>
+</rootTag>

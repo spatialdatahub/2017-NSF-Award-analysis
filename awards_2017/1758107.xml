@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geometry and Topology of 3-manifolds Conference</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>17000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Ivey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports a 4-day conference on "The geometry and topology of 3-manifolds" to be held May 25-28, 2018 at the Okinawa Institute of Science and Technology on the island of Okinawa in Japan.  This conference will bring together a distinguished international group of about 60 participants to discuss recent developments in this area. The participants will be a diverse group of prominent researchers and promising junior mathematicians from Asia, Australia, Western Europe, and North America, with most participants being from Asia and the US.   This award will provide funding for ten US based graduate students or recently graduated postdocs to attend the conference.&lt;br/&gt;&lt;br/&gt;The study of 3-manifolds from the classical topological viewpoint and its study from the geometric viewpoint have been increasingly overlapping. Among recent well-known results in the area are Perelman's solution of the Geometrization Conjecture (2006) and  Agol's solution of the Virtual Haken Conjecture (2012).  These results explore the interactions between the geometry and topology of 3-manifolds, but raise even more questions about the nature of these interactions.  The conference will be devoted to new work that sheds light on this  picture. Topics covered will connect to hyperbolic geometry, algorithmic methods, computational geometry, knot theory, geometric group theory, and new invariants. This workshop will provide a venue for an exchange of ideas between  prominent Western topologists and leading researchers from Asia.  It will feature approximately 16 speakers presenting recent research progress. Additionally, there will be a public lecture aimed at a general scientific audience.&lt;br/&gt;&lt;br/&gt;The conference website is at&lt;br/&gt;https://groups.oist.jp/manifolds/workshop&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758107</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Hass</LastName>
+<EmailAddress>hass@math.ucdavis.edu</EmailAddress>
+<StartDate>11/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anastasiia</FirstName>
+<LastName>Tsvietkova</LastName>
+<EmailAddress>n.tsvet@gmail.com</EmailAddress>
+<StartDate>11/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

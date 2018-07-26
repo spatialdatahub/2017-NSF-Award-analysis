@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STEM TRansfer Students Opportunity for Nurtured Growth (STRONG)</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>999994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Keene</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the National Science Foundation's Scholarships in Science, Technology, Engineering and Mathematics (S-STEM) program, the STEM TRansfer Students Opportunity for Nurtured Growth (STRONG) is providing support to low-income students with demonstrated financial need and academic promise to succeed in STEM disciplines at the University of Central Florida (UCF). This S-STEM Track 2 project is funding up to 36 scholarships over 5 years for transfer students who are pursuing bachelor's degrees in STEM. Compared to first time in college (FTIC) students who begin their academic careers at a four-year institution, transfer students generally find the path to obtaining a bachelor's degree more challenging, and they are significantly less likely to graduate than their FTIC counterparts. Finding ways to improve the educational experiences of these students is an urgent national priority.  The aim of UCF's STRONG project is to substantially increase retention, graduation rates, and career success of STEM transfer students.  This goal is achieved in part by giving each student a role in various STEM activities within a community of high-achieving scholars, who are majoring in similar fields.  Providing financial support, mentorship, and opportunities for academic engagement outside the classroom promises to reduce the obstacles students face, keep them interested in their field of study, and motivate them to excel academically.  A thorough study of how the program affects its participants will maximize the impact of the intervention and informs future efforts to improve the educational experiences of STEM transfer students.&lt;br/&gt;&lt;br/&gt;The UCF STRONG project consists of three components, which are all essential for reaching the program goal of increasing retention, graduation rates, and career success of STEM transfers. The first component is to design, implement, and improve a high-accuracy prediction model for identifying high-risk STEM transfers. Using known information about transfers, along with statistical analysis and machine learning, it will establish a means of predicting which students are least likely to complete a STEM degree, thereby helping UCF to know which students will benefit most from STRONG. The second component is to increase retention of transfers in STEM fields. STRONG scholars will be selected from financially needy incoming transfers who have been predicted to be unlikely to graduate, with the purpose of retaining them through graduation due to their participation in STRONG. This outcome is an expected result of increased student success through stimulation of academic integration and a cultivation of proficiency in their chosen fields.  More specifically, each student is given a role within a community of like-minded students from closely related fields; they also meet regularly with mentors and participate in STEM activities that promote their success.  The third component is to learn how the interventions influence STEM transfer students' ability to become active participants in their own learning. The project team will study the effects of the intervention on metacognition, motivation, and behavior, which are the three pillars of Self-Regulated Learning and are essential for student success.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742424</AwardID>
+<Investigator>
+<FirstName>Mubarak</FirstName>
+<LastName>Shah</LastName>
+<EmailAddress>shah@eecs.ucf.edu</EmailAddress>
+<StartDate>01/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Malcolm</FirstName>
+<LastName>Butler</LastName>
+<EmailAddress>Malcolm.Butler@ucf.edu</EmailAddress>
+<StartDate>01/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nazanin</FirstName>
+<LastName>Rahnavard</LastName>
+<EmailAddress>nazanin@eecs.ucf.edu</EmailAddress>
+<StartDate>01/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Moore</LastName>
+<EmailAddress>bmoore@math.ucf.edu</EmailAddress>
+<StartDate>01/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gordon</FirstName>
+<LastName>Chavis</LastName>
+<EmailAddress>Gordon.Chavis@ucf.edu</EmailAddress>
+<StartDate>01/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

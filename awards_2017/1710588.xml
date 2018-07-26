@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Synthetic biology approaches to bio-orthogonal chemistry</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Max Funk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Living systems utilize chemistry to interact with the world around them and have evolved many unusual chemical behaviors in different environments. This research seeks to explore and discover new biosynthetic pathways to the make rare but useful functional groups, such as the alkyne. To date, only one mechanism of alkyne formation has been identified. In contrast, soil microbes produce a novel family of terminal alkyne amino acids but the pathway is unknown. Identifying and characterizing the pathway for the biosynthesis may provide new knowledge about how formation of chemical structures such as alkene and alkynes occurs in enzyme active sites. With this award, the Chemistry of Life Processes Program in the Chemistry Division is funding Dr. Michelle Chang to examine the pathway for the biosynthesis of beta-es.  Given the unusual transformations involved in this pathway, the enzymes responsible for these eactions are studied in detail to clearly define their mechanisms of action.  Understanding their reactivity may allow for applications including tagging of target proteins for imaging in cells and modification of enzymes to make new catalysts. Given the broad range of scientific methodology required for this work, students train in broad interdisciplinary areas at the interface of chemistry and biology with the goal of applying their knowledge to new and complex problems in the study of life processes.  Outreach activities at the undergraduate&lt;br/&gt;level are prioritized to recruit a more diverse student body at the graduate studies level.&lt;br/&gt;&lt;br/&gt;This research project is undertaken to elucidate the biosynthetic genes involved in the production of beta-ethynylserine in Streptomyces cattleya using a combination of bioinformatic, genetic, and biochemical approaches. Given the unusual nature of the functional group, the mechanism of the enzymes involved in formation of the alkyne are studied in order to elucidate their function and selectivity as well as their potential for identification of new families of enzymes that may find utility in synthetic applications. Upon validiation of the genes for beta-ethynylserine synthesis, this pathway is also tested in vivo for its ability to be transplanted into different host organisms.  The research also seeks future applications that introduce the terminal alkyne into protein-based targets.  Given the broad range of scientific methodology required for this work, students train in broad interdisciplinary areas at the interface of chemistry and biology, such as bioinformatics, enzymology, microbial genetics, analytical chemistry, and bioengineering with the goal of preparing students to apply their knowledge to new and complex problems in the study of life processes.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710588</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Chang</LastName>
+<EmailAddress>mcchang@berkeley.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

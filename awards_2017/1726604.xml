@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: The Acquisition of Seahorse to measure Mitochondrial Metabolism will fuel Biological Research at an HBCU</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>262639</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Delaware State University to enhance research in several areas while also contributing to undergraduate education and training. The instrumentation (Seahorse, Argilent Technologies, Inc.) allows researchers to measure the energy and metabolism of the cell. In addition to providing training of undergraduates in research, this equipment will also be a critical component of the redesigned core curriculum in biology. The PIs of this project will pilot a course-based undergraduate research experience (CURE) that will provide an opportunity for students to participate in authentic research. Exposing students to such research experiences will give them a more positive view of scientific careers and enhance retention rates in STEM fields.&lt;br/&gt; &lt;br/&gt; This instrumentation will support a diverse, interdisciplinary team of investigators whose research focuses on understanding the genetic, molecular and cellular mechanisms that underlie energy budgets in cells (Seahorse). The Seahorse will serve four distinct projects. One project investigates the connection between mitochondrial function and TDP-43, a nuclear ribonucleoprotein that has been implicated in many forms of neurodegeneration. Two other projects investigate the role of dopamine in metabolic dysfunction related to neurodegeneration, one focusing on rotenone toxicity in a drosophila model, while the other project investigates the role of SUMOylation in preventing mitochondrial dysfunction and cell death. A fourth project investigates the role of CD44, a cell-surface glycoprotein important in the metabolic reprogramming of cells to glycolysis under hypoxic conditions.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726604</AwardID>
+<Investigator>
+<FirstName>YongHwan</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>yhkim@desu.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hakeem</FirstName>
+<LastName>Lawal</LastName>
+<EmailAddress>hlawal@desu.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karl</FirstName>
+<LastName>Miletti</LastName>
+<EmailAddress>kmiletti@desu.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Gitcho</LastName>
+<EmailAddress>mgitcho@desu.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Delaware State University</Name>
+<CityName>Dover</CityName>
+<ZipCode>199012277</ZipCode>
+<PhoneNumber>3028576001</PhoneNumber>
+<StreetAddress>1200 N. Dupont Highway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041Z</Code>
+<Text>HBCU-Strengthening Research Capacities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

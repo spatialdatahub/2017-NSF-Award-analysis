@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Small: Scaling Cyber-Physical Systems to the Low-Power Internet of Things</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>338586</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Battery-free sensors are annually attached to billions of items including pharmaceutical drugs, clothes, and manufacturing parts. The fundamental challenge with these sensors is that they are only reliable at short distances. As a result, today's systems for communicating with and localizing battery-free sensors are crippled by the limited range. This research proposes a cyber-physical system architecture that can overcome this challenge to enable sensing, communicating with, and localizing these sensors at an unprecedented scale. In doing so, the research promises to address multi-billion-dollar challenges facing multiple industries today in shrinkage, inventory control, and finding misplaced items. It can also drastically reduce energy consumption in the internet-of-things by demonstrating how to boost the communication range of battery-free sensors. The research results will be disseminated by publishing in academic venues, working closely with industry, public outreach initiatives, interdisciplinary classes, and releasing software libraries and hardware schematics to the research community.  &lt;br/&gt;&lt;br/&gt;Realizing this vision requires addressing challenges along three fronts: power, accuracy, and interference. First, the low-power nature of battery-free sensors fundamentally limits their communication range to within tens of centimeters to few meters. Second, mapping these sensors to the physical world not only requires the ability to detect them but also to accurately localize them. Finally, cyber-physical systems at scale need to manage wireless interference from thousands or tens of thousands of sensors. The proposal pioneers a cyber-physical system that combines the agility of drones with the sensing capabilities of radio signals to address these challenges. Technically, it introduces a new breed of communication relays, designed particularly for cyber-physical systems, and describes the algorithms that enable localization, sensing, and navigation through drone-mounted relays. The resulting system will be evaluated empirically via software-hardware implementation and real-world deployment.</AbstractNarration>
+<MinAmdLetterDate>08/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739723</AwardID>
+<Investigator>
+<FirstName>Fadel</FirstName>
+<LastName>Adib</LastName>
+<EmailAddress>fadel@mit.edu</EmailAddress>
+<StartDate>08/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

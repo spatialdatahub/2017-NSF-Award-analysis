@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: The Faint Frontier of Galaxy Formation</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>709378</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda French</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;Sophisticated computer simulations and theoretical modeling will be provide better understanding of how low mass stellar systems form and change with time. Detailed comparison of these simulations with data from the Hubble Space Telescope, and later the James Webb Space Telescope, will answer fundamental questions about dark matter and the faintest stellar systems in the universe.  The PI will collaborate with education experts from McDonald Observatory to develop two workshops that incorporate data and scientific visualization procedures from this project?s simulations to provide high school teachers with training and materials to actively engage their students? interest in science.&lt;br/&gt;&lt;br/&gt;The proposed research will provide theoretical framework at the frontier of near-field cosmology.  It will develop accurate numerical methods and galaxy models that contain explicit treatment of star formation feedback. One result will be ultra-high-resolution zoom-in images for individual dwarf galaxies.  Another will be high-resolution simulations of the Local Volume to compare with existing and future data sets, such as those obtained with Hubble Space Telescope, the James Webb Space Telescope, and the Large Synoptic Survey Telescope.  This will dramatically improve the understanding of galaxy formation in and around the Local Volume and how to connect faint stellar systems in the nearby Universe to their progenitors as far back as the cosmic dawn era.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1752913</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Boylan-Kolchin</LastName>
+<EmailAddress>mbk@astro.as.utexas.edu</EmailAddress>
+<StartDate>02/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

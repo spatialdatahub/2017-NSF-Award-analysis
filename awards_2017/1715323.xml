@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:   Spectra of Linear Differential Operators and Turbulence in Integrable Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>142401</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Roytburd</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nonlinear evolution equations, also known as soliton equations, are used to model a wide variety of physical systems, such as ocean waves or fiber optic communications. Many such equations, for example the Korteweg-de Vries (KdV) equation for waves in shallow water, have the exciting feature that many of their solutions can be given exactly by an explicit formula. This allows one to develop a precise understanding of the underlying physical processes. However, the range of conditions for which exact solutions are currently known is restrictive, inhibiting the use of such solutions in real-world applications. This project aims to find larger families of exact solutions to soliton equations, and use these solutions to develop statistical theories of the corresponding physical systems.&lt;br/&gt; &lt;br/&gt;The main goal of the project is to construct and study new families of solutions of soliton equations such as KdV, Nonlinear Schrödinger, and Kadomtsev-Petviashvili. These solutions are obtained as limits of multisoliton solutions, and are bounded and non-decreasing at infinity. They are described by a Riemann-Hilbert problem and can be efficiently computed numerically. The first goal is a rigorous mathematical description of these new solutions. The PIs will investigate to what extent these solutions solve the initial value problem for KdV and related systems. They will study spectral properties of the associated linear operators and construct non-periodic one-dimensional ideal conductors. Finally, the PIs will develop a statistical theory of integrable turbulence for KdV and other soliton equations.</AbstractNarration>
+<MinAmdLetterDate>08/02/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715323</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Zakharov</LastName>
+<EmailAddress>zakharov@math.arizona.edu</EmailAddress>
+<StartDate>08/02/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

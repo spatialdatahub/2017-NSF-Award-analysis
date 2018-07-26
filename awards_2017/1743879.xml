@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data Matters:  Meetings of the U.S. National Committee for CODATA</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>99708</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Research data and information are critical parts of science.  As science becomes more international, so does the need for active engagement internationally.  The Council on Data for Science and Technology, as part of the International Council on Science, provides a platform for top-down planning, development and integration of data, data standards, and data access.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The National Academy of Sciences, NAS, is the adhering body to the International Council for Science and its Committee on Data for Science and Technology (CODATA). The U.S. CODATA, housed at the NAS, represents the U.S. data community and coordinates with CODATA's&lt;br/&gt;international activities. The U.S. CODATA will participate in the International Council for Science and conduct a meeting of U.S. CODATA to identify further activities. These might include consensus studies, workshops, conferences, and other activities within its mission to advance data management challenges in the U.S.; fulfill a convening function to encourage and facilitate collaboration across disciplines, sectors, and nations with regard to common interests in research data and information activities; monitor, assess, and contribute to the development of U.S. government and research community positions on research data and information programs and policies; and broadly disseminate and communicate the results of the U.S. CODATA's activities to the U.S. scientific community and to the general public.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743879</AwardID>
+<Investigator>
+<FirstName>A. Ester</FirstName>
+<LastName>Sztein</LastName>
+<EmailAddress>esztein@nas.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Academy of Sciences</Name>
+<CityName>Washington</CityName>
+<ZipCode>200012721</ZipCode>
+<PhoneNumber>2023342254</PhoneNumber>
+<StreetAddress>500 FIFTH STREET NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

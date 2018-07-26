@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Non-Parametric Methods for Analysis of Time-Varying Network Data</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>280000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stochastic networks are observed in many domains including biology, sociology, genetics, ecology, information technology, and national security.  While many applications involve temporal network data, the research related to dynamic networks has been relatively limited in scope.  The goal of the project is to fill this gap through the development of statistically sound and computationally viable approaches for studying time-dependent networks.  Although the research is largely methodological, the resulting techniques can be used in a variety of fields including medicine, molecular biology, statistical genetics, national security, and the social sciences.  In particular, the proposed theories and algorithms will be applied to the analysis of brain networks associated with epilepsy disease, in collaboration with the Functional Brain Mapping and Brain Computer Interface Lab at the Florida Hospital for Children.  Since the project presents an integrated approach merging applications and theory, the results will be greatly beneficial for a variety of fields that rely on analysis of dynamic stochastic network data.  Applications include (a) methods for understanding connections between brain regions associated with speech, resulting in safer and more efficient epileptic treatment options; (b) tools for analysis of time-dependent connections between brain regions associated with particular diseases; (c) techniques for analysis of the enzymatic influences between proteins and temporal gene networks; and (d) detection of terrorist or hacker groups on the basis of dynamic social media data.  Educational and training activities include development of Special Topics graduate courses, training of graduate students, and organization of interdisciplinary seminars.  The PI plans to promote diversity through participation in the Women in Science and Engineering (WISE) program.  &lt;br/&gt;&lt;br/&gt;The objective of the project is the development of nonparametric techniques for the analysis of temporal networks that require a few simple assumptions on the network, and preserve continuity of the network's structure in time.  Although approaches developed for a time independent network can be applied to a temporal network frame-by-frame, they totally ignore continuity of the network structure and parameters in time.  In addition, the majority of research investigating temporal network models assumes specific mechanisms for changing nodes' memberships as well as parametric forms for the connection probabilities. Modern algebraic techniques will be used to simplify the model, and precision guarantees via oracle inequalities and minimax studies obtained.  The research will substantially advance the fields of non-parametric statistics in general, and the emerging field of network data analysis in particular.  The project will significantly broaden the range of methods applicable to the analysis of time-varying network data by developing techniques for non-parametric estimation and clustering that require few simple nonparametric assumptions, are computationally viable, and have guarantees of high precision.</AbstractNarration>
+<MinAmdLetterDate>06/26/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712977</AwardID>
+<Investigator>
+<FirstName>Marianna</FirstName>
+<LastName>Pensky</LastName>
+<EmailAddress>Marianna.Pensky@ucf.edu</EmailAddress>
+<StartDate>06/26/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7454</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7714</Code>
+<Text>MODULATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

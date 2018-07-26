@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:Engaged Student Learning: Re-conceptualizing and Evaluating a Core Computer Science Course for Active Learning and STEM Student Success</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>81308</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie August</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>"Engaged Student Learning: Re-conceptualizing and Evaluating a Core Computer Science Course for Active Learning and STEM Student Success" is a collaborative project that addresses the critical need to prepare students for the contemporary information technology landscape. The project will develop a new operating systems (OS) course that will play a central role in the curriculum of computer science and engineering undergraduate degree programs. The new course will resolve significant issues of misalignment between existing computer science courses on operating systems and employee professional skills and knowledge requirements.  It has the potential to better engage students in active learning, create computer science learning environments that improve student-learning outcomes, and broaden participation in STEM education and employment. It will serve national interests by preparing students more effectively for post-baccalaureate employment where expertise in distributed mobile and parallel computation, big data analytics, and cybersecurity is increasingly necessary and in demand.&lt;br/&gt;&lt;br/&gt;The goals of this project are threefold. First, it will design a contemporary operating systems curriculum and pedagogy model that incorporates cybersecurity, mobile OS and the Internet of Things, concurrent programming and synchronization, cloud computing and big data processing, Second, the project will evaluate the effect of the model on student learning, retention, growth, and job placement, as well as faculty and STEM/CS education research community engagement. Third, it will build a community of practice among computer science faculty at multiple institutions that adopt or adapt the model for their own academic contexts. Materials and results will be shared with the faculty community of practice continuously to help improve the program. Improvement will be measured along multiple dimensions, including student learning and retention. The project will produce content, laboratories, and culminating active-learning project designs of the model and a set of guidelines and tradeoffs, based on the results of model evaluation, to ensure that the model is transferable and replicable.</AbstractNarration>
+<MinAmdLetterDate>07/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712404</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Bryant</LastName>
+<EmailAddress>adam.bryant@wright.edu</EmailAddress>
+<StartDate>07/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wright State University</Name>
+<CityName>Dayton</CityName>
+<ZipCode>454350001</ZipCode>
+<PhoneNumber>9377752425</PhoneNumber>
+<StreetAddress>3640 Colonel Glenn Highway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

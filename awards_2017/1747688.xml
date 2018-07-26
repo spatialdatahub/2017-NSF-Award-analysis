@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Platform for Scaled Autonomous Vehicle Technology</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to help bring safe self-driving vehicles to market more quickly. Self-driving vehicles could eliminate over 90% of the 35,000 annual traffic fatalities that occur in the United States alone, convert commuting time into increased productivity or leisure time, and completely overhaul society's relationship with transportation. Billions of dollars are actively being invested by established automotive manufacturers, technology companies, startups, and researchers. The self-driving vehicle market is projected to be $27 billion by 2025, and grow to $77 billion by 2035. Despite all of the activity, there is still a gap in the ability to test self-driving vehicles in between the two current methods of computer simulations and full sized vehicles. Scaled vehicle technology provides an intermediate method to enable faster prototyping and testing of new algorithms and electronics in the real world without the risks and costs associated with full sized vehicles. This would provide immense value to society both in terms of accelerating a large new industry and reducing human casualties and injuries of the transportation system.&lt;br/&gt;&lt;br/&gt;This I-Corps project will investigate the commercial potential of a self-driving vehicle industry testbed.  It involves a combination of new theory and algorithms with hardware systems that interact in the real world. The technology platform is a scaled vehicle testbed, 1/5 the size of a car and weighing 45 lbs.  It includes a sensor suite, onboard computer, and is ready for self-driving testing out of the box. Using these as autonomous vehicle testbeds, self-driving vehicle technologies can be tested in the real world without endangering people or expensive equipment. This technology is based on a fleet of prototype autonomous vehicle testbeds that have been used for controls, machine learning, and computer vision research successfully applied to the self-driving domain.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747688</AwardID>
+<Investigator>
+<FirstName>Evangelos</FirstName>
+<LastName>Theodorou</LastName>
+<EmailAddress>evangelos.theodorou@ae.gatech.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

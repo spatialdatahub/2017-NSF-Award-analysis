@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Triangle Lectures in Combinatorics</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the Triangle Lectures in Combinatorics (TLC), a series of once-a-semester, one-day conferences held in and around the Research Triangle region of North Carolina, the next of which will take place at North Carolina State University on March 24, 2018. Since the Spring of 2010, each meeting of the TLC has brought four outstanding mathematicians from around the country to give talks about some of the most exciting and significant recent developments in combinatorics. A great number of graduate students, postdocs, and tenure-track/tenured researchers in combinatorics and related fields work within a five-hour drive of the Research Triangle, but the large distances between colleges and universities can be isolating. The TLC conference format gives a practical reason for these researchers to come together and interact with each other. Past meetings of the TLC have attracted groups of attendees from North Carolina, Virginia, Tennessee, Kentucky, South Carolina, Georgia, and beyond.&lt;br/&gt;&lt;br/&gt;Combinatorics is an important and growing area of mathematics that focuses on the structure of discrete (as opposed to continuous) sets of objects. It is critical to many areas of mathematics and plays a key role in computational, scientific, and engineering applications. The Triangle Lectures in Combinatorics serve to: enhance the national infrastructure for research and education by creating and strengthening a regional network of interacting researchers; facilitate the dissemination of cutting-edge research ideas, methods, and results among researchers in the Southeastern United States; promote the teaching and training of graduate students by exposing them to the perspectives of leading researchers; increase awareness and understanding of combinatorics among faculty and students in the Southeast; support the development of young faculty at various institutions to help them build local support and research networks; broaden participation of underrepresented groups, particularly women; and foster research interactions among participants, leading to new research results. More information can be found at:  https://web.math.ncsu.edu/tlc/</AbstractNarration>
+<MinAmdLetterDate>12/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758187</AwardID>
+<Investigator>
+<FirstName>Ricky</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>riliu@ncsu.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ezra</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>ezra@math.duke.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patricia</FirstName>
+<LastName>Hersh</LastName>
+<EmailAddress>plhersh@ncsu.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gabor</FirstName>
+<LastName>Pataki</LastName>
+<EmailAddress>gabor@unc.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cynthia</FirstName>
+<LastName>Vinzant</LastName>
+<EmailAddress>clvinzan@ncsu.edu</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

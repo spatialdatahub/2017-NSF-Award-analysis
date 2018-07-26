@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Photo-controlled Nanoparticles for Gene and Drug Delivery</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to accelerate and control gene delivery, and to allow researchers to find novel solutions to challenging diseases.  Gene delivery, also known as transfection, is a promising approach to treat diseases such as cancer and, thus, could provide a profound benefit to society.  Using gene therapy and immune-therapy, gene delivery allows for the efficient introduction of a new gene into cells. The specific technology employed offers a photo-responsive, nanoparticle-based technique with the advantages of higher efficacy, controlled gene-release, and faster transfection rates.  This has the potential to dramatically decrease the time required for transfection, as well as greatly reducing the required amount of gene and/or drug.  Thus, along with providing researchers the unique ability to control the process through a simple light trigger, this technology could provide substantial commercial impact.&lt;br/&gt;&lt;br/&gt;This I-Corps project is a gene delivery tool that utilizes two biocompatible surfactants which associate spontaneously into light-sensitive nanoparticles when dissolved in water.  Nucleic acids (DNA/siRNA) can be loaded inside of the nanoparticles to protect the nucleic acids until they reach the interior of cells.  Similarly, hydrophobic/hydrophilic drug molecules can also be carried within the nanoparticles.  Subsequent exposure to ultraviolet (UV) light leads to nanoparticle dissociation, resulting in the triggered release of nucleic acids, which can then modify the DNA of the cell or stop disease-associated protein production.  Researchers would be able to utilize this gene delivery technology in two different ways: (1) substitution of new genes to the cell, or (2) inactivation of existing genes.  The combination of lower costs (of both the carrier components and the nucleic acids due to higher efficiencies) and faster delivery/transfection rates with our technology compared to current gene-delivery technologies could have a considerable impact throughout the industry.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1758225</AwardID>
+<Investigator>
+<FirstName>C. Ted</FirstName>
+<LastName>Lee, Jr.</LastName>
+<EmailAddress>tedlee@usc.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

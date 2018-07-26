@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>THz Driven Electron Gun</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>269805</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav S. Lukin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this research project is to develop a miniature source of energetic electrons, an electron gun, for producing high quality, high energy electron beams.  High energy electron beams have found widespread use by biologists, chemists and physicists investigating ultra-fast science through x-ray and electron diffraction; physicians performing medical imaging and radiation therapy; scientists exploring high energy physics; and for cargo screening at ports of entry across the country. These electron beams are generated in particle accelerators which manipulate the energy, density and timing of charged particles. The first building block of a particle accelerator is the electron gun, where electrons are emitted into a vacuum and interact with intense electric fields to be accelerated. The performance of the electron gun is critical because it sets the fundamental limits on the ability to control electron beams.&lt;br/&gt;&lt;br/&gt;This research aims to develop an ultra-compact, high-gradient electron gun operating in the Terahertz (THz) frequency range which demonstrates GeV/m accelerating gradients with unprecedented brightness and temporal control of the electron beam. An electron gun only a few millimeters in size but capable of producing MeV electrons will be designed, built and tested at high power. The group will explore the physics of electron field-emission and photo-emission in GV/m THz fields, THz gun electron beam dynamics, non-relativistic accelerating structures and electron beam generation on femtosecond timescales. This resulting increase in performance, compactness and efficiency will open new frontiers in accelerator science and its many applications.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734015</AwardID>
+<Investigator>
+<FirstName>Emilio</FirstName>
+<LastName>Nanni</LastName>
+<EmailAddress>nanni@slac.stanford.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sami</FirstName>
+<LastName>Tantawi</LastName>
+<EmailAddress>tantawi@SLAC.stanford.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7243</Code>
+<Text>Accelerator Science</Text>
+</ProgramElement>
+</Award>
+</rootTag>

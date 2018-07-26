@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Multipurpose X-ray Diffractometer for Interdisciplinary Materials Research and Education</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>266000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Guebre X. Tessema</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation award supports the University of Alabama at Birmingham to acquire a multipurpose x-ray diffractometer for interdisciplinary materials research and education. X-ray characterization of crystal structures, crystal orientations, and nanometer-sized materials plays a key role in development of new materials. The faculty members associated with this project are involved in a variety of research fields including super-hard materials for industrial applications, semiconductors, novel materials for lasers, materials for energy applications, and biomaterials used in implants and regenerative medicine research. This instrument also plays a significant role in the education of graduate and undergraduate students in a wide range of disciplines including biology, biomedical engineering, chemistry, materials science and engineering, and physics. A significant fraction of graduate and undergraduate students involved in this project belongs to groups that are underrepresented in the science and engineering disciplines. The acquisition of multipurpose diffractometer allows for development of new courses and enhancement of existing courses in the area of thin-film devices and nanostructures. Such courses at graduate and undergraduate levels enhance training for much needed advanced manufacturing workforce.&lt;br/&gt;&lt;br/&gt;Recent innovations in x-ray detector technologies, x-ray mirrors, and x-ray monochromators have made it possible for a new class of diffractometers that can provide all the desired x-ray measurements in one instrument with minimal switching time between various applications. This acquisition of a multipurpose x-ray diffractometer allows studies on bulk and thin-film materials, preferred orientation or texture in materials, and particle/pore size, homogeneity of the nanostructured samples by small-angle x-ray scattering. It enables transformative research in nanostructured diamond thin-film deposition on metals, doped chalcogenide crystals for mid-infrared lasers, oxide materials for fuel cells, epitaxial semiconductors for high-power electronic devices, catalysts, nanocomposites, and materials for biomedical implants and tissue engineering applications. These studies are led by an interdisciplinary team of faculty and result in a fundamental understanding of structural phase transformations and interfaces, mechanical wear behavior in extreme environments, efficiency of mid infrared lasers, texture and strain in crystalline materials, and biocompatibility of materials.</AbstractNarration>
+<MinAmdLetterDate>08/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725016</AwardID>
+<Investigator>
+<FirstName>Renato</FirstName>
+<LastName>Camata</LastName>
+<EmailAddress>camata@uab.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Stanishevsky</LastName>
+<EmailAddress>astan@uab.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eugenia</FirstName>
+<LastName>Kharlampieva</LastName>
+<EmailAddress>ekharlam@uab.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yogesh</FirstName>
+<LastName>Vohra</LastName>
+<EmailAddress>ykvohra@uab.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vinoy</FirstName>
+<LastName>Thomas</LastName>
+<EmailAddress>vthomas@uab.edu</EmailAddress>
+<StartDate>08/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama at Birmingham</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress>AB 1170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

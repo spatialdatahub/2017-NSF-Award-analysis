@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Construction of Mobile C-band, Narrow-Beam, Dual-Frequency, Dual-Polarization, High-Power Radar</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>367764</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linnea M. Avallone</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Center for Severe Weather Research will construct a new quickly deployable, dual-polarization, dual-frequency C-band Radar On Wheels (CROW). CROW has an innovative design that will allow rapid deployment, has a small footprint and conveys the ability to peer deeply into intense precipitation. This radar system will provide a capability that is lacking in NSF's requestable user facilities and will open new avenues of investigation in the areas of severe weather research, including measurement of convective systems, tropical and winter storms, as well as atmospheric boundary layer studies. C-band (5 cm wavelength) radar is more capable of observing through intense precipitation than the X-band (3 cm wavelength) radar that is typical of mobile facilities, including the Doppler on Wheels (DOWs) that are currently part of the NSF Lower Atmosphere Observing Facilities.  CROW, requiring no advance site preparation, will also be deployable for educational projects, permitting students to use a longer-wavelength, fine-beamwidth radar to observe phenomena containing intense precipitation. It will be designed to be operable by students with little prior experience, to promote hands-on learning opportunities. CROW will be a high-impact outreach and exhibition tool, easily, quickly, and inexpensively deployed not only to university/college educational missions, but also festivals, museums, and related venues.&lt;br/&gt;&lt;br/&gt;The CROW mobile radar employs an innovative design to circumvent compromises between resolution and size that are inherent in existing radars. CROW will have a 1-degree beamwidth and quick scanning, independent dual frequencies to allow for high spatial and temporal resolution.  Dual-polarization capability, coupled with the independent frequencies, will permit accurate measurements of differential reflectivity (ZDR), from which droplet type is identified, at twice the scanning speed of single frequency radars. CROW will be outfitted with two 1-megawatt transmitters to permit higher sensitivity to clear-air and weak distant signals than any existing mobile C-band radar and comparable to that of research quality S-band (10 cm wavelength) systems typically used for meteorological applications. CROW will be built on a custom-designed trailer that includes a small crane for assembling the radar antenna on-site, thereby enabling transport of a twelve-foot diameter antenna necessary for C-band operations. Set-up and assembly of the radar antenna and associated structures is estimated to take about two hours, making the system suitable for observation of predictable events, but not for targeting of rapidly evolving phenomena, such as tornadoes.</AbstractNarration>
+<MinAmdLetterDate>09/08/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741712</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Kosiba</LastName>
+<EmailAddress>kakosiba@cswr.org</EmailAddress>
+<StartDate>09/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Wurman</LastName>
+<EmailAddress>jwurman@cswr.org</EmailAddress>
+<StartDate>09/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Lutz</LastName>
+<EmailAddress>jlutzncar@yahoo.com</EmailAddress>
+<StartDate>09/08/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The Center for Severe Weather Research</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803055603</ZipCode>
+<PhoneNumber>7203049100</PhoneNumber>
+<StreetAddress>1945 Vassar Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1529</Code>
+<Text>LOWER ATMOSPHER OBSER FACILITI</Text>
+</ProgramElement>
+</Award>
+</rootTag>

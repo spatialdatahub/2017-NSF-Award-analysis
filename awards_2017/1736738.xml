@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:   The Influence of Arctic - Lower-Latitude Interactions on Weather and Climate Variability: Mechanisms, Predictability, and Prediction</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>540000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Suchman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the rapidly melting sea-ice, the Arctic is becoming increasingly important not only scientifically but also socioeconomically and geopolitically. Early efforts indicate that there is potential to predict Arctic variability on timescales ranging from subseasonal to decadal. However, skillful operational predictions of the Arctic weather and climate require major advances in our understanding of linkages in climate and weather extremes between the Arctic and lower-latitudes, and subsequently, how best to represent relevant mechanisms in prediction systems. While the changes in the lower-latitude ocean and atmosphere inevitably influence the Arctic, the interaction is truly two-way, in that changes in the Arctic also impact the lower-latitude climate and weather, in particular midlatitude extreme weather events. &lt;br/&gt;&lt;br/&gt;To improve our fundamental dynamical understanding, modeling capabilities, and prediction skill, using a combination of available observations and state-of-the-art climate models, the team proposes to investigate tropical and mid-latitude oceanic and atmospheric drivers of regional Arctic changes. They will also investigate the role of the Arctic on the Northern Hemisphere climate variability and weather extremes. The team will participate in the European Union (EU)-led international multi-model inter-comparison study, the Blue-Action Project under the EU Horizon 2020 Programme. &lt;br/&gt;&lt;br/&gt;A deeper understanding of Arctic-lower-latitude linkages, and our capacity for predicting Arctic and Northern Hemisphere variability is relevant to a wide variety of end-user applications, such as weather forecasting, fisheries management, commercial shipping, commercial insurance, and naval operations. Thus, this project has substantial broader impacts. The project team will also actively perform outreach activities to disseminate findings and to educate public through webpages, public lectures, K-12 school visits, teacher trainings, and Research Experience for Undergraduates (REU) programs.  A postdoctoral scientist will also be trained under this project.</AbstractNarration>
+<MinAmdLetterDate>07/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1736738</AwardID>
+<Investigator>
+<FirstName>Young-Oh</FirstName>
+<LastName>Kwon</LastName>
+<EmailAddress>ykwon@whoi.edu</EmailAddress>
+<StartDate>07/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claude</FirstName>
+<LastName>Frankignoul</LastName>
+<EmailAddress>cf@lodyc.jussieu.fr</EmailAddress>
+<StartDate>07/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431041</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5280</Code>
+<Text>ARCTIC NATURAL SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8012</Code>
+<Text>CR, Earth System Models</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

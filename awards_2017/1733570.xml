@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Scholarship Support for the 2017 Richard Tapia Diversity in Computing Conference</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>151900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Association for Computing Machinery proposes to provide scholarships to enable greater participation in the 2017 Richard Tapia Celebration of Diversity in Computing Conference. That annual conference celebrates diversity in computing, bringing together students, faculty, and professionals in computer science and computer engineering who represent diversity across backgrounds, gender, ethnicity, and disability status.  The conference enables attendees to connect with each other, receive mentoring from more senior community members, and be inspired by leaders in computer science and computer engineering, and their research.  &lt;br/&gt;&lt;br/&gt;The Tapia conference has grown from 161 participants in 2001 to almost 1,000 participants in 2016, with a diversity reflecting that of our country.  In 2016, 93% of the student attendees found that the conference was inspiring, and 97% said that it provided them with an opportunity to make new connections. The scholarships funded under this proposal will be available to undergraduate and graduate students, faculty from Minority Serving Institutions, and doctoral students participating in the conference?s Doctoral Consortium.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1733570</AwardID>
+<Investigator>
+<FirstName>Valerie</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>vtaylor2@uchicago.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association Computing Machinery</Name>
+<CityName>New York</CityName>
+<ZipCode>101210799</ZipCode>
+<PhoneNumber>2128697440</PhoneNumber>
+<StreetAddress>2 Penn Plaza</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9000</Code>
+<Text>BPEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

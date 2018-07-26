@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CyberTraining: DSE. The Code Maker: Computational Thinking for Engineers with Interactive, Contextual Learning</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>499965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Code Maker is a new vision for educating engineers who can apply computational thinking to many endeavors.  It is a program that embeds computational skills in the curriculum using learner-centered design, informed by the latest research in how people learn.  The project will develop the curriculum and materials for interactive learning of computing, in context.  The philosophy is to move from "learning to code" toward "coding to learn," so that computing becomes a natural tool for the new engineer to solve problems, investigate nature, design and build projects.  The Code Maker serves the national interest by training engineers that are effective users of cyberinfrastructure.  It serves NSF's mission - to promote the progress of science; to advance the national health, prosperity and welfare; to secure the national defense - by delivering needed intellectual infrastructure.  The project is open source and open access.  Locally, it builds community via maker-inspired activities and student support via learning assistants at the new George Washington (GW) STEM Works Lab.  Outward-looking, the project will use an online platform to share the training widely, and will coach a close group of collaborators who bring the program to their respective institutions.  The NSF funding will also support a thorough assessment of the program, continuous improvement, and dissemination of the results.  The Code Maker will train computationally skilled engineers who are prepared to enter the workforce competitively, and ready to use computing effectively as a research tool if joining a graduate program in computational science and engineering.&lt;br/&gt;&lt;br/&gt;The Code Maker project will deliver eight or more learning modules, each consisting of a series of four or more lessons, written as a Jupyter Notebook.  The modules will be available online and can be completed asynchronously or assigned as a graded course component.  They will embed the learning in the existing courses of the engineering curriculum: mechanics, statistics, heat and mass transfer, and so on.  Short term, the program will train 50 to 100 students at GW, impact similar numbers at partner institutions, and potentially reach hundreds via the online dissemination.  The modules adopt a mastery-learning approach.  The program will be supported by learning assistants and a program of maker-inspired events at a newly created space in the GW Library, the STEM Works Lab.  It will use cloud infrastructure, both public and private: an instance of the Open edX learning platform on Amazon AWS that effectively allows running the program publicly as a MOOC; and a local JupyterHub server to eliminate installation friction and ensure a consistent compute environment for local students.  The evaluation will apply a combination of 4-level training evaluation and a Technology Acceptance model.</AbstractNarration>
+<MinAmdLetterDate>07/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1730170</AwardID>
+<Investigator>
+<FirstName>Lorena</FirstName>
+<LastName>Barba</LastName>
+<EmailAddress>labarba@gwu.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Watkins</LastName>
+<EmailAddress>rwatkins@gwu.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Wickenheiser</LastName>
+<EmailAddress>amwick@gwu.edu</EmailAddress>
+<StartDate>07/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200522000</ZipCode>
+<PhoneNumber>2029946255</PhoneNumber>
+<StreetAddress>2121 Eye Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>044Y</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9261</Code>
+<Text>RESRCH ASSIST-MINORITY H.S. ST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

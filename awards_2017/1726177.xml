@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a total organic carbon analyzer for undergraduate training and research quantifying how climate-glacier interactions impact land-to-ocean fluxes of carbon</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>50277</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell C. Kelz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>EAR-1726177&lt;br/&gt;Fellman&lt;br/&gt;&lt;br/&gt;This grant supports acquisition of a dissolved organic carbon (DOC) and total dissolved nitrogen (TDN) analyzer that will be located in a lab shared by the USFS Pacific Northwest Research Station and the University of Alaska Southeast. Acquisition of this instrument will provide the infrastructure necessary to quantify DOC fluxes from watersheds of varying glacial coverage, thus creating a space-for-time substitution to determine how climate-glacier interactions are driving ecological change in the region. The DOC/TDN analyzer will replace an aging, non-functional instrument that is located off campus and is owned by the USFS. Acquisition of this instrument will allow the investigators to reinvigorate stream biogeochemistry research efforts aimed at understanding the biophysical impacts of glacial change on coastal watersheds in southeast Alaska, facilitate access to the instrument by outside users, and enhance  undergraduate training. In particular, the instrument will strengthen the research training opportunities for undergraduates in Environmental Science as well as provide the opportunity to recruit and train members of two groups (rural and Alaska Native students) that are traditionally highly under-represented in the Environmental Sciences.&lt;br/&gt;&lt;br/&gt;The DOC/TDN analyzer allows for rapid and precise measurement of concentrations of DOC and TDN. Research applications include: 1) determining how climatically-driven changes in snow/rainfall regimes that influence the timing and magnitude of glacial runoff are driving stream water DOC and nutrient fluxes in the region, 2) quantifying the relationship between disinfection byproduct formation, DOC concentrations and precipitation event size in watersheds that currently or may provide drinking water in rural watersheds, 3) testing the use of DOC as a proxy for methylmercury concentrations in forested and wetland-dominated watersheds, and 4) determining how seasonal changes in the movement of water from soils to streams controls the production, speciation and timing of lateral carbon export from forested ecosystems.</AbstractNarration>
+<MinAmdLetterDate>09/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726177</AwardID>
+<Investigator>
+<FirstName>Eran</FirstName>
+<LastName>Hood</LastName>
+<EmailAddress>eran.hood@uas.alaska.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Allison</FirstName>
+<LastName>Bidlack</LastName>
+<EmailAddress>allison.bidlack@uas.alaska.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sonia</FirstName>
+<LastName>Nagorski</LastName>
+<EmailAddress>sanagorski@uas.alaska.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>D'Amore</LastName>
+<EmailAddress>ddamore@fs.fed.us</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Fellman</LastName>
+<EmailAddress>jbfellman@alaska.edu</EmailAddress>
+<StartDate>09/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alaska Southeast Juneau Campus</Name>
+<CityName>Juneau</CityName>
+<ZipCode>998010000</ZipCode>
+<PhoneNumber>9077966494</PhoneNumber>
+<StreetAddress>11066 Auke Lake Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<StateCode>AK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

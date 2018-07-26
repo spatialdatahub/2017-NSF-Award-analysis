@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Artificially Intelligent, Autonomous Microreactors for the Discovery of Polyolefin Catalysis</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>297999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The current technology gaps of laboratory-scale reaction systems have limited the commercial availability of: 1) automated microreactor platforms that deliver first principles kinetics, 2) automated microreactor platforms for catalyst activity screening, 3) online analytics that capture real-time concentration-response profiles, and 4) computational data analytics able to analyze, report, and recommend.  Process development and reaction engineers could potentially implement such reaction systems to expedite their laborious research and development activities.  The research project aims at closing these technology gaps in laboratory-scale catalyst screening and characterization to broadly accelerate materials development and polymer commercialization timelines.  The study of artificially intelligent, autonomous microreactors (microAIRs) is proposed to address the technical challenges that currently limit the next-generation needs in catalyst discovery research.  &lt;br/&gt;&lt;br/&gt;The governing hypothesis for the study is that microAIRs engineered with online analytics can accelerate, improve accuracy, and minimize the energy and environmental impacts during the iterative discovery of a next-generation olefin catalyst system.  Successful testing of this hypothesis will address the principal need to combine real-time, multiphase microfluidics tracking and feedback algorithms with a non-invasive analytical method that can directly measure a reaction parameter.  The ability of a reactor system to decipher phase behaviors, analyze the reaction progress, decide which catalyst is the most active, and identify accurate kinetic expressions are tremendous challenges that microAIRs can solve in order to more efficiently screen catalyst and discover kinetics. Opportunities exist to i) improve the accuracy of process kinetics, ii) establish input/output responses that fully fingerprint a catalyst in a business portfolio, and iii) improve the presentation of real-time analytics and accelerated decision making in catalyst discovery.  Review of the state-of-the-art reveals that current technical challenges for laboratory-scale, homogeneous polyolefin catalytic systems include: 1) combinatorial challenge to fully fingerprint catalyst performance, 2) evaluation of large commercial libraries of catalyst systems, 3) engineering for control of chemical transport challenges in flow, 4) sensing with adaptive response to catalyst activity, 5) on-chip analytics coupled with unique reactor/mixer designs in flow, and 6) real-time data analysis with adaptive experimental design and execution.  The proposed research, if successful, will broadly impact polymers manufacturing, and it will also introduce novel laboratory techniques for the discovery of new science. The project will also involve curriculum development activities and outreach to the community through NYU's incubator program.</AbstractNarration>
+<MinAmdLetterDate>07/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1701393</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Hartman</LastName>
+<EmailAddress>ryan.hartman@nyu.edu</EmailAddress>
+<StartDate>07/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+</Award>
+</rootTag>

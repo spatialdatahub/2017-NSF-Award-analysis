@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Slippery Surface Coating Technologies</AwardTitle>
+<AwardEffectiveDate>10/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project involves the use of a non-sticking and anti-biofouling surface coating to address public health and hygiene concerns. Specifically, the slippery function of our coatings can be integrated into medical devices and sanitation facilities to passively prevent accumulation of contaminants such as bacteria, urine, and feces. Integrating this coating into medical devices could reduce hospital acquired infections and patient complications related to biofouling of medical devices.  The coating is non-sticky to various liquid and solid wastes, and therefore can potentially be used to minimize waste water generation in household, institutional, and industrial sanitation facilities.  This surface coating has the potential to also mitigate global water scarcity, reduce the transmission of infectious diseases associated with poor sanitation facilities, and reduce costs associated with flush toilet use and maintenance.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on a surface coating technology, referred to as the Liquid-Entrenched Smooth Surface (LESS). LESS is a sprayable, anti-bacteria fouling surface coating that can repel various liquids and solids. Results have shown that the LESS coating can be applied to various surfaces within minutes, and can significantly reduce adhesion of different solids up to ~90% compared to untreated control surfaces. Furthermore, the LESS coating has shown exceptional anti-bacteria fouling properties comparable to the state-of-the-art surfaces. The LESS technology is designed to reduce surface fouling of biological fluids and solid wastes with potential applications in anti-bacteria fouling medical devices and water-saving for sanitation facilities.</AbstractNarration>
+<MinAmdLetterDate>10/13/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757165</AwardID>
+<Investigator>
+<FirstName>Tak Sing</FirstName>
+<LastName>Wong</LastName>
+<EmailAddress>tswong@psu.edu</EmailAddress>
+<StartDate>10/13/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

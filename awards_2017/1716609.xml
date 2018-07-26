@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Efficient Learning and Inference with Perturbations</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>272979</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Weng-keen Wong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Learning and inference drives much of the research in many diverse domains, such as natural language processing, computer vision, speech processing and computational biology. In these fields, complex models are required in order to better represent real-world objects (e.g., sentences, images, speech, proteins). As such, one aims to obtain more representational power by expressing objects as the interaction of a large number of constituent elements. While producing more realistic models, this also increases the computational cost of inferring such objects, as well as of learning such inference models from data. The situation worsens as real-world objects become large scale, which opens the opportunity to investigate the use of randomized algorithms to make learning and inference more computationally efficient. This project will also provide education and outreach opportunities through a Hands-on Learning Theory course, undergraduate involvement in research and workshops at major conferences on the topic of learning and inference.&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop novel randomized polynomial-time algorithms for learning and inference in large-scale structured prediction problems. The project aims to analyze maximum margin models, maximum a-posteriori perturbation models, latent variable models, and the relationship between regularization and different notions of perturbation. The project makes use of theoretical methods for creating new algorithms with practical advantages over current methods. The project aims to produce algorithms that work in polynomial-time, use a small sufficient and necessary number of training samples, and have a guarantee of small generalization error. All the software produced in this project will be open-sourced, and made available for download.</AbstractNarration>
+<MinAmdLetterDate>08/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1716609</AwardID>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Honorio</LastName>
+<EmailAddress>jhonorio@purdue.edu</EmailAddress>
+<StartDate>08/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

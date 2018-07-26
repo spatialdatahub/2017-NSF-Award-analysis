@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Using Micromechanical Experiments to Investigate the Rheology of Geologic Materials</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>322981</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Fountain</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The physical and chemical properties of geologic materials control the development of Earth's surface and interior. Rheology is one particular branch of the study of material properties, which characterizes materials' ability to flow or deform viscously. The rheology of geologic materials is mainly responsible for controlling mantle convection, plate tectonics, and the formation of mountains. As such, rheology is directly related to numerous natural hazards such as earthquakes, volcanoes, and tsunami, as well as the production of natural resources. In this project, the investigators are using tools from materials science to understand the rheology of minerals that make up the bulk of Earth's crust and upper mantle. The data that result from this study will allow geoscientists to better understand how plate tectonics works, both on Earth and on other planetary bodies. The research project advances desired societal outcomes by full participation of women in STEM, public outreach to increase public scientific literacy and public engagement with STEM, development of a competitive STEM workforce through undergraduate and graduate student training, and laboratory improvement that enhances infrastructure for research.&lt;br/&gt;&lt;br/&gt;The objective of this project is to investigate the viscoplastic rheology of geological materials using micromechanical methods, including nanoindentation and micropillar compression testing. In a nanoindentation test, a sharp indenter is pushed into a specimen of interest with a precisely controlled amount of force, typically to depths of tens to hundreds of nanometers. A simultaneous record of the force and the displacement is used to assess the elastic and plastic response of the test specimen. In a micropillar compression test, a column of material with a diameter as small as a few hundred nanometers is fabricated using a focused ion beam. Using a nanoindentation instrument equipped with a cylindrical probe, uniaxial compression tests are performed to determine the mechanical response of the micropillar over a range of deformation conditions. In this project, micromechanical deformation experiments will be performed at low to moderate temperatures (T = -10 to 600 degrees C) on oriented single crystals of quartz, plagioclase feldspar, orthopyroxene, and olivine. Data from these experiments will be used to constrain the rheology of minerals under conditions where the lithosphere is strong and low-temperature plasticity is predicted to be the dominant deformation mechanism. The effects of rheological anisotropy will be assessed using the same micromechanical methods. Experimental results will be complemented by high resolution aberration-corrected scanning transmission electron microscope imaging and electron energy loss spectroscopy to provide insight into the atomic-scale structure and chemistry of crystalline defects introduced by deformation.</AbstractNarration>
+<MinAmdLetterDate>07/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726165</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Skemer</LastName>
+<EmailAddress>pskemer@wustl.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rohan</FirstName>
+<LastName>Mishra</LastName>
+<EmailAddress>rmishra@wustl.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katharine</FirstName>
+<LastName>Flores</LastName>
+<EmailAddress>floresk@seas.wustl.edu</EmailAddress>
+<StartDate>07/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1572</Code>
+<Text>TECTONICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

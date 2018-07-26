@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Collaborative Research:   Group Dynamics and Success in Science and Research</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>178692</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>cassidy sugimoto</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project investigates how to foster the best science, given that most scientific research is done by teams.  The research investigates human behavioral patterns that indicate the production of impactful research and the ability to attract grant funding.  The objective is to discern characteristics of how research communities develop, form and operate to introduce novel ideas with significant impact. Results make the point that scientific success transcends institutional group boundaries and is a matter of larger communities that coalesce and have a high turnover of novel topics and members. The key objective of this project is a first quantification of patterns of human group dynamics and diversity of scientific content on scientific success in terms of garnering grant support and providing impactful science. Since NSF supports research at many different scientific frontiers, our results may allow the detection of patterns that are valid across many scientific fields.&lt;br/&gt;&lt;br/&gt;This project models a corpus of millions of research papers, integrating grant information of diverse scientific fields and scientific content. Research publications are used to construct co-authorship networks in different time windows and scientific fields. Groups in such networks will be detected by the use of contemporary clustering methods that will point to fission/fusion patterns of groups. Project data covering the last 25 years of funding from the National Science Foundation (NSF) and will be integrated with content information from the body of research publications. Results make the point that scientific success transcends institutional group boundaries and is a matter of larger communities that coalesce, split and have a high turnover of novel topics and members.</AbstractNarration>
+<MinAmdLetterDate>07/23/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747631</AwardID>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Wuchty</LastName>
+<EmailAddress>wuchtys@cs.miami.edu</EmailAddress>
+<StartDate>07/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mitsunori</FirstName>
+<LastName>Ogihara</LastName>
+<EmailAddress>ogihara@cs.miami.edu</EmailAddress>
+<StartDate>07/23/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462926</ZipCode>
+<PhoneNumber>3052843924</PhoneNumber>
+<StreetAddress>1320 S. Dixie Highway Suite 650</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

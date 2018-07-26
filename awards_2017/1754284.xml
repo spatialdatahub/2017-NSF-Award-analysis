@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Computational approaches to human spoken word recognition</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>196529</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty H. Tuller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project addresses one of the grand challenges facing cognitive science -- how humans understand speech. People recognize words far more easily than even the best computer speech recognition systems, even though the actual sounds we hear as consonants and vowels vary greatly depending on context (what sounds come before or after), who is talking, and the setting (a quiet room versus a crowded airport). Most current models of speech recognition cannot handle the huge variability in real speech because they do not operate on the actual speech signal. Also, they do not learn, so they cannot model how people acquire language. This project addresses these challenges by comparing current models of speech recognition to each other and to human capabilities, with the goal of understanding how human speech processing is so robust and flexible.  In addition, simplified "deep learning" networks will be developed and evaluated as models of human speech recognition. Deep learning networks are similar to cognitive models in that they learn abstract representations of the data, not task-specific rules or algorithms. These networks have been used to create accurate commercial speech recognition systems. By comparing them to human performance, the investigators may provide new insights into why human speech recognition is so robust. The results of this project will have technical implications (better understanding of human flexibility may aid in improving computer speech recognition) and health implications (better understanding of human speech recognition will aid in developing better interventions for language disorders). The project will also support the training of a postdoctoral researcher and a PhD student, both of whom will develop skills that can be used to contribute to research and development in academia or industry. &lt;br/&gt;&lt;br/&gt;This project focuses on the development of a "shallow deep network" model called "DeepListener" that will be compared with the behavior of human listeners. A close match in the millisecond-level behavior of the network (for example, in which words are temporarily confusable with each other) and human performance suggests that human speech processing may emerge from similar principles as those in the model. In preliminary work, DeepListener learned to recognize 93% of 2000 real words (200 words produced by 10 talkers). DeepListener will be evaluated by detailed comparison to standard neural network models of cognitive theories and to human performance. The ways in which DeepListener is similar and dissimilar to human performance and competing models will help to advance scientific theories of human speech recognition. This project will follow emerging standards for open science: experiments will be pre-registered and data and computer code will be made freely and publicly available.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1754284</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Magnuson</LastName>
+<EmailAddress>james.magnuson@uconn.edu</EmailAddress>
+<StartDate>02/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Rueckl</LastName>
+<EmailAddress>jay.rueckl@uconn.edu</EmailAddress>
+<StartDate>02/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7252</Code>
+<Text>PERCEPTION, ACTION &amp; COGNITION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7252</Code>
+<Text>Perception, Action and Cognition</Text>
+</ProgramReference>
+</Award>
+</rootTag>

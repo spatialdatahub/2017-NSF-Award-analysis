@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF: Small: The Interplay Between Convex Feasibility Problems and Minimization Problems in Signal Recovery</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>362067</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Signal recovery encompasses the large body of inverse problems in which a signal is to be restored or reconstructed from the observation of data consisting of measurements physically or mathematically related to it. The importance of this field stems from its pervasiveness in numerous areas of science and engineering, including medical imaging, geophysics, astronomy, electron microscopy, nondestructive testing, seismology, telecommunications, social media analysis, and homeland security. This project investigates foundational principles guiding the formulation of signal recovery problems as convex optimization problems and develops new strategies and methodologies for data processing that significantly improve the efficiency of existing techniques and broadens their scope.&lt;br/&gt;&lt;br/&gt;This research focuses on the interplay between two prominent frameworks that coexist in relative independence in signal recovery, namely convex feasibility problems and convex minimization problems. These two approaches employ different principles to exploit the prior knowledge and the data, their mathematical formalizations lead to distinct fixed point paradigms, and the algorithms used to solve them do not rely on the same techniques. The investigator shows that, despite these profound divergences, fruitful connections can be established between the two formalisms, that are mutually beneficial and suggest new models and algorithms. An important outcome of this research is a relaxation model that bridges the gap between feasibility and minimization formulations. Another highlight is a novel proximal geometric framework for solving structured minimization problems using a deep cutting plane technology adapted from convex feasibility algorithms. The impact of the theoretical findings and of the new algorithms resulting from this research is illustrated through applications to concrete signal recovery problems.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1715671</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Combettes</LastName>
+<EmailAddress>plc@math.ncsu.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>INFEWS/T2: Cyber-Based Decision Support Strategies to Achieve  Consensus for FEW System Sustainability using Incentive and Policy  Structures</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>1099760</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Midwest is quite different from other parts of the country in that little to no irrigation is required for farming. In fact, soils and topography in the Midwest, and particularly Iowa, trend toward waterlogged conditions. Farmers fertilize fields to maximize crop yield for both food and biofuel production, but a mismatch in timing between periods of high drainage water flux and nitrogen movement in early spring and crop uptake in the summer, results in excess nitrogen being transported through waterways to the Gulf of Mexico, causing detrimental environmental, societal and economic impacts. Driving much of the decision-making at local levels are policies and incentives implemented at higher levels, and vice versa, with no real understanding of the potential unintended consequences. This project aims to enable understanding of the impact of such policies and incentives on separate stakeholders associated with Food, Energy, and Water (FEW) sectors, as well as overarching system stakeholders, such as the federal government. More importantly, the research has the potential to impact the ways in which decisions are made in and about FEW system so as to ensure resilience and sustainability.&lt;br/&gt; &lt;br/&gt;The project focuses on research questions pertaining to understanding the FEW inter-dependencies, modeling the value statements of each FEW stakeholder, developing new multi-attribute utility models to enable consensus building among FEW stakeholders, enabling coordinated decision making through incentives and policies designed to achieve the desired behaviors at the FEW system level, and developing visualization and simulation-based decision support tools to support consensus building of stakeholders using the methods developed.</AbstractNarration>
+<MinAmdLetterDate>09/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1739551</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Abbas</LastName>
+<EmailAddress>aliabbas@usc.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Bloebaum</LastName>
+<EmailAddress>bloebaum@iastate.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J.W. Clark</FirstName>
+<LastName>Wolf</LastName>
+<EmailAddress>jwcwolf@iastate.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Oliver</LastName>
+<EmailAddress>oliver@iastate.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Kaleita</LastName>
+<EmailAddress>kaleita@iastate.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>021Y</Code>
+<Text>Track 2 INFEWS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004Z</Code>
+<Text>Innovations at the Nexus of Food-Energy-</Text>
+</ProgramReference>
+</Award>
+</rootTag>

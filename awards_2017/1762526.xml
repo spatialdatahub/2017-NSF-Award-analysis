@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Innovation in Sustainable Mass Timber Building Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>219886</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Y. Grace Hsuan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mass timber technologies, with their promise of improved resource utilization and sustainability, have brought a new excitement to the U.S. building industry. These technologies are allowing a renewable resource to enter into areas of construction that were previously not feasible due to a variety of technical constraints. Despite the promise that mass timber holds, wood is ultimately a natural material with inherent variability and peculiarities. Before a new engineered wood product can be brought to market, extensive and expensive laboratory testing is required to establish its reliable properties. This project will enhance the opportunities for increased use of timber by understanding the fundamental mechanics necessary for accurate performance prediction, including response and behavior under extreme events.  The work will exploit advances in both computational modeling and materials characterization techniques, such that structural performance can be reliably predicted.  The outcomes of the work will benefit both the manufacturers of wood products, by allowing them to better optimize their fiber resource, and the architects and engineers who develop new structural systems.  For these parties, the new predictive capability will streamline both structural/architectural innovation and product development. Existing ties with both the wood products industry and the architectural community will ensure appropriate dissemination of results.&lt;br/&gt;&lt;br/&gt;In order to realize the above outcomes, specific research activities will focus on a computational framework that will feature a novel mechanisms-based, isogeometric embedded-lattice model approximating the internal structure of mass timber. It will simulate the mechanical behavior at multiple scales including the effect of interfaces and defects. This computational model, which explicitly incorporates material morphology, will be calibrated through an experimental program that isolates and measures the micro- and meso-scale morphological features that dictate material behavior, and it will be validated through structural component-scale testing. Since the approach is designed to capture the physical mechanisms that dictate behavior, larger scale phenomena, such as size effects, will be predicted as a natural outcome of the simulation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1762526</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Landis</LastName>
+<EmailAddress>landis@maine.maine.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 Corbett Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>073Y</Code>
+<Text>ECI-Engineering for Civil Infr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

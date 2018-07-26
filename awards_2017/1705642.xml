@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research/GOALI: Fully Continuous Downstream Processing Enabled by Coupled Precipitation-Filtration Capture Operations</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>224996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this research project is to develop a highly efficient purification method for therapeutic biopharmaceuticals that has the potential to facilitate the transition of the biomanufacturing industry from batch to continuous processing. The use of continuous processing has the potential for improved product uniformity, lower cost production of drugs, and more flexible manufacturing operations. The research project involves designing, building, operating, evaluating, and optimizing an integrated demonstration process for biopharmaceutical purification.  The research is being performed in collaboration with an industrial partner, so the project is providing a unique training environment for graduate students and should facilitate successful career entry into the domestic biopharmaceutical industry. Additionally, knowledge gained from the research project can be rapidly transferred to industry. Outreach efforts are leveraging an existing program at the university to develop, deploy and assess bioseparations learning modules and lab experiments for use in secondary school chemistry curricula.&lt;br/&gt;&lt;br/&gt;The goal of this research project is the development of a continuous coupled precipitation-filtration biomanufacturing process for protein therapeutics that offers significant performance and cost advantages relative to traditional column chromatography-based capture. This purification process is based on staged pairings of static mixers and hollow fiber filters for efficient dewatering, washing, and re-dissolution of the target product. The use of synergistic and generalizable cross-linking and excluded volume precipitant pairs results in reversible, non-denatured precipitates at low precipitant concentrations, relieving the traditional limitations of precipitation. Data-driven models are being developed and validated for protein solubility, precipitation kinetics, and precipitate morphology to provide a quantitative description of the precipitation process. This research project is being performed in collaboration with an industrial partner who, in conjunction with the project researchers, are designing, building, operating, evaluating, and optimizing an integrated demonstration process for biopharmaceutical purification.  Consequently, knowledge gained from the research project can be rapidly transferred to industry.</AbstractNarration>
+<MinAmdLetterDate>08/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1705642</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Przybycien</LastName>
+<EmailAddress>todd@andrew.cmu.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Coffman</LastName>
+<EmailAddress>jon.coffman@boehringer-ingelheim.com</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122689527</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1417</Code>
+<Text>Process Separations</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

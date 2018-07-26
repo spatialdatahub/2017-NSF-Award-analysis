@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Demystifying the Role of Prediction Models: Bridging Prediction Algorithms and Resource Provisioning</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>449816</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Software deployments must be carefully provisioned to meet their performance requirements without wasting resources. Most resource provisioning solutions today employ predictions to estimate future demand and provision accordingly. However, naively employing predictions can negate its benefits. For instance, provisioning resources based only on the predicted average can result in severe performance violations due to uncertainties in the predictor. On the other hand, while additionally resource provisioning can eliminate performance violations, it can substantially increase resource wastage. The goal of this project is to develop and leverage error models to fully realize the potential of predictors.&lt;br/&gt; &lt;br/&gt;The key intellectual contribution of this project is to bridge the gap between predictors and resource provisioning solutions by investigating the prediction error model. This will be accomplished via three main thrusts: (i) constructing models that capture the structure of prediction errors, including correlations and quality over time; (ii) developing an algorithmic framework to incorporate the prediction error models and account for switching costs and penalty functions; and (iii) designing systems to exploit the new prediction error-aware algorithms, including multi-resource provisioning and resource placement solutions. The solutions will be experimentally evaluated using available application traces.&lt;br/&gt; &lt;br/&gt;The research will allow businesses to reduce resource wastage despite significant prediction errors. The research results will be disseminated through technology transfer opportunities with industrial partners. Given the nature of the work, the project will advance interdisciplinary education and research opportunities. In particular, the project will directly contribute to interdisciplinary courses taught at the Computer Science and Applied Mathematics, and Statistics departments, which also will allow for joint advising of students.&lt;br/&gt; &lt;br/&gt;All data produced as a result of this project, including traces, software, publications, and courseware, will be made publicly available on the project repository: http://www.pace.cs.stonybrook.edu/prediction-models.html. The data will be made available for at least 10 years, and even longer if needed. Data will be maintained by local web servers and will also be replicated on external public Internet servers, such as those provided by github, which offer long-term durability and reliability.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717588</AwardID>
+<Investigator>
+<FirstName>Anshul</FirstName>
+<LastName>Gandhi</LastName>
+<EmailAddress>anshul@cs.stonybrook.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhenhua</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>zhenhua.liu@stonybrook.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

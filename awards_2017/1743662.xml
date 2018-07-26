@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>On-chip optical biosensing methods for quantitative measurement of antibiotic resistance</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study the problem of antibiotic-resistant bacterial infection associated with medical devices. The goal is to develop improved methodologies for quantitative assessment of this problem in the medical device context. This project will develop an inexpensive, reproducible and quantitative basis for comparing innovative therapeutic strategies to reduce the emergence of drug resistant bacteria. The knowledge gained in this work will help researchers in the area of regulatory science to improve predictive capability for the assessment of novel antibiotics. This work will also help to improve predictive capability for assessment of new therapies using existing antibiotics or combinations of existing antibiotics. Graduate and undergraduate students will have opportunities to develop their communication and leadership skills. The team will hold monthly interactive meetings at GWU or FDA. &lt;br/&gt;&lt;br/&gt;The GWU-FDA collaborative team will develop an in vitro resistance evolution model based on microfluidics and on-chip optical sensing to assess how antibiotic resistance emerges in biofilm over 2 weeks on urinary catheters in response to clinically realistic pharmacokinetics/pharmacodynamics. This model will expose biofilm on catheters to 2-week concentration-time profiles similar to those experienced in vivo. The model aims to use lab-on-a-chip technology to increase the throughput of testing. This project will lead to new insight and improved mechanistic understanding of the special infection challenges that are posed by biofilms that are associated with indwelling and implanted medical devices. The PI will use recent developments in optical diagnostics and microfluidics technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1743662</AwardID>
+<Investigator>
+<FirstName>Zhenyu</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>zhenyu@gwu.edu</EmailAddress>
+<StartDate>07/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200522000</ZipCode>
+<PhoneNumber>2029946255</PhoneNumber>
+<StreetAddress>2121 Eye Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CyberCorps: Capacity Building In Social Engineering Penetration Testing</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor P. Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Social engineering is the act of using methods of deception to manipulate victims into revealing personal information. Social engineering attacks can be launched through different methods, such as targeted phishing/scam emails, fraudulent text messages, or by observation of a person's computer activity over their shoulder, i.e., "shoulder surfing." The project from Texas Tech University will identify the social skillsets that professional and ethical hackers need for launching deceptive social engineering attacks. This project proposes to: carry-out experiments to understand factors at play during social engineering attacks; develop of educational materials that incorporate lessons learned from these experiments; and offer opportunities for students and educators to practice social engineering attack-tactics with one another. Through these approaches, the project will increase the number of cybersecurity-capable professionals and enable them to conduct better and more effective tests of security of systems. &lt;br/&gt;&lt;br/&gt;Through the project, human-factor experiments will be conducted to understand the factors at play on three major social engineering attack methods: i) the characteristics of emails that enable launching successful phishing attacks, ii) the behavior and manner of attackers when deceiving victims through phone calls with the purpose of divulging the victims' personal information, and iii) the behavior and manner of attackers when physically approaching victims with the goal of obtaining sensitive information. In addition, project personnel will develop a set of instructional modules for a course on Social Engineering. Those modules will a) reflect the results of the human-factor experiments, b) include penetration testing attack toolkits that allow students to gain hands-on experience with such attacks, and c) include lesson plans to help cybersecurity professionals learn social engineering content and become better penetration testers. To build a capacity in social engineering, the project will offer professional development workshops for students and educators from across the nation where the results of this research will be showcased. These workshops will provide an opportunity for students and educators to gain hands-on experience with social engineering skills so that they may better understand the nature and efficacy of these approaches, and be better equipped to address them.</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1723765</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Jones</LastName>
+<EmailAddress>keith.s.jones@ttu.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Akbar</FirstName>
+<LastName>Siami Namin</LastName>
+<EmailAddress>akbar.namin@ttu.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

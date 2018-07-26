@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Collaborative: Cardiac Password: Exploring a Non-Contact and Continuous Approach to Secure User Authentication</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>220410</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Most traditional security systems authenticate a user only at the initial log-in session. As a result, it is possible for another user, authorized or unauthorized, to access the system information, with or without the permission of the signed-on user, until the initial user logs out. This could be a critical security flaw even for high-security systems. Traditional one-time (e.g., password) or two-factor (e.g., password with fingerprint) authentication methods are no longer sufficient. Continuous authentication is a form of dynamic, risk-based authentication that changes the perspective of authentication from an event to a process, and has the potential to address the vulnerability of existing security systems by continuously verifying the user's identity during the session use. This interdisciplinary team explores a novel continuous authentication through a transformative non-contact heart-based biometrics. This project could transform the understanding of non-volatile components in cardiac motion, and convert this new knowledge and related technologies into improved security in increasingly vulnerable cyberspace. The project establishes a unique inter university research and education program on cyber security, which involves both K-12, undergraduate students, and underrepresented populations.&lt;br/&gt;&lt;br/&gt;The Cardiac Password project investigates a holistic hardware/software solution to secure and trustworthy continuous authentication via non-contact cardiac motion sensing. The new authentication system can recognize humans in a non-contact, unobtrusive and even non-line-of-sight fashion. Towards this goal, the project has three thrusts. First, the team develops a high-fidelity non-contact cardiac motion sensing device. Second, the team investigates invariant cardiac descriptors and propose continuous authentication methodologies. Third, the team assesses the performance, usability, and vulnerability of the proposed Cardiac Password system. The outcome of this research can advance state-of-the-art heart-based biometrics in user authentication, and provide insights on developing more undeceivable, disclosure-resistant and user-friendly biometric solutions. The investigators will disseminate the results of the project through publications, talks, and demos, and integrate the research results into education curricula.</AbstractNarration>
+<MinAmdLetterDate>08/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1718483</AwardID>
+<Investigator>
+<FirstName>Changzhi</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>changzhi.li@ttu.edu</EmailAddress>
+<StartDate>08/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  e-CHEM: A fully-autonomous connected in-situ chemical sensor</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project addresses a great demand for in-situ chemical sensor technology with ability to (1) Measure with high resolution the environmental footprint of agricultural and urban development, and (2) Identify potential safety issues related to drinking water quality. High concentrations of nutrients (e.g. nitrate, nitrite, orthophosphate) in surface waters are the source of environmental, public health, and economic issues. Active monitoring of nutrient concentrations in surface waters such as estuaries, lakes and rivers is critical in assessing their health and implementing timely action to minimize ecosystem degradation. This SBIR project aims at developing a disruptive new type of highly miniaturized autonomous water quality chemical sensor, that can be operated remotely and autonomously, has minimal installation and maintenance requirements, is capable of performing thousands of measurements directly in-situ, in both reagent-based and reagent-less configuration, on a single battery charge. Applications that will greatly benefit from such sensors range from scientific research, to estimating nutrient loads, establishing discharge limits, predicting eutrophication conditions and demonstrating compliance with regulatory reporting requirements. Independently, the drinking water industry has its own requirements for autonomous chemical sensors for monitoring reservoirs and distribution networks, optimizing treatment processes and identifying tank nitrification issues early-on. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to achieve the highest level of miniaturization and functionality attempted in a commercial water quality sensor. The core innovation of this proposed e-CHEM system is in the microfluidic chemical analysis module, combining a novel highly-efficient mixing mechanism to homogenize minute volumes of reagent with the fluid sample with a microfluidic implementation of dual reagent-based and reagent-less chemical measurement capability, the possibility of controlling relevant chemical reactions in-situ via precise on-chip temperature management, and finally the potential of overcoming the important hurdle of bio-fouling via novel surface nano-engineering. The parameters measured will include a selection from: ortho-phosphates, nitrites, nitrates, dissolved organic carbon, total and/or free chlorine, free ammonia, and pH. The system will include bidirectional wireless telemetry to enable automatic alert generation and data transmission to remote servers for visualization, analysis and interpretation. Target accuracy and response times are superior to traditional measurement techniques due to full process automation, elimination of sample degradation and transit times, reduction of human error, and automatic data centralization.</AbstractNarration>
+<MinAmdLetterDate>12/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747293</AwardID>
+<Investigator>
+<FirstName>Joyce</FirstName>
+<LastName>Wong</LastName>
+<EmailAddress>j.wong@fluidion.com</EmailAddress>
+<StartDate>12/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>FLUIDION US Inc.</Name>
+<CityName>Pasadena</CityName>
+<ZipCode>911075050</ZipCode>
+<PhoneNumber>6267655580</PhoneNumber>
+<StreetAddress>396 S San Marino Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

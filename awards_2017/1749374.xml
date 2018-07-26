@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Soft Matter Simulation and Theory of the Crystal Assembly of Globular and Membrane Proteins</AwardTitle>
+<AwardEffectiveDate>04/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl W. Hess</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Division of Materials Research and the Chemistry Division contribute funds to this award. This award supports theoretical and computational research and education into the crystallization of proteins, which are molecules that are essential to all life forms. Protein crystallization is a key step in determining their structure. Knowing the structure of a protein, in turn, is crucial for understanding its role in biology. Proteins indeed interact with each other and their environment through fine-tuned features. Limited knowledge of protein structures hinders the comprehension of biological molecules and the ability to discover new drugs that interacts with them. The research team will identify how weak yet directional interactions lead to the complex processes through which certain classes of proteins can form crystals. It will also study the materials properties of the ordered lipid phases used for crystallizing those proteins that reside within the membrane of cells.&lt;br/&gt;&lt;br/&gt;The award also supports the education of students at Duke University, and the PI's participation in various outreach activities within the state of North Carolina and nationally. Through close collaboration with experimental scientists, the findings of the research team will also be tested and used by the protein crystallization community. As a complement to this work, the PI will lead a joint industry-academia consortium aiming to automatize image analysis of protein crystallization experiments, which should dramatically accelerate the experimental process and data gathering. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Division of Materials Research and the Chemistry Division contribute funds to this award. This award supports theoretical and computational research and education on the soft matter theory and computational modeling of the crystallization of globular proteins and of the lipidic assemblies central to in-meso crystallization of membrane proteins. Both processes are key for protein-structure determination through crystallographic techniques yet are challenging to control experimentally and thus could benefit from additional insight from physical models. &lt;br/&gt;&lt;br/&gt;More specifically, the research team will examine how weak, non-covalent yet directional interactions lead to the complex crystallization behavior of different classes of proteins. They will study the crystallization of globular proteins that: (i)  dimerize, (ii) display an inverted solubility, and (iii) are composed of multiple subdomains. All three cases fall beyond the canonical description of protein crystal assembly. By developing theoretical and computational soft matter models that capture the essence of these richer types of protein crystal assembly, the research team will guide parallel experimental efforts by collaborating researchers.&lt;br/&gt;&lt;br/&gt;The research team will also examine the formation of lipidic mesophases, which are commonly used for the in-meso crystallization process of membrane proteins but whose microscopic role is incompletely understood. The project will use state-of-the-art numerical tools for determining the phase behavior of various lipid models and examine how membrane proteins embed and order within these ordered phases.&lt;br/&gt;&lt;br/&gt;The award also supports the education of students at Duke University, and the PI's participation in various outreach activities. Through close collaboration with experimental researchers in the field of protein crystallization, the findings of the research team will also be tested and broadly implemented. As a complement to this work, the PI will also lead a joint industry-academia consortium aiming to automatize image analysis of protein crystallization experiments, and thus remove the biggest bottleneck in the systematic analysis of these experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749374</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Charbonneau</LastName>
+<EmailAddress>patrick.charbonneau@duke.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Theory, Models, Comput. Method</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

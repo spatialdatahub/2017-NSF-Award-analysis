@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Low-complexity Asynchronous Re-sampler for Optical Coherence Tomography</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is based on significant improvements in accuracy and cost reduction of eye-related disease diagnosis by providing a high-quality, high-speed tissue imaging solution. Specifically, the project will shorten clinical scan time, and as a result, increase image resolution while reducing the number of required patient clinic visits. These improvements directly lower associated medical costs. The project goal is to create a new-generation of Optical Coherence Tomography (OCT), a technique that is used in the clinical practice to provide cross-sectional images of the retina.  Currently, the biggest challenge faced by OCT clinical applications is their slow scan speed, which leads to low image resolutions and therefore unsatisfying clinical experience. A high-quality, high-speed signal processing tool is needed for reliable clinical decision-making and disease monitoring with OCT systems.&lt;br/&gt;&lt;br/&gt;This I-Corps project will further develop a new-generation of Optical Coherence Tomography (OCT).  The I-Corps project will explore the commercial potential of the innovation, a system capable of decreasing the signal processing time of swept source OCT (SS-OCT) devices by up to ten times according to lab tests. This device is based on a family of novel signal processing algorithms that significantly improve the accuracy and speed required for the medical images to be acquired. The SS-OCT platform will be enhanced in terms of the image acquisition speed, accuracy, and cost. This, in turn, will decrease the number of visits a patient needs to make to an ophthalmology clinic while increasing the overall clinic capacity to attend visiting patients per day, generating more revenue for those centers.</AbstractNarration>
+<MinAmdLetterDate>11/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1760126</AwardID>
+<Investigator>
+<FirstName>Sebastian</FirstName>
+<LastName>Hoyos</LastName>
+<EmailAddress>hoyos@ece.tamu.edu</EmailAddress>
+<StartDate>11/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

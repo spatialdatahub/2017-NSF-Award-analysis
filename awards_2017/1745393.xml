@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Preparation of Research Collections to Deposit in Museums</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>107750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel M. Scheiner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will organize, preserve, and archive an important collection of fossil and extant specimens of stickleback fish from Alaska and California. Sticklebacks have long been a critical model system in evolutionary biology, and are known for their complex mating behavior and diversity among populations in terms of morphology and life-history. This collection, which was assembled since 1975, represents extensive phenotypic diversity in stickleback fish, and therefore this data-source is crucial for current and future comparative or experimental research on sticklebacks in particular, and evolutionary and behavioral processes in general. Of particular value are the fossil samples, as they are central to gain a better understanding of the timing of evolutionary dynamics, including trends in trait relationships and their role in shaping stickleback diversity.  This project will make this collection accessible to researchers nationally, and internationally. It will provide important training and research opportunities in basic and applied sciences (e.g., Department of Fish and Wildlife).&lt;br/&gt;&lt;br/&gt;The fossil specimens will be deposited in the University of California Museum of Paleontology; the extant specimens will be deposited in the Ichthyology Collection of the California Academy of Sciences. The samples and associated records will be indexed and linked to field notes and associated databases will be assigned museum specimen numbers. Curating and depositing these specimens will make them available to the general science community. The preservation of this research collection will ensure the continued use of this valuable resource, and preparation of sample records will involve high-throughput scanning, accuracy-editing of labels, curation of microstratigraphic data as well as map coordinate data. Sample records will be linked to an existing limnological database, as well as the Alaska Department of Fish and Game records for the Alaskan samples.</AbstractNarration>
+<MinAmdLetterDate>08/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745393</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bell</LastName>
+<EmailAddress>michael.bell@stonybrook.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>von Hippel</LastName>
+<EmailAddress>frank.vonhippel@nau.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

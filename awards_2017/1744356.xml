@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Understanding Emerging Technologies and the Future of Work</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>99970</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Breckler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Intelligent, interactive, and highly networked machines are a growing part of work and the workplace.  Automation is moving from the factory floor to knowledge and service occupations.  The potential benefits of technology include increased productivity and more job opportunities.  But technology connected to work can also carry substantial social costs.  The workshop supported by this award will promote the convergence of education, social and behavioral sciences, computational sciences, and engineering with stakeholders. This diverse group will define key research challenges that focus on the intersection of humans, technology, and work.  Convergence is the deep integration of knowledge, theories, methods, and data from multiple fields to form new and expanded frameworks for addressing scientific and societal challenges and opportunities. Two workshops will address the future of work at the human-technology frontier. The workshops will focus on the challenges of shaping emergent technologies that are equitable. They will also consider how the technologies will engage a wider range of people in the workforce of the future.  The results of the workshops will include reports, communication materials, and the organization of interdisciplinary panels at professional scientific meetings.&lt;br/&gt;&lt;br/&gt;The specific focus of this workshop effort is on understanding the social and technical dimensions of new technologies. The goal is to develop a research agenda that will help us understand the challenges of shaping emergent technologies in ways that result in good jobs for a wide range of U.S. workers. This includes a workshop that will bring together expert scientists to consider (1) how the changing organization of work and technology affects income inequality; (2) how decisions are made in developing artificial intelligence and processes for human-technology partnerships; (3) how to develop methods for assessing emerging technologies in terms of likely work satisfaction and inequality in employment outcomes; and (4) how workforce development and economic systems can help make high-paying stable jobs widely available. The second workshop will include stakeholders and will focus on how to use these ideas at the local level.</AbstractNarration>
+<MinAmdLetterDate>08/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1744356</AwardID>
+<Investigator>
+<FirstName>Enobong</FirstName>
+<LastName>Branch</LastName>
+<EmailAddress>ebranch@soc.umass.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shlomo</FirstName>
+<LastName>Zilberstein</LastName>
+<EmailAddress>shlomo@cs.umass.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shannon</FirstName>
+<LastName>Roberts</LastName>
+<EmailAddress>scroberts@umass.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Renski</LastName>
+<EmailAddress>hrenski@larp.umass.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laurel</FirstName>
+<LastName>Smith-Doerr</LastName>
+<EmailAddress>lsmithdoerr@soc.umass.edu</EmailAddress>
+<StartDate>08/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1332</Code>
+<Text>SOCIAL PSYCHOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7603</Code>
+<Text>SCIENCE, TECH &amp; SOCIETY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+</Award>
+</rootTag>

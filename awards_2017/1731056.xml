@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SpecEES: Wideband Wireless Communications with Low-Power Transceiver-Cell Circuits</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>650000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the exponential increase in data consumption world-wide, the corresponding increase of associated power consumption in wireless communication systems is receiving significant attention and concern.  This research effort examines wireless communication performance techniques and limits when simple low-power devices are used to transmit and receive signals.  These devices, because of their simplicity, are constrained to transmit and receive "one bit" of information, and with extremely low power consumption.  However, many of them can be used together and at very high speeds, giving an overall high effective data rate.  The effort examines the potential power advantages of using such devices over conventional devices that are more capable but have much higher power consumption. The project pushes the boundaries on many areas of traditional linear systems and circuit theory, and will be integrated into undergraduate and graduate course offerings in linear systems, digital signal processing, circuit design, and microwave engineering.  The results will be used to encourage discussion about how high data rates need not require a large power budget.&lt;br/&gt;&lt;br/&gt;The design of wireless communication systems that rely on classical linear-system techniques runs into difficulties with high power-consumption of circuits at carrier frequencies above 20 GHz and with bandwidths above 2 GHz.  Linear amplifiers, mixers, and high-speed analog-to-digital converters, and digital-to-analog converters in the transceiver chains become inefficient and expensive.  This research effort examines wireless communication performance limits and techniques when a novel energy-efficient "transceiver cell" is used for the air interface.  The transceiver cell exploits nonlinearities in its devices and circuits to obtain very low power consumption and ease of fabrication in a variety of technologies for wide bandwidths and at very high carrier frequencies.  The cell comprises a transmitter and receiver capable of modulating and demodulating a single bit per symbol.  The effort is transformative because it looks at maximizing bits/(second-Hz-Watt) in the trade-off of the performance of each cell versus the number of cells in a power-constrained system, by applying concepts from neural-networking systems of low-power nonlinear ``computational cells''.</AbstractNarration>
+<MinAmdLetterDate>08/10/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1731056</AwardID>
+<Investigator>
+<FirstName>Bertrand</FirstName>
+<LastName>Hochwald</LastName>
+<EmailAddress>bhochwald@nd.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Chisum</LastName>
+<EmailAddress>Jonathan.Chisum.2@nd.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Nicholas</FirstName>
+<LastName>Laneman</LastName>
+<EmailAddress>jnl@nd.edu</EmailAddress>
+<StartDate>08/10/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>059Y</Code>
+<Text>SpecEES Spectrum Efficiency, E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>055Z</Code>
+<Text>SpecEES Spectrum Efficiency, Energy Effi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

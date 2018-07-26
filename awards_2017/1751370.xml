@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Computational Studies of Aromaticity-Modulated Interactions in Supramolecular Chemistry</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>235182</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hydrogen bonds are weak chemical interactions that, like the "glue" used to stick items together, can hold many molecules together to create elaborate chemical structures or to perform sophisticated functions. These interactions underlie many biological processes (e.g., DNA replication and enzyme catalysis) which, when artfully mimicked in man-made materials, can have important applications for biomedical, environmental, and renewable energy fields. However, factors that influence the strengths of hydrogen bonds (i.e., how "sticky" they are) in these complex systems remain largely convoluted, making "copying nature" in man-made materials difficult. In this project, Prof. Judy Wu and her students at the University of Houston are applying computational tools to study how hydrogen bonds work in concert in large complex organic molecules. Her research aims to establish new and useful ways of controlling hydrogen bonds, and to demonstrate their broader impacts for the discovery of advanced materials (e.g., gels, plastics, and electronics with novel properties). Integrated to this project are plans to develop a "Numbers to Insights" student workshop and web application to help facilitate the exchange of scientific ideas and findings across computational and experimental chemistry research groups.  &lt;br/&gt;&lt;br/&gt;The proposed project aims to show that the marriage of two fundamental chemical concepts, aromaticity and hydrogen bonding, gives rise to surprising reciprocal effects with important consequences for supramolecular chemistry. Despite the recognition of hydrogen bonding and aromaticity as largely separate concepts in organic chemistry, research from the Wu group is showing that aromaticity can be used to control the strengths of intermolecular hydrogen bonding interactions through a phenomena called aromaticity-modulated hydrogen bonding (AMHB). Computational quantum chemical tools are applied to test the AMHB relationship at the 1) ground and 2) excited states of hydrogen-bonded molecular recognition units, 3) to investigate how AMHB influences the self-assembly modes of hydrogen-bonded molecular building blocks, and 4) to elucidate the role of AMHB in some examples of enzyme catalysis. At the core of this CAREER project is the vision to bridge discoveries of novel chemical relationships to their probable impacts in supramolecular chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1751370</AwardID>
+<Investigator>
+<FirstName>Judy I-Chia</FirstName>
+<LastName>Wu</LastName>
+<EmailAddress>jiwu@central.uh.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>Houston</CityName>
+<ZipCode>772042015</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4800 Calhoun Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

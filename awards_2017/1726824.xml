@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: SusChEM: Acquisition of a hybrid distributed computer system to enhance integration of chemical theory, computation, and experimental research at Duquesne University</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>265060</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation Programs. Professor Jeffrey Evanseck from Duquesne University and colleagues Jeffry Madura, Ellen Gawalt, Mihaela-Rita Mihailescu, and Tomislav Pintauer are acquiring a hybrid computer cluster having central processing units (CPUs) and graphics processing units (GPUs).  The cluster is used in computational chemistry research projects.  These projects employ theoretical chemistry programs and algorithms or processes using principles from quantum mechanics or molecular mechanics (often called molecular dynamics simulations).  The acquisition enables graduate and undergraduate students to undertake computational research projects. Using theoretical methods coded into computer programs, they provide insight on projects involving the development of novel materials for energy conversion, gas storage, sensors and catalysis, and the development of new biomaterials with superior properties. The computer cluster is a resource for students and researchers at other institutions such as Lincoln, Chatham, Slippery Rock, Washington and Jefferson, and Franciscan Universities as well as the University of Texas Rio Grande Valley.&lt;br/&gt;&lt;br/&gt;The computer cluster enhances research and education at all levels. It enables investigations of the intrinsic structure and reactivity of actinide ions, diamond-like semiconductors, and catalyst regeneration in transition metal mediated atom addition and cyclation reactions. The instrumentation is also used for studies of dopamine and serotonin transporters and of thermodynamics of chlatrate hydrates. The cluster benefits the study of formyl and alpha-hydrogen bonds and the investigation of friction and wear in organic films.</AbstractNarration>
+<MinAmdLetterDate>08/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726824</AwardID>
+<Investigator>
+<FirstName>Jeffry</FirstName>
+<LastName>Madura</LastName>
+<EmailAddress>madura@duq.edu</EmailAddress>
+<StartDate>08/27/2017</StartDate>
+<EndDate>03/30/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Evanseck</LastName>
+<EmailAddress>evanseck@duq.edu</EmailAddress>
+<StartDate>08/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ellen</FirstName>
+<LastName>Gawalt</LastName>
+<EmailAddress>gawalte@duq.edu</EmailAddress>
+<StartDate>08/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mihaela-Rita</FirstName>
+<LastName>Mihailescu</LastName>
+<EmailAddress>mihailescum@duq.edu</EmailAddress>
+<StartDate>08/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tomislav</FirstName>
+<LastName>Pintauer</LastName>
+<EmailAddress>pintauert@duq.edu</EmailAddress>
+<StartDate>08/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duquesne University</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152820001</ZipCode>
+<PhoneNumber>4123961537</PhoneNumber>
+<StreetAddress>Room 310 Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8009</Code>
+<Text>Scientifc Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

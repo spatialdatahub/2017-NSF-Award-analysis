@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Neoclassical Growth with Long-Term One-Sided Commitment Contracts</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>445000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project team seeks to develop a new model of an entire national economy in which households can sign sophisticated financial contracts to solve insurance challenges. However, the scope of that insurance is limited by information and contract enforcement problems. The result is a model that is more realistic than other general equilibrium macroeconomic models, and a model that is simple enough to study a wide variety of issues facing the macroeconomy. In particular, the project will give researchers a new framework for studying the interaction between macroeconomic performance, financial intermediation, and household inequality. Researchers and policymakers will be able to use the framework to understand how this link is shaped by economic policy and impacted by macroeconomic shocks. The team plans to include studies of specific government policies and the ways that these policies can improve economic competitiveness.&lt;br/&gt;&lt;br/&gt;The project seeks to develop a new, analytically tractable general equilibrium macroeconomic model with idiosyncratic income risk and endogenous financial contracts. To do so, long-term contractual arrangements between risk-averse households and risk-neutral competitive financial intermediaries will be embedded into a stationary version of the neoclassical growth model. The project combines two strands of the literature. The first is the standard incomplete markets model with uninsurable idiosyncratic income shocks and neoclassical production. The second is the researcher team's previous work on dynamic insurance contracts offered by competitive financial intermediaries. The new model framework has a key feature: limits to mutual insurance are derived endogenously rather than being imposed by assumption. The resulting model will then be applied to transitions induced by economic policy and to the analysis of business cycles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1757084</AwardID>
+<Investigator>
+<FirstName>Harald</FirstName>
+<LastName>Uhlig</LastName>
+<EmailAddress>huhlig@uchicago.edu</EmailAddress>
+<StartDate>05/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dirk</FirstName>
+<LastName>Krueger</LastName>
+<EmailAddress>dkrueger@upenn.edu</EmailAddress>
+<StartDate>05/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Bureau of Economic Research Inc</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385398</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress>1050 Massachusetts Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

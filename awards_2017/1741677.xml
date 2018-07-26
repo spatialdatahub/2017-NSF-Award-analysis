@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: EFRI NewLaw: Non-reciprocal effects and Anderson localization of acoustic and elastic waves in periodic structures with broken P-symmetry of the unit cell</AwardTitle>
+<AwardEffectiveDate>11/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardAmount>1997222</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kara Peters</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will investigate non-reciprocal metamaterials that arise in periodic media due to viscosity and engineer acoustic wave propagation through it. For light and sound waves, nature ideally follows the reciprocity rule that reversing a wave propagation will return that wave to its original state. This phenomenon is similar to the "undo" action on a computer or device, and is fundamental to the behavior of waves used in conventional communication and our general perception of reality. However, there is a select class of specially designed materials that violate these behaviors called non-reciprocal metamaterials that break reciprocity symmetry. In these materials, the "undo" or reverse action does not ideally return the wave to its initial state. Deeper understanding of non-reciprocity will enhance our knowledge of general acoustics and impact applications like architecture, secure communications, vibration isolation, medical diagnostics and therapeutics. Active phononic structures including tunable lens, filters and acoustic diodes will be designed. Additive manufacturing and micro-electro-mechanical techniques will be utilized to realize active phononic structures.  Local high school students, graduates, post-docs, and undergraduates from physics, mechanical and electrical engineering, and material science will be involved in this project. Research experience and mentoring (EFRI-REM) will be offered through this research project to the students from Texas Academy of Math and Sciences. This project also includes close collaboration with the industry for student training and commercialization of the outcome of the research activities.&lt;br/&gt;&lt;br/&gt;Propagation of waves through a system of scatterers follows the reciprocity theorem which states that the transmission of a wave remains identical if the positions of the emitter and receiver are interchanged. The reciprocity follows from the fundamental property of the wave equation - time reversal symmetry. This project investigates a new mechanism of non-reciprocal or unidirectional propagation of sound in viscous medium. A common viewpoint is that while dissipation breaks time-reversibility, this is not sufficient to induce different transmission along two opposite directions. However, this is not valid in case of a viscous fluid. It will be shown that sound propagating in viscous medium through a phononic crystal with broken P-symmetry does not follow the reciprocity theorem. More specifically, we investigate how differential dissipation arising in the Navier-Stokes equation leads to significant non-reciprocal effects without the requirement of dynamic energy input, and expand that to new classes of non-reciprocal structures including non-reciprocal hyperbolic metamaterials. The transmission through a 2D disordered phononic crystal with non-reciprocity will also be studied. The presence of disorder in an individual scatterer results in localization of sound waves - an effect termed Anderson localization. This effect will be utilized to achieve encryption, which can be used to develop secure communication of acoustic signal both in air and water.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/26/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1741677</AwardID>
+<Investigator>
+<FirstName>Arup</FirstName>
+<LastName>Neogi</LastName>
+<EmailAddress>arup@unt.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arkadii</FirstName>
+<LastName>Krokhin</LastName>
+<EmailAddress>arkady@unt.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ezekiel</FirstName>
+<LastName>Walker</LastName>
+<EmailAddress>ezekiel.walker@echonovus.com</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tae-Youl</FirstName>
+<LastName>Choi</LastName>
+<EmailAddress>tae-youl.choi@unt.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>DENTON</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 Union Circle #305250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

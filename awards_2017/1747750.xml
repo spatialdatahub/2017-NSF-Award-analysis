@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant:  Industry University Cooperative Research Center (IUCRC) for Bioanalytic Metrology (CBM), Indiana University</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Prakash Balan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports planning for an Industry-University Collaborative Research Center for Bioanalytic Metrology, a joint effort of Indiana University, the University of Notre Dame, and Purdue University. The meeting will bring together a national coalition of analytical instrument makers, pharmaceutical companies, clinical practitioners, academic researchers, and other stakeholders, and unite them in a mission to design and build new, industry-critical systems for chemical measurement and bioanalysis. These systems are needed to address a fundamental gap in U.S. research and development; namely, the ability to fully identify, characterize, and track biological molecules within human cells and understand their many complex interactions. If established, the technical spin-offs from the center will have direct and tangible benefits for drug discovery, molecular diagnostics, clinical biotechnology, and other areas. Moreover, the capabilities envisioned by the center are necessary for the implementation of other long-term health objectives, such as precision medicine. In addition to this knowledge transfer, the center will also help train a new and diverse bioanalytical workforce. The outcomes of the planning exercise will form the basis of a proposal to the National Science Foundation for the Center for Bioanalytic Metrology. &lt;br/&gt;&lt;br/&gt;Genomics, proteomics, metabolomics and bioinformatics provide a holistic framework to study biological systems with applications ranging from fundamental studies of biological systems to the design and use of diagnostics and therapeutics for personalized medicine. To realize the promise of these technologies, however, we must increase the depth of analysis of proteins, metabolites and other biomolecular species beyond current limits, thus reducing the fraction of detected?but unidentified?species known as the ?dark molecules of life.? This planning grant lays the groundwork for a Center for Bioanalytic Metrology (CBM), joining expertise at Indiana, Notre Dame, and Purdue. Planning activities will bring together analytical instrument makers, pharmaceutical companies, clinical practitioners, and leading academic research groups in analytical sciences and engineering. In addition to the technical objectives, the CBM will also: (a) enable technology and knowledge transfer to the industrial sector, (b) enhance graduate and undergraduate education activities specifically designed to increase diversity of the STEM workforce, and (c) provide valuable updates to chemistry, biology, computer science, and engineering curricula through the incorporation of research into existing undergraduate and graduate classes.</AbstractNarration>
+<MinAmdLetterDate>12/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1747750</AwardID>
+<Investigator>
+<FirstName>Lane</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>lanbaker@indiana.edu</EmailAddress>
+<StartDate>12/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

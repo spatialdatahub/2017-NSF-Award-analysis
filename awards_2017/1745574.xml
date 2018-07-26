@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Support for the ACM/IEEE SEC 2017 Conference</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2017 IEEE SEC Conference (Symposium on Edge Computing) will be held in San Jose, CA on Oct. 12-14, 2017. This preeminent technical conference is the primary venue for presenting new research results in the area of "edge computing", a new paradigm in which the resources of a small data center are placed at the edge of the Internet, in close proximity to mobile devices, sensors, and end users, and the emerging Internet of Things. Participants will have the opportunity to present their work, attend panel and keynote sessions, and interact with many people conducting leading-edge research in the field.  &lt;br/&gt;&lt;br/&gt;To help build student participation, particularly at institutions where travel funds may not otherwise be available, the plan is to support 20 students.  Participation in conferences is a valuable and important part of the graduate school experience providing students' exposure to senior researchers and leading edge work in the field.</AbstractNarration>
+<MinAmdLetterDate>08/09/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745574</AwardID>
+<Investigator>
+<FirstName>Yifan</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>zhangy@binghamton.edu</EmailAddress>
+<StartDate>08/09/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Binghamton</Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139026000</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress>4400 VESTAL PKWY E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

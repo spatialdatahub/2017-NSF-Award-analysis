@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Critical Nonlinear Dispersive Equations</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>120258</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Holmer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project considers the behavior of solutions of different types of wave equations, including the ultra-hyperbolic Schrodinger equation, the Schrodinger map problem, the Hartree equation, the Skyrme model, and the Einstein wave map system.   These equations are widely separated in their physical and historical origins, however, the relevant mathematics is closely related, and techniques and insights in various areas of mathematics may be synthesized in fruitful ways.  Solutions to these equations exist at least for a short time, but beyond that, can either reach a singularity at some finite time, or extend to all time in which case they are called global solutions.  For singular solutions, the central questions are to find the mechanisms for the breakdown of the solutions and the structure of the solutions as time evolves toward the singularity.  For global solutions, the goal is to catalogue the different possible behaviors of the solution as time extends to infinity, which can include dispersion, the production of cohesive static waveforms or concentrating waveforms. &lt;br/&gt;&lt;br/&gt;The mathematical analysis of these equations applies techniques from geometry, Fourier analysis, and spectral theory.  For some of the equations, the local in time theory is very well understood and is set in a scale-invariant function space that plays a crucial role in the long time analysis of solutions as well.  Despite numerous advances in the last several decades, in many cases it remains an open problem whether a certain initial condition will produce a solution that is singular or global.  It is expected that the solution will behave like a perturbation of a linearized version of the equation in many cases, although there are other known phenomena which occur.  Some of the analytical techniques common to these problems, or which one hopes to apply to these problems, include Morawetz estimates and energy estimates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1764358</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Dodson</LastName>
+<EmailAddress>dodson@math.jhu.edu</EmailAddress>
+<StartDate>06/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

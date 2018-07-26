@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Design of Experiments with Dynamic Responses</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>314604</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many engineered systems, such as those in the automotive and chemical industries, have dynamic performance or system outputs. The overall performance of such systems cannot be captured by a single number, but is instead represented by a response profile over time. Conducting experiments on these systems is costly and time-consuming; as a result, improving system performance through experimentation is difficult. This project will overcome these challenges through novel experimental design methodologies for engineered systems with dynamic outputs. The project is expected to impact a broad range of engineering applications. The academic research team will work closely with industrial partners to ensure applicability to real life settings.&lt;br/&gt;&lt;br/&gt;The research objective of this project is to improve experimental design methods for systems with dynamic response. The project will make advances in (1) dynamic response modeling, (2) optimal experimental designs, and (3) computational algorithm development. A novel hierarchical mix effect modeling approach will capture both the dynamic behavior of response variables and the effects of experimental factors. At the experimental design stage, the optimal sampling locations of the spectrum variables and design points in the experimental factor space will be investigated. Finally, fast computer algorithms that take advantage of the properties of B-spline basis function and the patterns in design matrices will be developed.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1726445</AwardID>
+<Investigator>
+<FirstName>Rong</FirstName>
+<LastName>Pan</LastName>
+<EmailAddress>rong.pan@asu.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ming-Hung</FirstName>
+<LastName>Kao</LastName>
+<EmailAddress>mkao3@asu.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

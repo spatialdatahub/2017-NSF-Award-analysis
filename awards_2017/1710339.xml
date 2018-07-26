@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Many Facets of Coenzyme B12 Chemistry</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Max Funk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With this award, the Chemistry of Life Processes Program in the Chemistry Division is funding Dr. Thomas Brunold from the University of Wisconsin-Madison to study the chemistry of vitamin B12.  Vitamins are necessary nutrients because they assist in various chemical changes that take place in living systems.  Vitamin B12 is extraordinary because it is one of the few molecules in biology where the metal cobalt is found.  In addition, the cobalt atom is bonded to carbon in vitamin B12, a connection that is very rarely seen in biology.  The research applies state-of-the-art scientific methods to understand how this unusual bond is made, and how it is used in three specific biological systems.  Graduate and undergraduate students involved in this project gain a thorough understanding of how the special chemistry of cobalt contributes to biological processes.  The broader impacts of this work are enhanced by an open-house laboratory workshop and an undergraduate inorganic laboratory with examples derived from the research resulting from this award.&lt;br/&gt;&lt;br/&gt;Enzymes that bind corrinoid cofactors catalyze a number of unique chemical transformations, including cobalt (Co)- carbon (C) bond formation (e.g. ATP:Co(I)rrinoid adenosyltransferases [ACATs]), radical-based rearrangement of substrates (e.g. AdoCbl-dependent enzymes), and dehalogenation of organic substrates (e.g. reductive dehalogenases [RDases]).  Reactive cob(I)alamin species are postulated as intermediates in the sterol O-acyltransferase (also called Acyl-CoA cholesterol acyltransferase or ACAT) enzyme mechanisms. A characterization of these species during enzyme turnover has not previously been attempted. The research may lead to a detailed understanding of how ACATs accomplish the formation of Co(I)Cbl intermediates and control their nucleophilicity. In the case of AdoCbl-dependent enzymes, it is widely accepted that the homolytic cleavage of the Co-C bond of AdoCbl to generate a 5'-deoxyadenosyl-based radical represents the first step in their catalytic cycles. Yet, little is known about the origin of the rate enhancement for this step displayed by Class II eliminases, which bind AdoCbl in a unique conformation. The research elucidates the mechanism used by Class II eliminases to promote homolysis of the Co-C bond of their AdoCbl cofactors in response to substrate binding. Lastly, the B12-dependent RDases have recently attracted considerable interest because they are critical for the bioremediation of organohalides. Professor Brunold and his group use a range of spectroscopic and computational methods to test the hypothesis that novel halogenated corrinoid intermediates are formed in the catalytic cycles of these enzymes.</AbstractNarration>
+<MinAmdLetterDate>07/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1710339</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Brunold</LastName>
+<EmailAddress>brunold@chem.wisc.edu</EmailAddress>
+<StartDate>07/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: NSF/EAR-BSF: Coupled Sand and Clay Motion, Bed Morphodynamics, and Porewater Exchange</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>349666</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marguerite Toscano</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Interactions between water and sediments shape water bodies, set habitat for fish, shellfish, and other aquatic organisms, and control land stability in river floodplains and coastal regions. While the behavior of sandy systems is fairly well understood, little information is available on interactions between sand and finer sediments such as clay and mud. Mixed clay-sand deposits are very common in rivers and coastal estuaries, yet it is not currently possible to predict important behavior of clay-sand mixtures, such as changes in sand dunes, beaches, and channels following shoreline erosion. This project will advance capability to measure and predict interactions between water flow, sand, and clay in freshwater and marine systems. This capability will enable better management of critical U.S. water resources, reduce damage from coastal erosion, and facilitate shipping and military operations in shallow coastal waters. &lt;br/&gt;&lt;br/&gt;This project aims to show that clay-sand-water coupling follows a regular and fundamental set of processes:  migration of clay into sand beds, accumulation of clay deposits, and feedbacks from clay filling pore spaces and cementing sand grains. Work will be conducted jointly by U.S. and Israeli research teams. Experiments will use a suite of new optical, acoustic, and X-ray imaging methods to measure water flow, clay-sand dynamics, and sediment bed formation. These results will be used to develop new mathematical theory and computer models enabling prediction of water flow and sediment dynamics in clay-sand systems.&lt;br/&gt;&lt;br/&gt;This award is cofunded by the Geomorphology and Land-use Dynamics Program, the Hydrologic Sciences Program, and the Office of International Science and Engineering.</AbstractNarration>
+<MinAmdLetterDate>06/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1734300</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Packman</LastName>
+<EmailAddress>a-packman@northwestern.edu</EmailAddress>
+<StartDate>06/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>054Y</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7458</Code>
+<Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7458</Code>
+<Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+</ProgramReference>
+</Award>
+</rootTag>

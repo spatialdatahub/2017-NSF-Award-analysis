@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Pre-Ignition Biomass Emissions: Causes and Characterization</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>599951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is focused on investigating the physical and chemical characteristics of biomass burning emissions in the period before flaming combustion ignites.  Pre-ignition emissions are likely to be responsible for a substantial fraction of the organic aerosol released to the atmosphere from the burning of solid fuels.  The results of this project will be described in two instructional videos to communicate the principles of pre-ignition emissions. This information will be used to inform and educate many in the developing world, that largely rely on solid fuels for cooking and heating, of possible methods for reducing potential exposures to toxic air pollutants from biomass burning.&lt;br/&gt;&lt;br/&gt;The objectives of this effort are to: (1) develop a controlled-temperature generator that simulates the physical factors controlling biomass emissions at ignition; (2) develop a "sufficiently empirical" model that predicts emission rates and quantities; (3) confirm factors that control emissions prior to ignition, and identify low- and high-emitting conditions, using capabilities developed during the project; (4) conduct a community comparison experiment to characterize pre-ignition emissions; and (5) develop two low- bandwidth videos to communicate best practices for achieving low emissions.</AbstractNarration>
+<MinAmdLetterDate>08/24/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1742956</AwardID>
+<Investigator>
+<FirstName>Tami</FirstName>
+<LastName>Bond</LastName>
+<EmailAddress>yark@uiuc.edu</EmailAddress>
+<StartDate>08/24/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

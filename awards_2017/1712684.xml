@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Solution Theories and Scaling Limit Problems in Stochastic Partial Differential Equations</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>145290</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In modern physics and other areas of science many problems have random components and are modeled by equations or systems of equations that are probabilistic. An important part of understanding the physics is knowing whether, or under what conditions, these equations have solutions. The principal investigator will further develop methods to study these types of equations. He will also organize conferences and develop courses on this topic.  &lt;br/&gt;&lt;br/&gt;Stochastic partial differential equations (SPDEs) arise from extremely important models in areas such as statistical physics, quantum field theory and fluid mechanics. Solving these equations, including proving existence and uniqueness of their solutions, is exceedingly difficult. This is often due to the presence of very singular random forcing, as well as nonlinearities. Various solution theories were established based on different approaches, the most powerful of which is the theory of regularity structures introduced by Hairer around 2013 and further developed by the PI and a few other authors since then. This research will apply the theory, combined with ideas from other areas such as quantum field theory to investigate more SPDE problems. The PI will provide solutions to new important examples of SPDEs, including equations with gauge symmetry and the sine-Gordon equation near criticality. The PI also plans to prove scaling limit results for these singular SPDEs. In particular the PI will study convergence of discrete systems, such as the Glauber dynamics of ferromagnetic systems and directed polymers in random media, to the solutions to these SPDEs in various scaling regimes. The PI will also organize conferences and develop courses to disseminate this research.</AbstractNarration>
+<MinAmdLetterDate>06/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1712684</AwardID>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>hshen@math.columbia.edu</EmailAddress>
+<StartDate>06/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

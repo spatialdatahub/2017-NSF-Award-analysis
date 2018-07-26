@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF: Small: Foundations of Belief Sharing in Human-Machine Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>405455</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Brown</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This work aims to develop mathematical laws and foundational principles for belief sharing in systems with human and machine intelligence working together to make robust decisions. Prior work in statistical signal processing and in psychology has only considered technological limitations or human limitations independently, but jointly considering informational limitations of both humans and machines is critical in engineering future sociotechnical systems, especially when people are overwhelmed by too much information. A theory for fundamental limits and optimal designs for such systems is lacking.&lt;br/&gt;&lt;br/&gt;Rather than systems with agents sharing either raw data or local decisions, we develop intermediate designs based on sharing beliefs. Belief sharing increases modularity among networked units compared to central analysis of raw data, yet also strengthens coordination compared to decentralized local decisions. We build on our prior bounded rationality models of people and stochastic models of artificial intelligence to determine optimal mixed human-machine architectures. First, we find fundamental information-theoretic limits of belief-sharing under Bayes risk and discrete choice models, new kinds of CEO problems. As a key substep, this involves determining fundamental Ziv-Zakai bounds on Bayesian estimation under non-quadratic criteria. We then use quantization and decision theory to develop optimal architectures that have cognitively- and algorithmically-limited agents, including optimal categorization of beliefs and judgment pooling rules taking human behavior into account. Finally, we consider the language needed to communicate beliefs in complicated network structures to achieve collective intelligence, studying Nash equilibria balancing focal and shared concerns.</AbstractNarration>
+<MinAmdLetterDate>06/28/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717530</AwardID>
+<Investigator>
+<FirstName>Lav</FirstName>
+<LastName>Varshney</LastName>
+<EmailAddress>Varshney@illinois.edu</EmailAddress>
+<StartDate>06/28/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618207473</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>SUITE A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

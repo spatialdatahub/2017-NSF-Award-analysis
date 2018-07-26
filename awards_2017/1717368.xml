@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Robust Reinforcement Learning for Invasive Species Management</AwardTitle>
+<AwardEffectiveDate>08/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>497335</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aidong Zhang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Invasive species cause significant ecological and economic damage in the US and worldwide. Mitigation of these problematic species is difficult because both treatments and surveillance are expensive. Fortunately, more computational tools, ecological information, and precise models are available than ever before. This project will leverage these advances to develop methods that can compute a new class of smart strategies for efficiently controlling invasive species. Such strategies must work well in face of the vast complexity of ecological systems and inherently limited observational data. Since an intervention to manage an invasive species can be very costly, yet have impacts that last years or decades, it is important to optimize treatments areas to mitigate risk. To manage these challenges, the project will develop methods that compute management strategies that are unaffected by the ecological complexities and data uncertainty. This research will also help to put a new class of data-driven management tools in the hands of land managers and decision makers. &lt;br/&gt;&lt;br/&gt;Using data to optimize strategies for managing invasive species is a spatio-temporal optimization problem, which falls under the broader class of reinforcement learning. To tractably manage risk, the project will use the new methodology of robust optimization in the context of reinforcement learning. This research project will make four fundamental contributions that will advance the state of the art in methods for quantifying and mitigating uncertainty in complex data-driven decision-making. First, it will build a comprehensive and realistic dynamic system test-bed in which addressing uncertainty is paramount. This test-bed will constitute a dynamic mechanistic model of how invasive species thrive and spread. Second, it will develop practical algorithms for quantifying and modeling uncertainty due to imperfect observational data. The quantification algorithms will be based on insights to machine learning methods and the maximum entropy principle. Third, it will address model uncertainty which is due to the dynamic model simplifying reality. And fourth, it will develop new approaches to choosing a level of spatial aggregation to trade off between different error types.</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1717368</AwardID>
+<Investigator>
+<FirstName>Jenica</FirstName>
+<LastName>Allen</LastName>
+<EmailAddress>jenica.allen@unh.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate>05/16/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marek</FirstName>
+<LastName>Petrik</LastName>
+<EmailAddress>mpetrik@cs.unh.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Hampshire</Name>
+<CityName>Durham</CityName>
+<ZipCode>038243585</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

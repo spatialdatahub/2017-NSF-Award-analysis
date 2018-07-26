@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Remediation of recalcitrant and emerging environmental organic contaminants of concern using bacterial approaches</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>224996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project addresses the critical societal need to remediate widespread problems of toxic organic pollutants in soils, sediments and groundwater.  The technology results in a significantly improved ability to destroy organic environmental contaminants by reducing treatment time and costs at commercial scales using novel bacterial strains.  These strains have a demonstrated ability to rapidly degrade a variety of important, recalcitrant organic pollutants including polychlorinated biphenyls (PCBs), polyaromatic hydrocarbons (PaHs) and dioxins.  This project will assess the costs and efficacy of the large-scale implementation of this technology that includes the incubation of the contaminated material at elevated temperatures (60¢ªC/150¢ªF) to enhance degradation.  This enables environmental goals to be met on many sites whose cleanup is currently limited by the high costs of remediation. The commercial impact is significant and makes possible the re-development of many billions of dollars of real estate in these categories to return these properties to productive and appropriate use.  Additional aspects of the technology are applicable to emerging pollutants such as 1,4-dioxane in groundwater and greatly expand the options available to environmental engineers and landowners for cleaning up long-lived pollutants. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop two novel modes of destroying organic contaminants of concern that reduce remediation costs and improve outcomes.  The project improves on prior approaches to bioremediation by using heat-tolerant bacteria for faster rates of chemical destruction for a broad range of pollutants.  Objectives include the evaluation of the efficacy and costs to treat large amounts (5-10 tons) of material with whole bacteria as basis to assess the commercial application of the technology.  This involves several components, including the optimization of the large-scale cell production protocols to produce the bacteria.  In conjunction with environmental engineering firms, the project also will develop cost-effective approaches to maintaining the appropriate temperature, moisture and oxygen conditions for optimal cell growth during large-scale treatments.  Variations in incubation conditions and flocculent additions will be used to determine the lowest pollutant levels that can be attained.  Finally, a new approach using cell extracts instead of live cells will be evaluated for both soils and sediments as well as for soluble pollutants like 1,4-dioxane.  These approaches will provide critical data on remediation costs at commercial scale and also evaluate new approaches to emerging groundwater pollutants that are difficult to remediate with current technology.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1746882</AwardID>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Sambrotto</LastName>
+<EmailAddress>ray.sambrotto@alliedmicrobiota.com</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ALLIED MICROBIOTA LLC</Name>
+<CityName>New York</CityName>
+<ZipCode>101050302</ZipCode>
+<PhoneNumber>9176805436</PhoneNumber>
+<StreetAddress>1345 Ave. of the Americas,</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

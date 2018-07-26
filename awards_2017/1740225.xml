@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>E2CDA: Type I: Collaborative Research: Energy-Efficient Artificial Intelligence with Binary RRAM and Analog Epitaxial Synaptic Arrays</AwardTitle>
+<AwardEffectiveDate>09/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>193022</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In recent years, deep learning and artificial neural networks have been very successful in large-scale recognition and classification tasks, some even surpassing human-level accuracy. However, state-of-the-art deep learning algorithms tend to present very large network models, which poses significant challenges for hardware, especially for memory. Emerging resistive devices have been proposed as an alternative solution for weight storage and parallel neural computing, but severe limitations still exist for applying resistive random access memories (RRAMs) for practical large-scale neural computing. This proposal targets on addressing limitations in resistive device based neural computing through novel device engineering, new bitcell designs, new neuron circuits, energy-aware architecture, and a new circuit-level benchmark simulator. A successful completion of this research is likely to have consequences to our society, enabling wide adoption of dense and energy-efficient intelligent hardware to power-/area-constrained local mobile/wearable devices. Furthermore, a self-learning chip that learns in near real-time and consumes very low-power can be integrated in smart biomedical devices, personalizing healthcare. This project will have a strong effort on integrating the research outcomes with education and outreach through summer outreach programs for high school students, undergraduate/graduate student training, and organization of tutorials and workshops at conferences for knowledge dissemination.&lt;br/&gt;&lt;br/&gt;The proposal will perform innovative and interdisciplinary research to address many limitations in today?s resistive device based neural computing and make a leap progress towards energy-efficient intelligent computing. Severe limitations of applying resistive random access memories (RRAMs) for practical large-scale neural computing include: (1) device-level non-idealities, e.g., non-linearity, variability, selector, and endurance, (2) inefficiency in representing negative weights and neurons, and (3) limited demonstration on simpler networks, instead of cutting-edge convolutional and recurrent neural networks. To address these limitations, novel technologies from devices to architectures will be investigated. First, new bitcell circuits will be designed for today's binary resistive devices, efficiently mapping XNOR functionality with (+1, -1) weights and neurons. Second, a novel epitaxial resistive device (EpiRAM) that exhibits many idealistic properties will be investigated, including linear programming for analog weights, suppressed variability, self-selectivity, and high endurance. Third, new neuron circuits will be explored for integration with new resistive devices for feedforward/feedback deep neural networks. Finally, new data-mapping techniques that efficiently map state-of-the-art deep neural networks onto the hardware framework with RRAM arrays will be developed, and the overall energy-efficiency will be verified with a new benchmark simulator ?NeuroSim?. With vertical innovations across material, device, circuit and architecture, tremendous potential and research needs will be pursued towards energy-efficient artificial intelligence in ubiquitous resource-constrained hardware systems.</AbstractNarration>
+<MinAmdLetterDate>09/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1740225</AwardID>
+<Investigator>
+<FirstName>Jae-sun</FirstName>
+<LastName>Seo</LastName>
+<EmailAddress>jaesun.seo@asu.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shimeng</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>Shimeng.Yu@asu.edu</EmailAddress>
+<StartDate>09/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>015Y</Code>
+<Text>Energy Efficient Computing: fr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

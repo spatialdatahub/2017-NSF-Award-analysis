@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Multimodal Photodetectors</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique M. Dagenais</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Machine intelligence has acquired unprecedented power with the recent progress of deep learning. When paired with sensory functions, autonomous machines with even rudimentary intelligence are expected to revolutionize the world's economy. Today, the vision that most machines have is based on traditional intensity pictures of a scene, just as humans use. This vision modality has many limitations: it is impaired by fog and rain, and it offers no spectral information other than combinations of three fundamental colors. These issues greatly limit the practical use of autonomous machines due to their stringent safety and reliability requirements. As a result, expensive optical instruments are being used to assist conventional vision in accomplishing special tasks. The proposed project has the potential to overcome the fundamental issues of traditional imaging technologies. It is based on a new type of light-sensing pixels that can measure multimodal information of light, such as incident angle, wavelength, and phase. They could offer unprecedented scene awareness for pervasive use in future machines.&lt;br/&gt;Light-sensitive pixels used in today's camera can only detect the intensity of light. The intensity information is sufficient for conventional applications such as photography, its limitations become apparent in advanced vision tasks. This project will develop a new class of photodetectors to measure multimodal information of light waves. They are compact and can form high density arrays as imaging chips. Although multimodal information can be measured through conventional optical components, such as lenses, prisms, and gratings, these components are expensive to integrate. They also degrade spatial resolution and decrease operational speed. This project uses novel nanostructures to exploit unique optical interactions. Multi-modal pixels will be designed using full wave simulation and fabricated with photo-lithography. The multimodal pixels are completely compatible with existing semiconductor fabrication facilities and could potentially be mass-produced at the cost of consumer electronics. The project will also develop new machine learning algorithms to exploit multimodal information to perform vision tasks far beyond those possible with today's intensity-only approach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1749050</AwardID>
+<Investigator>
+<FirstName>Zongfu</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>zyu54@wisc.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramReference>
+</Award>
+</rootTag>

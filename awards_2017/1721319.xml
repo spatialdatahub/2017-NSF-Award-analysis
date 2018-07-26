@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: School-based Wellness Integrated Systems Hub: a comprehensive online health service management system designed for school health centers</AwardTitle>
+<AwardEffectiveDate>07/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is maximizing chances for improved health, academic success, and post-secondary achievement of students who use School Based Health Centers (SBHCs) through creating more efficient, tailored services. These gains will contribute to students' improved social, economic, and health outcomes as adults, and a healthier U.S. population overall. The School-based Wellness Integrated Systems Hub (SWISH) will offer a comprehensive, online service documentation and data management system designed specifically for SBHCs. In contrast with traditional electronic health record systems, SWISH will serve as a single hub between data sources, eliminating the need for multiple systems. SWISH offers mechanisms for staff to identify clinical service priorities and those students in need of care. The platform, which complies with health, security and privacy regulations, provides functionality that supports the assessment, triage, coordination and provision of care across multiple roles within SBHCs. SWISH will also facilitate evaluation of service impact on student health, wellbeing and academic performance. This capability - not provided by existing market solutions - serves program efficiency and effectiveness goals and is likely to be well received by SBHC staff and administrators leading to robust commercialization of the product.&lt;br/&gt;&lt;br/&gt;The proposed project will develop and test a prototype data management system for School Based Health Centers (SBHCs). SBHCs are proliferating in the U.S; they are well positioned to address the unmet physical and mental health needs of underserved youth by increasing accessibility and continuity of health care on the school campus. Notably, while health information technology systems play a critical role in SBHC quality improvement, operations, and sustainability, a minority of SBHCs report having a data management system in place. This represents a critical infrastructure gap. The proposed technology will address this gap by providing a secure, shared environment specifically designed for SBHC providers to document service, utilize "smart list" algorithms to identify students in need of services, serve students efficiently, and coordinate care and resources within and outside the SBHC. To achieve these goals, the project team will: 1) apply their expertise in design, technology and project management to the creation of a Minimally Viable Product prototype; and 2) usability test SWISH with members of the target audience.</AbstractNarration>
+<MinAmdLetterDate>07/11/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1721319</AwardID>
+<Investigator>
+<FirstName>Tamara</FirstName>
+<LastName>Kuhn</LastName>
+<EmailAddress>tamara.kuhn@dfusioninc.com</EmailAddress>
+<StartDate>07/11/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>dfusion</Name>
+<CityName>Scotts Valley</CityName>
+<ZipCode>950663245</ZipCode>
+<PhoneNumber>8314402162</PhoneNumber>
+<StreetAddress>100 Enterprise Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

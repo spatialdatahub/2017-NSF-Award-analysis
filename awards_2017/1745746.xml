@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Objective Bayes Methodology</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor J. Szekely</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the four-day "Objective Bayes 2017 Workshop" held at the University of Texas at Austin, TX on December 10-13, 2017. The workshop will consist of one day of tutorials for graduate students and new researchers, three days of scientific sessions, and a poster session, all centering on major recent developments in statistical inference methods that can be used automatically, that is, methodology that does not require subjective input other than a stylized probabilistic description of how the data arises.&lt;br/&gt;&lt;br/&gt;The Objective Bayes workshop ("O'Bayes") is one of the longest running and preeminent meetings in Bayesian statistics, addressing a wide range of topics including robust, default Bayesian analysis, reproducibility, variable selection, big data, and nonparametric Bayesian methods.  Objective Bayes methods encompass research in very diverse areas, from biostatistics, to machine learning, asymptotics, spatial inference, and computation. The workshop will serve to foster interaction of researchers in these diverse areas with an aim of initiating novel ideas and research directions. For more details about the conference please see the conference homepage https://sites.google.com/site/obayes2017/.</AbstractNarration>
+<MinAmdLetterDate>08/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1745746</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Mueller</LastName>
+<EmailAddress>pmueller@math.utexas.edu</EmailAddress>
+<StartDate>08/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

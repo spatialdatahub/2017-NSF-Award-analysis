@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Field-Emission Scanning Electron Microscope to Enhance Multidisciplinary Research and Education</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>202300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation Programs. Professor Michelle Personick from Wesleyan University and colleagues are acquiring a field emission scanning electron microscope (FE-SEM). The instrument focuses a beam of electrons at a sample. The electrons interact with the sample to produce an image of the material. The SEM is a workhorse tool in many fields which study the composition and structure of materials. The research enabled by the FE-SEM addresses fundamental societal issues and broad ranging questions involving the sustainable production of chemicals and energy, the origin of the Earth's oceans, and the paleo-carbon dioxide concentration of the atmosphere.  The FE-SEM is integrated into six courses, in line with Wesleyan's commitment to the training of undergraduate students, even those who do not participate in faculty research. The instrument is also made available for use by faculty from surrounding primarily undergraduate institutions. &lt;br/&gt;&lt;br/&gt;This field emission scanning electron microscope enhances research and education at all levels. It impacts research on the use of bimetallic nanoparticles for sustainable catalysis and the study of charge carrier transport in nanomaterials. The instrumentation is also used in searching for water on the moon and Mars, investigating mineralogy of minerals relevant to Mars, and reconstructing paleo-atmospheric carbon dioxide levels. The microscope is used by researchers studying micropaleontology as well as exploring fault processes and earthquake mechanics. In addition, this field emission scanning electron microscope is used in the analysis of Antarctic marine sediments - exploring sediment geochemistry and diagenesis.</AbstractNarration>
+<MinAmdLetterDate>08/14/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1725491</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Personick</LastName>
+<EmailAddress>mpersonick@wesleyan.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Greenwood</LastName>
+<EmailAddress>jgreenwood@wesleyan.edu</EmailAddress>
+<StartDate>08/14/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wesleyan University</Name>
+<CityName>Middletown</CityName>
+<ZipCode>064593208</ZipCode>
+<PhoneNumber>8606853683</PhoneNumber>
+<StreetAddress>237 HIGH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+</Award>
+</rootTag>
