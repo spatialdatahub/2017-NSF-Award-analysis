@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# the awards folder and stuff
+awards.zip
+award_amounts_files/
+awards_2017/
+awards_2017_temp/
+myfile.txt
