@@ -16,13 +16,26 @@ sorted_awards = sorted(cleaned_awards, reverse=True)
 index = list(range(len(sorted_awards)))
 
 print(len(index)/2)
-# 5785
+# 5785.5
+
+first_half_awards = sorted_awards[:5786]
+second_half_awards = sorted_awards[5786:]
+
+first_half_index = index[:5786]
+second_half_index = index[5786:]
 
 # plot (x, y) as in (index, sorted_awards)
-plt.plot(index, sorted_awards)
-plt.fill_between(index, sorted_awards, 0, color='yellow')
+plt.plot(first_half_index, first_half_awards, lw=0)
+plt.fill_between(first_half_index, first_half_awards, 0, facecolor='blue', alpha=0.5)
 
-# fill in area under the plot
+plt.plot(second_half_index, second_half_awards, lw=0)
+plt.fill_between(second_half_index, second_half_awards, 0, facecolor='red', alpha=0.5)
+
+# set y axis limit
+axes = plt.gca()
+axes.set_ylim([0, 5000000])
+axes.set_xlim([0, 12000])
+
 
 # view plot
 plt.show()
