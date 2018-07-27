@@ -15,8 +15,14 @@ sorted_awards = sorted(cleaned_awards, reverse=True)
 # create an index to act as x variable in plot (hack)
 index = list(range(len(sorted_awards)))
 
+print(len(index)/2)
+# 5785
+
 # plot (x, y) as in (index, sorted_awards)
 plt.plot(index, sorted_awards)
+plt.fill_between(index, sorted_awards, 0, color='yellow')
+
+# fill in area under the plot
 
 # view plot
 plt.show()
