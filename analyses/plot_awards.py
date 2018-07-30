@@ -91,7 +91,7 @@ plt.axvline(x=half, color='k', linestyle='--', lw=1)
 plt.title('NSF research grants awarded in 2017')
 
 # make text describing y axis
-grant_size_string="""To see smaller sized grant more clearly
+grant_size_string="""To see smaller sized grants more clearly
 the y axis stops at $5 million, but the
 largest grant was over $ 209 million"""
 
