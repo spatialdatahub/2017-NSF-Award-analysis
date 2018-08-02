@@ -37,11 +37,8 @@ ax.yaxis.grid(True)
 
 plt.hist(sorted_awards, bins=50, range=(0, 2500000),
         rwidth=0.5, color='#1A7C49')
+
+
+
+
 plt.show()
-
-#x = np.random.random_integers(1, 100, 5)
-#plt.hist(x, normed=True bins=20)
-#plt.ylabel('No of times')
-#plt.show()
-
-#print(sorted_awards)
