@@ -9,14 +9,21 @@ analyses of who or why these awards have been granted.
 
 I want to know how much money the top 50 % of awards are worth
 I want to know how many grants hold 50 % of the money
+I want to know the number of grants below a certain size
 
 What would I want a table from this to look like?
 Should it be quartiles?
+This table doesn't really explain much.
 
 item       25%         50%        75%        100% 
 ---------  ----------  ---------  ---------  ---------
 # grants   # count     # count    # count    # count
 $ total    $ total     $ total    $ total    $ total
+
+How about this statement:
+The top 50 % of the total amount granted are held by ## % of the awards.
+The top 80 % of the total amount granted are held by ## % of the awards.
+
 
 """
 
@@ -65,8 +72,19 @@ total_amount_awarded = sum(sorted_awards)
 # count of 20 % of awards
 count_twenty_percent=int(number_of_grants*0.2)
 
+# count of 25 % of awards
+count_twenty_five_percent=int(number_of_grants*0.25)
+
+# count of 50 % of awards
+count_fifty_percent=int(number_of_grants*0.5)
+
+# count of 75 % of awards
+count_seventy_five_percent=int(number_of_grants*0.75)
+
 # count of 80 % of awards
 count_eighty_percent=int(number_of_grants*0.8)
+
+
 
 # amount of money in largest 20 % of awards
 ##### first, sort largest to smallest, then extract
@@ -112,12 +130,39 @@ print(eighty_percent_string)
 
 
 
+# smoke test
+smoke_headers = ["City", "State", "Country"] 
 
-table_values = [("Indio", "California", "USA"),
+smoke_values = [("Indio", "California", "USA"),
                 ("Riverside", "California", "USA"),
                 ("Honolulu", "Hawaii", "USA"),
                 ("Bremen", "Bremen", "Germany")]
 
-table_headers = ["City", "State", "Country"] 
+#print(tabulate(smoke_values, smoke_headers))
+
+print('\n')
+# real table
+# is this table helpful to anything? not really
+table_headers = ["Item", "25%", "50%", "75%", "100%"]
+
+table_values = [
+    ("Award count", count_twenty_five_percent, count_fifty_percent, count_seventy_five_percent, number_of_grants),
+    ("$ of total", total_amount_awarded*0.25, total_amount_awarded*0.5, total_amount_awarded*0.75, total_amount_awarded)
+]
+
 
 print(tabulate(table_values, table_headers))
+"""
+# total number of awards
+number_of_grants = len(sorted_awards)
+
+# total amount of money awarded
+total_amount_awarded = sum(sorted_awards)
+
+# count of 20 % of awards
+count_twenty_percent=int(number_of_grants*0.2)
+
+# count of 25 % of awards
+count_twenty_five_percent=int(number_of_grants*0.25)
+
+"""
