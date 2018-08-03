@@ -25,7 +25,7 @@ index = list(range(len(sorted_awards)))
 
 
 # total number of awards
-#number_of_grants = len(sorted_awards)
+number_of_grants = len(sorted_awards)
 #print(number_of_grants)
 
 # total amount of money awarded
@@ -119,7 +119,10 @@ def accumulator_if(l, s):
 
 
 
-print(accumulator_if(sorted_awards, eighty_percent_of_value))
+res = accumulator_if(sorted_awards, eighty_percent_of_value)
+
+print(res['value'] / total_amount_awarded)
+print(res['count'] / number_of_grants)
 
 #return_count_for_greatest_80_percent(sorted_awards, eighty_percent_of_value)
 
